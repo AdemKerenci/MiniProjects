@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401163
+From: Frederic Lesage <flesage@amoco.saclay.cea.fr>
+Date: 31 Jan 94 15:27:56+0100   (62kb)
+
+Title: Laughlin's wave functions, Coulomb gases and expansions of the
+  discriminant
+Authors: P. Di Francesco, M. Gaudin, C. Itzykson and F. Lesage
+Comments: 97 pages, using harvmac (with big option recommended) and epsf, 7
+  figures available upon request, Saclay preprint Spht 93/125
+Journal-ref: Int.J.Mod.Phys. A9 (1994) 4257-4352
+\\
+  In the context of the fractional quantum Hall effect, we investigate
+Laughlin's celebrated ansatz for the groud state wave function at fractional
+filling of the lowest Landau level. Interpreting its normalization in terms of
+a one component plasma, we find the effect of an additional quadrupolar field
+on the free energy, and derive estimates for the thermodynamically equivalent
+spherical plasma. In a second part, we present various methods for expanding
+the wave function in terms of Slater determinants, and obtain sum rules for the
+coefficients. We also address the apparently simpler question of counting the
+number of such Slater states using the theory of integral polytopes.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310022
+From: Edward Frenkel <frenkel@math.berkeley.edu>
+Date: Mon, 4 Oct 93 18:48:42 EDT   (68kb)
+Date (revised): Wed, 12 Jan 94 16:33:48 EST
+Date (revised): Tue, 26 Sep 1995 18:50:14 -0400
+
+Title: Integrals of Motion and Quantum Groups
+Authors: Boris Feigin and Edward Frenkel
+Comments: 71 pages (final version, to appear in Lect. Notes in Math, vol. 1620)
+Report-no: YITP/K-1036
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  A homological construction of integrals of motion of the classical and
+quantum Toda field theories is given. Using this construction, we identify the
+integrals of motion with cohomology classes of certain complexes, which are
+modeled on the BGG resolutions of the associated Lie algebras and their quantum
+deformations. This way we prove that all classical integrals of motion can be
+quantized. For the Toda field theories associated to finite-dimensional Lie
+algebras, the algebra of integrals of motions is the corresponding W-algebra.
+For affine Toda field theories this algebra is a commutative subalgebra of a
+W-algebra; it consists of quantum KdV hamiltonians.
+\\

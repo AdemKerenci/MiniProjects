@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305020
+From: SPALLUCCI@TRIESTE.INFN.IT
+Date: Thu, 6 May 1993 16:54:33 +0200 (WET-DST)   (28kb)
+
+Title: Gauge Theory of Relativistic Membranes
+Authors: A.Aurilia, E.Spallucci
+Comments: 35 pages, PHYZZX, UTS-DFT-92-5
+Journal-ref: Class.Quant.Grav. 10 (1993) 1217-1248
+\\
+  In this paper we show that a relativistic membrane admits an equivalent
+representation in terms of the Kalb-Ramond gauge field
+$F_{\mu\nu\rho}=\partial_{\,[\,\mu}B_{\nu\rho]}$ encountered in string theory.
+By `` equivalence '' we mean the following: if $x=X(\xi)$ is a solution of the
+classical equations of motion derived from the Dirac-Nambu-Goto action, then it
+is always possible to find a differential form of {\it rank three}, satisfying
+Maxwell-type equations. The converse proposition is also true. In the first
+part of the paper, we show that a relativistic membrane, regarded as a
+mechanical system, admits a Hamilton-Jacobi formulation in which the H-J
+function describing a family of classical membrane histories is given by
+$\displaystyle{F=dB=dS^1\wedge dS^2\wedge dS^3}$. In the second part of the
+paper, we introduce a {\it new} lagrangian of the Kalb-Ramond type which
+provides a {\it first order} formulation for both open and closed membranes.
+Finally, for completeness, we show that such a correspondence can be
+established in the very general case of a p-brane coupled to gravity in a
+spacetime of arbitrary dimensionality.
+\\

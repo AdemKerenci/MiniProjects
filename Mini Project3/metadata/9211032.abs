@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211032
+From: CASTELLANI@TORINO.INFN.IT
+Date: Thu, 5 NOV 92 19:47 GMT   (8kb)
+
+Title: R matrix and bicovariant calculus for the inhomogeneous quantum groups
+  IGL_q(n)
+Authors: Leonardo Castellani
+Comments: 8 pp., LaTeX, DFTT-59/92
+Journal-ref: Phys. Lett. B298 (1993) 335-338
+\\
+  We find the R matrix for the inhomogeneous quantum groups whose homogeneous
+part is $GL_q(n)$, or its restrictions to $SL_q(n)$,$U_q(n)$ and $SU_q(n)$. The
+quantum Yang-Baxter equation for R holds because of the Hecke relation for the
+braiding matrix of the homogeneous subgroup. A bicovariant differential
+calculus on $IGL_q(n)$ is constructed, and its application to the $D=4$
+Poincar\'e group $ISL_q(2,\Cb)$ is discussed.
+\\

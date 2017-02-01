@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311049
+From: dmrrsn@math.duke.edu (David R. Morrison)
+Date: Mon, 8 Nov 93 20:45:24 EST   (26kb)
+
+Title: Where is the large radius limit?
+Authors: David R. Morrison
+Comments: 5 pages with 2 figures, LaTeX and epsf.tex (Talk presented at the
+  STRINGS'93 conference, May 24--29, 1993, Berkeley
+Report-no: IASSNS-HEP-93/68
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Strings '93 (M. B. Halpern, G. Rivlis, and A. Sevrin, eds.), World
+  Scientific, Singapore, 1995, pp. 311-315
+\\
+  By properly accounting for the invariance of a Calabi-Yau sigma-model under
+shifts of the $B$-field by integral amounts (analagous to the $\theta$-angle in
+QCD), we show that the moduli spaces of such sigma-models can often be enlarged
+to include ``large radius limit'' points. In the simplest cases, there are
+holomorphic coordinates on the enlarged moduli space which vanish at the limit
+point, and which appear as multipliers in front of instanton contributions to
+Yukawa couplings. (Those instanton contributions are therefore suppressed at
+the limit point.) In more complicated cases, the instanton contributions are
+still suppressed but the enlarged space is singular at the limit point. This
+singularity may have interesting effects on the effective four-dimensional
+theory, when the Calabi-Yau is used to compactify the heterotic string.
+\\

@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401167
+From: "Adel Bilal" <bilal@puhep1.Princeton.EDU>
+Date: Mon, 31 Jan 94 13:59:13 -0500   (15kb)
+Date (revised): Wed, 2 Feb 94 16:12:25 -0500
+
+Title: Multi-Component KdV Hierarchy, V-Algebra and Non-Abelian Toda Theory
+Authors: Adel Bilal
+Comments: 20 pages, revised: several references to earlier papers on
+  multi-component KdV equations are added
+Report-no: PUPT-1446
+Subj-class: High Energy Physics - Theory; Functional Analysis
+Journal-ref: Lett.Math.Phys. 32 (1994) 103-120
+\\
+  I prove the recently conjectured relation between the $2\times 2$-matrix
+differential operator $L=\partial^2-U$, and a certain non-linear and non-local
+Poisson bracket algebra ($V$-algebra), containing a Virasoro subalgebra, which
+appeared in the study of a non-abelian Toda field theory. Here, I show that
+this $V$-algebra is precisely given by the second Gelfand-Dikii bracket
+associated with $L$. The Miura transformation is given which relates the second
+to the first Gelfand-Dikii bracket. The two Gelfand-Dikii brackets are also
+obtained from the associated (integro-) differential equation satisfied by
+fermion bilinears. The asymptotic expansion of the resolvent of $(L-\xi)\Psi=0$
+is studied and its coefficients $R_l$ yield an infinite sequence of
+hamiltonians with mutually vanishing Poisson brackets. I recall how this leads
+to a matrix KdV hierarchy which are flow equations for the three component
+fields $T, V^+, V^-$ of $U$. For $V^\pm=0$ they reduce to the ordinary KdV
+hierarchy. The corresponding matrix mKdV equations are also given, as well as
+the relation to the pseudo- differential operator approach. Most of the results
+continue to hold if $U$ is a hermitian $n\times n$-matrix. Conjectures are made
+about $n\times n$-matrix $m^{\rm th}$-order differential operators $L$ and
+associated $V_{(n,m)}$-algebras.
+\\

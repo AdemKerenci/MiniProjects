@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406058
+From: Bill Unruh <unruh@physics.ubc.ca>
+Date: 9 Jun 94 14:42 -0700   (9kb)
+
+Title: Maintaining coherence in Quantum Computers
+Author: W. G. Unruh
+Comments: 13 pages
+\\
+  The effect of the inevitable coupling to external degrees of freedom of a
+quantum computer are examined. It is found that for quantum calculations (in
+which the maintenance of coherence over a large number of states is important),
+not only must the coupling be small but the time taken in the quantum
+calculation must be less than the thermal time scale, $\hbar/k_B T$. For longer
+times the condition on the strength of the coupling to the external world
+becomes much more stringent.
+\\

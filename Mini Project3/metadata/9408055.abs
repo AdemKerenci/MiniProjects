@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408055
+From: Philip Tuckey <pht@mppmu.mpg.de>
+Date: Tue, 9 Aug 1994 15:33:11 +0200   (9kb)
+
+Title: Geometry and Dynamics with Time-Dependent Constraints
+Authors: Jonathan M. Evans and Philip A. Tuckey
+Comments: 8 pages, Plain TeX, CERN-TH.7392/94 and MPI-PhT/94-45
+\\
+  We describe how geometrical methods can be applied to a system with
+explicitly time-dependent second-class constraints so as to cast it in
+Hamiltonian form on its physical phase space. Examples of particular interest
+are systems which require time-dependent gauge fixing conditions in order to
+reduce them to their physical degrees of freedom. To illustrate our results we
+discuss the gauge-fixing of relativistic particles and strings moving in
+arbitrary background electromagnetic and antisymmetric tensor fields.
+\\

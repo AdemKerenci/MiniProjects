@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212035
+From: AEQJ000%UCSVAX@cs.umass.edu
+Date: Fri, 4 Dec 92 16:17 EST   (12kb)
+Date (revised): Tue, 8 Dec 92 15:57 EST
+
+Title: Cosmological Multi-Black Hole Solutions
+Authors: David Kastor and Jennie Traschen
+Comments: 15 pages (phyzzx), UMHEP-380 (minor referencing error corrected)
+Journal-ref: Phys.Rev. D47 (1993) 5370-5375
+\\
+  We present simple, analytic solutions to the Einstein-Maxwell equation, which
+describe an arbitrary number of charged black holes in a spacetime with
+positive cosmological constant $\Lambda$. In the limit $\Lambda=0$, these
+solutions reduce to the well known Majumdar-Papapetrou (MP) solutions. Like the
+MP solutions, each black hole in a $\Lambda >0$ solution has charge $Q$ equal
+to its mass $M$, up to a possible overall sign. Unlike the $\Lambda = 0$ limit,
+however, solutions with $\Lambda >0$ are highly dynamical. The black holes move
+with respect to one another, following natural trajectories in the background
+deSitter spacetime. Black holes moving apart eventually go out of causal
+contact. Black holes on approaching trajectories ultimately merge. To our
+knowledge, these solutions give the first analytic description of coalescing
+black holes. Likewise, the thermodynamics of the $\Lambda >0$ solutions is
+quite interesting. Taken individually, a $|Q|=M$ black hole is in thermal
+equilibrium with the background deSitter Hawking radiation. With more than one
+black hole, because the solutions are not static, no global equilibrium
+temperature can be defined. In appropriate limits, however, when the black
+holes are either close together or far apart, approximate equilibrium states
+are established.
+\\

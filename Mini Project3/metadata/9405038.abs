@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405038
+From: Pavel Etingof <etingof@math.harvard.edu>
+Date: Thu, 5 May 1994 18:58:52 -0400   (8kb)
+Date (revised): Sat, 21 May 1994 20:54:17 -0400
+
+Title: Integral formulas for wave functions of quantum many-body problems and
+  representations of gl(n)
+Author: Pavel Etingof
+Comments: 6 pages. One reference ([FF]) has been corrected. New references and
+  an introduction have been added
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 36 (1995) 1645-1651
+\\
+  We derive explicit integral formulas for eigenfunctions of quantum integrals
+of the Calogero-Sutherland-Moser operator with trigonometric interaction
+potential. In particular, we derive explicit formulas for Jack's symmetric
+functions. To obtain such formulas, we use the representation of these
+eigenfunctions by means of traces of intertwining operators between certain
+modules over the Lie algebra $\frak gl_n$, and the realization of these modules
+on functions of many variables.
+\\

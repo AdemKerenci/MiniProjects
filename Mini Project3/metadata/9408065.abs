@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408065
+From: tsutsui@ins.u-tokyo.ac.jp
+Date: Thu, 11 Aug 94 16:58:48 +0900   (19kb)
+
+Title: Global Aspects of the WZNW Reduction to Toda Theories
+Authors: I. Tsutsui and L. Feher
+Comments: 22 pages, INS-Rep.-1048
+Journal-ref: Prog.Theor.Phys.Suppl. 118 (1995) 173-190
+\\
+  It is well-known that the Toda Theories can be obtained by reduction from the
+Wess-Zumino-Novikov-Witten (WZNW) model, but it is less known that this WZNW
+$\rightarrow$ Toda reduction is \lq incomplete'. The reason for this
+incompleteness being that the Gauss decomposition used to define the Toda
+fields from the WZNW field is valid locally but not globally over the WZNW
+group manifold, which implies that actually the reduced system is not just the
+Toda theory but has much richer structures. In this note we furnish a framework
+which allows us to study the reduced system globally, and thereby present some
+preliminary results on the global aspects. For simplicity, we analyze primarily
+0 $+$ 1 dimensional toy models for $G = SL(n, {\bf R})$, but we also discuss
+the 1 $+$ 1 dimensional model for $G = SL(2, {\bf R})$ which corresponds to the
+WZNW $\rightarrow$ Liouville reduction.
+\\

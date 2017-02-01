@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212126
+From: Eric Raiten <raiten@fnth07.fnal.gov>
+Date: Mon, 21 Dec 92 16:19:44 -0600   (12kb)
+
+Title: Exact Path Integrals by Equivariant Cohomology
+Authors: Hans Dykstra, Joe Lykken and Eric Raiten
+Comments: LATEX
+Report-no: 11 pages, UMHEP--384, FERMI-PUB-92/383-T
+Journal-ref: Phys.Lett. B302 (1993) 223-229
+\\
+  It is a common belief among field theorists that path integrals can be
+computed exactly only in a limited number of special cases, and that most of
+these cases are already known. However recent developments, which generalize
+the WKBJ method using equivariant cohomology, appear to contradict this folk
+wisdom. At the formal level, equivariant localization would seem to allow exact
+computation of phase space path integrals for an arbitrary partition function!
+To see how, and if, these methods really work in practice, we have applied them
+in explicit quantum mechanics examples. We show that the path integral for the
+1-d hydrogen atom, which is not WKBJ exact, is localizable and computable using
+the more general formalism. We find however considerable ambiguities in this
+approach, which we can only partially resolve. In addition, we find a large
+class of quantum mechanics examples where the localization procedure breaks
+down completely.
+\\

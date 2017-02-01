@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305115
+From: SCHIMMRI@sbitp.itp.ucsb.edu
+Date: Sun, 23 May 1993 16:01 PST   (6kb)
+Date (revised): Thu, 17 Jun 1993 11:22 PST
+
+Title: Topological closed-string interpretation of Chern-Simons theory
+Authors: Vipul Periwal
+Comments: 6 pages, iassns-hep-93-30 (title change, omitted refs. added, two
+  sign errors corrected, no significant change)
+Journal-ref: Phys.Rev.Lett. 71 (1993) 1295-1298
+\\
+  The exact free energy of SU($N$) Chern-Simons theory at level $k$ is expanded
+in powers of $(N+k)^{-2}.$ This expansion keeps rank-level duality manifest,
+and simplifies as $k$ becomes large, keeping $N$ fixed (or vice versa)---this
+is the weak-coupling (strong-coupling) limit. With the standard normalization,
+the free energy on the three-sphere in this limit is shown to be the generating
+function of the Euler characteristics of the moduli spaces of surfaces of genus
+$g,$ providing a string interpretation for the perturbative expansion. A
+similar expansion is found for the three-torus, with differences that shed
+light on contributions from different spacetime topologies in string theory.
+\\

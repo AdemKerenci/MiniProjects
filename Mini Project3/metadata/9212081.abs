@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212081
+From: Eugeny.IVANOV@enslapp.ens-lyon.fr (Eugeny IVANOV)
+Date: Sat, 12 Dec 92 21:48:36 +0100   (18kb)
+
+Title: Multi-Field Coset Space Realizations of $w_{1+\infty}$
+Authors: Stefano Bellucci, Evgenyi Ivanov and Sergey Krivonos
+Comments: 19 pages, LaTex, LNF-92/099 (P), ENSLAPP-L-409/92 (November 1992)
+Journal-ref: Class. Quant. Grav. 10 (1993) 1711-1730
+\\
+  We extend the coset space formulation of the one-field realization of
+$w_{1+\infty}$ to include more fields as the coset parameters. This can be done
+either by choosing a smaller stability subalgebra in the nonlinear realization
+of $w_{1+\infty}$ symmetry, or by considering a nonlinear realization of some
+extended symmetry, or by combining both options. We show that all these
+possibilities give rise to the multi-field realizations of $w_{1+\infty}$. We
+deduce the two-field realization of $w_{1+\infty}$ proceeding from a coset
+space of the symmetry group $\tilde{G}$ which is an extension of $w_{1+\infty}$
+by the second self-commuting set of higher spin currents. Next, starting with
+the unextended $w_{1+\infty}$ but placing all its spin 2 generators into the
+coset, we obtain a new two-field realization of $w_{1+\infty}$ which
+essentially involves a $2D$ dilaton. In order to construct the invariant action
+for this system we add one more field and so get a new three-field realization
+of $w_{1+\infty}$. We re-derive it within the coset space approach, by applying
+the latter to an extended symmetry group $\hat{G}$ which is a nonlinear
+deformation of $\tilde{G}$. Finally we present some multi-field generalizations
+of our three-field realization and discuss several intriguing parallels with
+$N=2$ strings and conformal affine Toda theories.
+\\

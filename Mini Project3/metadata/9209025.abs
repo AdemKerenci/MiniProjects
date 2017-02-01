@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209025
+From: KALYAN%tifrvax.BITNET@cearn.cern.ch
+Date: Tue, 8 Sep 92 22:08 IST +0530   (13kb)
+
+Title: Renormalization of Couplings in Embedded Random Surfaces
+Authors: Sumit R. Das and S. Kalyana Rama
+Comments: 14 pages. Preprint TIFR-TH-92/48
+Journal-ref: Mod.Phys.Lett. A7 (1992) 3747-3758
+\\
+  We study the dressing of operators and flows of corresponding couplings in
+models of {\it embedded} random surfaces. We show that these dressings can be
+obtained by applying the methods of David and Distler and Kawai. We consider
+two extreme limits. In the first limit the string tension is large and the
+dynamics is dominated by the Nambu-Goto term. We analyze this theory around a
+classical solution in the situation where the length scale of the solution is
+large compared to the length scale set by the string tension. Couplings get
+dressed by the liouville mode (which is now a composite field) in a non-trivial
+fashion. However this does {\it not} imply that the excitations around a
+physical ``long string" have a phase space corresponding to an extra dimension.
+In the second limit the string tension is small and the dynamics is governed by
+the extrinsic curvature term. We show, perturbatively, that in this theory the
+relationship between the induced metric and the worldsheet metric is
+``renormalized", while the extrinsic curvature term receives a non-trivial
+dressing as well. This has the consequence that in a generic situation the
+dependence of couplings on the physical scale is different from that predicted
+by their beta functions.
+\\

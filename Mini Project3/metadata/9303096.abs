@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303096
+From: Yao-Zhong Zhang <yzz@maths.uq.oz.au>
+Date: Wed, 17 Mar 93 17:28:27 EST   (13kb)
+Date (revised): Thu, 18 Mar 93 11:44:11 EST
+Date (revised): Fri, 19 Mar 93 11:58:55 EST
+Date (revised): Thu, 20 May 93 12:15:14 EST
+Date (revised): Fri, 2 Jul 93 12:51:59 EST
+
+Title: Unitarity and Complete Reducibility of Certain Modules over Quantized
+  Affine Lie Algebras
+Author: Yao-Zhong Zhang and Mark D. Gould
+Comments: 17 pages (minor errors corrected)
+Report-no: UQMATH-93-02
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 34 (1993) 6045-6059
+\\
+  Let $U_q(\hat{\cal G})$ denote the quantized affine Lie algebra and
+$U_q({\cal G}^{(1)})$ the quantized {\em nontwisted} affine Lie algebra. Let
+${\cal O}_{\rm fin}$ be the category defined in section 3. We show that when
+the deformation parameter $q$ is not a root of unit all integrable
+representations of $U_q(\hat{\cal G})$ in the category ${\cal O}_{\rm fin}$ are
+completely reducible and that every integrable irreducible highest weight
+module over $U_q({\cal G}^{(1)})$ corresponding to $q>0$ is equivalent to a
+unitary module.
+\\

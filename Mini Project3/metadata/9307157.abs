@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307157
+From: a.mikovic@ic.ac.uk
+Date: Mon, 26 Jul 93 16:02:49 bst   (16kb)
+Date (revised): Fri, 30 Jul 93 14:03:14 bst
+
+Title: Non-Perturbative Two-Dimensional Dilaton Gravity
+Authors: A. Mikovic
+Comments: 14 pgs, LaTex file, Imperial-TP/92-93/44 (The difference between the
+  chiral and non-chiral case has been clarified)
+\\
+  We present a review of the canonical quantization approach to the problem of
+non-perturbative 2d dilaton gravity. In the case of chiral matter we describe a
+method for solving the constraints by constructing a Kac-Moody current algebra.
+For the models of interest, the relevant Kac-Moody algebras are based on
+SL(2,R) X U(1) group and on an extended 2d Poincare group. As a consequence,
+the constraints become free-field Virasoro generators with background charges.
+We argue that the same happens in the non-chiral case. The problem of the
+corresponding BRST cohomology is discussed as well as the unitarity of the
+theory. One can show that the theory is unitary by chosing a physical gauge,
+and hence the problem of transitions from pure into mixed sates is absent.
+Implications for the physics of black holes are discussed. (Based on the talks
+presented at Trieste conference on Gauge Theories, Applied Supersymmetry and
+Quantum Gravity, May 1993 and at Danube '93 Workshop, Belgrade, Yugoslavia,
+June 1993)
+\\

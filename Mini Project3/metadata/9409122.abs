@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409122
+From: Andreas Honecker <UNP06B@IBM.RHRZ.UNI-BONN.DE>
+Date: Wed, 21 Sep 94 08:43:33 MEZ   (60kb)
+Date (revised): Mon, 24 Apr 95 15:59:30 MEZ
+
+Title: A Perturbative Approach to the Chiral Potts Model
+Author: A. Honecker
+Comments: plain TeX, 48 pages + 3 PostScript figures, (various improvements and
+  corrections - for details see beginning of the file)
+Report-no: BONN-TH-94-21
+\\
+  The massive high-temperature phase of the chiral Potts quantum chain is
+studied using perturbative methods. For the Z_3-chain we present
+high-temperature expansions for the groundstate energy and the dispersion
+relations of the two single-particle states as well as two-particle states at
+general values of the parameters. We also present a perturbative argument
+showing that a large class of massive Z_n-spin quantum chains have
+quasiparticle spectra with n-1 fundamental particles. It is known from earlier
+investigations that -at special values of the parameters- some of the
+fundamental particles exist only for limited ranges of the momentum. In these
+regimes our argument is not rigorous as one can conclude from a discussion of
+the radius of convergence of the perturbation series. We also derive
+correlation functions from a perturbative evaluation of the groundstate for the
+Z_3-chain. In addition to an exponential decay we observe an oscillating
+contribution. The oscillation length seems to be related to the asymmetry of
+the dispersion relations. We show that this relation is exact at special values
+of the parameters for general Z_n using a form factor expansion.
+\\

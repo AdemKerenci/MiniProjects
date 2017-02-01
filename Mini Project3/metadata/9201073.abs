@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9201073
+From: alyn@fermi.phys.ualberta.ca (Alex Lyons)
+Date: Wed, 29 Jan 92 14:02:39 MST   (22kb)
+Date (revised): Thu, 30 Jan 92 13:23:51 MST
+
+Title: All-orders wormhole vertex operators from the Wheeler-deWitt equation
+Authors: Alex Lyons
+Comments: 20 pages (Replaced with TeXable version.)
+\\
+  We discuss the calculation of semi-classical wormhole vertex operators from
+wave functions which satisfy the Wheeler-deWitt equation and momentum
+constraints, together with certain `wormhole boundary conditions'. We consider
+a massless minimally coupled scalar field, initially in the spherically
+symmetric `mini-superspace' approximation, and then in the `midi-superspace'
+approximation, where non-spherically symmetric perturbations are linearized
+about a spherically symmetric mini-superspace background. Our approach suggests
+that there are higher derivative corrections to the vertex operator from the
+non-spherically symmetric perturbations. This is compared directly with the
+approach based on complete wormhole solutions to the equations of motion where
+it has been claimed that the semi-classical vertex operator is exactly given by
+the lowest order term, to all orders in the size of the wormhole throat. Our
+results are also compared with the conformally coupled case.
+\\

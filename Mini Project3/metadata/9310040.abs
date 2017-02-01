@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310040
+From: wati@MIT.EDU
+Date: Thu, 7 Oct 93 13:40:45 -0400   (112kb)
+Date (revised): Mon, 11 Oct 93 16:00:44 -0400
+
+Title: Coadjoint Orbits and Conformal Field Theory
+Authors: Washington Taylor IV
+Comments: 121 pages (Ph.D. thesis) LBL-34507. Run LaTeX *3* times for t.o.c.
+  (no changes in content -- AMS fonts are replaced by more universal bold fonts
+  and some lines causing problems with non-standard tex versions are fixed.)
+\\
+  This thesis describes a new approach to conformal field theory. This approach
+combines the method of coadjoint orbits with resolutions and chiral vertex
+operators to give a construction of the correlation functions of conformal
+field theories in terms of geometrically defined objects. Explicit formulae are
+given for representations of Virasoro and affine algebras in terms of a local
+gauge choice on the line bundle associated with geometric quantization of a
+given coadjoint orbit; these formulae define a new set of explicit bosonic
+realizations of these algebras. The coadjoint orbit realizations take the form
+of dual Verma modules, making it possible to avoid the technical difficulties
+associated with the two-sided resolutions which arise from Feigin-Fuchs and
+Wakimoto realizations. Formulae are given for screening and intertwining
+operators on the coadjoint orbit representations. Chiral vertex operators
+between Virasoro modules are constructed, and related directly to Virasoro
+algebra generators in certain cases. From the point of view taken in this
+thesis, vertex operators have a geometric interpretation as differential
+operators taking sections of one line bundle to sections of another. A
+suggestion is made that by connecting this description with recent work
+deriving field theory actions from coadjoint orbits, a deeper understanding of
+the geometry of conformal field theory might be achieved.
+\\

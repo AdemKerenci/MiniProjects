@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401129
+From: gharris@npac.syr.edu (Geoffrey Harris)
+Date: Wed, 26 Jan 1994 10:47:55 -0500   (176kb)
+
+Title: The Phenomenology of Strings and Clusters in the 3-d Ising Model
+Authors: V.S. Dotsenko, G. Harris, E. Marinari, E. Martinec, M. Picco and P.
+  Windey
+Comments: 20 pages followed by 15 uuencoded ps figures, latex, SU-HEP-4241-563,
+  PAR-LPTHE 93/59
+\\
+  We examine the geometrical and topological properties of surfaces surrounding
+clusters in the 3--$d$ Ising model. For geometrical clusters at the percolation
+temperature and Fortuin--Kasteleyn clusters at $T_c$, the number of surfaces of
+genus $g$ and area $A$ behaves as $A^{x(g)}e^{-\mu(g)A}$, with $x$
+approximately linear in $g$ and $\mu$ constant. We observe that cross--sections
+of spin domain boundaries at $T_c$ decompose into a distribution $N(l)$ of
+loops of length $l$ that scales as $l^{-\tau}$ with $\tau \sim 2.2$. We address
+the prospects for a string--theoretic description of cluster boundaries. (To
+appear in proceedings for the Cargese Workshop on "String Theory, Conformal
+Models and Topological Field Theories", May 1993)
+\\

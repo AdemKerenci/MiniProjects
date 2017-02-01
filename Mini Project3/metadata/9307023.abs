@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307023
+From: dolan@kastor.itp.uni-hannover.de (Brian Dolan)
+Date: Sat, 3 Jul 93 14:47:22 MEST   (8kb)
+
+Title: Potential Flow Of The Renormalisation Group In A Simple Two Component
+  Model
+Author: Brian P. Dolan
+Comments: 7 pages Typset in PlainTeX, C Version 3.141
+Report-no: ITP-UH-04/93 93-041
+Journal-ref: Mod. Phys. Lett. A8 (1993) 3103-3110
+\\
+  The renormalisation group (RG) flow on the space of couplings of a simple
+model with two couplings is examined. The model considered is that of a single
+component scalar field with $\phi^4$ self interaction coupled, via Yukawa
+coupling, to a fermion in flat four dimensional space. The RG flow on the two
+dimensional space of couplings, ${\cal G}$, is shown to be derivable from a
+potential to sixth order in the couplings, which requires two loop calculations
+of the $\beta$-functions. The identification of a potential requires the
+introduction of a metric on ${\cal G}$ and it is shown that the metric defined
+by Zamalodchikov, in terms of two point correlation functions of composite
+operators, gives potential flow to this order.
+\\

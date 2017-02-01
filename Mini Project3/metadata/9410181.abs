@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410181
+From: habib@t6-serv.lanl.gov (Salman Habib)
+Date: Tue, 25 Oct 94 01:58:01 PDT   (6kb)
+
+Title: Quantum Diffusion
+Authors: Salman Habib
+Comments: 5 pages, LA-UR-94-3329, LaTeX (to appear in Proceedings of the 4th
+  Drexel Symposium on Quantum Nonintegrability)
+Subj-class: High Energy Physics - Theory; Adaptation and Self-Organizing
+  Systems
+\\
+  We consider a simple quantum system subjected to a classical random force.
+Under certain conditions it is shown that the noise-averaged Wigner function of
+the system follows an integro-differential stochastic Liouville equation. In
+the simple case of polynomial noise-couplings this equation reduces to a
+generalized Fokker-Planck form. With nonlinear noise injection new ``quantum
+diffusion'' terms arise that have no counterpart in the classical case. Two
+special examples that are not of a Fokker-Planck form are discussed: the first
+with a localized noise source and the other with a spatially modulated noise
+source.
+\\

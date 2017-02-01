@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405089
+From: mccoy@insti.physics.sunysb.edu (Barry McCoy)
+Date: Fri, 13 May 1994 13:46:28 -0500 (EDT)   (45kb)
+Date (revised): Mon, 13 Jun 1994 11:27:26 -0500 (EDT)
+
+Title: Quasi-particles in the chiral Potts model
+Authors: Rinat Kedem and Barry M. McCoy
+Comments: 19 pages in harvmac plus 9 figures appended to the file. (Several
+  references have been added). ITPSB 94-012
+Journal-ref: Int.J.Mod.Phys. B8 (1994) 3601
+\\
+  We study the quasi-particle spectrum of the integrable three-state chiral
+Potts chain in the massive phase by combining a numerical study of the zeroes
+of associated transfer matrix eigenvalues with the exact results of the
+ferromagnetic three-state Potts chain and the three-state superintegrable
+chiral Potts model. We find that the spectrum is described in terms of
+quasi-particles with momenta restricted only to segments of the Brillouin zone
+$0\leq P \leq 2\pi$ where the boundaries of the segments depend on the chiral
+angles of the model.
+\\

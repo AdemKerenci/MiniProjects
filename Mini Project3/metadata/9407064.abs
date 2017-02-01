@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407064
+From: Roberto Emparan <WMBEMGAR@lg.ehu.es>
+Date: 13 Jul 94 10:09 +0100   (7kb)
+Date (revised): 16 Aug 94 17:33 +0200
+
+Title: Heat kernels and thermodynamics in Rindler space
+Authors: R. Emparan
+Comments: 9 pages , LaTex, EHU-FT-94/5 (Revised version: the role played by
+  regularization is clarified)
+Journal-ref: Phys.Rev. D51 (1995) 5716-5719
+\\
+  We point out that using the heat kernel on a cone to compute the first
+quantum correction to the entropy of Rindler space does not yield the correct
+temperature dependence. In order to obtain the physics at arbitrary temperature
+one must compute the heat kernel in a geometry with different topology (without
+a conical singularity). This is done in two ways, which are shown to agree with
+computations performed by other methods. Also, we discuss the ambiguities in
+the regularization procedure.
+\\

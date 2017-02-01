@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402075
+From: Paul A Shah <P.A.Shah@amtp.cam.ac.uk>
+Date: Mon, 14 Feb 94 12:14:16 GMT   (16kb)
+Date (revised): Tue, 21 Jun 94 17:08:56 BST
+
+Title: Scattering of Vortices at near-critical coupling
+Authors: P.A.Shah
+Comments: 18 pages (9 figures), preprint reference DAMTP 94-8, to be published
+  in Nuclear Physics B. Clarifications of the validity of the approximations
+  made are included, minor typos corrected, and acknowledgements added. The
+  postscript figures are available by anonymous FTP from club.amtp.cam.ac.uk in
+  the subdirectory papers/vortex.scattering
+Journal-ref: Nucl.Phys. B429 (1994) 259-276
+\\
+  The scattering of vortices at a critical value of the coupling constant in
+the Lagrangian can be approximated by a geodesic motion in the moduli space of
+classical static configurations of vortices. In this paper we give a scheme for
+generalising this idea to couplings that are near to the critical value. By
+perturbing a critically coupled field, we show that scattering of vortices at
+near-critical coupling can be approximated by motion in the original moduli
+space with a perturbed metric, and a potential. We apply this method to the
+scattering of two vortices, and compare our results to recent numerical
+simulations, and find good agreement where the scattering is not highly
+sensitive to radiation into other field modes. We also investigate the
+possibility of bound stable orbits of two vortices in the quantum field theory.
+\\

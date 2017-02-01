@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412109
+From: dong@math.UCSC.EDU (Chongying Dong)
+Date: Mon, 12 Dec 94 15:20:45 PST   (19kb)
+
+Title: On the operator content of nilpotent orbifold models
+Authors: Chongying Dong and Geoffrey Mason
+Comments: 26 pages, Latex
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Let $V$ be a simple vertex operator algebra and $G$ be a finite nilpotent
+group of automorphisms of $V.$ We prove the following in this paper: (1) There
+is a Galois correspondence between subgroups of $G$ and the vertex operator
+subalgebras of $V$ which contain $V^G$ given by the map $H\mapsto V^H.$ (2)
+Assume that for every G\in G$ there is unique simple $g$-twisted $V$-module
+$M(g).$ Then there exists a Hochschild 3-cocycle $\alpha$ on the integral group
+$Z[G]$ such that there is an equivalence of categories between $V^G$-module
+category (whose objects are $V^G$-submodules of direct sums of copies of
+$\oplus_{g\in G}M(g),$ and whose morphisms are $V^G$-module homomorphisms) and
+the module category for the twisted quantum double $D_{\alpha}(G)$ associated
+to $\alpha.$
+\\

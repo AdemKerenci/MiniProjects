@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407053
+From: mazq@bepc3.ihep.ac.cn
+Date: Mon, 11 Jul 1994 15:06:15 -0500 (CDT)   (24kb)
+
+Title: $q$-Deformed Chern Characters for Quantum Groups $SU_{q}(N)$
+Authors: Bo-Yu Hou (Northwest University, Xi'an China), Bo-Yuan Hou (Chinese
+  Academy of Sciences, Beijing, China), and Zhong-Qi Ma (Institute of High
+  Energy Physics, Beijing, China)
+Report-no: BIHEP-TH-94-20
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 36 (1995) 5110-5138
+\\
+  In this paper, we introduce an $N\times N$ matrix $\epsilon^{a\bar{b}}$ in
+the quantum groups $SU_{q}(N)$ to transform the conjugate representation into
+the standard form so that we are able to compute the explicit forms of the
+important quantities in the bicovariant differential calculus on $SU_{q}(N)$,
+such as the $q$-deformed structure constant ${\bf C}_{IJ}^{~K}$ and the
+$q$-deformed transposition operator $\Lambda$. From the $q$-gauge covariant
+condition we define the generalized $q$-deformed Killing form and the $m$-th
+$q$-deformed Chern class $P_{m}$ for the quantum groups $SU_{q}(N)$. Some
+useful relations of the generalized $q$-deformed Killing form are presented. In
+terms of the $q$-deformed homotopy operator we are able to compute the
+$q$-deformed Chern-Simons $Q_{2m-1}$ by the condition $dQ_{2m-1}=P_{m}$,
+Furthermore, the $q$-deformed cocycle hierarchy, the $q$-deformed gauge
+covariant Lagrangian, and the $q$-deformed Yang-Mills equation are derived.
+\\

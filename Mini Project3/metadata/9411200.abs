@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411200
+From: Joris Van der Jeugt <Joris.VanderJeugt@rug.ac.be>
+Date: Mon, 28 Nov 1994 13:30:22 +0100 (MET)   (16kb)
+Date (revised): Thu, 30 Mar 1995 11:08:10 +0200 (MET DST)
+
+Title: Finite dimensional representations of the quantum group $GL_{p,q}(2)$
+  using the exponential map from $U_{p,q}(gl(2))$.
+Authors: R. Jagannathan and J. Van der Jeugt.
+Comments: 17 pages, LaTeX (latex twice), no figures. Changes consist of more
+  general formula (4.13) for T-matrices, explicit Clebsch-Gordan coefficients,
+  boson realization of group parameters, and typographical corrections.
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Phys. A28 (1995) 2819-2832
+\\
+  Using the Fronsdal-Galindo formula for the exponential mapping from the
+quantum algebra $U_{p,q}(gl(2))$ to the quantum group $GL_{p,q}(2)$, we show
+how the $(2j+1)$-dimensional representations of $GL_{p,q}(2)$ can be obtained
+by `exponentiating' the well-known $(2j+1)$-dimensional representations of
+$U_{p,q}(gl(2))$ for $j$ $=$ $1,\frac{3}{2},\ldots $; $j$ $=$ $\frac{1}{2}$
+corresponds to the defining 2-dimensional $T$-matrix. The earlier results on
+the finite-dimensional representations of $GL_q(2)$ and $SL_q(2)$ (or
+$SU_q(2)$) are obtained when $p$ $=$ $q$. Representations of $U_{\bar{q},q}(2)$
+$(q$ $\in$ $\C \backslash \R$ and $U_q(2)$ $(q$ $\in$ $\R \backslash \{0\})$
+are also considered. The structure of the Clebsch-Gordan matrix for
+$U_{p,q}(gl(2))$ is studied. The same Clebsch-Gordan coefficients are
+applicable in the reduction of the direct product representations of the
+quantum group $GL_{p,q}(2)$.
+\\

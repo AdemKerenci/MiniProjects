@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401107
+From: zarembo@qft.mian.su (Konstantin L.Zarembo )
+Date: Fri, 21 Jan 94 17:30:25 +0300 (MSK)   (7kb)
+
+Title: Loop Equations as a Generalized Virasoro Constraints
+Authors: K.Zarembo
+Comments: 7 pages, LaTex (3 LaTex figures), SMI-94-1
+Journal-ref: Phys.Lett. B327 (1994) 90-94
+\\
+  The loop equations in the $U(N)$ lattice gauge theory are represented in the
+form of constraints imposed on a generating functional for the Wilson loop
+correlators. These constraints form a closed algebra with respect to
+commutation. This algebra generalizes the Virasoro one, which is known to
+appear in one-matrix models in the same way. The realization of this algebra in
+terms of the infinitesimal changes of generators of the loop space is given.
+The representations on the tensor fields on the loop space, generalizing the
+integer spin conformal fields, are constructed. The structure constants of the
+algebra under consideration being independent of the coupling constants, almost
+all the results are valid in the continuum.
+\\

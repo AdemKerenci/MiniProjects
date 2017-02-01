@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301119
+From: "Ian Kogan" <kogan@puhep1.Princeton.EDU>
+Date: Thu, 28 Jan 93 15:44:55 EST   (11kb)
+Date (revised): Wed, 17 Feb 93 13:16:13 EST
+
+Title: Hamiltonian Approach to 2D Dilaton-Gravities and Invariant Adm Mass
+Authors: A. Bilal and I. Kogan
+Comments: revised, 12 pages, PUPT-1379; we added a reference and corrected some
+  minor typos
+Journal-ref: Phys.Rev. D47 (1993) 5408-5413
+\\
+  The formula existing in the literature for the ADM mass of 2D dilaton gravity
+is incomplete. For example, in the case of an infalling matter shockwave this
+formula fails to give a time-independent mass, unless a very special coordinate
+system is chosen. We carefully carry out the canonical formulation of 2D
+dilaton gravity theories (classical, CGHS and RST). As in 4D general relativity
+one must add a boundary term to the bulk Hamiltonian to obtain a well-defined
+variational problem. This boundary term coincides with the numerical value of
+the Hamiltonian and gives the correct mass which obviously is time-independent.
+\\

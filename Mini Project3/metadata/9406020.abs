@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406020
+From: "Kareljan Schoutens" <schouten@puhep1.Princeton.EDU>
+Date: Fri, 3 Jun 94 16:35:26 -0400   (14kb)
+
+Title: Spinon Bases, Yangian Symmetry and Fermionic Representations of Virasoro
+  Characters in Conformal Field Theory
+Authors: P. Bouwknegt, A.W.W. Ludwig and K. Schoutens
+Comments: 15 pages, LaTeX, USC-94/4, PUPT-1469
+Journal-ref: Phys.Lett. B338 (1994) 448-456
+\\
+  We study the description of the $SU(2)$, level $k=1$, Wess-Zumino-Witten
+conformal field theory in terms of the modes of the spin-1/2 affine primary
+field $\phi^\alpha$. These are shown to satisfy generalized `canonical
+commutation relations', which we use to construct a basis of Hilbert space in
+terms of representations of the Yangian $Y(sl_2)$. Using this description, we
+explicitly derive so-called `fermionic representations' of the Virasoro
+characters, which were first conjectured by Kedem et al.~\cite{kedem}. We point
+out that similar results are expected for a wide class of rational conformal
+field theories.
+\\

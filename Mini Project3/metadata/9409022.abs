@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409022
+From: rschack@tangelo.phys.unm.edu (Ruediger Schack)
+Date: Sat, 3 Sep 94 16:49:06 MDT   (20kb)
+
+Title: Algorithmic information and simplicity in statistical physics
+Authors: R. Schack (University of New Mexico)
+Comments: 15 pages in REVTEX 3.0, 3 postscript figures in uuencoded format,
+  submitted to Physical Review E
+Journal-ref: Int.J.Theor.Phys. 36 (1997) 209-226
+\\
+  Given a list of $N$ states with probabilities $0<p_1\leq\cdots\leq p_N$, the
+average conditional algorithmic information $\bar I$ to specify one of these
+states obeys the inequality $H\leq\bar I<H+O(1)$, where $H=-\sum p_j\log_2p_j$
+and $O(1)$ is a computer-dependent constant. We show how any universal computer
+can be slightly modified in such a way that the inequality becomes $H\leq\bar
+I<H+1$, thereby eliminating the computer-dependent constant from statistical
+physics.
+\\

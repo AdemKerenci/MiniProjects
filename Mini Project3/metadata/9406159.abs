@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406159
+From: kelley@miu.edu (Steve Kelley)
+Date: Thu, 23 Jun 1994 20:37:01 +0600   (11kb)
+
+Title: On Transformations Preserving the Basis Conditions of a Spin Structure
+  Group in Four-Dimensional Super String Theory in Free Fermionic Formulation
+Authors: Valery A. Kholodnyi
+Comments: 10 pages, MIU-THP-94/67
+Journal-ref: J.Math.Phys. 35 (1994) 5630-5641
+\\
+  Let $\Xi$ stand for a finite abelian spin structure group of four-dimensional
+superstring theory in free fermionic formulation whose elements are
+64-dimensional vectors (spin structure vectors) with rational entries belonging
+to $\rbrack -1,\, 1\rbrack $ and the group operation is the $mod\, \, 2 $ entry
+by entry summation $\oplus $ of these vectors. Let $B=\{b_i,\, i= 1,\cdots
+,k+1\}$ be a set of spin structure vectors such that $b_i$ have only entries 0
+and 1 for any $\, i= 1,\cdots ,k$, while $b_{k+1}$ is allowed to have any
+rational entries belonging to $\rbrack -1,\, 1\rbrack $ with even $N_{k+1}$,
+where $N_{k+1}$ stands for the least positive integer such that
+$N_{k+1}b_{k+1}= 0\,mod\,2$. Let $B$ be a basis of $\Xi$, i.e., let $B$
+generate $\Xi$, and let $\Lambda_{m, n}$ stand for the transformation of $B$
+which replaces $b_n$ by $b_m\oplus b_n$ for any $m \ne k+1$, $n \ne 1$, $m \ne
+n$. We prove that if $B$ satisfies the axioms for a basis of spin structure
+group $\Xi$, then $B'=\Lambda_{m, n}B$ also satisfies the axioms. Since the
+transformations $\Lambda_{m,n}$ for different $m$ and $n$ generate all
+nondegenerate transformations of the basis $B$ that preserve the vector $b_1$
+and a single vector $ b_{k+1} $ with general rational entries, we conclude that
+the axioms are conditions for the whole group $\Xi$ and not just conditions for
+a particular choice of its basis. Hence, these transformations generate the
+discrete symmetry group of four-dimensional superstring models in free
+fermionic formulation.
+\\

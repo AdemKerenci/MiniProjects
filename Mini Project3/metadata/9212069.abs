@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212069
+From: PHR74HE%TECHNION.bitnet@taunivm.tau.ac.il
+Date: Thu, 10 Dec 92 18:58:44 IST   (20kb)
+Date (revised): Mon, 14 Dec 92 19:32:41 IST
+
+Title: Stabilised Matrix Models for Non-Perturbative Two Dimensional Quantum
+  Gravity
+Authors: Joshua Feinberg
+Comments: 31pp,latex, TECHNION-PH-35
+Journal-ref: Int. J. Mod. Phys. A9 (1994) 3751-3772
+\\
+  A thorough analysis of stochastically stabilised hermitian one matrix models
+for two dimensional quantum gravity at all its $(2,2k-1)$ multicritical points
+is made. It is stressed that only the zero fermion sector of the supersymmetric
+hamiltonian, i.e., the forward Fokker-Planck hamiltonian, is relevant for the
+analysis of bosonic matter coupled to two dimensional gravity. Therefore,
+supersymmetry breaking is not the physical mechanism that creates non
+perturbative effects in the case of points of even multicriticality $k$. Non
+perturbative effects in the string coupling constant $g_{str}$ result in a loss
+of any explicit relation to the KdV hierarchy equations in the latter case,
+while maintaining the perturbative genus expansion. As a by-product of our
+analysis it is explicitly proved that polynomials orthogonal relative to an
+arbitrary weight $\exp (-\beta V(x))$ along the whole real line obey an
+Hartree-Fock equation.
+\\

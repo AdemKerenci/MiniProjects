@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9204102
+From: INTRILIGATOR@huhepl.harvard.edu
+Date: Thu, 30 Apr 1992 15:54:31 -0400 (EDT)   (43kb)
+
+Title: A New Supersymmetric Index
+Authors: Sergio Cecotti, Paul Fendley, Ken Intriligator and Cumrun Vafa
+Comments: 60 pages
+Journal-ref: Nucl.Phys. B386 (1992) 405-452
+\\
+  We show that ${\rm Tr}(-1)^F F e^{-\beta H}$ is an index for $N$=2
+supersymmetric theories in two dimensions, in the sense that it is independent
+of almost all deformations of the theory. This index is related to the geometry
+of the vacua (Berry's curvature) and satisfies an exact differential equation
+as a function of $\beta$. For integrable theories we can also compute the index
+thermodynamically, using the exact $S$-matrix. The equivalence of these two
+results implies a highly non-trivial equivalence of a set of coupled integral
+equations with these differential equations, among them Painleve III and the
+affine Toda equations.
+\\

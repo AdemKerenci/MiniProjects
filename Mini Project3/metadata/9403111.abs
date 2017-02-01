@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403111
+From: senben@phy.duke.edu (Sen-Ben Liao)
+Date: Fri, 18 Mar 94 15:47:32 -0500   (27kb)
+Date (revised): Sun, 20 Nov 94 04:50:52 -0500
+Date (revised): Thu, 2 Feb 95 22:17:04 -0500
+
+Title: Renormalization Group and Universality
+Authors: Sen-Ben Liao and Janos Polonyi
+Comments: 32pp in plain tex; revised version to appear in PRD
+Report-no: DUKE-TH-93-64, LPT-94-3
+Journal-ref: Phys.Rev. D51 (1995) 4474-4493
+\\
+  It is argued that universality is severely limited for models with multiple
+fixed points. As a demonstration the renormalization group equations are
+presented for the potential and the wave function renormalization constants in
+the $O(N)$ scalar field theory. Our equations are superior compared with the
+usual approach which retains only the contributions that are non-vanishing in
+the ultraviolet regime. We find an indication for the existence of relevant
+operators at the infrared fixed point, contrary to common expectations. This
+result makes the sufficiency of using only renormalizable coupling constants in
+parametrizing the long distance phenomena questionable.
+\\

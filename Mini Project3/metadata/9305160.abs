@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305160
+From: v.daftardar@ic.ac.uk (J.W.R.Underwood) (J.W.R.Underwood)
+Date: Fri, 28 May 1993 11:22:33 -0100   (29kb)
+
+Title: Affine Toda Solitons and Vertex Operators
+Authors: D.I. Olive, N. Turok and J.W.R. Underwood
+Comments: Imperial/TP/92-93/29 SWAT/92-93/5 PU-PH-93/1392, requires newmac
+Journal-ref: Nucl. Phys. B409 (1993) 509
+\\
+  Affine Toda theories with imaginary couplings associate with any simple Lie
+algebra ${\bf g}$ generalisations of Sine Gordon theory which are likewise
+integrable and possess soliton solutions. The solitons are \lq\lq created" by
+exponentials of quantities $\hat F^i(z)$ which lie in the untwisted affine
+Kac-Moody algebra ${\bf\hat g}$ and ad-diagonalise the principal Heisenberg
+subalgebra. When ${\bf g}$ is simply-laced and highest weight irreducible
+representations at level one are considered, $\hat F^i(z)$ can be expressed as
+a vertex operator whose square vanishes. This nilpotency property is extended
+to all highest weight representations of all affine untwisted Kac-Moody
+algebras in the sense that the highest non vanishing power becomes proportional
+to the level. As a consequence, the exponential series mentioned terminates and
+the soliton solutions have a relatively simple algebraic expression whose
+properties can be studied in a general way. This means that various physical
+properties of the soliton solutions can be directly related to the algebraic
+structure. For example, a classical version of Dorey's fusing rule follows from
+the operator product expansion of two $\hat F$'s, at least when ${\bf g}$ is
+simply laced. This adds to the list of resemblances of the solitons with
+respect to the particles which are the quantum excitations of the fields.
+\\

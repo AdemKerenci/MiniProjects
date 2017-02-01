@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407138
+From: MARKL@CSEARN.BITNET
+Date: Thu, 21 Jul 94 15:36:42 MET   (41kb)
+
+Title: Drinfel'd algebra deformations, homotopy comodules and the associahedra
+Author: Martin Markl and Steve Shnider
+Comments: 44 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  The aim of this work is to construct a cohomology theory controlling the
+deformations of a general Drinfel'd algebra. The task is accomplished in three
+steps. The first step is the construction of a modified cobar complex adapted
+to a non-coassociative comultiplication. The following two steps each involve a
+new, highly non-trivial, construction. The first construction, essentially
+combinatorial, defines a differential graded Lie algebra structure on the
+simplicial chain complex of the associahedra. The second construction, of a
+more algebraic nature, is the definition of map of differential graded Lie
+algebras from the complex defined above to the algebra of derivations on the
+bar resolution. Using the existence of this map and the acyclicity of the
+associahedra we can define a so-called homotopy comodule structure on the bar
+resolution of a general Drinfeld algebra. This in turn allows us to define the
+desired cohomology theory in terms of a complex which consists, roughly
+speaking, of the bimodule and bicomodule maps from the bar resolution to the
+modified cobar resolution. The complex is bigraded but not a bicomplex as in
+the Gerstenhaber-Schack theory for bialgebra deformations. The new components
+of the coboundary operator are defined via the constructions mentioned above.
+As an application we show that the Drinfel'd deformation of the universal
+enveloping algebra of a simple Lie algebra is not a jump deformation. The
+results of the paper were announced in the paper "Drinfel'd algebra
+deformations and the associahedra" (IMRN, Duke Math. Journal, 4(1994), 169-176,
+appeared also as preprint hep-th/9312196).
+\\

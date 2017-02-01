@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307029
+From: mouri@ph.tsukuba.ac.jp (Kenji Mouri)
+Date: Tue, 6 Jul 93 14:32:10 JST   (17kb)
+
+Title: $N=2$ super $W$ algebra in half-twisted Landau-Ginzburg model
+Authors: Kenji Mohri
+Comments: 25 pages , UTHEP-260 (preprint number and Abstract added)
+Journal-ref: Int. J. Mod. Phys. A9 (1994) 5097-5120
+\\
+  We investigate $N=2$ extended superconformal symmetry, using the half-twisted
+Landau-Ginzburg models. The first example is the $D_{2n+2}$ -type minimal
+model. It has been conjectured that this model has a spin $n$ super $W$
+current. We checked this by the direct computations of the BRS cohomology class
+up to $n=4$. We observe for $n\le 3$ the super W currents generate the ring
+isomorphic to the chiral ring of the model with respect to the classical
+product. We thus conjecture that this isomorphism holds for any $n$. The next
+example is $ CP_{n}$ coset model. In this case we find a sort of Miura
+transformation which gives the simple formula for the super W currents of spin
+\{1,2,...,n\} in terms of the chiral superfields. Explicit form of the super W
+currents and their Poisson brackets are obtained for $CP_{2},CP_{3}$ case. We
+also conjecture that as long as the classical product is concerned, these super
+W currents generate the ring isomorphic to the chiral ring of the model and
+this is checked for $CP_2$ model.
+\\

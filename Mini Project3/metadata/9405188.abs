@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405188
+From: zwirner@nxth04.cern.ch
+Date: Mon, 30 May 1994 02:03 PST   (37kb)
+Date (revised): Mon, 30 May 1994 02:23 PST
+Date (revised): Wed, 8 Jun 1994 12:02 PST
+
+Title: Mass formulae and natural hierarchy in string effective supergravities
+Authors: S.Ferrara, C.Kounnas and F.Zwirner
+Comments: 40 pages, no figures, CERN-TH.7192/94, LPTENS -94/12, UCLA/94/TEP13
+  (plain LATEX, to be run twice). Some trivial misprints and references have
+  been corrected
+Journal-ref: Nucl.Phys. B429 (1994) 589-625; Erratum-ibid. B433 (1995) 255
+\\
+  We study some conditions for the hierarchy $m_{3/2} << M_P$ to occur
+naturally in a generic effective supergravity theory. Absence of fine-tuning
+and perturbative calculability require that the effective potential has a
+sliding gravitino mass and vanishing cosmological constant, up to ${\cal
+O}(m_{3/2}^4)$ corrections. In particular, cancellation of quadratically
+divergent contributions to the one-loop effective potential should take place,
+including the `hidden sector' of the theory. We show that these conditions can
+be met in the effective supergravities derived from four-dimensional
+superstrings, with supersymmetry broken either at the string tree level via
+compactification, or by non-perturbative effects such as gaugino condensation.
+A crucial role is played by some approximate scaling symmetries, which are
+remnants of discrete target-space dualities in the large moduli limit. We
+derive explicit formulae for the soft breaking terms arising from this class of
+`large hierarchy compatible' (LHC) supergravities.
+\\

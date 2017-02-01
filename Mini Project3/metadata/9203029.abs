@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9203029
+From: KHALLER@uconnvm.uconn.edu
+Date: Tue, 10 Mar 92 16:52:08 EST   (21kb)
+
+Title: Canonical Quantization of $(2+1)$ Dimensional Qed with Topological Mass
+  Term
+Authors: Kurt Haller and Edwin Lombridas
+Comments: 27 pages
+Journal-ref: Phys.Rev. D46 (1992) 1737-1749
+\\
+  We discuss the canonical quantization of Quantum Electrodynamics in $2+1$
+dimensions, with a Chern-Simons topological mass term and gauge-covariant
+coupling to a Dirac spinor field. A gauge-fixing term is used which generates a
+canonical momentum for $A_0$, so that there are no primary constraints on
+operator-valued fields. Gauss's Law and the gauge condition, $A_0=0$, are
+implemented by embedding the formulation in an appropriate physical subspace,
+in which state vectors remain naturally, in the course of time evolution. The
+photon propagator is derived from the canonical theory. The electric and
+magnetic fields are separated into parts that reflect the presence of massive
+photons, and other parts that are rigidly attached to charged fermions and do
+not consist of any observable, propagating particle excitations. The effect of
+rotations on charged particle states is analyzed, and the relation between the
+canonical and the Belinfante ``symmetric'' angular momentum is discussed. It is
+shown that the rotation operator can be consistently formulated so that charged
+particles behave like fermions, and do not acquire any arbitrary phases during
+rotations, even when they are dressed in the electromagnetic fields required
+for them to obey Gauss's law.
+\\

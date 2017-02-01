@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407122
+From: konno@yukawa.kyoto-u.ac.jp
+Date: Wed, 20 Jul 1994 17:29:34 +0900   (25kb)
+Date (revised): Thu, 21 Jul 1994 13:53:29 +0900
+
+Title: Free Field Representation of Quantum Affine Algebra $U_q\widehat{sl_2}$
+  and Form Factors in Higher Spin XXZ Model
+Author: Hitoshi Konno
+Comments: 29 pages
+Report-no: YITP/K-1074
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: Nucl.Phys. B432 (1994) 457-486
+\\
+  We consider the spin $k/2$ XXZ model in the antiferomagnetic regime using the
+free field realization of the quantum affine algebra $\uqa$ of level $k$. We
+give a free field realization of the type II $q$-vertex operator, which
+describes creation and annihilation of physical particles in the model. By
+taking a trace of the type I and the type II $q$-vertex operators over the
+irreducible highest weight representation of $\uqa$, we also derive an integral
+formula for form factors in this model. Investigating the structure of poles,
+we obtain a residue formula for form factors, which is a lattice analog of the
+higher spin extension of the Smirnov's formula in the massive integrable
+quantum field theory. This result as well as the quantum deformation of the
+Knizhnik-Zamolodchikov equation for form factors shows a deep connection in the
+mathematical structure of the integrable lattice models and the massive
+integrable quantum field theory.
+\\

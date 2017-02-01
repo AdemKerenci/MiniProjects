@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409157
+From: Shinsuke Nishigaki <nsgk@th.phys.titech.ac.jp>
+Date: Tue, 27 Sep 1994 13:17:03 +0900   (60kb)
+
+Title: Large N Renormalization Group Approach to Matrix Models
+Authors: S.Higuchi, C.Itoi, S.Nishigaki and N.Sakai
+Comments: 5 pages in LaTeX (including 2 figures), SPhT94/110, NUP-A-94-17,
+  TIT/HEP-270 (A talk given by N.Sakai at the XXth International Colloquium on
+  Group Theoretical Methods in Physics, Toyonaka, July 1994)
+\\
+  We summarize our recent results on the large N renormalization group (RG)
+approach to matrix models for discretized two-dimensional quantum gravity. We
+derive exact RG equations by solving the reparametrization identities, which
+reduce infinitely many induced interactions to a finite number of them. We find
+a nonlinear RG equation and an algorithm to obtain the fixed points and the
+scaling exponents. They reproduce the spectrum of relevant operators in the
+exact solution. The RG flow is visualized by the linear approximation.
+\\

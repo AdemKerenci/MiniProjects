@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308043
+From: JONSSON@nbivax.nbi.dk
+Date: Mon, 09 Aug 1993 20:10:05 +0200   (9kb)
+
+Title: Classification and construction of unitary topological field theories in
+  two dimensions
+Authors: Bergfinnur Durhuus and Thordur Jonsson
+Comments: 12 pages, latex
+Journal-ref: J.Math.Phys. 35 (1994) 5306-5313
+\\
+  We prove that unitary two-dimensional topological field theories are uniquely
+characterized by $n$ positive real numbers $\lambda _1,\ldots \lambda _n$ which
+can be regarded as the eigenvalues of a hermitean handle creation operator. The
+number $n$ is the dimension of the Hilbert space associated with the circle and
+the partition functions for closed surfaces have the form $$
+Z_g=\sum_{i=1}^{n}\lambda _i^{g-1} $$ where $g$ is the genus. The eigenvalues
+can be arbitary positive numbers. We show how such a theory can be constructed
+on triangulated surfaces.
+\\

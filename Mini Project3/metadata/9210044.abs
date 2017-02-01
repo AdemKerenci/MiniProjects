@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210044
+From: Shahn Majid <majid@damtp.cambridge.ac.uk>
+Date: Thu, 8 Oct 92 15:56:59 BST   (35kb)
+Date (revised): Thu, 29 Apr 93 15:41:03 BST
+
+Title: The Quantum Double as Quantum Mechanics
+Author: Shahn Majid
+Comments: 36 pages. Revised to include full details for the simplest example
+  based on sl_2. Accepted to appear in J. Geometry and Physics
+Report-no: DAMTP/92-48
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We introduce $*$-structures on braided groups and braided matrices. Using
+this, we show that the quantum double $D(U_q(su_2))$ can be viewed as the
+quantum algebra of observables of a quantum particle moving on a hyperboloid in
+q-Minkowski space (a three-sphere in the Lorentz metric), and with the role of
+angular momentum played by $U_q(su_2)$. This provides a new example of a
+quantum system whose algebra of observables is a Hopf algebra. Furthermore, its
+dual Hopf algebra can also be viewed as a quantum algebra of observables, of
+another quantum system. This time the position space is a q-deformation of
+$SL(2,\R)$ and the momentum group is $U_q(su_2^*)$ where $su_2^*$ is the
+Drinfeld dual Lie algebra of $su_2$. Similar results hold for the quantum
+double and its dual of a general quantum group.
+\\

@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304052
+From: milton@phyast.nhn.uoknor.edu (Kim Milton)
+Date: Tue, 13 Apr 93 13:26:21 CDT   (4kb)
+
+Title: Continued Fraction as a Discrete Nonlinear Transform
+Authors: Carl M. Bender and Kimball A. Milton
+Comments: 6 pages, OKHEP-93-05
+\\
+  The connection between a Taylor series and a continued-fraction involves a
+nonlinear relation between the Taylor coefficients $\{ a_n \}$ and the
+continued-fraction coefficients $\{ b_n \}$. In many instances it turns out
+that this nonlinear relation transforms a complicated sequence $\{a_n \}$ into
+a very simple one $\{ b_n \}$. We illustrate this simplification in the context
+of graph combinatorics.
+\\

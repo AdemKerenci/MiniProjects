@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404112
+From: HOISSEN@theo-phys.gwdg.de
+Date: Tue, 19 Apr 1994 11:49:59 +0200   (29kb)
+Date (revised): Fri, 23 Sep 1994 22:11:00 +0200
+
+Title: Discrete differential calculus, graphs, topologies and gauge theory
+Author: A. Dimakis and F. M\"uller-Hoissen
+Comments: 36 pages, revised version, appendix added
+Report-no: GOET-TP 1/94
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 35 (1994) 6703-6735
+\\
+  Differential calculus on discrete sets is developed in the spirit of
+noncommutative geometry. Any differential algebra on a discrete set can be
+regarded as a `reduction' of the `universal differential algebra' and this
+allows a systematic exploration of differential algebras on a given set.
+Associated with a differential algebra is a (di)graph where two vertices are
+connected by at most two (antiparallel) arrows. The interpretation of such a
+graph as a `Hasse diagram' determining a (locally finite) topology then
+establishes contact with recent work by other authors in which discretizations
+of topological spaces and corresponding field theories were considered which
+retain their global topological structure. It is shown that field theories, and
+in particular gauge theories, can be formulated on a discrete set in close
+analogy with the continuum case. The framework presented generalizes ordinary
+lattice theory which is recovered from an oriented (hypercubic) lattice graph.
+It also includes, e.g., the two-point space used by Connes and Lott (and
+others) in models of elementary particle physics. The formalism suggests that
+the latter be regarded as an approximation of a manifold and thus opens a way
+to relate models with an `internal' discrete space ({\`a} la Connes et al.) to
+models of dimensionally reduced gauge fields. Furthermore, also a `symmetric
+lattice' is studied which (in a certain continuum limit) turns out to be
+related to a `noncommutative differential calculus' on manifolds.
+\\

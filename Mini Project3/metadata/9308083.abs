@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308083
+From: dmrrsn@math.duke.edu (David R. Morrison)
+Date: Tue, 17 Aug 93 21:51:15 EDT   (59kb)
+Date (revised): Wed, 25 Aug 93 18:22:27 EDT
+
+Title: Mirror Symmetry for Two Parameter Models -- I
+Authors: Philip Candelas, Xenia de la Ossa, Anamaria Font, Sheldon Katz and
+  David R. Morrison
+Comments: 57 pages, plain TeX with PostScript figures (minor corrections;
+  added missing table and figure)
+Report-no: CERN-TH.6884/93, UTTG-15-93, NEIP-93-005, OSU Math 1993-1
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B416 (1994) 481-538
+\\
+  We study, by means of mirror symmetry, the quantum geometry of the
+K\"ahler-class parameters of a number of Calabi-Yau manifolds that have
+$b_{11}=2$. Our main interest lies in the structure of the moduli space and in
+the loci corresponding to singular models. This structure is considerably
+richer when there are two parameters than in the various one-parameter models
+that have been studied hitherto. We describe the intrinsic structure of the
+point in the (compactification of the) moduli space that corresponds to the
+large complex structure or classical limit. The instanton expansions are of
+interest owing to the fact that some of the instantons belong to families with
+continuous parameters. We compute the Yukawa couplings and their expansions in
+terms of instantons of genus zero. By making use of recent results of
+Bershadsky et al. we compute also the instanton numbers for instantons of genus
+one. For particular values of the parameters the models become birational to
+certain models with one parameter. The compactification divisor of the moduli
+space thus contains copies of the moduli spaces of one parameter models. Our
+discussion proceeds via the particular models $\P_4^{(1,1,2,2,2)}[8]$ and
+$\P_4^{(1,1,2,2,6)}[12]$. Another example, $\P_4^{(1,1,1,6,9)}[18]$, that is
+somewhat different is the subject of a companion paper.
+\\

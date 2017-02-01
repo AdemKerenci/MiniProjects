@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403079
+From: "38670::MATONE"@BNLA00.AGS.BNL.GOV
+Date: Tue, 15 Mar 1994 7:55:37 -0500 (EST)   (8kb)
+
+Title: The Higgs model for anyons and Liouville action: Chaotic spectrum,
+  energy gap and exclusion principle
+Authors: M. Matone
+Comments: DFPD/93/TH/69, LaTex
+Journal-ref: Mod.Phys.Lett. A9 (1994) 1673-1680
+\\
+  Geodesic completness and self-adjointness imply that the Hamiltonian for
+anyons is the Laplacian with respect to the Weil-Petersson metric. This metric
+is complete on the Deligne-Mumford compactification of moduli (configuration)
+space. The structure of this compactification fixes the possible anyon
+configurations. This allows us to identify anyons with singularities (elliptic
+points with ramification $q^{-1}$) in the Poincar\'e metric implying that anyon
+spectrum is chaotic for $n\ge 3$. Furthermore, the bound on the holomorphic
+sectional curvature of moduli spaces implies a gap in the energy spectrum. For
+$q=0$ (punctures) anyons are infinitely separated in the Poincar\'e metric
+(hard-core). This indicates that the exclusion principle has a geometrical
+intepretation. Finally we give the differential equation satisfied by the
+generating function for volumes of the configuration space of anyons.
+\\

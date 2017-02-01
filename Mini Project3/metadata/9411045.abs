@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411045
+From: mgrabows@phy.ulaval.ca (Marek Grabowski)
+Date: Mon, 7 Nov 1994 16:42:05 +0500   (58kb)
+
+Title: Structure of the conservation laws in integrable spin chains with short
+  range interactions
+Authors: M. P. Grabowski and P. Mathieu
+Comments: 79 pages in plain TeX plus 4 uuencoded figures; (uses harvmac and
+  epsf)
+Report-no: LAVAL-PHY-21/94
+Journal-ref: Annals Phys. 243 (1995) 299-371
+\\
+  We present a detailed analysis of the structure of the conservation laws in
+quantum integrable chains of the XYZ-type and in the Hubbard model. With the
+use of the boost operator, we establish the general form of the XYZ conserved
+charges in terms of simple polynomials in spin variables and derive recursion
+relations for the relative coefficients of these polynomials. For two submodels
+of the XYZ chain - namely the XXX and XY cases, all the charges can be
+calculated in closed form. For the XXX case, a simple description of conserved
+charges is found in terms of a Catalan tree. This construction is generalized
+for the su(M) invariant integrable chain. We also indicate that a quantum
+recursive (ladder) operator can be traced back to the presence of a hamiltonian
+mastersymmetry of degree one in the classical continuous version of the model.
+We show that in the quantum continuous limits of the XYZ model, the ladder
+property of the boost operator disappears. For the Hubbard model we demonstrate
+the non-existence of a ladder operator. Nevertheless, the general structure of
+the conserved charges is indicated, and the expression for the terms linear in
+the model's free parameter for all charges is derived in closed form.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301095
+From: BOYAN@vms.cis.pitt.edu
+Date: Fri, 22 Jan 1993 17:05 EST   (8kb)
+
+Title: Quantum Spinodal Decomposition
+Authors: Daniel Boyanovsky
+Comments: REVTEX 13 pages(2 figures not included),PITT 93-01
+Journal-ref: Phys.Rev. E48 (1993) 767-771
+\\
+  We study the process of spinodal decomposition in a scalar quantum field
+theory that is quenched from an equilibrium disordered initial state at $T_i >
+T_f$ to a final state at $T_f \approx 0$. The process of formation and growth
+of correlated domains is studied in a Hartree approximation. We find an
+approximate scaling law for the size of the domains $\xi_D(t) \approx \sqrt{t
+\xi_0}$ at long times for weakly coupled theories, with $\xi_0$ the zero
+temperature correlation length.
+\\

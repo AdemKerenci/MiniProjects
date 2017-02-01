@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403033
+From: fiore@tsmi19.sissa.it
+Date: Fri, 04 Mar 1994 17:56:27 +0100   (22kb)
+
+Title: Realization of $U_q(so(N))$ within the differntial algebra on
+  ${\bf R}_q^N$
+Author: Gaetano Fiore
+Comments: 26 pages, 1 figure
+Report-no: SISSA 90/93/EP
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 169 (1995) 475-500
+\\
+  We realize the Hopf algebra $U_{q^{-1}}(so(N))$ as an algebra of differential
+operators on the quantum Euclidean space ${\bf R}_q^N$. The generators are
+suitable q-deformed analogs of the angular momentum components on ordinary
+${\bf R}^N$. The algebra $Fun({\bf R}_q^N)$ of functions on ${\bf R}_q^N$
+splits into a direct sum of irreducible vector representations of
+$U_{q^{-1}}(so(N))$; the latter are explicitly constructed as highest
+weight representations.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402031
+From: Konstadinos Sfetsos <sfetsos@fys.ruu.nl>
+Date: Sat, 5 Feb 1994 16:45:59 +0100   (30kb)
+Date (revised): Sun, 6 Feb 1994 16:20:29 +0100
+Date (revised): Sat, 12 Feb 1994 20:47:46 +0100
+
+Title: Gauged WZW models and Non-abelian duality
+Authors: Konstadinos Sfetsos
+Comments: 35 pages, harvmac, THU-94/01 (a few minor changes in subsec. 4.1 are
+  made, a 3rd App. and a Note are added)
+Journal-ref: Phys.Rev. D50 (1994) 2784-2798
+\\
+  We consider WZW models based on the non-semi-simple algebras that they were
+recently constructed as contractions of corresponding algebras for semi-simple
+groups. We give the explicit expression for the action of these models, as well
+as for a generalization of them, and discuss their general properties.
+Furthermore we consider gauged WZW models based on these non-semi-simple
+algebras and we show that there are equivalent to non-abelian duality
+transformations on WZW actions. We also show that a general non-abelian duality
+transformation can be thought of as a limiting case of the non-abelian quotient
+theory of the direct product of the original action and the WZW action for the
+symmetry gauge group $H$. In this action there is no Lagrange multiplier term
+that constrains the gauge field strength to vanish. A particular result is that
+the gauged WZW action for the coset $(G_k \otimes H_l)/H_{k+l}$ is equivalent,
+in the limit $l\to \infty$, to the dualized WZW action for $G_k$ with respect
+to the subgroup $H$.
+\\

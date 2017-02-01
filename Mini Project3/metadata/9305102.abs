@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305102
+From: Chris Fewster <C.J.Fewster@damtp.cambridge.ac.uk>
+Date: Fri, 21 May 93 12:43:06 BST   (24kb)
+
+Title: On the Energy Levels of the Hydrogen Atom
+Authors: C.J. Fewster
+Comments: 26pp, LaTeX. 1 figure available on request, DAMTP-R93/9
+\\
+  We re-examine the justification for the imposition of regular boundary
+conditions on the wavefunction at the Coulomb singularity in the treatment of
+the hydrogen atom in non-relativistic quantum mechanics. We show that the issue
+of the correct boundary conditions is not independent of the physical structure
+of the proton. Under the physically reasonable assumption that the finite size
+and structure of the proton can be represented as a positive correction to the
+Coulomb potential, we give a justification for the regular boundary condition,
+which, in contrast to the usual treatments, is physically motivated and
+mathematically rigorous. We also describe how irregular boundary conditions can
+be used to model non-positive corrections to the Coulomb potential.
+\\

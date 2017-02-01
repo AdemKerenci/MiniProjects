@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303154
+From: Jisuke Kubo <jik@hep.s.kanazawa-u.ac.jp>
+Date: Mon, 29 Mar 93 11:56:26 +0900   (19kb)
+
+Title: Gauge Equivalence in Two--Dimensional Gravity
+Authors: T. Fujiwara, Y. Igarashi, J. Kubo, and T. Tabei
+Comments: 30 pages, KANAZAWA 93-2
+Journal-ref: Phys.Rev. D48 (1993) 1736-1747
+\\
+  Two-dimensional quantum gravity is identified as a second-class system which
+we convert into a first-class system via the Batalin-Fradkin (BF) procedure.
+Using the extended phase space method, we then formulate the theory in most
+general class of gauges. The conformal gauge action suggested by David, Distler
+and Kawai is derived from a first principle. We find a local, light-cone gauge
+action whose Becchi-Rouet-Stora-Tyutin invariance implies Polyakov's curvature
+equation $\partial_{-}R=\partial_{-}^{3}g_{++}=0$, revealing the origin of the
+$SL(2,R)$ Kac-Moody symmetry. The BF degree of freedom turns out be dynamically
+active as the Liouville mode in the conformal gauge, while in the light-cone
+gauge the conformal degree of freedom plays that r{\^o}le. The inclusion of
+the cosmological constant term in both gauges and the harmonic gauge-fixing are
+also considered.
+\\

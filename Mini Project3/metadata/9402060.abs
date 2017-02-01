@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402060
+From: isaevap@theor.jinrc.dubna.su ( )
+Date: Thu, 10 Feb 94 15:21:12 +0300 (MSK)   (20kb)
+Date (revised): Wed, 9 Mar 94 12:30:33 +0300 (MSK)
+
+Title: Quantum group covariant noncommutative geometry
+Author: A. P. Isaev
+Comments: 21 pages, improved version
+Report-no: Dubna JINR E2-94-38
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 35 (1994) 6784-6801
+\\
+  The algebraic formulation of the quantum group covariant noncommutative
+geometry in the framework of the $R$-matrix approach to the theory of quantum
+groups is given. We consider structure groups taking values in the quantum
+groups and introduce the notion of the noncommutative connections and
+curvatures transformed as comodules under the "local" coaction of the structure
+group which is exterior extension of $GL_{q}(N)$. These noncommutative
+connections and curvatures generate $ GL_{q}(N)$-covariant quantum algebras.
+For such algebras we find combinations of the generators which are invariants
+under the coaction of the "local" quantum group and one can formally consider
+these invariants as the noncommutative images of the Lagrangians for the
+topological Chern-Simons models, non-abelian gauge theories and the Einstein
+gravity. We present also an explicit realization of such covariant quantum
+algebras via the investigation of the coset construction
+$GL_{q}(N+1)/(GL_{q}(N)\otimes GL(1))$.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410142
+From: RCM@hep.Physics.McGill.CA
+Date: Wed, 19 Oct 1994 18:44:43 -0400 (EDT)   (34kb)
+Date (revised): Tue, 22 Nov 1994 15:29:23 -0500 (EST)
+
+Title: On Spherically Symmetric String Solutions in Four Dimensions
+Authors: C.P. Burgess, R.C. Myers and F. Quevedo
+Comments: plain TeX, 28 pages plus 1 figure attached, minor changes and a few
+  extra references added
+Report-no: McGill-94/47, NEIP-94-011
+Journal-ref: Nucl.Phys. B442 (1995) 75-96
+\\
+  We reconsider here the problem of finding the general 4D spherically
+symmetric, asymptotically flat and time-independent solutions to the
+lowest-order string equations in the $\ap$ expansion. Our construction includes
+earlier work, but differs from it in three ways. (1) We work with general
+background metric, dilaton, axion and $U(1)$ gauge fields. (2) Much of the
+original solutions were required to be nonsingular at the apparent horizon,
+motivated by an interest in finding string corrections to black hole
+spacetimes. We relax this condition throughout, motivated by the realization
+that string theory has a less restrictive notion of what constitutes a singular
+field configuration than do point particle theories. (3) We can construct the
+general solution from a particularly simple one, by generating it from
+successive applications of the {\it noncommuting} \sltwor\ and \ooneone\
+symmetries of the low-energy string equations containing $S$ and target--space
+dualities respectively. This allows its construction using relatively simple,
+purely algebraic, techniques. The general solution is determined by the
+asymptotic behaviour of the various fields: \ie\ by the mass, dilaton charge,
+axion charge, electric charge, magnetic charge, and Taub-NUT parameter.
+\\

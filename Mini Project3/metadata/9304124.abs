@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304124
+From: laar@phyq1.physik.uni-freiburg.de (Juergen Laartz)
+Date: Mon, 26 Apr 93 12:31:57 +0200   (10kb)
+
+Title: On a Jordan-algebraic formulation of quantum mechanics: Hilbert space
+  construction
+Authors: Wolfgang Bischoff
+Comments: 12pages, latex, THEP 93/7
+\\
+  In this note I discuss some aspects of a formulation of quantum mechanics
+based entirely on the Jordan algebra of observables. After reviewing some facts
+of the formulation in the \CS -approach I present a Jordan-algebraic Hilbert
+space construction (inspired by the usual GNS-construction), thereby obtaining
+a real Hilbert space and a (Jordan-) representation of the algebra of
+observables on this space. Taking the usual case as a guideline I subsequently
+derive a Schr\"odinger equation on this Hilbert space.
+\\

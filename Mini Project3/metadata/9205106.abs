@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205106
+From: chekhov@qft.mian.su (Leonid O.Chekhov)
+Date: Tue, 26 May 92 12:57:58 +0300 (MSD)   (12kb)
+
+Title: Matrix Model for Discretized Moduli Space
+Authors: L.Chekhov
+\\
+  We study the algebraic geometrical background of the Penner--Kontsevich
+matrix model with the potential $N\alpha \tr {\bigl(- \fr 12 \L X\L X +\log
+(1-X)+X\bigr)}$. We show that this model describes intersection indices of
+linear bundles on the discretized moduli space right in the same fashion as the
+Kontsevich model is related to intersection indices (cohomological classes) on
+the Riemann surfaces of arbitrary genera. The special role of the logarithmic
+potential originated from the Penner matrix model is demonstrated. The boundary
+effects which was unessential in the case of the Kontsevich model are now
+relevant, and intersection indices on the discretized moduli space of genus $g$
+are expressed through Kontsevich's indices of the genus $g$ and of the lower
+genera.
+\\

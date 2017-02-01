@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210106
+From: Gil Rivlis <gil@asterix.lbl.gov>
+Date: Mon, 19 Oct 92 17:53:10 -0700   (31kb)
+
+Title: Solving Topological 2D Quantum Gravity Using Ward Identities
+Authors: David Montano and Gil Rivlis
+Comments: 33 pages, UCB-PTH-92/30 Includes 8 Postscript figures
+Journal-ref: Nucl.Phys. B404 (1993) 483-516
+\\
+  A topological procedure for computing correlation functions for any (1,q)
+model is presented. Our procedure can be used to compute any correlation
+function on the sphere as well as some correlation functions at higher genus.
+We derive new and simpler recursion relations that extend previously known
+results based on W constraints. In addition, we compute an effective contact
+algebra with multiple contacts that extends Verlindes' algebra. Computational
+techniques based on the KdV approach are developed and used to compute the same
+correlation functions. A simple and elegant proof of the puncture equation
+derived directly from the KdV equations is included. We hope that this approach
+can lead to a deeper understanding of D=1 quantum gravity and non-critical
+string theory. (Paper uses tex TeX macro package jytex and includes 8
+Postscript figures in the text using dvips (and epsf). Instructions for
+processing are included.)
+\\

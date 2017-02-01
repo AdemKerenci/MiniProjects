@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304095
+From: denjoe@stp.dias.ie
+Date: Wed, 21 Apr 93 18:49:18 BST   (18kb)
+
+Title: Geometry the Renormalization Group and Gravity
+Authors: Denjoe O'Connor and C. R. Stephens
+Comments: 16 pages of LaTex, DIAS-STP-92-36
+Journal-ref: Prog.Theor.Phys. 90 (1993) 747-752
+\\
+  We discuss the relationship between geometry, the renormalization group (RG)
+and gravity. We begin by reviewing our recent work on crossover problems in
+field theory. By crossover we mean the interpolation between different
+representations of the conformal group by the action of relevant operators. At
+the level of the RG this crossover is manifest in the flow between different
+fixed points induced by these operators. The description of such flows requires
+a RG which is capable of interpolating between qualitatively different degrees
+of freedom. Using the conceptual notion of course graining we construct some
+simple examples of such a group introducing the concept of a ``floating'' fixed
+point around which one constructs a perturbation theory. Our consideration of
+crossovers indicates that one should consider classes of field theories,
+described by a set of parameters, rather than focus on a particular one. The
+space of parameters has a natural metric structure. We examine the geometry of
+this space in some simple models and draw some analogies between this space,
+superspace and minisuperspace.
+\\

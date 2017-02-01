@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205028
+From: Andy Strominger <andy@denali.physics.ucsb.edu>
+Date: Tue, 12 May 92 18:09:28 PDT   (17kb)
+
+Title: Fadeev-Popov Ghosts and 1+1 Dimensional Black Hole Evaporation
+Authors: Andrew Strominger
+Comments: 16 pages and 2 figures
+Report-no: UCSBTH-92-18
+Journal-ref: Phys.Rev. D46 (1992) 4396-4401
+\\
+  Recently Callan, Giddings, Harvey and the author derived a set of one-loop
+semiclassical equations describing black hole formation/evaporation in
+two-dimensional dilaton gravity conformally coupled to $N$ scalar fields. These
+equations were subsequently used to show that an incoming matter wave develops
+a black hole type singularity at a critical value $\phi_{cr}$ of the dilaton
+field. In this paper a modification to these equations arising from the
+Fadeev-Popov determinant is considered and shown to have dramatic effects for
+$N<24$, in which case $\phi_{cr}$ becomes complex. The $N<24$ equations are
+solved along the leading edge of an incoming matter shock wave and found to be
+non-singular. The shock wave arrives at future null infinity in a zero energy
+state, gravitationally cloaked by negative energy Hawking radiation. Static
+black hole solutions supported by a radiation bath are also studied. The
+interior of the event horizon is found to be non-singular and asymptotic to
+deSitter space for $N<24$, at least for sufficiently small mass. It is noted
+that the one-loop approximation is {\it not} justified by a small parameter for
+small $N$. However an alternate theory (with different matter content) is found
+for which the same equations arise to leading order in an adjustable small
+parameter.
+\\

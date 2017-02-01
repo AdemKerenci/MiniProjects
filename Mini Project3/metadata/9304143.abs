@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304143
+From: Yao-Zhong Zhang <yzz@maths.uq.oz.au>
+Date: Wed, 28 Apr 93 17:27:44 EST   (9kb)
+Date (revised): Thu, 20 May 93 12:16:50 EST
+Date (revised): Fri, 2 Jul 93 12:53:11 EST
+
+Title: Quantized Affine Lie Algebras and Diagonalization of Braid Generators
+Author: Mark D. Gould and Yao-Zhong Zhang
+Comments: 11 pages (minor error corrected)
+Report-no: UQMATH-93-03
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Lett.Math.Phys. 30 (1994) 267
+\\
+  Let $U_q(\hat{\cal G})$ be a quantized affine Lie algebra. It is proven that
+the universal R-matrix $R$ of $U_q(\hat{\cal G})$ satisfies the celebrated
+conjugation relation $R^\dagger=TR$ with $T$ the usual twist map. As
+applications, braid generators are shown to be diagonalizable on arbitrary
+tensor product modules of integrable irreducible highest weight $U_q(\hat{\cal
+G})$-module and a spectral decomposition formula for the braid generators is
+obtained which is the generalization of Reshetikhin's and Gould's forms to the
+present affine case. Casimir invariants are constructed and their eigenvalues
+computed by means of the spectral decomposition formula. As a by-product, an
+interesting identity is found.
+\\

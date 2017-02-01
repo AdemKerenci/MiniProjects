@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210058
+From: KRIVONOS@LNF.INFN.IT
+Date: Sat, 10 OCT 92 16:26 GMT   (23kb)
+
+Title: Boussinesq-type equations from nonlinear realizations of $W_3$
+Authors: E. Ivanov, S. Krivonos and R.P. Malik
+Comments: 23 pages, LaTeX
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 3199-3222
+\\
+  We construct new coset realizations of infinite-dimensional linear
+$W_3^{\infty}$ symmetry associated with Zamolodchikov's $W_3$ algebra which are
+different from the previously explored $sl_3$ Toda realization of
+$W_3^{\infty}$. We deduce the Boussinesq and modified Boussinesq equations as
+constraints on the geometry of the corresponding coset manifolds.The main
+characteristic features of these realizations are:i. Among the coset parameters
+there are the space and time coordinates $x$ and $t$ which enter the Boussinesq
+equations, all other coset parameters are regarded as fields depending on these
+coordinates;ii. The spin 2 and 3 currents of $W_3$ and two spin 1 $U(1)$ Kac-
+Moody currents as well as two spin 0 fields related to the $W_3$currents via
+Miura maps, come out as the only essential parameters-fields of these cosets.
+The remaining coset fields are covariantly expressed through them;iii.The Miura
+maps get a new geometric interpretation as $W_3^{\infty}$ covariant constraints
+which relate the above fields while passing from one coset manifold to another;
+iv. The Boussinesq equation and two kinds of the modified Boussinesq equations
+appear geometrically as the dynamical constraints accomplishing $W_3^{\infty}$
+covariant reductions of original coset manifolds to their two-dimensional
+geodesic submanifolds;v. The zero-curvature representations for these equations
+arise automatically as a consequence of the covariant reduction. The approach
+proposed could provide a universal geometric description of the relationship
+between $W$-type algebras and integrable hierarchies.
+\\

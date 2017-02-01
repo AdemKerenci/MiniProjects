@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403168
+From: kirillov-alexander@MATH.YALE.EDU (Alexander Kirillov)
+Date: Mon, 28 Mar 1994 11:42:17 -0500   (25kb)
+Date (revised): Tue, 24 Jan 1995 14:29:32 -0500
+
+Title: On the affine analogue of Jack's and Macdonald's polynomials
+Author: Pavel Etingof (Harvard), Alexander Kirillov Jr. (Yale)
+Comments: 27 pages. Revised version; minor corrections
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We define the analogue of Jack's (Jacobi) polynomials, which were defined for
+finite-dimensional root system by Heckman and Opdam as eigenfunctions of
+trigonometric Sutherland operator for the affine root system $\hat A_{n-1}$. In
+the affine case, we define the polynomials as eigenfunctions of "affine
+Sutherland operator", which is Calogero-Sutherland operator with elliptic
+potential plus the term involving derivative with respect to the modular
+parameter. We show that such polynomials can be constructed explicitly as
+traces of certain intertwiners for affine Lie algebra. Also, we define the
+q-analogue of this construction, which gives affine analogues of Macdonald's
+polynomials, and show the (conjectured) relation between the Macdonald's inner
+product identities for affine case and scalar product of conformal blocks in
+the WZW model.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9203004
+From: David Senechal <dsenech@phy.ulaval.ca>
+Date: Mon, 2 Mar 92 13:43:44 EST   (20kb)
+Date (revised): Mon, 28 Sep 92 15:25:27 EDT
+
+Title: Can fusion coefficients be calculated from the depth rule ?
+Authors: A.N. Kirillov, P. Mathieu, D. Senechal and M. Walton
+Comments: 27 pages
+Journal-ref: Nucl. Phys. B391 (1993) 651
+\\
+  The depth rule is a level truncation of tensor product coefficients expected
+to be sufficient for the evaluation of fusion coefficients. We reformulate the
+depth rule in a precise way, and show how, in principle, it can be used to
+calculate fusion coefficients. However, we argue that the computation of the
+depth itself, in terms of which the constraints on tensor product coefficients
+is formulated, is problematic. Indeed, the elements of the basis of states
+convenient for calculating tensor product coefficients do not have a
+well-defined depth! We proceed by showing how one can calculate the depth in an
+`approximate' way and derive accurate lower bounds for the minimum level at
+which a coupling appears. It turns out that this method yields exact results
+for $\widehat{su}(3)$ and constitutes an efficient and simple algorithm for
+computing $\widehat{su}(3)$ fusion coefficients.
+\\

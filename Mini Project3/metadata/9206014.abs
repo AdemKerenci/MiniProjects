@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206014
+From: neil@halo.tau.ac.il (Neil Marcus)
+Date: Wed, 3 Jun 1992 17:25:10 -0500   (31kb)
+
+Title: Discrete States of 2D String Theory in Polyakov's Light-Cone Gauge
+Authors: Neil Marcus and Yaron Oz
+Comments: 39 Pages (LaTeX). LaTeX figures included
+Report-no: TAUP-1962-92
+Journal-ref: Nucl. Phys. B392 (1993) 281
+\\
+  We find the discrete states of the c=1 string in the light-cone gauge of
+Polyakov. When the state space of the gravitational sector of the theory is
+taken to be the irreducible representations of the SL(2,R) current algebra, the
+cohomology of the theory is NOT the same as that in the conformal gauge. In
+particular, states with ghost numbers up to 4 appear. However, after taking the
+space of the theory to be the Fock space of the Wakimoto free-field
+representation of the SL(2,R), the light-cone and conformal gauges are
+equivalent. This supports the contention that the discrete states of the theory
+are physical. We point out that the natural states in the theory do not satisfy
+the KPZ constraints.
+\\

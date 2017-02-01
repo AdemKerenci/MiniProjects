@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302085
+From: avdeevl@theor.jinrc.dubna.su ( )
+Date: Thu, 18 Feb 93 17:09:41 +0300 (MSK)   (25kb)
+Date (revised): Mon, 8 Mar 93 12:09:34 +0300 (MSK)
+Date (revised): Tue, 9 Mar 93 12:56:15 +0300 (MSK)
+Date (revised): Wed, 10 Mar 93 09:29:07 +0300 (MSK)
+
+Title: Difficulties of an Infrared Extension of Differential Renormalization
+Authors: L.V.Avdeev, D.I.Kazakov and I.N.Kondrashuk
+Comments: (minor changes have been made to make clear that no infrared problems
+  occur in the original ultraviolet procedure of [1]; subsection 2.1 has been
+  added to outline the ideas a simple example), 26 pages, LaTeX, JINR preprint
+  E2-92-538, Dubna (Dec.1992)
+Journal-ref: Int.J.Mod.Phys. A9 (1994) 1067-1096
+\\
+  We investigate the possibility of generalizing differential renormalization
+of D.Z.Freedman, K.Johnson and J.I.Latorre in an invariant fashion to theories
+with infrared divergencies via an infrared $\tilde{R}$ operation.
+Two-dimensional $\sigma$ models and the four-dimensional $\phi^4$ theory
+diagrams with exceptional momenta are used as examples, while dimensional
+renormalization serves as a test scheme for comparison. We write the basic
+differential identities of the method simultaneously in co-ordinate and
+momentum space, introducing two scales which remove ultraviolet and infrared
+singularities. The consistent set of Fourier-transformation formulae is
+derived. However, the values for tadpole-type Feynman integrals in higher
+orders of perturbation theory prove to be ambiguous, depending on the order of
+evaluation of the subgraphs. In two dimensions, even earlier than this
+ambiguity manifests itself, renormalization-group calculations based on
+infrared extension of differential renormalization lead to incorrect results.
+We conclude that the extended differential renormalization procedure does not
+perform the infrared $\tilde{R}$ operation in a self-consistent way, as the
+original recipe does the ultraviolet $R$ operation.
+\\

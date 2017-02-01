@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404110
+From: VOLOVICH@MAT.UTOVRM.IT
+Date: Tue, 19 APR 94 10:06 GMT   (11kb)
+
+Title: Quantum Group Sheaf and Quantum Manifolds
+Author: I. Volovich
+Comments: 12 pages
+Report-no: SMI-94-2, CVR-94-10
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  The problem of introducing a dependence of elements of quantum group on
+classical parameters is considered. It is suggested to interpret a homomorphism
+from the algebra of functions on quantum group to the algebra of sections of a
+sheaf of algebras on a classical manifold as describing such a dependence. It
+is argued that the functorial point of view of group schemes is more
+appropriate in quantum group field theory. A sheaf of the Hopf algebras over
+the manifold (quantum sheaf) is constructed by using bosonization formulas for
+the algebra of functions on the quantum group $SU_{q}(2)$ and the theory of
+repre- sentations of canonical commutation relations. A family of automorphisms
+of the Hopf algebra depending on classical variables is described. Quantum
+manifolds, i.e. manifolds with commutative and non-commutative coordinates are
+discussed as a generalization of supermanifolds. Quantum group chiral fields
+and relations with algebraic differential calculus are discussed.
+\\

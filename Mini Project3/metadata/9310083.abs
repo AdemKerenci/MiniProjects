@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310083
+From: kirillov-alexander@MATH.YALE.EDU (Alexander Kirillov)
+Date: Thu, 14 Oct 1993 11:19:41 -0400   (23kb)
+Date (revised): Wed, 20 Oct 1993 12:39:45 -0400
+
+Title: Representations of affine Lie algebras, parabolic differential
+  equations, and Lame functions
+Author: Pavel Etingof and Alexander Kirillov Jr
+Comments: 30 pages, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Classical Analysis
+  and ODEs
+\\
+  We consider correlation functions for the Wess-Zumino-Witten model on the
+torus with the insertion of a Cartan element; mathematically this means
+that we consider the function of the form $F=\Tr (\Phi_1 (z_1)\ldots \Phi_n
+(z_n)q^{-\d}e^{h})$ where $\Phi_i$ are intertwiners between Verma modules
+and evaluation modules over an affine Lie algebra $\ghat$, $\d$ is the
+grading operator in a Verma module and $h$ is in the Cartan subalgebra of
+$\g$. We derive a system of differential equations satisfied by such a
+function. In particular, the calculation of $q\frac{\d} {\d q} F$ yields a
+parabolic second order PDE closely related to the heat equation on the
+compact Lie group corresponding to $\g$. We consider in detail the case $n=1$,
+$\g = \sltwo$. In this case we get the following differential equation
+($q=e^{\pi \i \tau}$): $ \left( -2\pi\i (K+2)\frac{\d}{\d\tau}
++\frac{\d^2}{\d x^2}\right) F = (m(m+1)\wp(x+\frac{\tau}{2}) +c)F$,
+which for $K=-2$ (critical level) becomes Lam\'e equation. For the case
+$m\in\Z$ we derive integral formulas for $F$ and find their asymptotics
+as $K\to -2$, thus recovering classical Lam\'e functions.
+\\

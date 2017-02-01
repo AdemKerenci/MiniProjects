@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401103
+From: sadov@string.harvard.edu (Vladimir Sadov)
+Date: Thu, 20 Jan 94 18:18:52 -0500   (27kb)
+Date (revised): Fri, 21 Jan 94 17:44:42 -0500
+
+Title: Quantum cohomology of partial flag manifolds
+Author: Alexander Astashkevich, V. Sadov
+Comments: 33 pages
+Report-no: HUTP-93/A040
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Commun.Math.Phys. 170 (1995) 503-528
+\\
+  We compute the quantum cohomology rings of the partial flag manifolds
+F_{n_1\cdots n_k}=U(n)/(U(n_1)\times \cdots \times U(n_k)). The inductive
+computation uses the idea of Givental and Kim. Also we define a notion of the
+vertical quantum cohomology ring of the algebraic bundle. For the flag bundle
+F_{n_1\cdots n_k}(E) associated with the vector bundle E this ring is found.
+\\

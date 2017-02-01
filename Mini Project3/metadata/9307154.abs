@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307154
+From: Saburo Higuchi <hig@hethy.phys.titech.ac.jp>
+Date: Mon, 26 Jul 93 15:34:18 +0900   (56kb)
+Date (revised): Wed, 20 Oct 93 20:30:35 +0900
+
+Title: Renormalization Group Approach to Matrix Models and Vector Models
+Authors: Saburo Higuchi, Chigak Itoi and Norisuke Sakai
+Comments: Talk at the workshop "Quantum Gravity", Yukawa Institute, Kyoto, Nov.
+  1992, LaTeX, 22 pages + 3 Postscript figures (included in uuencoded form),
+  TIT/HEP-219,NUP-A-93-8 (a few minor corrections in formulae)
+Journal-ref: Prog.Theor.Phys.Suppl. 114 (1993) 53-71
+\\
+  The renormalization group approach is studied for large $N$ models. The
+approach of Br\'ezin and Zinn-Justin is explained and examined for matrix
+models. The validity of the approach is clarified by using the vector model as
+a similar and simpler example. An exact difference equation is obtained which
+relates free energies for neighboring values of $N$. The reparametrization
+freedom in field space provides infinitely many identities which reduce the
+infinite dimensional coupling constant space to that of finite dimensions. The
+effective beta functions give exact values for the fixed points and the
+susceptibility exponents. A detailed study of the effective renormalization
+group flow is presented for cases with up to two coupling constants. We draw
+the two-dimensional flow diagram.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406158
+From: shojman@abello.seci.uchile.cl
+Date: Thu, 23 Jun 1994 12:37:49 -0500 (CDT)   (9kb)
+
+Title: Non-Lagrangian Construction of Hamiltonian Structures
+Authors: Sergio A. Hojman
+Comments: 22 pages, UCH-FT940214 , (LaTeX)
+\\
+  A method to construct Hamiltonian theories for systems of both ordinary and
+partial differential equations is presented. The knowledge of a Lagrangian is
+not at all necessary to achieve the result. The only ingredients required for
+the construction are one solution of the symmetry (perturbation) equation and
+one constant of the motion of the original system. It turns out that the
+Poisson bracket structure for the dynamical variables is far from being
+uniquely determined by the differential equations of motion. Examples in
+classical mechanics as well as in field theory are presented.
+\\

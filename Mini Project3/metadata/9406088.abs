@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406088
+From: Michael Martin Nieto 505-667-6127 <mmn@pion.lanl.gov>
+Date: Tue, 14 Jun 94 10:26:37 -0600   (10kb)
+
+Title: Exact, E=0, Classical and Quantum Solutions for General Power-Law
+  Oscillators
+Authors: Michael Martin Nieto and Jamil Daboul
+Comments: 12 pages, including 7 figures available from the authors. Los Alamos
+  preprint LA-UR-94-1949. Invited talk at 2nd International Workshop on
+  Harmonic Oscillators, held at Cocoyoc, Morelos, Mexico
+\\
+  For zero energy, $E=0$, we derive exact, classical and quantum solutions for
+{\em all} power-law oscillators with potentials $V(r)=-\gamma/r^\nu$,
+$\gamma>0$ and $-\infty <\nu<\infty$. When the angular momentum is non-zero,
+these solutions lead to the classical orbits $\r(t)= [\cos \mu
+(\th(t)-\th_0(t))]^{1/\mu}$, with $\mu=\nu/2-1 \ne 0$. For $\nu>2$, the orbits
+are bound and go through the origin. We calculate the periods and precessions
+of these bound orbits, and graph a number of specific examples. The unbound
+orbits are also discussed in detail. Quantum mechanically, this system is also
+exactly solvable. We find that when $\nu>2$ the solutions are normalizable
+(bound), as in the classical case. Further, there are normalizable discrete,
+yet {\it unbound}, states. They correspond to unbound classical particles which
+reach infinity in a finite time. Finally, the number of space dimensions of the
+system can determine whether or not an $E=0$ state is bound. These and other
+interesting comparisons to the classical system will be discussed.
+\\

@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205116
+From: TEOTONIO@suhep.phy.syr.edu
+Date: Sat, 30 May 1992 17:43 EST   (24kb)
+
+Title: The Edge States of the BF System and the London Equations
+Authors: A.P. Balachandran and P. Teotonio-Sobrinho
+Comments: 38 pages
+Report-no: SU-4240-507
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 723-752
+\\
+  It is known that the 3d Chern-Simons interaction describes the scaling limit
+of a quantum Hall system and predicts edge currents in a sample with boundary,
+the currents generating a chiral $U(1)$ Kac-Moody algebra. It is no doubt also
+recognized that in a somewhat similar way, the 4d $BF$ interaction (with $B$ a
+two form, $dB$ the dual $^*j$ of the eletromagnetic current, and F the
+electromagnetic field form) describes the scaling limit of a superconductor. We
+show in this paper that there are edge excitations in this model as well for
+manifolds with boundaries. They are the modes of a scalar field with invariance
+under the group of diffeomorphisms (diffeos) of the bounding spatial
+two-manifold. Not all of this group seem implementable by operators in quantum
+theory, the implementable group being a subgroup of volume preserving diffeos.
+The $BF$ system in this manner can lead to the $w_{1+\infty }$ algebra and its
+variants. Lagrangians for fields on the bounding manifold which account for the
+edge observables on quantization are also presented. They are the analogues of
+the $1+1$ dimentional massless scalar field Lagrangian describing the edge
+modes of an abelian Chern-Simons theory with a disk as the spatial manifold. We
+argue that the addition of ``Maxwell'' terms constructed from $F\wedge ^*F$ and
+$dB\wedge ^*dB$ do not affect the edge states, and that the augmented
+Lagrangian has an infinite number of conserved charges- the aforementioned
+scalar field modes- localized at the edges. This Lagrangian is known to
+describe London equations and a massive vector field. A $(3+1)$ dimensional
+generalization of the Hall effect involving vortices coupled to $B$ is also
+proposed.
+\\

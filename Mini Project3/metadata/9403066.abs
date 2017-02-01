@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403066
+From: MATHPHYS@HUHEPT.HARVARD.EDU
+Date: Thu, 10 Mar 1994 15:45:34 -0500 (EST)   (44kb)
+Date (revised): Thu, 23 Jun 1994 18:35:55 -0400 (EDT)
+
+Title: Combinatorial quantization of the Hamiltonian Chern-Simons theory I
+Author: A. Yu. Alekseev, H. Grosse, V. Schomerus
+Comments: 49 pages. Some minor corrections, discussion of positivity improved,
+  a number of remarks and a reference added)
+Report-no: HUTMP 94-B336, ESI 79 (1994), UUITP 5/94, UWThPh-1994-8
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 172 (1995) 317-358
+\\
+  Motivated by a recent paper of Fock and Rosly \cite{FoRo} we describe a
+mathematically precise quantization of the Hamiltonian Chern-Simons theory. We
+introduce the Chern-Simons theory on the lattice which is expected to reproduce
+the results of the continuous theory exactly. The lattice model enjoys the
+symmetry with respect to a quantum gauge group. Using this fact we construct
+the algebra of observables of the Hamiltonian Chern-Simons theory equipped with
+a *-operation and a positive inner product.
+\\

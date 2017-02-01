@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411226
+From: Denjoe O'Connor <denjoe@stp.dias.ie>
+Date: Wed, 30 Nov 1994 03:05:32 +0000 (GMT)   (13kb)
+
+Title: Critical Temperature and Amplitude Ratios from a Finite-Temperature
+  Renormalization Group
+Authors: M.A. van Eijck, Denjoe O'Connor and C.R. Stephens
+Comments: 14 pages of LaTeX. Postscript figures available upon request form
+  denjoe@stp.dias.ie
+Report-no: DIAS-STP-94-33; ITFA-94-29; ICN-UNAM-94-07
+Journal-ref: Int.J.Mod.Phys. A10 (1995) 3343-3358
+\\
+  We study $\l\f^4$ theory using an environmentally friendly finite-temperature
+renormalization group. We derive flow equations, using a fiducial temperature
+as flow parameter, develop them perturbatively in an expansion free from
+ultraviolet and infrared divergences, then integrate them numerically from zero
+to temperatures above the critical temperature. The critical temperature, at
+which the mass vanishes, is obtained by integrating the flow equations and is
+determined as a function of the zero-temperature mass and coupling. We
+calculate the field expectation value and minimum of the effective potential as
+functions of temperature and derive some universal amplitude ratios which
+connect the broken and symmetric phases of the theory. The latter are found to
+be in good agreement with those of the three-dimensional Ising model obtained
+from high- and low-temperature series expansions.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303118
+From: KOO%YALPH2.bitnet@YaleVM.YCC.Yale.Edu
+Date: 20 Mar 1993 16:55:49 -0400 (EDT)   (88kb)
+
+Title: Fused Potts Models
+Authors: W.M.Koo and H.Saleur
+Comments: 60 pages and 39 figures, uuencoded, tar, compressed Latex files,
+  YCTP-P44-92,USC-93-013
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 5165
+\\
+  Generalizing the mapping between the Potts model with nearest neighbor
+interaction and six vertex model, we build a family of "fused Potts models"
+related to the spin $k/2$ ${\rm U}_{q}{\rm su}(2)$ invariant vertex model and
+quantum spin chain. These Potts model have still variables taking values
+$1,\ldots,Q$ ($\sqrt{Q}=q+q^{-1}$) but they have a set of complicated multi
+spin interactions. The general technique to compute these interactions, the
+resulting lattice geometry, symmetries, and the detailed examples of $k=2,3$
+are given. For $Q>4$ spontaneous magnetizations are computed on the integrable
+first order phase transition line, generalizing Baxter's results for $k=1$. For
+$Q\leq 4$, we discuss the full phase diagram of the spin one ($k=2$)
+anisotropic and ${\rm U}_{q}{\rm su}(2)$ invariant quantum spin chain (it
+reduces in the limit $Q=4$ ($q=1$) to the much studied phase diagram of the
+isotropic spin one quantum chain). Several critical lines and massless phases
+are exhibited. The appropriate generalization of the Valence Bond State method
+of Affleck et al. is worked out.
+\\

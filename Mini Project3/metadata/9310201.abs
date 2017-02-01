@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310201
+From: baez@ucrmath.ucr.edu (john baez)
+Date: Sun, 31 Oct 93 12:09:33 GMT   (10kb)
+
+Title: Generalized Measures in Gauge Theory
+Author: John C. Baez
+Comments: 12 pages
+Subj-class: High Energy Physics - Theory; Operator Algebras
+Journal-ref: Lett.Math.Phys. 31 (1994) 213-224
+\\
+  Let P -> M be a principal G-bundle. Using techniques from the loop
+representation of gauge theory, we construct well-defined substitutes for
+``Lebesgue measure'' on the space A of connections on P and for ``Haar
+measure'' on the group Ga of gauge transformations. More precisely, we define
+algebras of ``cylinder functions'' on the spaces A, Ga, and A/Ga, and define
+generalized measures on these spaces as continuous linear functionals on the
+corresponding algebras. Borrowing some ideas from lattice gauge theory, we
+characterize generalized measures on A, Ga, and A/Ga in terms of graphs
+embedded in M. We use this characterization to construct generalized measures
+on A and Ga, respectively. The ``uniform'' generalized measure on A is
+invariant under the group of automorphisms of P. It projects down to the
+generalized measure on A/Ga considered by Ashtekar and Lewandowski in the case
+G = SU(n). The ``generalized Haar measure'' on Ga is right- and left-invariant
+as well as Aut(P)-invariant. We show that averaging any generalized measure on
+A against generalized Haar measure gives a gauge-invariant generalized measure
+on A.
+\\

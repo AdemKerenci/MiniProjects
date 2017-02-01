@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402119
+From: drm@math.duke.edu (David R. Morrison)
+Date: Mon, 21 Feb 94 18:01:41 EST   (44kb)
+
+Title: Mirror Manifolds in Higher Dimension
+Authors: Brian R. Greene, David R. Morrison and M. Ronen Plesser
+Comments: 44 pages plus 3 tables using harvmac
+Report-no: CLNS-93/1253, IASSNS-HEP-94/2, YCTP-P31-92
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Commun.Math.Phys. 173 (1995) 559-598
+\\
+  We describe mirror manifolds in dimensions different from the familiar case
+of complex threefolds. We emphasize the simplifying features of dimension three
+and supply more robust methods that do not rely on such special characteristics
+and hence naturally generalize to other dimensions. The moduli spaces for
+Calabi--Yau $d$-folds are somewhat different from the ``special K\"ahler
+manifolds'' which had occurred for $d=3$, and we indicate the new geometrical
+structures which arise. We formulate and apply procedures which allow for the
+construction of mirror maps and the calculation of order-by-order instanton
+corrections to Yukawa couplings. Mathematically, these corrections are expected
+to correspond to calculating Chern classes of various parameter spaces (Hilbert
+schemes) for rational curves on Calabi--Yau manifolds. Our results agree with
+those obtained by more traditional mathematical methods in the limited number
+of cases for which the latter analysis can be carried out. Finally, we make
+explicit some striking relations between instanton corrections for various
+Yukawa couplings, derived from the associativity of the operator product
+algebra.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402145
+From: Benjamin Enriquez <enriquez@orphee.polytechnique.fr>
+Date: Fri, 25 Feb 1994 18:07:05 +0100 (MET)   (13kb)
+
+Title: Quantum principal commutative subalgebra in the nilpotent part of
+  $U_q\widehat{s\ell}_2$ and lattice KdV variables
+Authors: B. Enriquez
+Journal-ref: Commun.Math.Phys. 170 (1995) 197-206
+\\
+  We propose a quantum lattice version of Feigin and E. Frenkel's
+constructions, identifying the KdV differential polynomials with functions on a
+homogeneous space under the nilpotent part of $\widehat{s\ell}_2$. We construct
+an action of the nilpotent part $U_q\widehat n_+$ of $U_q\widehat{s\ell}_2$ on
+their lattice counterparts, and embed the lattice variables in a $U_q\widehat
+n_+$-module, coinduced from a quantum version of the principal commutative
+subalgebra, which is defined using the identification of $U_q\widehat n_+$ with
+its coordinate algebra.
+\\

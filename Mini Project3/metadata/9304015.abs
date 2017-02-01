@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304015
+From: DADDA@to.infn.it
+Date: Mon, 5 Apr 1993 19:38:13 +0200 (WET-DST)   (15kb)
+Date (revised): Fri, 9 Apr 1993 14:31:13 +0200 (WET-DST)
+
+Title: Two dimensional QCD is a one dimensional Kazakov-Migdal model
+Authors: M. Caselle, A. D'Adda, L. Magnea and S. Panzeri
+Comments: DFTT 15/93, 17 pages, Latex (Besides minor changes and comments added
+  we note that for U(N) odd and even N have to be treated separately)
+Journal-ref: Nucl.Phys. B416 (1994) 751-770
+\\
+  We calculate the partition functions of QCD in two dimensions on a cylinder
+and on a torus in the gauge $\partial_{0} A_{0} = 0$ by integrating explicitly
+over the non zero modes of the Fourier expansion in the periodic time variable.
+The result is a one dimensional Kazakov-Migdal matrix model with eigenvalues on
+a circle rather than on a line. We prove that our result coincides with the
+standard expansion in representations of the gauge group. This involves a non
+trivial modular transformation from an expansion in exponentials of $g^2$ to
+one in exponentials of $1/g^2$. Finally we argue that the states of the $U(N)$
+or $SU(N)$ partition function can be interpreted as a gas of N free fermions,
+and the grand canonical partition function of such ensemble is given explicitly
+as an infinite product.
+\\

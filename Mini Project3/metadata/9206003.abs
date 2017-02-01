@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206003
+From: babelon@lpthe.jussieu.fr
+Date: Mon, 1 Jun 92 16:13:58 MET DST   (10kb)
+
+Title: From Form Factors to Correlation Functions: The Ising Model
+Authors: Olivier Babelon, Denis Bernard
+Comments: SPhT-92-062; LPTHE-92-20
+Journal-ref: Phys.Lett. B288 (1992) 113-120
+\\
+  Using exact expressions for the Ising form factors, we give a new very simple
+proof that the spin-spin and disorder-disorder correlation functions are
+governed by the Painlev\'e III non linear differential equation. We also show
+that the generating function of the correlation functions of the descendents of
+the spin and disorder operators is a $N$-soliton, $N\to\infty$, $\tau$-function
+of the sinh-Gordon hierarchy. We discuss a relation of our approach to
+isomonodromy deformation problems, as well as further possible generalizations.
+\\

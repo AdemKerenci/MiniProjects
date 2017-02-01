@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202031
+From: David Wiltshire <dlw@physics.adelaide.edu.au>
+Date: Sat, 8 Feb 92 16:39:23 CST   (40kb)
+Date (revised): Tue, 14 Apr 92 14:00:11 CST
+
+Title: Black Holes in Higher Derivative Gravity Theories
+Authors: S. Mignemi & D.L. Wiltshire
+Comments: (58 pages, 10 figs not included, avail on request)
+Journal-ref: Phys. Rev. D46 (1992) 1475
+\\
+  We study static spherically symmetric solutions of Einstein gravity plus an
+action polynomial in the Ricci scalar, $R$, of arbitrary degree, $n$, in
+arbitrary dimension, $D$. The global properties of all such solutions are
+derived by studying the phase space of field equations in the equivalent theory
+of gravity coupled to a scalar field, which is obtained by a field redefinition
+and conformal transformation. The following uniqueness theorem is obtained:
+provided that the coefficient of the $R^2$ term in the Lagrangian polynomial is
+positive then the only static spherically symmetric asymptotically flat
+solution with a regular horizon in these models is the Schwarzschild solution.
+Other branches of solutions with regular horizons, which are asymptotically
+anti-de Sitter, or de Sitter, are also found. An exact Schwarzschild-de Sitter
+type solution is found to exist in the $R+aR^2$ if $D>4$. If terms of cubic or
+higher order in $R$ are included in the action, then such solutions also exist
+in four dimensions. The general Schwarzschild-de Sitter type solution for
+arbitrary $D$ and $n$ is given. The fact that the Schwarzschild solution in
+these models does not coincide with the exterior solution of physical bodies
+such as stars has important physical implications which we discuss. As a
+byproduct, we classify all static spherically symmetric solutions of
+$D$-dimensional gravity coupled to a scalar field with a potential consisting
+of a finite sum of exponential terms.
+\\

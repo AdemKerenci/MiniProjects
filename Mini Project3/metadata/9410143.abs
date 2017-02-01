@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410143
+From: Rikard von Unge <unge@vanosf.physto.se>
+Date: Wed, 19 Oct 1994 18:44:12 +0100 (MET)   (22kb)
+
+Title: Hamiltonian BRST Quantization of the Conformal String
+Authors: H.Gustafsson, U.Lindstr\"om, P.Saltsidis, B.Sundborg and R.v.Unge
+Comments: 33pp (LaTeX), USITP-94-08
+Journal-ref: Nucl. Phys. B440 (1995) 495-520
+\\
+  We present a new formulation of the tensionless string ($T= 0$) where the
+space-time conformal symmetry is manifest. Using a Hamiltonian BRST scheme we
+quantize this {\em Conformal String} and find that it has critical dimension
+$D=2$. This is in keeping with our classical result that the model describes
+massless particles in this dimension. It is also consistent with our previous
+results which indicate that quantized conformally symmetric tensionless strings
+describe a topological phase away {}from $D=2$. We reach our result by
+demanding nilpotency of the BRST charge and consistency with the Jacobi
+identities. The derivation is presented in two different ways: in operator
+language and using mode expansions. Careful attention is payed to
+regularization, a crucial ingredient in our calculations.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304003
+From: RUSSO@UTAPHY.PH.UTEXAS.EDU
+Date: Thu, 1 Apr 1993 17:55:10 -0600 (CST)   (29kb)
+
+Title: Discrete Strings and Deterministic Cellular Strings
+Authors: J.G. Russo
+Comments: 40 pages, UTTG-11-93
+Journal-ref: Nucl. Phys. B406 (1993) 107
+\\
+  A discrete string theory --a theory of embeddings from ${\bf Z}\times {\bf
+Z}_C\to {\bf R}^D$, where $C$ is the number of components of the string-- is
+explored. The closure of the algebra of constraints (`${\bf Z}_C$-Virasoro
+algebra') is exhibited. The ${\bf Z}_C$-Virasoro `algebra' is shown to be
+anomaly free in arbitrary number of target space dimensions. We prove the
+existence of a (manifestly unitary) light-cone gauge with anomaly free Lorentz
+algebra in any dimensions. The analog of vertex operators are introduced and
+the physical spectrum is analysed. There are an infinite number of higher-level
+states repeating a certain mass pattern and leading to an infinite degeneracy.
+The connection with the continuum string theory (in $D=26$) is investigated.
+Independently, following a method recently introduced by 't Hooft based on
+Hilbert-space extension of deterministic systems, a particular one-dimensional
+cellular automaton submitted to a deterministic evolution is shown to reduce to
+a massless scalar field theory at long distance scales. This automaton is
+utilized to define a (`cellular') string theory with world-sheet variables
+evolving under deterministic rules, which in the framework of
+`first-quantization' corresponds to the ${\bf Z}_C$ string theory mentioned
+above. We show that in this theory also the target space motion of free strings
+is governed by deterministic laws. Finally, we discuss a model for (off-shell)
+interacting strings where space-time determinism is fully restored.
+\\

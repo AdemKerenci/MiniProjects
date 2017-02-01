@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409170
+From: Andreas Honecker <UNP06B@IBM.RHRZ.UNI-BONN.DE>
+Date: Wed, 28 Sep 94 07:45:13 MEZ   (39kb)
+
+Title: Excitation Spectrum and Correlation Functions of the Z_3-Chiral Potts
+  Quantum Spin Chain
+Authors: A. Honecker and G. von Gehlen
+Comments: 19 pages + 6 PostScript figures (LaTeX); BONN-TH-94-20
+Journal-ref: Nucl. Phys. B435 (1995) 505-525
+\\
+  We study the excitation spectrum and the correlation functions of the Z_3-
+chiral Potts model in the massive high-temperature phase using perturbation
+expansions and numerical diagonalization. We are mainly interested in results
+for general chiral angles but we consider also the superintegrable case. For
+the parameter values considered, we find that the band structure of the low-
+lying part of the excitation spectrum has the form expected from a
+quasiparticle picture with two fundamental particles. Studying the N-dependence
+of the spectrum, we confirm the stability of the second fundamental particle in
+a limited range of the momentum, even when its energy becomes so high that it
+lies very high up among the multiparticle scattering states. This is not a
+phenomenon restricted to the superintegrable line. Calculating a
+non-translationally invariant correlation function, we give evidence that it is
+oscillating. Within our numerical accuracy we find a relation between the
+oscillation length and the dip position of the momentum dispersion of the
+lightest particle which seems to be quite independent of the chiral angles.
+\\

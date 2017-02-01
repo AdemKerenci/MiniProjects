@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406204
+From: Jean-Bruno Erismann <jb@cptsu5.univ-mrs.fr>
+Date: Thu, 30 Jun 94 11:14:56 +0200   (33kb)
+
+Title: Topics in Quantum Dynamics
+Author: A. Jadczyk
+Comments: 31 pages, latex, 2 fig
+Report-no: CPT-94/P.3022
+\\
+  The paper consists of two parts. In the first part Schroedinger's equation
+for a charged quantum particle in a Galilei-Newton curved space-time is derived
+in a fully geometrical way. Gravitational and electromagnetic fields are coded
+into space metric and space-time connection. The fundamental geometrical object
+is a quantum connection in a Hermitian line bundle over the 7-dimensional jet
+space of 3-velocities. The secondary object is the bundle of Hilbert spaces
+over absolute time. Time appears as a superselection quantity while Shroedinger
+equation is interpreted as parallel transport in this bundle. In the second
+part the problem of measurement in quantum theory is discussed as a part of a
+more general problem of coupling between quantum and classical systems. The
+standard framework of quantum theory is extended so as to allow for dynamical
+central observables within dissipative dynamics. It is shown that within this
+approach one obtains not only Liouville equation that describes statistical
+ensembles, but also a piecewise-deterministic random process describing
+sequences of "events" that can be monitored by a continuous observation of the
+single, coupled classical system. It also describes "quantum jumps" or "wave
+packet reductions" that accompany these events. Two example are worked out in
+some details. The last one deals with the problem oof "how to determine the
+wave function ?".
+\\

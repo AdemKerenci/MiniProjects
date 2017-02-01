@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405141
+From: CHANDAR@SUHEP.PHY.SYR.EDU
+Date: Sat, 21 May 1994 18:39:00 -0500 (EST)   (30kb)
+Date (revised): Sun, 22 May 1994 13:56:33 -0500 (EST)
+Date (revised): Tue, 24 May 1994 11:17:17 -0500 (EST)
+Date (revised): Wed, 16 Nov 1994 13:58:03 -0500 (EST)
+
+Title: Duality and the Fractional Quantum Hall Effect
+Authors: A.P. Balachandran, L. Chandar and B. Sathiapalan
+Comments: 46 pages, LATEX File. (Revised version with significant changes,
+  especially in Sections 3 and 4.)
+Report-no: PSU/TH/144, SU-4240-578
+Journal-ref: Nucl.Phys. B443 (1995) 465-500
+\\
+  The edge states of a sample displaying the quantum Hall effect (QHE) can be
+described by a 1+1 dimensional (conformal) field theory of $d$ massless scalar
+fields taking values on a $d$-dimensional torus. It is known from the work of
+Naculich, Frohlich et al.\@ and others that the requirement of chirality of
+currents in this \underline{scalar} field theory implies the Schwinger anomaly
+in the presence of an electric field, the anomaly coefficient being related in
+a specific way to Hall conducvivity. The latter can take only certain
+restricted values with odd denominators if the theory admits fermionic states.
+We show that the duality symmetry under the $O(d,d;{\bf Z})$ group of the free
+theory transforms the Hall conductivity in a well-defined way and relates
+integer and fractional QHE's. This means, in particular, that the edge spectra
+for dually related Hall conductivities are identical, a prediction which may be
+experimentally testable. We also show that Haldane's hierarchy as well as
+certain of Jain's fractions can be reproduced from the Laughlin fractions using
+the duality transformations. We thus find a framework for a unified description
+of the QHE's occurring at different fractions. We also give a derivation of the
+wave functions for fractions in Haldane's hierarchy.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412195
+From: BONINI@parma.infn.it
+Date: Thu, 22 Dec 1994 12:06:37 +0200 (MET)   (11kb)
+
+Title: BRS symmetry from renormalization group flow
+Authors: M. Bonini, M. D'Attanasio and G. Marchesini
+Comments: 9 pages, LaTex, to be published in Phys. Lett. B
+Report-no: UPRF 94-414
+Journal-ref: Phys.Lett. B346 (1995) 87-93
+\\
+  By using the exact renormalization group formulation we prove perturbatively
+the Slavnov-Taylor (ST) identities in SU(2) Yang-Mills theory. This results
+from two properties: {\it locality}, i.e. the ST identities are valid if their
+local part is valid; {\it solvability}, i.e. the local part of ST identities is
+valid if the couplings of the effective action with non-negative dimensions are
+properly chosen.
+\\

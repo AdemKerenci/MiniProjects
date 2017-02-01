@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410141
+From: Tim Morris <trmorris@hep.ph.soton.ac.uk>
+Date: Wed, 19 Oct 94 17:53:31 BST   (73kb)
+Date (revised): Mon, 5 Dec 94 14:40:32 GMT
+
+Title: The Renormalization Group and Two Dimensional Multicritical Effective
+  Scalar Field Theory
+Author: Tim R. Morris
+Comments: Note added on "shadow operators". Version to be published in Phys.
+  Lett. B
+Report-no: SHEP 94/95-04, CERN-TH.7403/94
+Journal-ref: Phys.Lett. B345 (1995) 139-148
+\\
+  Direct verification of the existence of an infinite set of multicritical
+non-perturbative FPs (Fixed Points) for a single scalar field in two
+dimensions, is in practice well outside the capabilities of the present
+standard approximate non-perturbative methods. We apply a derivative expansion
+of the exact RG (Renormalization Group) equations in a form which allows the
+corresponding FP equations to appear as non-linear eigenvalue equations for the
+anomalous scaling dimension $\eta$. At zeroth order, only continuum limits
+based on critical sine-Gordon models, are accessible. At second order in
+derivatives, we perform a general search over all $\eta\ge.02$, finding the
+expected first ten FPs, and {\sl only} these. For each of these we verify the
+correct relevant qualitative behaviour, and compute critical exponents, and the
+dimensions of up to the first ten lowest dimension operators. Depending on the
+quantity, our lowest order approximate description agrees with CFT (Conformal
+Field Theory) with an accuracy between 0.2\% and 33\%; this requires however
+that certain irrelevant operators that are total derivatives in the CFT are
+associated with ones that are not total derivatives in the scalar field theory.
+\\

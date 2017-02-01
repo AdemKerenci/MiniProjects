@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307090
+From: Stanislav Pakuliak <pakuliak@kurims.kyoto-u.ac.jp>
+Date: Wed, 14 Jul 93 15:07:16 JST   (14kb)
+
+Title: Annihilation Poles for Form Factors in XXZ Model
+Authors: S. Pakuliak
+Comments: 15 pages, LATeX, RIMS-933
+\\
+  The annihilation poles for the form factors in XXZ model are studied using
+vertex operators introduced in \cite{DFJMN}. An annihilation pole is the
+property of form factors according to which the residue of the $2n$-particle
+form factor in such a pole can be expressed through linear combination of the
+$2n-2$-particle form factors. To prove this property we use the bosonization of
+the vertex operators in XXZ model which was invented in \cite{JMMN}.
+\\

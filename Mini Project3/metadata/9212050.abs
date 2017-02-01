@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212050
+From: bazhanov@pell.anu.edu.au (Vladimir Bazhanov)
+Date: Wed, 9 Dec 92 22:17:04 EST   (21kb)
+
+Title: Star-Triangle Relation for a Three Dimensional Model
+Authors: V.V.Bazhanov and R.J.Baxter
+Comments: 20 pages, plain TeX, 3 figures, SMS-079-92/MRR-020-92. (corrupted
+  figures replaced)
+Journal-ref: J.Statist.Phys. 71 (1993) 839-864
+\\
+  The solvable $sl(n)$-chiral Potts model can be interpreted as a
+three-dimensional lattice model with local interactions. To within a minor
+modification of the boundary conditions it is an Ising type model on the body
+centered cubic lattice with two- and three-spin interactions. The corresponding
+local Boltzmann weights obey a number of simple relations, including a
+restricted star-triangle relation, which is a modified version of the
+well-known star-triangle relation appearing in two-dimensional models. We show
+that these relations lead to remarkable symmetry properties of the Boltzmann
+weight function of an elementary cube of the lattice, related to spatial
+symmetry group of the cubic lattice. These symmetry properties allow one to
+prove the commutativity of the row-to-row transfer matrices, bypassing the
+tetrahedron relation. The partition function per site for the infinite lattice
+is calculated exactly.
+\\

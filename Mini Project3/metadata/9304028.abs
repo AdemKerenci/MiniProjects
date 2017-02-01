@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304028
+From: EZ <ZYNDA%IASSNS.BITNET@pucc.Princeton.EDU>
+Date: Wed, 7 Apr 93 15:15 EST   (27kb)
+
+Title: Energy--Level Statistics of Model Quantum Systems: Universality and
+  Scaling in a Lattice--Point Problem
+Authors: Pavel M. Bleher
+Comments: 48 pages, IASSNS-HEP 93/14
+\\
+  We investigate the statistics of the number $N(R,S)$ of lattice points, $n\in
+\Z^2$, in a ``random'' annular domain $\Pi(R,w)=\,(R+w)A\,\setminus RA$, where
+$R,w >0$. Here $A$ is a fixed convex set with smooth boundary and $w$ is chosen
+so that the area of $\Pi (R,w)$ is $S$. The randomness comes from $R$ being
+taken as random ( with a smooth denisity ) in some interval $[c_1T,c_2T]$,
+$c_2>c_1>0$. We find that in the limit $T\to\infty $ the variance and
+distribution of $\De N=N(R;S)-S$ depends strongly on how $S$ grows with $T$.
+There is a saturation regime $S/T\to\infty$, as $T\to\infty$ in which the
+fluctuations in $\Delta N$ coming from the two boundaries of $\Pi $, are
+independent. Then there is a scaling regime, $S/T\to z$, $0<z<\infty $ in which
+the distribution depends on $z$ in an almost periodic way going to a Gaussian
+as $z\to\ 0$. The variance in this limit approaches $z$ for ``generic'' $A$ but
+can be larger for ``degenerate'' cases. The former behavior is what one would
+expect from the Poisson limit of a distribution for annuli of finite area.
+\\

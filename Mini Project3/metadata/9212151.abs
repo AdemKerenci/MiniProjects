@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212151
+From: Shahn Majid <majid@damtp.cambridge.ac.uk>
+Date: Wed, 23 Dec 92 16:45:25 GMT   (110kb)
+Date (revised): Mon, 4 Jan 93 12:35:32 GMT
+Date (revised): Sun, 24 Jan 93 15:19:14 GMT
+
+Title: Beyond Supersymmetry and Quantum Symmetry (an introduction to braided
+  groups and braided matrices)
+Authors: Shahn Majid
+Comments: 52 pages, DAMTP/92-71 (to appear in Proc. 5th Nankai Workshop, China,
+  June 92, Wld Sci.) Some typos corrected in this replacement re. eqns (77),
+  (101), (121). Also, the figures are now submitted as Figures file to the
+  database
+\\
+  This is a systematic introduction for physicists to the theory of algebras
+and groups with braid statistics, as developed over the last three years by the
+author. There are braided lines, braided planes, braided matrices and braided
+groups all in analogy with superlines, superplanes etc. The main idea is that
+the bose-fermi $\pm1$ statistics between Grassmannn coordinates is now replaced
+by a general braid statistics $\Psi$, typically given by a Yang-Baxter matrix
+$R$. Most of the algebraic proofs are best done by drawing knot and tangle
+diagrams, yet most constructions in supersymmetry appear to generalise well.
+Particles of braid statistics exist and can be expected to be described in this
+way. At the same time, we find many applications to ordinary quantum group
+theory: how to make quantum-group covariant (braided) tensor products and spin
+chains, action-angle variables for quantum groups, vector addition on
+$q$-Minkowski space and a semidirect product q-Poincar\'e group are among the
+main applications so far. Every quantum group can be viewed as a braided group,
+so the theory contains quantum group theory as well as supersymmetry. There
+also appears to be a rich theory of braided geometry, more general than
+super-geometry and including aspects of quantum geometry. Braided-derivations
+obey a braided-Leibniz rule and recover the usual Jackson $q$-derivative as the
+1-dimensional case.
+\\

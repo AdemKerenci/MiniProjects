@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403080
+From: "J.W.van de Leur" <vdleur@math.ruu.nl>
+Date: Tue, 15 Mar 1994 14:03:32 +0100   (21kb)
+Date (revised): Tue, 17 May 1994 14:40:01 +0200
+
+Title: KdV type hierarchies, the string equation and $W_{1+\infty}$ constraints
+Authors: Johan van de Leur
+Comments: 29 pages of amstex, Correction of some errors and 1 reference added
+Journal-ref: J.Geom.Phys. 17 (1995) 95-124
+\\
+  To every partition $n=n_1+n_2+\cdots+n_s$ one can associate a vertex operator
+realization of the Lie algebras $a_{\infty}$ and $\hat{gl}_n$. Using this
+construction we make reductions of the $s$--component KP hierarchy, reductions
+which are related to these partitions. In this way we obtain matrix KdV type
+equations. Now assuming that (1) $\tau$ is a $\tau$--function of the
+$[n_1,n_2,\ldots,n_s]$--th reduced KP hierarchy and (2) $\tau$ satisfies a
+`natural' string equation, we prove that $\tau$ also satisfies the vacuum
+constraints of the $W_{1+\infty}$ algebra.
+\\

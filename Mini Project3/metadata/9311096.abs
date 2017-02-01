@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311096
+From: arut@qft.mian.su (Gleb Arutyunov)
+Date: Wed, 17 Nov 93 14:57:59 +0300 (MSK)   (18kb)
+Date (revised): Fri, 4 Feb 94 20:12:41 +0300 (MSK)
+
+Title: Quantization of the external algebra on a Poisson-Lie group
+Author: G. E. Arutyunov and P. B. Medvedev
+Comments: 19 pages. The proof of eq.(3.16) and LaTeX errors are corrected
+Report-no: SMI-11-93
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We show that the external algebra $\cal M$ on $GL(N)$ can be equipped with
+the graded Poisson brackets compatible with the group action. We prove that
+there are only two graded Poisson-Lie structures (brackets) on $\cal M$ and we
+obtain their explicit description. We realize that just these two structures
+appear as the quasiclassical limit of the bicovariant differential calculi on
+the quantum linear group $GL_q (N)$.
+\\

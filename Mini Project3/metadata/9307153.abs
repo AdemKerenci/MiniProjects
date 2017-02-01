@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307153
+From: akman-fusun@MATH.YALE.EDU (Fusun Akman)
+Date: Mon, 26 Jul 1993 00:17:06 -0400   (14kb)
+
+Title: Some cohomology operators in 2-D field theory
+Author: Fusun Akman
+Comments: 19 pages, submitted to the Proceedings of the Conference on Quantum
+  Topology, Kansas State University, Manhattan, KS, 24-28 March 1993
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  It is typical for a semi-infinite cohomology complex associated with a graded
+Lie algebra to occur as a vertex operator (or chiral) superalgebra where all
+the standard operators of cohomology theory, in particular the differential,
+are modes of vertex operators (fields). Although vertex operator superalgebras
+-with the inherent Virasoro action- are regarded as part of Conformal Field
+Theory (CFT), a VOSA may exhibit a square-zero operator (often, but not always,
+the semi-infinite cohomology differential) for which the Virasoro algebra acts
+trivially in the cohomology. Capable of shedding its CFT features, such a VOSA
+is called a ``topological chiral algebra'' (TCA). We investigate the
+semi-infinite cohomology of the vertex operator Weil algebra and indicate a
+number of differentials which give rise to TCA structures.
+\\

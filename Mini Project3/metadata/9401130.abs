@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401130
+From: Piunikhine Serquei <serguei@math.mit.edu>
+Date: Wed, 26 Jan 94 12:38:44 EST   (51kb)
+Date (revised): Sat, 5 Feb 94 14:22:55 EST
+Date (revised): Wed, 25 May 94 11:14:38 EDT
+
+Title: Quantum and Floer cohomology have the same ring structure
+Author: Sergey Piunikhin
+Comments: 62 pages
+Report-no: MIT-MATH 94-01
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+\\
+  The action of the total cohomology $H^*(M)$ of the almost Kahler manifold $M$
+on its Floer cohomology, int roduced originally by Floer, gives a new ring
+structure on $H^*(M)$. We prove that the total cohomology space $H^* (M)$,
+provided with this new ring structure, is isomorphic to the quantum cohomology
+ring. As a special case, we prove the the formula for the Floer cohomology ring
+of the complex grassmanians conjectured by Vafa and Witten.
+\\

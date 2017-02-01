@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208073
+From: SPIRIDONOV@lps.umontreal.ca
+Date: Thu, 27 Aug 1992 17:40:15 -0400 (EDT)   (17kb)
+
+Title: Deformation of Supersymmetric and Conformal Quantum Mechanics Through
+  Affine Transformations
+Authors: V.Spiridonov
+Comments: 16 pages, LATEX, UdeM-LPN-TH94-92
+\\
+  Affine transformations (dilatations and translations) are used to define a
+deformation of one-dimensional $N=2$ supersymmetric quantum mechanics.
+Resulting physical systems do not have conserved charges and degeneracies in
+the spectra. Instead, superpartner Hamiltonians are $q$-isospectral, i.e. the
+spectrum of one can be obtained from another (with possible exception of the
+lowest level) by $q^2$-factor scaling. This construction allows easily to
+rederive a special self-similar potential found by Shabat and to show that for
+the latter a $q$-deformed harmonic oscillator algebra of Biedenharn and
+Macfarlane serves as the spectrum generating algebra. A general class of
+potentials related to the quantum conformal algebra $su_q(1,1)$ is described.
+Further possibilities for $q$-deformation of known solvable potentials are
+outlined.
+  Talk presented at the workshop on Harmonic Oscillators, College Park, 25-28
+March 1992.
+\\

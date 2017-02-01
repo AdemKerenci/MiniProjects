@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209124
+From: kleppe%vtinte.dnet@vtserf.cc.vt.edu
+Date: Tue, 29 Sep 92 13:46:17 -0400   (16kb)
+
+Title: Regularization Dependence of Quadratic Divergence Cancellations,
+  VPI-IHEP-92/10
+Authors: Gary Kleppe
+Comments: 14 pages. Macros included. Figures not included, not available
+  through e-mail
+\\
+  Certain results related to the cancellation of quadratic divergences, which
+had been obtained using dimensional reduction, are reconsidered using a
+nonlocal regulator. The results obtained are shown to depend strongly on the
+regulator. Specifically, it is shown that a certain result of Al-sarhi, Jack,
+and Jones no longer holds, even if a nontrivial measure factor is used; also
+that there are no values of the top and Higgs mass for which the one-loop
+quadratic divergence in the standard model cancels independently of the
+renormalization scale, whether or not strong interaction effects are ignored.
+\\

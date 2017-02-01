@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406061
+From: bdolan@maths.may.ie (Brian Dolan)
+Date: Fri, 10 Jun 1994 17:42:46 +0100   (27kb)
+
+Title: Symplectic geometry and Hamiltonian flow of the renormalisation group
+  equation
+Author: Brian P. Dolan
+Comments: 30 pages
+Report-no: DIAS STP-94-21
+Subj-class: High Energy Physics - Theory; Symplectic Geometry
+Journal-ref: Int.J.Mod.Phys. A10 (1995) 2703-2732
+\\
+  It is argued that renormalisation group flow can be interpreted as being a
+Hamiltonian vector flow on a phase space which consists of the couplings of the
+theory and their conjugate \lq\lq momenta", which are the vacuum expectation
+values of the corresponding composite operators. The Hamiltonian is linear in
+the conjugate variables and can be identified with the vacuum expectation value
+of the trace of the energy-momentum operator. For theories with massive
+couplings the identity operator plays a central role and its associated
+coupling gives rise to a potential in the flow equations. The evolution of any
+quantity , such as $N$-point Green functions, under renormalisation group flow
+can be obtained from its Poisson bracket with the Hamiltonian. Ward identities
+can be represented as constants of the motion which act as symmetry generators
+on the phase space via the Poisson bracket structure.
+\\

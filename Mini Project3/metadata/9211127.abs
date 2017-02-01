@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211127
+From: Jeff Miller <jmiller@amoco.saclay.cea.fr>
+Date: 26 Nov 92 16:56:36+0100   (11kb)
+Date (revised): 02 Dec 92 12:52:07+0100
+
+Title: Randomly Branched Polymers and Conformal Invariance
+Authors: Jeffrey Miller and Keith De'Bell
+Comments: 1 graph not included, SPhT /92/145, The Tex Macros have been changed.
+  In the present version only jnl.tex is needed. It can be obtained directly
+  from the bulletin board
+\\
+  We argue that the field theory that descibes randomly branched polymers is
+not generally conformally invariant in two dimensions at its critical point. In
+particular, we show (i) that the most natural formulation of conformal
+invariance for randomly branched polymers leads to inconsistencies; (ii) that
+the free field theory obtained by setting the potential equal to zero in the
+branched polymer field theory is not even classically conformally invariant;
+and (iii) that numerical enumerations of the exponent $\theta (\alpha )$,
+defined by $T_N(\alpha )\sim \lambda^NN^{-\theta (\alpha ) +1}$, where
+$T_N(\alpha )$ is number of distinct configuratations of a branched polymer
+rooted near the apex of a cone with apex angel $\alpha$, indicate that $\theta
+(\alpha )$ is not linear in $1/\alpha$ contrary to what conformal invariance
+leads one to expect.
+\\

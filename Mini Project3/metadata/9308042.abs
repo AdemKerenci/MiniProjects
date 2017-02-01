@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308042
+From: tseytlin@surya11.cern.ch (Arkady Tseytlin)
+Date: Mon, 9 Aug 93 15:56:17 +0200   (12kb)
+Date (revised): Wed, 15 Sep 93 18:56:38 +0200
+
+Title: On field redefinitions and exact solutions in string theory
+Authors: A.A.Tseytlin
+Comments: 11 pages, harvmac, CERN-TH.6970/93 [ A new section on tachyonic
+  equation is added: while there exists a scheme where the exact D=2 `black
+  hole' metric-dilaton background has semiclassical form, the equation for the
+  tachyon still contains \alpha'-corrections, i.e. the tachyon still feels the
+  \alpha'-corrected background ]
+Journal-ref: Phys.Lett. B317 (1993) 559-564
+\\
+  String backgrounds associated with gauged $G/H$ WZNW models in general depend
+non-trivially on $\alpha'$. We note, however, that there exists a local
+covariant $\a'$-dependent field redefinition that relates the exact
+metric-dilaton background corresponding to the $SL(2,R)/U(1)$ model to its
+leading-order form ($D=2$ black hole). As a consequence, there exists a
+`scheme' in which the string effective equations have the latter as an exact
+solution. However, the corresponding equation for the tachyon (which, like
+other Weyl anomaly coefficients, has scheme-dependent form) still contains
+corrections of all orders in $\alpha'$. As a result, the `probes' (the
+tachyons) still feel the $\alpha'$-corrected background. The field
+redefinitions we discuss contain the dilaton terms in the metric transformation
+law. We comment on exact forms of the duality transformation in different
+`schemes'.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412020
+From: fursaev@theor.jinrc.dubna.su ( )
+Date: Fri, 2 Dec 94 17:36:13 +0300 (MSK)   (8kb)
+Date (revised): Wed, 22 Nov 95 11:04:54 +0300 (MSK)
+
+Title: On one-loop renormalization of black-hole entropy
+Authors: Dmitri V. Fursaev and Sergey N. Solodukhin
+Comments: 10 pages, latex, no figures; The text is slightly changed and some
+  new eqs. are added to make the proof of our statement more transparent. This
+  version will appear in Phys. Lett. B
+Report-no: JINR E2-94-462
+Journal-ref: Phys.Lett. B365 (1996) 51
+\\
+  One-loop divergences appearing in the entropy of a quantum black hole are
+proven to be completely eliminated by the standard renormalization of both the
+gravitational constant and other coefficients by the $R^2$-terms in the
+effective gravitational action. The essential point of the proof is that due to
+the higher order curvature terms the entropy differs from the
+Bekenstein-Hawking one in the Einstein gravity by the contributions depending
+on the internal and external geometry of the horizon surface.
+\\

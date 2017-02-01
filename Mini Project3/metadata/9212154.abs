@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212154
+From: fukuma@strange.TN.CORNELL.EDU (Masafumi Fukuma)
+Date: Mon, 28 Dec 92 16:47:10 EST   (33kb)
+
+Title: Lattice Topological Field Theory in Two Dimensions
+Authors: M.Fukuma, S.Hosono and H.Kawai
+Comments: 29 pages (Latex) + 19 figures (uuencoded through uufiles).
+  CLNS92/1173
+Journal-ref: Commun. Math. Phys. 161 (1994) 157-176
+\\
+  The lattice definition of a two-dimensional topological field theory (TFT) is
+given generically, and the exact solution is obtained explicitly. In
+particular, the set of all lattice topological field theories is shown to be in
+one-to-one correspondence with the set of all associative algebras $R$, and the
+physical Hilbert space is identified with the center $Z(R)$ of the associative
+algebra $R$. Perturbations of TFT's are also considered in this approach,
+showing that the form of topological perturbations is automatically determined,
+and that all TFT's are obtained from one TFT by such perturbations. Several
+examples are presented, including twisted $N=2$ minimal topological matter and
+the case where $R$ is a group ring.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407008
+From: Andy Strominger <andy@denali.physics.ucsb.edu>
+Date: Fri, 1 Jul 94 17:05:16 PDT   (21kb)
+Date (revised): Mon, 22 Aug 94 11:52:36 PDT
+
+Title: A Possible Resolution of the Black Hole Information Puzzle
+Authors: Joseph Polchinski and Andrew Strominger
+Comments: 15 pages, 3 uuencoded figures. Revised version contains some
+  notational simplifications
+Report-no: UCSBTH-94-20
+Journal-ref: Phys.Rev. D50 (1994) 7403-7409
+\\
+  The problem of information loss is considered under the assumption that the
+process of black hole evaporation terminates in the decay of the black hole
+interior into a baby universe. We show that such theories can be decomposed
+into superselection sectors labeled by eigenvalues of the third-quantized baby
+universe field operator, and that scattering is unitary within each
+superselection sector. This result relies crucially on the quantum-mechanical
+variability of the decay time. It is further argued that the decay rate in the
+black hole rest frame is necessarily proportional to $e^{-S_{tot}}$, where
+$S_{tot}$ is the total entropy produced during the evaporation process,
+entailing a very long-lived remnant.
+\\

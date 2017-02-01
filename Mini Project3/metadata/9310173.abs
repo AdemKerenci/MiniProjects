@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310173
+From: muller@phy.duke.edu (Berndt Mueller)
+Date: Tue, 26 Oct 93 15:03:13 -0400   (8kb)
+
+Title: The Dirac-Coulomb Problem for the $\kappa$-Poincare Quantum Group
+Authors: L.C. Biedenharn, B. Mueller, and M. Tarlini
+Comments: 7 pages, LaTeX, special style file `eqpersec.sty' included
+  separately, DUKE-TH-93-59
+Journal-ref: Phys.Lett. B318 (1993) 613-616
+\\
+  The recently introduced $\kappa$-Poincare-Dirac equation is gauged to treat
+the $\kappa$-Dirac-Coulomb problem. For the resulting equation, we prove that
+the perturbation to first order in the quantum group parameter vanishes
+identically. The second order perturbation is singular, but assuming a
+heuristic cut-off allows a qualitative estimate of the quantum group parameter.
+\\

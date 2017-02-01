@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408145
+From: Alexander Laufer <alex@spock.physik.uni-konstanz.de>
+Date: Fri, 26 Aug 94 11:06:00 +0100   (8kb)
+Date (revised): Tue, 30 Aug 94 13:43:58 +0100
+
+Title: The exponential map for the unitary group SU(2,2)
+Author: A. O. Barut, J. R. Zeni, A. J. Laufer
+Comments: 10 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Phys. A27 (1994) 6799-6806
+\\
+  In this article we extend our previous results for the orthogonal group,
+$SO(2,4)$, to its homomorphic group $SU(2,2)$. Here we present a closed, finite
+formula for the exponential of a $4\times 4$ traceless matrix, which can be
+viewed as the generator (Lie algebra elements) of the $SL(4,C)$ group. We apply
+this result to the $SU(2,2)$ group, which Lie algebra can be represented by the
+Dirac matrices, and discuss how the exponential map for $SU(2,2)$ can be
+written by means of the Dirac matrices.
+\\

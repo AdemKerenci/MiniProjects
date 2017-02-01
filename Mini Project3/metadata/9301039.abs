@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301039
+From: frenkel@math.harvard.edu (Edward Frenkel)
+Date: Tue, 12 Jan 93 23:50:28 EST   (8kb)
+
+Title: Coinvariants of nilpotent subalgebras of the Virasoro algebra and
+  partition identities
+Authors: Boris Feigin and Edward Frenkel
+Comments: 9 pages, amslatex; for non-amslatex users the .dvi file is available
+  via anonymous ftp from math.harvard.edu/pub:coinv.dvi
+Journal-ref: Adv.Sov.Math. 16 (1993) 139-148
+\\
+  We prove that the dimensions of coinvariants of certain nilpotent subalgebras
+of the Virasoro algebra do not change under deformation in the case of
+irreducible representations of (2,2r+1) minimal models. We derive a
+combinatorial description of these representations and the Gordon identities
+from this result.
+\\

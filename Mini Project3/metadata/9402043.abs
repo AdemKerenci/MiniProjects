@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402043
+From: "Igor G.Korepanov" <korepan@math.ch.free.net>
+Date: Tue, 8 Feb 94 17:50:53 +0300   (16kb)
+
+Title: A Dynamical System Connected with Inhomogeneous 6-Vertex Model
+Author: I. G. Korepanov
+Comments: 21 pages
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Zap.Nauchn.Semin. 215 (1994) 178-196
+\\
+  A completely integrable dynamical system in discrete time is studied by means
+of algebraic geometry. The system is associated with factorization of a linear
+operator acting in a direct sum of three linear spaces into a product of three
+operators, each acting nontrivially only in a direct sum of two spaces, and the
+following reversing of the order of factors. There exists a reduction of the
+system interpreted as a classical field theory in $2+1$-dimensional space-time,
+the integrals of motion coinciding, in essence, with the statistical sum of an
+inhomogeneous 6-vertex free-fermion model on the 2-dimensional kagome lattice
+(here the statistical sum is a function of two parameters). Thus, a connection
+with the ``local'', or ``generalized'', quantum Yang---Baxter equation is
+revealed.
+\\

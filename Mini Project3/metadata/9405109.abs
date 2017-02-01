@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405109
+From: ocouss@ulb.ac.be (Coussaert Olivier)
+Date: Tue, 17 May 1994 15:09:31 +0200 (DST)   (35kb)
+Date (revised): Mon, 13 Jun 1994 15:22:11 +0200 (DST)
+
+Title: Local BRST cohomology in the antifield formalism: I. General theorems
+Authors: G. Barnich, F. Brandt and M. Henneaux
+Comments: 48 pages LaTeX file, ULB-PMIF-94/06 NIKEF-H 94-13 (minor changes in
+  section 10)
+Journal-ref: Commun.Math.Phys. 174 (1995) 57-92
+\\
+  We establish general theorems on the cohomology $H^*(s|d)$ of the BRST
+differential modulo the spacetime exterior derivative, acting in the algebra of
+local $p$-forms depending on the fields and the antifields (=sources for the
+BRST variations). It is shown that $H^{-k}(s|d)$ is isomorphic to $H_k(\delta
+|d)$ in negative ghost degree $-k\ (k>0)$, where $\delta$ is the Koszul-Tate
+differential associated with the stationary surface. The cohomological group
+$H_1(\delta |d)$ in form degree $n$ is proved to be isomorphic to the space of
+constants of the motion, thereby providing a cohomological reformulation of
+Noether theorem. More generally, the group $H_k(\delta|d)$ in form degree $n$
+is isomorphic to the space of $n-k$ forms that are closed when the equations of
+motion hold. The groups $H_k(\delta|d)$ $(k>2)$ are shown to vanish for
+standard irreducible gauge theories. The group $H_2(\delta|d)$ is then
+calculated explicitly for electromagnetism, Yang-Mills models and Einstein
+gravity. The invariance of the groups $H^{k}(s|d)$ under the introduction of
+non minimal variables and of auxiliary
+\\

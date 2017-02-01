@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309134
+From: Martin Schlichenmaier <schlichenmaier@math.uni-mannheim.de>
+Date: Fri, 24 Sep 93 18:20:17 MESZ   (19kb)
+Date (revised): Tue, 15 Feb 94 18:10:45 MEZ
+Date (revised): Thu, 26 May 94 18:03:02 MESZ
+
+Title: Toeplitz Quantization of K\"ahler Manifolds and $gl(N)$ $N\to\infty$
+Authors: Martin Bordemann, Eckhard Meinrenken and Martin Schlichenmaier
+Comments: 17 pages, AmsTeX 2.1, Sept. 93 (rev: only typos are corrected)
+Report-no: Mannheimer Manuskripte 147, Freiburg THEP 93/22
+Subj-class: High Energy Physics - Theory; Algebraic Geometry; Functional
+  Analysis
+Journal-ref: Commun.Math.Phys. 165 (1994) 281-296
+\\
+  For general compact K\"ahler manifolds it is shown that both Toeplitz
+quantization and geometric quantization lead to a well-defined (by operator
+norm estimates) classical limit. This generalizes earlier results of the
+authors and Klimek and Lesniewski obtained for the torus and higher genus
+Riemann surfaces, respectively. We thereby arrive at an approximation of the
+Poisson algebra by a sequence of finite-dimensional matrix algebras $gl(N)$,
+$N\to\infty$.
+\\

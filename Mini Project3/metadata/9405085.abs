@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405085
+From: harnad@MATHCN.UMontreal.CA (Harnad John)
+Date: Thu, 12 May 1994 15:13:28 -0400 (EDT)   (15kb)
+
+Title: Hyperspherical Harmonics, Separation of Variables and the Bethe Ansatz
+Authors: J. Harnad and P. Winternitz
+Comments: 14 pgs, Plain Tex, preprint CRM--2174 (May, 1994)
+Journal-ref: Lett.Math.Phys. 33 (1995) 61-74
+\\
+  The relation between solutions to Helmholtz's equation on the sphere
+$S^{n-1}$ and the $[{\gr sl}(2)]^n$ Gaudin spin chain is clarified. The joint
+eigenfuctions of the Laplacian and a complete set of commuting second order
+operators suggested by the $R$--matrix approach to integrable systems, based on
+the loop algebra $\wt{sl}(2)_R$, are found in terms of homogeneous polynomials
+in the ambient space. The relation of this method of determining a basis of
+harmonic functions on $S^{n-1}$ to the Bethe ansatz approach to integrable
+systems is explained.
+\\

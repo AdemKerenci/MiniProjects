@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212119
+From: mussardo@tsmi19.sissa.it
+Date: Sat, 19 Dec 1992 10:39:49 +0100   (13kb)
+
+Title: Correlation Functions in 2-Dimensional Integrable Quantum Field Theories
+Author: G. Mussardo
+Comments: 19pp, LATEX version, (talk at Como Conference on ``Integrable Quantum
+  Field Theories'')
+Report-no: ISAS/EP/92/236
+\\
+  In this talk I discuss the form factor approach used to compute correlation
+functions of integrable models in two dimensions. The Sinh-Gordon model is our
+basic example. Using Watson's and the recursive equations satisfied by matrix
+elements of local operators, I present the computation of the form factors of
+the elementary field $\phi(x)$ and the stress-energy tensor $T_{\mu\nu}(x)$ of
+the theory.
+\\

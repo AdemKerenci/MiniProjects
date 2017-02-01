@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202039
+From: kreuzer@surya3.cern.ch (maximilian kreuzer)
+Date: Wed, 12 Feb 92 16:41:15 +0100   (15kb)
+
+Title: On the Classification of Quasihomogeneous Functions
+Authors: Maximilian Kreuzer and Harald Skarke
+Comments: 12 pages
+Journal-ref: Commun.Math.Phys. 150 (1992) 137
+\\
+  We give a criterion for the existence of a non-degenerate quasihomogeneous
+polynomial in a configuration, i.e. in the space of polynomials with a fixed
+set of weights, and clarify the relation of this criterion to the necessary
+condition derived from the formula for the Poincar\'e polynomial. We further
+prove finiteness of the number of configurations for a given value of the
+singularity index. For the value 3 of this index, which is of particular
+interest in string theory, a constructive version of this proof implies an
+algorithm for the calculation of all non-degenerate configurations.
+\\

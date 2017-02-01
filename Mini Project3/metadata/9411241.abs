@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411241
+From: Yao-Zhong Zhang <yzz@maths.uq.oz.au>
+Date: Thu, 1 Dec 94 09:52:49 EST   (10kb)
+Date (revised): Wed, 4 Jan 95 15:29:39 EST
+
+Title: Solutions of the Yang-Baxter Equation with Extra Non-Additive Parameters
+  II: $U_q(gl(m|n))$}
+Authors: Gustav W. Delius, Mark D. Gould, Jon R. Links and Yao-Zhong Zhang
+Report-no: King's College London and University of Queensland preprint,
+  KCL-TH-94-20, UQMATH-94-10
+Comments: 10 pages, LaTex file (some errors in the Casimirs corrected)
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Phys. A28 (1995) 6203-6210
+\\
+  The type-I quantum superalgebras are known to admit non-trivial one-parameter
+families of inequivalent finite dimensional irreps, even for generic $q$. We
+apply the recently developed technique to construct new solutions to the
+quantum Yang-Baxter equation associated with the one-parameter family of irreps
+of $U_q(gl(m|n))$, thus obtaining R-matrices which depend not only on a
+spectral parameter but in addition on further continuous parameters. These
+extra parameters enter the Yang-Baxter equation in a similar way to the
+spectral parameter but in a non-additive form.
+\\

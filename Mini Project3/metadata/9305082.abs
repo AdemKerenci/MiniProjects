@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305082
+From: ASIM@UICWS.PHY.UIC.EDU
+Date: Tue, 18 May 1993 14:59:59 -0500 (CDT)   (8kb)
+
+Title: An Alternate Approach to Transition Potentials
+Authors: Asim Gangopadhyaya, Prasanta K. Panigrahi, and Uday P. Sukhatme
+Comments: 12 pages
+Report-no: UICHEP-TH/93-2
+\\
+  We analyze transition potentials $(V(r) \stackrel{r\sim 0}{\rightarrow}
+{\alpha r^{-2}})$ in non-relativistic quantum mechanics using the techniques
+of supersymmetry. For the range $-1/4 < \alpha < 3/4$, the eigenvalue
+problem becomes ill-defined (since it is not possible to choose a unique
+eigenfunction based on square integrability and boundary conditions). It is
+shown that supersymmetric quantum mechanics (SUSYQM) provides a natural
+prescription for a unique determination of the spectrum. Interestingly, our
+SUSYQM based approach picks out the same "less singular" wave functions as the
+conventional approach, and thus provides a simple justification for the usual
+practice in the literature. Two examples (the P\"oschl-Teller II potential and
+a two anyon system on the plane) have been worked out for illustrative
+purposes.
+\\

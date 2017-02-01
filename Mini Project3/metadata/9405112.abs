@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405112
+From: phdamg@surya11.cern.ch (Poul Damgaard)
+Date: Wed, 18 May 94 10:40:21 +0200   (13kb)
+
+Title: Generalized Lagrangian Master Equations
+Authors: J. Alfaro and P.H. Damgaard
+Comments: LaTeX, 12 pages, CERN--TH-7247/94
+Journal-ref: Phys.Lett. B334 (1994) 369-377
+\\
+  We discuss the geometry of the Lagrangian quantization scheme based on
+(generalized) Schwinger-Dyson BRST symmetries. When a certain set of ghost
+fields are integrated out of the path integral, we recover the
+Batalin-Vilkovisky formalism, now extended to arbitrary functional measures for
+the classical fields. Keeping the ghosts reveals the crucial role played by a
+natural connection on the space of fields.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309070
+From: wjhuang@phys.nthu.edu.tw (Wen-Jui Huang)
+Date: Mon, 13 Sep 1993 16:58:37 +0800   (11kb)
+
+Title: On Diff(S^1) Covariantization Of Pseudodifferential Operator
+Author: Wen-Jui Huang
+Comments: 20 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  A study of diff($S^1$) covariant properties of pseudodifferential operator of
+integer degree is presented. First, it is shown that the action of diff($S^1$)
+defines a hamiltonian flow defined by the second Gelfand-Dickey bracket if and
+only if the pseudodifferential operator transforms covariantly. Secondly, the
+covariant form of a pseudodifferential operator of degree n not equal to 0, 1,
+-1 is constructed by exploiting the inverse of covariant derivative. This, in
+particular, implies the existence of primary basis for W_{KP}^{(n)} (n not
+equal to 0, 1, -1).
+\\

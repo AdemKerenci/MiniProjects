@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301107
+From: Bengt Nilsson <tfebn@fy.chalmers.se>
+Date: Tue, 26 Jan 93 14:20:22 +0100   (22kb)
+
+Title: An Algorithm for Computing Four-Ramond Vertices at Arbitrary Level
+Authors: Niclas Engberg, Bengt E.W Nilsson and Per Sundell
+Comments: 31 pages, Latex, Goteborg ITP 92-56
+Journal-ref: Nucl.Phys. B404 (1993) 187-214
+\\
+  We perform the sewing of two (dual) Ramond reggeon vertices and derive an
+algorithm by means of which the so obtained four-Ramond reggeon vertex may be
+explicitly computed at arbitrary oscillator (mass) level. A closed form of the
+four-vertex is then deduced on the basis of a comparison to all terms obtained
+by sewing that contain only level zero and one oscillators. Results are
+presented for both complex fermions and for the previously studied case of real
+fermions.
+\\

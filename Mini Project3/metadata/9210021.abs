@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210021
+From: Xenia.Delaossa@iph.unine.ch
+Date: Mon, 5 Oct 1992 15:08:30 +0100   (17kb)
+Date (revised): Tue, 16 Feb 1993 14:06:34 +0100
+
+Title: Duality Symmetries from Non--Abelian Isometries in String Theories
+Authors: Xenia C. de la Ossa and Fernando Quevedo
+Comments: 18 pages, preprint NEIPH92-004, to be published in Nuclear Physics B.
+  (corrected minor typos and references, other minor changes)
+Journal-ref: Nucl.Phys. B403 (1993) 377-394
+\\
+  In string theory it is known that abelian isometries in the sigma model lead
+to target space duality. We generalize this duality to backgrounds with
+non--abelian isometries. The procedure we follow consists of gauging the
+isometries of the original action and constraining the field strength $F$ to
+vanish. This new action generates dual theories by integrating over either the
+Lagrange multipliers that set F=0 or the gauge fields. We find that this new
+duality transformation maps spaces with non--abelian isometries to spaces that
+may have no isometries at all. This suggests that duality symmetries in string
+theories need to be understood in a more general context without regard to the
+existence of continuous isometries on the target space (this is also indicated
+by the existence of duality in string compactifications on Calabi--Yau
+manifolds which have no continuous isometries). Physically interesting examples
+to which our formalism apply are the Schwarzschild metric and the 4D charged
+dilatonic black hole. For these spherically symmetric black holes in four
+dimensions, the dual backgrounds are presented and explicitly shown to be new
+solutions of the leading order string equations. Some of these new backgrounds
+are found to have no continuous isometries (except for time translations) and
+also have naked singularities.
+\\

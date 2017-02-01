@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303103
+From: Ted Jacobson <JACOBSON@sbitp.itp.ucsb.edu>
+Date: Thu, 18 Mar 1993 12:03 PST   (27kb)
+
+Title: Black Hole Evaporation in the Presence of a Short Distance Cutoff
+Authors: Ted Jacobson
+Comments: 35 pages, plain LaTeX, UMDGR93-32, NSF-ITP-93-26
+Journal-ref: Phys.Rev. D48 (1993) 728-741
+\\
+  A derivation of the Hawking effect is given which avoids reference to field
+modes above some cutoff frequency $\omega_c\gg M^{-1}$ in the free-fall frame
+of the black hole. To avoid reference to arbitrarily high frequencies, it is
+necessary to impose a boundary condition on the quantum field in a timelike
+region near the horizon, rather than on a (spacelike) Cauchy surface either
+outside the horizon or at early times before the horizon forms. Due to the
+nature of the horizon as an infinite redshift surface, the correct boundary
+condition at late times outside the horizon cannot be deduced, within the
+confines of a theory that applies only below the cutoff, from initial
+conditions prior to the formation of the hole. A boundary condition is
+formulated which leads to the Hawking effect in a cutoff theory. It is argued
+that it is possible the boundary condition is {\it not} satisfied, so that the
+spectrum of black hole radiation may be significantly different from that
+predicted by Hawking, even without the back-reaction near the horizon becoming
+of order unity relative to the curvature.
+\\

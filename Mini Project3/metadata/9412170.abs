@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412170
+From: vadim@fwi.uva.nl (Vadim Kuznetsov )
+Date: Mon, 19 Dec 1994 19:31:54 +0100   (22kb)
+
+Title: Integrable Time-Discretisation of the Ruijsenaars-Schneider Model
+Authors: F.W. Nijhoff, O. Ragnisco and V.B. Kuznetsov
+Comments: 27 pages, latex, equations.sty
+Report-no: 94-27, Mathematical preprint series, University of Amsterdam, 12
+  December 1994
+Journal-ref: Commun.Math.Phys. 176 (1996) 681-700
+\\
+  An exactly integrable symplectic correspondence is derived which in a
+continuum limit leads to the equations of motion of the relativistic
+generalization of the Calogero-Moser system, that was introduced for the first
+time by Ruijsenaars and Schneider. For the discrete-time model the equations of
+motion take the form of Bethe Ansatz equations for the inhomogeneous spin-1/2
+Heisenberg magnet. We present a Lax pair, the symplectic structure and prove
+the involutivity of the invariants. Exact solutions are investigated in the
+rational and hyperbolic (trigonometric) limits of the system that is given in
+terms of elliptic functions. These solutions are connected with discrete
+soliton equations. The results obtained allow us to consider the Bethe Ansatz
+equations as ones giving an integrable symplectic correspondence mixing the
+parameters of the quantum integrable system and the parameters of the
+corresponding Bethe wavefunction.
+\\

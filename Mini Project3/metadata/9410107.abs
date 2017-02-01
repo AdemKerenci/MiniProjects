@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410107
+From: "Sardanashvily Gennadi" <sard@grav.phys.msu.su>
+Date: Sun, 16 Oct 1994 00:36:31   (12kb)
+
+Title: True Functional Integrals in Algebraic Quantum Field Theory
+Authors: G.Sardanashvily
+Comments: 16 pp., compuscript in LaTeX
+\\
+  The familiar generating functionals in QFT fail to be true measures since the
+Lebesgue measure in infinite-dimensional spaces is not defined in general. The
+problem lies in constructing representations of topological $^*$-algebras of
+quantum fields which are not normed. We restrict our consideration only to
+chronological forms on quantum field algebras. In this case, since
+chronological forms of boson fields are symmetric, the algebra of quantum
+fields can be replaced with the commutative tenzor algebra of the corresponding
+infinite-dimensional nuclear space $\Phi$. This is the enveloping algebra of
+the abelian Lie group of translations in $\Phi$. The generating functions of
+unitary representations of this group play the role of Euclidean generating
+functionals in algebraic QFT. They are the Fourier transforms of measures in
+the dual $\Phi'$ to the space $\Phi$. By analogy with the case of boson fields,
+the corresponding anticommutative algebra of fermion fields is defined to be
+the algebra of functions taking their values into an infinite Grassman algebra.
+\\

@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308003
+From: Martin Land <martin@CS.HUJI.AC.IL>
+Date: Mon, 2 Aug 93 14:40:22 +0300   (25kb)
+Date (revised): Mon, 16 Jan 1995 09:00:19 +0200
+
+Title: On Feynman's Approach to the Foundations of Gauge Theory
+Authors: M. C. Land, N. Shnerb, and L. P. Horwitz
+Report-no: TAUP-2076-93
+Comments: This is a complete re-write of our paper, using new techniques, with
+  a new section on non-Abelian gauge fields. (36 pages, latex, no figures)
+\\
+  In 1948, Feynman showed Dyson how the Lorentz force and Maxwell equations
+could be derived from commutation relations coordinates and velocities. Several
+authors noted that the derived equations are not Lorentz covariant and so are
+not the standard Maxwell theory. In particular, Hojman and Shepley proved that
+the existence of commutation relations is a strong assumption, sufficient to
+determine the corresponding action, which for Feynman's derivation is of
+Newtonian form. Tanimura generalized Feynman's derivation to a Lorentz
+covariant form, however, this derivation does not lead to the standard Maxwell
+theory either. Tanimura's force equation depends on a fifth ({\it scalar})
+electromagnetic potential, and the invariant evolution parameter cannot be
+consistently identified with the proper time of the particle motion. Moreover,
+the derivation cannot be made reparameterization invariant; the scalar
+potential causes violations of the mass-shell constraint which this invariance
+should guarantee. In this paper, we examine Tanimura's derivation in the
+framework of the proper time method in relativistic mechanics, and use the
+technique of Hojman and Shepley to study the unconstrained commutation
+relations. We show that Tanimura's result then corresponds to the
+five-dimensional electromagnetic theory previously derived from a
+Stueckelberg-type quantum theory in which one gauges the invariant parameter in
+the proper time method. This theory provides the final step in Feynman's
+program of deriving the Maxwell theory from commutation relations; the Maxwell
+theory emerges as the ``correlation limit'' of a more general gauge theory, in
+which it is properly contained.
+\\

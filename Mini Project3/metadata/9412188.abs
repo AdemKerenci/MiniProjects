@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412188
+From: Per Liljenberg <tfepl@fy.chalmers.se>
+Date: Wed, 21 Dec 1994 16:41:52 +0100   (208kb)
+Date (revised): Mon, 9 Jan 1995 12:01:24 +0100
+
+Title: Fermionic and bosonic pair creation in an external electric field at
+  finite temperature using the functional Schr\"odinger representation
+Authors: Joakim Hallin and Per Liljenberg
+Comments: 28 pages, latex, uses psfig and epsf, 4 figures included, minor
+  changes
+Report-no: Goteborg ITP 94-40
+Journal-ref: Phys.Rev. D52 (1995) 1150-1164
+\\
+  We solve the time evolution of the density matrix both for fermions and
+bosons in the presence of a homogeneous but time dependent external electric
+field. The number of particles produced by the external field, as well as their
+distribution in momentum space is found for finite times. Furthermore, we
+calculate the probability of finding a given number of particles in the
+ensemble. In all cases, there is a nonvanishing thermal contribution. The
+bosonic and the fermionic density matrices are expressed in a "functional field
+basis". This constitutes an extension of the "field basis" concept to fermions.
+\\

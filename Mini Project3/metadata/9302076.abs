@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302076
+From: Shahn Majid <majid@damtp.cambridge.ac.uk>
+Date: Wed, 17 Feb 93 11:52:34 GMT   (24kb)
+
+Title: Free Braided Differential Calculus, Braided Binomial Theorem and the
+  Braided Exponential Map
+Author: Shahn Majid
+Comments: 19 pages
+Report-no: DAMTP/93-3
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 34 (1993) 4843-4856
+\\
+  Braided differential operators $\del^i$ are obtained by differentiating the
+addition law on the braided covector spaces introduced previously (such as the
+braided addition law on the quantum plane). These are affiliated to a
+Yang-Baxter matrix $R$. The quantum eigenfunctions $\exp_R(\vecx|\vecv)$ of the
+$\del^i$ (braided-plane waves) are introduced in the free case where the
+position components $x_i$ are totally non-commuting. We prove a braided
+$R$-binomial theorem and a braided-Taylors theorem
+$\exp_R(\veca|\del)f(\vecx)=f(\veca+\vecx)$. These various results precisely
+generalise to a generic $R$-matrix (and hence to $n$-dimensions) the well-known
+properties of the usual 1-dimensional $q$-differential and $q$-exponential. As
+a related application, we show that the q-Heisenberg algebra $px-qxp=1$ is a
+braided semidirect product $\C[x]\cocross \C[p]$ of the braided line acting on
+itself (a braided Weyl algebra). Similarly for its generalization to an
+arbitrary $R$-matrix.
+\\

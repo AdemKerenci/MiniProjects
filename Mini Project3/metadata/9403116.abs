@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403116
+From: Manuel Asorey <asorey@saturno.unizar.es>
+Date: Sat, 19 Mar 94 20:01:36 +0100   (17kb)
+Date (revised): Mon, 21 Mar 94 19:41:26 +0100
+Date (revised): Sat, 19 May 2001 12:24:20 GMT
+
+Title: Renormalization Ambiguities in Chern-Simons Theory
+Authors: M. Asorey, F. Falceto, J.L. Lopez and G. Luzon
+Comments: 10 pages, harvmac, no changes, 1 Postscript figure (now included)
+Report-no: DFTUZ 93.09
+Journal-ref: Phys.Rev. D49 (1994) 5377-5381
+\\
+  We introduce a new family of gauge invariant regularizations of Chern-Simons
+theories which generate one-loop renormalizations of the coupling constant of
+the form $k\to k+2 s c_v$ where $s$ can take any arbitrary integer value. In
+the particular case $s=0$ we get an explicit example of a gauge invariant
+regularization which does not generate radiative corrections to the bare
+coupling constant. This ambiguity in the radiative corrections to $k$ is
+reminiscent of the Coste-L\"uscher results for the parity anomaly in (2+1)
+fermionic effective actions.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304125
+From: feher@avzw02.physik.uni-bonn.de (Laszlo Feher)
+Date: Mon, 26 Apr 93 14:01:09 +0200   (35kb)
+Date (revised): Sun, 5 Sep 93 20:20:20 +0200
+
+Title: On the Completeness of the Set of Classical W-Algebras Obtained from DS
+  Reductions
+Authors: L. Feher, L. O'Raifeartaigh, P. Ruelle and I. Tsutsui
+Comments: 48 pages, plain TeX, BONN-HE-93-14, DIAS-STP-93-02
+Journal-ref: Commun.Math.Phys. 162 (1994) 399-432
+\\
+  We clarify the notion of the DS --- generalized Drinfeld-Sokolov ---
+reduction approach to classical ${\cal W}$-algebras. We first strengthen an
+earlier theorem which showed that an $sl(2)$ embedding ${\cal S}\subset {\cal
+G}$ can be associated to every DS reduction. We then use the fact that a
+$\W$-algebra must have a quasi-primary basis to derive severe restrictions on
+the possible reductions corresponding to a given $sl(2)$ embedding. In the
+known DS reductions found to date, for which the $\W$-algebras are denoted by
+${\cal W}_{\cal S}^{\cal G}$-algebras and are called canonical, the
+quasi-primary basis corresponds to the highest weights of the $sl(2)$. Here we
+find some examples of noncanonical DS reductions leading to $\W$-algebras which
+are direct products of ${\cal W}_{\cal S}^{\cal G}$-algebras and `free field'
+algebras with conformal weights $\Delta \in \{0, {1\over 2}, 1\}$. We also show
+that if the conformal weights of the generators of a ${\cal W}$-algebra
+obtained from DS reduction are nonnegative $\Delta \geq 0$ (which is
+\\

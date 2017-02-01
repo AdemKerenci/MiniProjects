@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310073
+From: devega@lpthe.jussieu.fr (Hector DE VEGA)
+Date: Wed, 13 Oct 93 18:51:13 +0100   (22kb)
+
+Title: Multi-String Solutions by Soliton Methods in De Sitter Spacetime
+Authors: F. Combes, H.J. de Vega, A. V. Mikhailov and N. S\'anchez
+Comments: 25 pages, latex. LPTHE 93-44. Figures available from the auhors under
+  request
+Journal-ref: Phys.Rev. D50 (1994) 2754-2768
+\\
+  {\bf Exact} solutions of the string equations of motion and constraints are
+{\bf systematically} constructed in de Sitter spacetime using the dressing
+method of soliton theory. The string dynamics in de Sitter spacetime is
+integrable due to the associated linear system. We start from an exact string
+solution $q_{(0)}$ and the associated solution of the linear system $\Psi^{(0)}
+(\lambda)$, and we construct a new solution $\Psi(\lambda)$ differing from
+$\Psi^{(0)}(\lambda)$ by a rational matrix in $\lambda$ with at least four
+poles $\lambda_{0},1/\lambda_{0},\lambda_{0}^*,1/\lambda_{0}^*$. The periodi-
+city condition for closed strings restrict $\lambda _{0}$ to discrete values
+expressed in terms of Pythagorean numbers. Here we explicitly construct solu-
+tions depending on $(2+1)$-spacetime coordinates, two arbitrary complex numbers
+(the 'polarization vector') and two integers $(n,m)$ which determine the string
+windings in the space. The solutions are depicted in the hyperboloid coor-
+dinates $q$ and in comoving coordinates with the cosmic time $T$. Despite of
+the fact that we have a single world sheet, our solutions describe {\bf multi-
+ple}(here five) different and independent strings; the world sheet time $\tau$
+turns to be a multivalued function of $T$.(This has no analogue in flat space-
+time).One string is stable (its proper size tends to a constant for $T\to\infty
+$, and its comoving size contracts); the other strings are unstable (their
+proper sizes blow up for $T\to\infty$, while their comoving sizes tend to cons-
+tants). These solutions (even the stable strings) do not oscillate in time. The
+interpretation of these solutions and their dynamics in terms of the sinh-
+Gordon model is particularly enlighting.
+\\

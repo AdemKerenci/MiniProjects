@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303127
+From: Francois David <david@amoco.saclay.cea.fr>
+Date: 23 Mar 93 16:04:36+0100   (183kb)
+
+Title: Simplicial Quantum Gravity and Random Lattices
+Authors: F. David
+Comments: (Lectures given at Les Houches Summer School, July 1992) 63 pages,
+  plain TeX (foreword) + uuencoded tar-compressed PostScript file (main text +
+  figures)
+Report-no: Saclay T93/028
+\\
+  Content:
+ 1. Introduction
+ 2. Regge calculus and dynamical triangulations
+  Simplicial manifolds and piecewise linear spaces - dual complex and volume
+elements - curvature and Regge action - topological invariants - quantum
+Regge calculus - dynamical triangulations
+ 3. Two dimensional quantum gravity, dynamical triangulations and matrix models
+  continuum formulation - dynamical triangulations and continuum limit -
+one matrix model - various matrix models - numerical studies - c=1 barrier -
+intrinsic geometry of 2d gravity - Liouville at c>25
+ 4. Euclidean quantum gravity in three and four dimensions
+  what are we looking for? - 3d simplicial gravity - 4d simplicial gravity -
+3d and 4d Regge calculus
+ 5. Non-perturbative problems in two dimensional quantum gravity
+  double scaling limit - string equation - non-perturbative properties of the
+string equation - divergent series and Borel summability - non-perturbative
+effects in 2d gravity and string theories - stabilization proposals
+ 6. Conclusion
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307179
+From: setaro@fisica.edu.uy
+Date: Thu, 29 Jul 1993 00:25:37 -0400   (12kb)
+
+Title: Classical Loop Actions of Gauge Theories
+Authors: Daniel Armand-Ugon, Rodolfo Gambini, Jorge Griego and Leonardo Setaro
+Comments: LaTeX 14 pages
+Journal-ref: Phys.Rev. D50 (1994) 5352-5357
+\\
+  Since the first attempts to quantize Gauge Theories and Gravity in the loop
+representation, the problem of the determination of the corresponding classical
+actions has been raised. Here we propose a general procedure to determine these
+actions and we explicitly apply it in the case of electromagnetism. Going to
+the lattice we show that the electromagnetic action in terms of loops is
+equivalent to the Wilson action, allowing to do Montecarlo calculations in a
+gauge invariant way. In the continuum these actions need to be regularized and
+they are the natural candidates to describe the theory in a ``confining
+phase''.
+\\

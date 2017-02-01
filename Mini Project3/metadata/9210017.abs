@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210017
+From: Young Park <young@denali.physics.ucsb.edu>
+Date: Fri, 2 Oct 92 16:14:33 PDT   (14kb)
+
+Title: Supersymmetry and Positive Energy in Classical and Quantum
+  Two-Dimensional Dilaton Gravity
+Authors: Youngchul Park and Andrew Strominger
+Comments: 21 pages
+Report-no: UCSBTH-92-39
+Journal-ref: Phys.Rev. D47 (1993) 1569-1575
+\\
+  An $N = 1$ supersymmetric version of two dimensional dilaton gravity coupled
+to matter is considered. It is shown that the linear dilaton vacuum
+spontaneously breaks half the supersymmetries, leaving broken a linear
+combination of left and right supersymmetries which squares to time
+translations. Supersymmetry suggests a spinorial expression for the ADM energy
+$M$, as found by Witten in four-dimensional general relativity. Using this
+expression it is proven that ${M}$ is non-negative for smooth initial data
+asymptotic (in both directions) to the linear dilaton vacuum, provided that the
+(not necessarily supersymmetric) matter stress tensor obeys the dominant energy
+condition. A {\it quantum} positive energy theorem is also proven for the
+semiclassical large-$N$ equations, despite the indefiniteness of the quantum
+stress tensor. For black hole spacetimes, it is shown that $M$ is bounded from
+below by $e^{- 2 \phi_H}$, where $\phi_H$ is the value of the dilaton at the
+apparent horizon, provided only that the stress tensor is positive outside the
+apparent horizon. This is the two-dimensional analogue of an unproven
+conjecture due to Penrose. Finally, supersymmetry is used to prove positive
+energy theorems for a large class of generalizations of dilaton gravity which
+arise in consideration of the quantum theory.
+\\

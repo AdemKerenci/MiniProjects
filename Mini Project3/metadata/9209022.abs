@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209022
+From: A87353 <a87353@tansei.cc.u-tokyo.ac.jp>
+Date: Tue, 8 Sep 92 16:37:35 JST   (6kb)
+
+Title: Perturbative analysis of an n-Ising model on a random surface
+Authors: Shinobu Hikami and Edouard Br\'ezin
+Comments: 9pp
+Journal-ref: Phys. Lett. B295 (1992) 209
+\\
+  Two dimensional quantum gravity coupled to a conformally invariant matter
+field of central charge c=n/2, is represented, in a discretized version, by n
+independent Ising spins per cell of the triangulations of a random surface. The
+matrix integral representation of this model leads to a diagrammatic expansion
+at large orders, when the Ising coupling constant is tuned to criticality, one
+extracts the values of the string susceptibility exponent. We extend our
+previous calculation to order eight for genus zero and investigate now also the
+genus one case in order to check the possibility of having a well-defined
+double scaling limit even c>1.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411016
+From: S.Hands@swansea.ac.uk
+Date: Wed, 02 Nov 94 14:44:23 +0000   (20kb)
+Date (revised): Wed, 09 Nov 94 14:22:00 +0000
+Date (revised): Thu, 10 Nov 94 09:47:22 +0000
+
+Title: O(1/N_f) Corrections to the Thirring Model in 2<d<4
+Author: Simon Hands
+Comments: 22 pages in plain TeX, with 7 figs included using psfig.tex (Minor
+  conceptual changes - algebra unaffected)
+Report-no: SWAT/94/47
+Journal-ref: Phys.Rev. D51 (1995) 5816-5826
+\\
+  The Thirring model, that is, a relativistic field theory of fermions with a
+contact interaction between vector currents, is studied for dimensionalities
+2<d<4 using the 1/N_f expansion, where N_f is the number of fermion species.
+The model is found to have no ultraviolet divergences at leading order provided
+a regularization respecting current conservation is used. Explicit O(1/N_f)
+corrections are computed, and the model shown to be renormalizable at this
+order in the massless limit; renormalizability appears to hold to all orders
+due to a special case of Weinberg's theorem. This implies there is a universal
+amplitude for four particle scattering in the asymptotic regime. Comparisons
+are made with both the Gross-Neveu model and QED.
+\\

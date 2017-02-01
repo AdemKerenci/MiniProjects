@@ -1,0 +1,42 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401153
+From: Robert Perry <perry@pacific.mps.ohio-state.edu>
+Date: Fri, 28 Jan 94 15:00:43 EST   (78kb)
+
+Title: Nonperturbative Light-Front QCD
+Authors: K. G. Wilson, T. Walhout, A. Harindranath, W. M. Zhang, R. J. Perry
+  and S. Glazek
+Comments: 56 pages (REVTEX), Report OSU-NT-94-28. (figures not included,
+  available via anaonymous ftp from pacific.mps.ohio-state.edu in subdirectory
+  pub/infolight/qcd)
+Journal-ref: Phys.Rev. D49 (1994) 6720-6766
+\\
+  In this work the determination of low-energy bound states in Quantum
+Chromodynamics is recast so that it is linked to a weak-coupling problem. This
+allows one to approach the solution with the same techniques which solve
+Quantum Electrodynamics: namely, a combination of weak-coupling diagrams and
+many-body quantum mechanics. The key to eliminating necessarily nonperturbative
+effects is the use of a bare Hamiltonian in which quarks and gluons have
+nonzero constituent masses rather than the zero masses of the current picture.
+The use of constituent masses cuts off the growth of the running coupling
+constant and makes it possible that the running coupling never leaves the
+perturbative domain. For stabilization purposes an artificial potential is
+added to the Hamiltonian, but with a coefficient that vanishes at the physical
+value of the coupling constant. The weak-coupling approach potentially
+reconciles the simplicity of the Constituent Quark Model with the complexities
+of Quantum Chromodynamics. The penalty for achieving this perturbative picture
+is the necessity of formulating the dynamics of QCD in light-front coordinates
+and of dealing with the complexities of renormalization which such a
+formulation entails. We describe the renormalization process first using a
+qualitative phase space cell analysis, and we then set up a precise similarity
+renormalization scheme with cutoffs on constituent momenta and exhibit
+calculations to second order. We outline further computations that remain to be
+carried out. There is an initial nonperturbative but nonrelativistic
+calculation of the hadronic masses that determines the artificial potential,
+with binding energies required to be fourth order in the coupling as in QED.
+Next there is a calculation of the leading radiative corrections to these
+masses, which requires our renormalization program. Then the real struggle of
+finding the right extensions to perturbation theory to study the
+strong-coupling behavior of bound states can begin.
+\\

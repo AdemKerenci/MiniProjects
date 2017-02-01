@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405108
+From: dannyb@phys.uva.nl (Danny Birmingham)
+Date: Tue, 17 May 1994 12:19:51 +0200   (19kb)
+Date (revised): Thu, 29 Sep 1994 11:45:29 +0100
+
+Title: State Sum Models and Simplicial Cohomology
+Authors: Danny Birmingham and Mark Rakowski
+Comments: 28 pages, Latex, ITFA-94-13, (Expanded version with two new sections)
+Journal-ref: Commun.Math.Phys. 173 (1995) 135-154
+\\
+  We study a class of subdivision invariant lattice models based on the gauge
+group $Z_{p}$, with particular emphasis on the four dimensional example. This
+model is based upon the assignment of field variables to both the $1$- and
+$2$-dimensional simplices of the simplicial complex. The property of
+subdivision invariance is achieved when the coupling parameter is quantized and
+the field configurations are restricted to satisfy a type of mod-$p$ flatness
+condition. By explicit computation of the partition function for the manifold
+$RP^{3} \times S^{1}$, we establish that the theory has a quantum Hilbert space
+which differs from the classical one.
+\\

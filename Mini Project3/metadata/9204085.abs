@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9204085
+From: @techno.fuug.fi:theordep@sci.fian.msk.su (Theor.department FIAN)
+Date: Fri, 24 Apr 92 14:03:02 +0300 (MSK)   (13kb)
+Date (revised): Tue, 19 May 1992 13:35:37 UTC+0100
+
+Title: Minimal Models from W-Constrained Hierarchies via the Kontsevich-Miwa
+  Transform
+Authors: B.~Gato-Rivera and A.~M.~Semikhatov
+Comments: 11 pp REVISED (minor changes in the presentation, easier to read)
+Report-no: CERN.TH-6469/92. REVISED VERSION
+Journal-ref: Phys.Lett. B288 (1992) 38-46
+\\
+  A direct relation between the conformal formalism for 2d-quantum gravity and
+the W-constrained KP hierarchy is found, without the need to invoke
+intermediate matrix model technology. The Kontsevich-Miwa transform of the KP
+hierarchy is used to establish an identification between W constraints on the
+KP tau function and decoupling equations corresponding to Virasoro null
+vectors. The Kontsevich-Miwa transform maps the $W^{(l)}$-constrained KP
+hierarchy to the $(p^\prime,p)$ minimal model, with the tau function being
+given by the correlator of a product of (dressed) $(l,1)$ (or $(1,l)$)
+operators, provided the Miwa parameter $n_i$ and the free parameter (an
+abstract $bc$ spin) present in the constraints are expressed through the ratio
+$p^\prime/p$ and the level $l$.
+\\

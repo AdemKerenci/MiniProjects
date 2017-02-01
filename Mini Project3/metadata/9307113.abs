@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307113
+From: <weiss@physics.ubc.ca>
+Date: 18 Jul 93 23:04 -0700   (20kb)
+Date (revised): 18 Jul 93 23:24 -0700
+Date (revised): 19 Oct 93 11:39 -0700
+
+Title: Scattering From a Two Dimensional Array of Flux Tubes: A Study of The
+  Validity of Mean Field Theory
+Authors: Ken Kiers and Nathan Weiss
+Comments: 23 pages, University of British Columbia Preprint UBCTP93-010
+Journal-ref: Phys.Rev. D49 (1994) 2081-2091
+\\
+  Mean Field Theory has been extensively used in the study of systems of anyons
+in two spatial dimensions. In this paper we study the physical grounds for the
+validity of this approximation by considering the Quantum Mechanical scattering
+of a charged particle from a two dimensional array of magnetic flux tubes. The
+flux tubes are arranged on a regular lattice which is infinitely long in the
+``$y$'' direction but which has a (small) finite number of columns in the
+``$x$'' direction. Their physical size is assumed to be infinitesimally small.
+We develop a method for computing the scattering angle as well as the
+reflection and transmission coefficients to lowest order in the Aharonov--Bohm
+interaction. The results of our calculation are compared to the scattering of
+the same particle from a region of constant magnetic field whose magnitude is
+equal to the mean field of all the flux tubes. For an incident plane wave, the
+Mean Field approximation is shown to be valid provided the flux in each tube is
+much less than a single flux quantum. This is precisely the regime in which
+Mean Field Theory for anyons is expected to be valid. When the flux per tube
+becomes of order 1, Mean Field Theory is no longer valid.
+\\

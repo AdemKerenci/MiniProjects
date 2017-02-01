@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307128
+From: meurice@hepmips.physics.uiowa.edu (Yannick Meurice)
+Date: Tue, 20 Jul 93 11:45:24 -0500   (7kb)
+
+Title: A Perturbative Improvement of the Hierarchical Approximation
+Authors: Yannick Meurice
+Comments: 11 p., uses phyzzx.tex , UIowa 12-93
+\\
+  We propose a perturbative improvement of the hierarchical approximation for
+gaussian models. The procedure is based on a relabeling of the momenta which
+allows one to express the symmetries of the hierarchical model using a simple
+multiplication group. The representations of this group are used to expand the
+action. The perturbative expansion is treated as a problem of symmetry breaking
+using Ward identity techniques.
+\\

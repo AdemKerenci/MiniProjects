@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405095
+From: Francesco.TOPPAN@enslapp.ens-lyon.fr (Francesco TOPPAN)
+Date: Sun, 15 May 94 21:46:35 +0200   (23kb)
+
+Title: N=1,2 Super-NLS Hierarchies as Super-KP Coset Reductions
+Authors: Francesco Toppan
+Comments: 27 pages, LaTex, Preprint ENSLAPP-L-467/94
+Journal-ref: Int.J.Mod.Phys. A10 (1995) 895-922
+\\
+  We define consistent finite-superfields reductions of the $N=1,2$ super-KP
+hierarchies via the coset approach we already developped for reducing the
+bosonic KP-hierarchy (generating e.g. the NLS hierarchy from the
+$sl(2)/U(1)-{\cal KM}$ coset). We work in a manifestly supersymmetric framework
+and illustrate our method by treating explicitly the $N=1,2$ super-NLS
+hierarchies. W.r.t. the bosonic case the ordinary covariant derivative is now
+replaced by a spinorial one containing a spin ${\textstyle {1\over 2}}$
+superfield. Each coset reduction is associated to a rational super-$\cw$
+algebra encoding a non-linear super-$\cw_\infty$ algebra structure. In the
+$N=2$ case two conjugate sets of superLax operators, equations of motion and
+infinite hamiltonians in involution are derived. Modified hierarchies are
+obtained from the original ones via free-fields mappings (just as a m-NLS
+equation arises by representing the $sl(2)-{\cal KM}$ algebra through the
+classical Wakimoto free-fields).
+\\

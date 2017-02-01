@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306133
+From: MICKELSSON@phcu.helsinki.fi
+Date: 27 Jun 1993 21:11:31 +0300   (6kb)
+
+Title: Regularization of current algebra
+Authors: Jouko Mickelsson
+Comments: 10pp, talk at the conference "Constraint theory and quantization",
+  Montepulciano, June 1993, written in AMSTEX format
+\\
+  In this talk I want to explain the operator substractions needed to
+regularize gauge currents in a second quantized theory. The case of space-time
+dimension $3+1$ is considered in detail. In presence of chiral fermions the
+regularization effects a modification of the local commutation relations of the
+currents by local Schwinger terms. In $1+1$ dimensions one gets the usual
+central extension (Schwinger term does not depend on background gauge field)
+whereas in $3+1$ dimensions one gets an anomaly linear in the background
+potential.
+\\

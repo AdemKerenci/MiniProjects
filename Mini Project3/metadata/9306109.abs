@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306109
+From: UDAH101@ELM.CC.KCL.AC.UK
+Date: Mon, 21 Jun 93 22:07 BST   (7kb)
+
+Title: A New Approach to the Green-Schwarz Superstring
+Authors: Nathan Berkovits
+Comments: (based on talks given at SUSY '93 and at Strings '93), 6 pages plain
+  Tex, KCL-TH-93-9
+\\
+  By replacing two of the bosonic scalar superfields of the N=2 string with
+fermionic scalar superfields (which shifts $d_{critical}$ from (2,2) to (9,1)),
+a quadratic action for the ten-dimensional Green-Schwarz superstring is
+obtained. Using the usual N=2 super-Virasoro ghosts, one can construct a BRST
+operator, picture-changing operators, and covariant vertex operators for the
+Green-Schwarz superstring. Superstring scattering amplitudes with an arbitrary
+number of loops and external massless states are then calculated by evaluating
+correlation functions of these vertex operators on N=2 super-Riemann surfaces,
+and integrating over the N=2 super-moduli. These multiloop superstring
+amplitudes have been proven to be SO(9,1) super-Poincar\'e invariant (by
+constructing the super-Poincar\'e generators and writing the amplitudes in
+manifest SO(9,1) notation), unitary (by showing agreement with amplitudes
+obtained using the light-cone gauge Green-Schwarz formalism), and finite (by
+explicitly checking for divergences in the amplitudes when the Riemann surface
+degenerates). There is no multiloop ambiguity in these Green-Schwarz scattering
+amplitudes since spacetime-supersymmetry is manifest (there is no sum over spin
+structures), and therefore the moduli space can be compactified.
+\\

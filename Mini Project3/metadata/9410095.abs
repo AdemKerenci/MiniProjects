@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410095
+From: Ruth Gregory <R.Gregory@damtp.cambridge.ac.uk>
+Date: Thu, 13 Oct 94 14:23:47 BST   (21kb)
+
+Title: Curvature Corrections to Dynamics of Domain Walls
+Authors: Brandon Carter and Ruth Gregory
+Comments: 19 pages plain TeX, 2 figures included
+Journal-ref: Phys.Rev. D51 (1995) 5839-5846
+\\
+  The most usual procedure for deriving curvature corrections to effective
+actions for topological defects is subjected to a critical reappraisal. A
+logically unjustified step (leading to overdetermination) is identified and
+rectified, taking the standard domain wall case as an illustrative example.
+Using the appropriately corrected procedure, we obtain a new exact (analytic)
+expression for the corresponding effective action contribution of quadratic
+order in the wall width, in terms of the intrinsic Ricci scalar $R$ and the
+extrinsic curvature scalar $K$. The result is proportional to $cK^2-R$ with the
+coefficient given by $c\simeq 2$. The resulting form of the ensuing dynamical
+equations is obtained in terms of the second fundamental form and the
+Dalembertian of its trace, K. It is argued that this does not invalidate the
+physical conclusions obtained from the "zero rigidity" ansatz $c=0$ used in
+previous work.
+\\

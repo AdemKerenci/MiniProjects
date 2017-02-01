@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306090
+From: Samir Mathur <me@ctpdown.mit.edu>
+Date: Fri, 18 Jun 93 11:22:16 EDT   (31kb)
+
+Title: Is the Polyakov path integral prescription too restrictive?
+Authors: Samir D. Mathur
+Comments: 37 pages, harvmac
+\\
+  In the first quantised description of strings, we integrate over target space
+co-ordinates $X^\mu$ and world sheet metrics $g_{\alpha\beta}$. Such path
+integrals give scattering amplitudes between the `in' and `out' vacuua for a
+time-dependent target space geometry. For a complete description of
+  `particle creation' and the corresponding backreaction, we need instead the
+causal amplitudes obtained from an `initial value formulation'. We argue, using
+the analogy of a scalar particle in curved space, that in the first quantised
+path integral one should integrate over $X^\mu$ and world sheet {\it
+zweibiens}. This extended formalism can be made to yield causal amplitudes; it
+also naturally allows incorporation of density matrices in a covariant manner.
+(This paper is an expanded version of hep-th 9301044)
+\\

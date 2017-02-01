@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202034
+From: klassen@strange.tn.cornell.edu (Tim Klassen)
+Date: Mon, 10 Feb 92 23:12:22 EST   (94kb)
+
+Title: Kinks in Finite Volume
+Authors: Timothy R. Klassen and Ezer Melzer
+Comments: 48/28 pages + 10 figs, 4 in pictex, the rest in postscript files
+  attached at the end
+Journal-ref: Nucl.Phys. B382 (1992) 441-485
+\\
+  A (1+1)-dimensional quantum field theory with a degenerate vacuum (in
+infinite volume) can contain particles, known as kinks, which interpolate
+between different vacua and have nontrivial restrictions on their
+multi-particle Hilbert space. Assuming such a theory to be integrable, we show
+how to calculate the multi-kink energy levels in finite volume given its
+factorizable $S$-matrix. In massive theories this can be done exactly up to
+contributions due to off-shell and tunneling effects that fall off
+exponentially with volume. As a first application we compare our analytical
+predictions for the kink scattering theories conjectured to describe the
+subleading thermal and magnetic perturbations of the tricritical Ising model
+with numerical results from the truncated conformal space approach. In
+particular, for the subleading magnetic perturbation our results allow us to
+decide between the two different $S$-matrices proposed by Smirnov and
+Zamolodchikov.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406140
+From: senia@mpim-bonn.mpg.de (Simeon Vishik)
+Date: Tue, 21 Jun 1994 17:29:17 --100   (21kb)
+
+Title: Geometry of determinants of elliptic operators
+Author: Maxim Kontsevich, Simeon Vishik
+Comments: 25 pages
+Subj-class: High Energy Physics - Theory; Differential Geometry
+\\
+  This paper is essentially a short version of hep-th/9404046.
+We compute multiplicative anomaly det(AB)/(detA detB) =F(A,B)
+for elliptic pseudo-differential operators (PDOs) A, B on a closed
+manifold M in terms of their symbols. We prove that F(A,B)=1 for
+elliptic differential operators close to positive-definite ones on
+an odd-dimensional M. For such M we introduce a holomorphic determinant.
+Its monodromy lies in a finite group of roots of unity.
+  In general case, we relate the multiplicative anomaly with a central
+extension of the group of elliptic symbols and with an
+invariant quadratic form on this extension. We compute the Lie
+algebra of the central extension in terms of logarithmic symbols.
+The main tool is a new trace-type functional defined on classical PDOs
+of non-integer orders. A canonical det of elliptic PDOs generalizing
+the zeta-regularized det is introduced.
+\\

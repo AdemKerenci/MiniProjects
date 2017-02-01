@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210113
+From: giorgio@lpthe.jussieu.fr
+Date: Wed, 21 Oct 92 15:04:59 +0100   (14kb)
+
+Title: Regularization and Renormalization of Chern-Simons Theory
+Authors: G. Giavarini, C. P. Martin and F. Ruiz Ruiz
+Comments: 10 pages, Phyzzx, LPTHE 92-42
+\\
+  We analyze some features of the perturbative quantization of Chern-Simons
+theory (CST) in the Landau gauge. In this gauge the theory is known to be
+perturbatively finite. We consider the renormalization scheme in which the
+renormalized parameter $k$ equals the bare or classical one and show that it
+constitutes a natural parametrization for the quantum theory. The reason is
+that, although in this renormalization scheme the value of the Green functions
+depends on the regularization used, comparison among different regularization
+methods shows that the observables (Wilson loops) are the same function of the
+shifted monodromy parameter $k+c_v$ for all BRS invariant regulators used so
+far for CST. We also discuss a particular BRS invariant regularization
+prescription in which CST is perturbatively defined as the large mass limit of
+dimensionally regularized topologically massive Yang-Mills theory. With this
+regularization prescription the radiative corrections induced by two-loop
+contributions do not entail observable consequences since they can be
+reabsorbed by a finite rescaling of the fields only. This very mechanism is
+conjectured to take place at higher perturbative orders. Talk presented by G.G.
+at the NATO AWR on ``Low dimensional Topology and Quantum Field Theory'', 6-13
+September 1992, Cambridge (UK).
+\\

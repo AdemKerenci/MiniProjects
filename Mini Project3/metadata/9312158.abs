@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312158
+From: Ryuichi Nakayama <nakayama@theory.kek.jp>
+Date: Mon, 20 Dec 93 13:50:51 JST   (10kb)
+
+Title: 2D Quantum Gravity in the Proper-Time Gauge
+Author: Ryuichi Nakayama
+Comments: 12 pages, latex
+Report-no: EPHOU-93004
+Journal-ref: Phys.Lett. B325 (1994) 347-353
+\\
+  A two-loop (cylinder) amplitude of the 2d pure gravity theory is obtained in
+the proper-time gauge ($g_{00}=1$, $g_{01}=g_{10}=0$) in the continuum
+formulation. The constraint $T_{01}=0$ is solved and used to reduce the problem
+of field theory to that of quantum mechanics. This reduction can also be proved
+by using a conformal Ward identity. The amplitude depends on the lengths $l_1,
+l_2$ of the boundaries, the proper time $T$ and a non-negative integer $m$
+associated with winding modes around the boundaries.
+\\

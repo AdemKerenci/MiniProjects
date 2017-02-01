@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309022
+From: devega@lpthe.jussieu.fr (Hector DE VEGA)
+Date: Fri, 3 Sep 93 16:39:36 +0200   (23kb)
+
+Title: Exact solution of the $SU_{q}(n)$ invariant quantum spin chains
+Author: H. J. de Vega and A. Gonz\'alez--Ruiz
+Comments: 29 pages
+Report-no: LPTHE 93-38
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Nucl.Phys. B417 (1994) 553-578
+\\
+  The Nested Bethe Ansatz is generalized to open boundary conditions. This is
+used to find the exact eigenvectors and eigenvalues of the $A_{n-1}$ vertex
+model with fixed open boundary conditions and the corresponding $SU_{q}(n)$
+invariant hamiltonian.
+  The Bethe Ansatz equations obtained are solved in the thermodynamic limit
+giving the vertex model free energy and the hamiltonian ground state energy
+including the corresponding boundary contributions.
+\\

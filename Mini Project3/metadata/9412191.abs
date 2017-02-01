@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412191
+From: Jose Gaite <iffgaite@roca.csic.es>
+Date: Wed, 21 Dec 1994 20:42:55 UTC+0100   (160kb)
+
+Title: Deformed 2d CFT: Landau-Ginzburg Lagrangians and Toda theories
+Authors: Jose Gaite
+Comments: 13 pages LaTeX. 2 PostScript figures (uuencoded tarred files)
+Report-no: ITFA-94-31
+\\
+  We consider the relation between affine Toda field theories (ATFT) and
+Landau-Ginzburg Lagrangians as alternative descriptions of deformed 2d CFT.
+First, we show that the two concrete implementations of the deformation are
+consistent once quantum corrections to the Landau-Ginzburg Lagrangian are taken
+into account. Second, inspired by Gepner's fusion potentials, we explore the
+possibility of a direct connection between both types of Lagrangians; namely,
+whether they can be transformed one into another by a change of variables. This
+direct connection exists in the one-variable case, namely, for the sine-Gordon
+model, but cannot be established in general. Nevertheless, we show that both
+potentials exhibit the same structure of extrema.
+\\

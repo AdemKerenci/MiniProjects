@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305124
+From: fendley@BUCRF17.BU.EDU (Paul Fendley)
+Date: Mon, 24 May 93 15:45:32 -0400   (10kb)
+
+Title: Exact information in N=2 theories
+Authors: Paul Fendley
+Comments: 10 pages (SUSY '93 conference talk), BUHEP-93-13
+\\
+  This is intended to be a simple discussion of work done in collaboration with
+S. Cecotti, K. Intriligator and C. Vafa; and with H. Saleur. I discuss how $ Tr
+F (-1)^F e^{-\beta H}$ can be computed exactly in any N=2 supersymmetric theory
+in two dimensions. It gives exact information on the soliton spectrum of the
+theory, and corresponds to the partition function of a single self-avoiding
+polymer looped once around a cylinder of radius $\beta$. It is independent of
+almost all deformations of the theory, and satisfies an exact differential
+equation as a function of $\beta$. For integrable theories it can also be
+computed from the exact S-matrix. This implies a highly non-trivial equivalence
+of a set of coupled integral equations with the classical sinh-Gordon and the
+affine Toda equations.
+\\

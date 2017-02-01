@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306033
+From: Alexander Sevrin <alex@asterix.lbl.gov>
+Date: Fri, 4 Jun 93 21:46:42 -0700   (13kb)
+
+Title: Extensions of the Virasoro Algebra and Gauged WZW Models
+Authors: A. Sevrin and W. Troost
+Comments: 10 pages, LaTeX, LBL-34125, UCB-PTH-93/19, KUL-TF-93/21
+Journal-ref: Phys.Lett. B315 (1993) 304-310
+\\
+  To any non-trivial embedding of sl(2) in a (super) Lie algebra, one can
+associate an extension of the Virasoro algebra. We realize the extended
+Virasoro algebra in terms of a WZW model in which a chiral, solvable group is
+gauged, the gauge group being determined by the sl(2) embedding. The resulting
+BRST cohomology is computed and the field content of the extended Virasoro
+algebra is determined. The (quantum) closure of the extended Virasoro algebra
+is shown. Applications such as the quantum Miura transformation and the
+effective action of the associated extended gravity theory are discussed in
+detail.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401118
+From: Alejandro Gonzalez Ruiz <alexr@fis.ucm.es>
+Date: Mon, 24 Jan 1994 16:16:41 UTC+0100   (15kb)
+Date (revised): Fri, 3 Jun 1994 13:42:50 UTC+0100
+
+Title: Integrable open-boundary conditions for the supersymmetric t-J model.
+  The quantum group invariant case
+Authors: A. Gonz\'alez-Ruiz
+Comments: Latex, 24 pages. Some new comments and references. Final version to
+  appear in Nucl. Phys. B
+Report-no: FT/UCM 94-1
+Journal-ref: Nucl.Phys. B424 (1994) 468-486
+\\
+  We consider integrable open--boundary conditions for the supersymmetric t--J
+model commuting with the number operator $n$ and $S^{z}$. Four families, each
+one depending on two arbitrary parameters, are found. We find the relation
+between Sklyanin's method of constructing open boundary conditions and the one
+for the quantum group invariant case based on Markov traces. The eigenvalue
+problem is solved for the new cases by generalizing the Nested Algebraic Bethe
+ansatz of the quantum group invariant case (which is obtained as a special
+limit). For the quantum group invariant case the Bethe ansatz states are shown
+to be highest weights of $spl_{q}(2,1)$.
+\\

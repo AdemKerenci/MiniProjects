@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207029
+From: Thomas Larsson <tl@theophys.kth.se>
+Date: Thu, 9 Jul 92 16:41:31 EDT   (14kb)
+
+Title: Conformal fields: a class of representations of Vect(N)
+Authors: T. A. Larsson
+Comments: 16 pages
+Journal-ref: Int.J.Mod.Phys. A7 (1992) 6493
+\\
+  $Vect(N)$, the algebra of vector fields in $N$ dimensions, is studied. Some
+aspects of local differential geometry are formulated as $Vect(N)$
+representation theory. There is a new class of modules, {\it conformal fields},
+whose restrictions to the subalgebra $sl(N+1) \subset Vect(N)$ are
+finite-dimensional $sl(N+1)$ representations. In this regard they are simpler
+than tensor fields. Fock modules are also constructed. Infinities, which are
+unremovable even by normal ordering, arise unless bosonic and fermionic degrees
+of freedom match.
+\\

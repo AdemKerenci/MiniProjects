@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403197
+From: "Adel Bilal" <bilal@puhep1.Princeton.EDU>
+Date: Thu, 31 Mar 94 13:22:06 -0500   (31kb)
+Date (revised): Tue, 19 Apr 94 14:03:11 -0400
+
+Title: Non-Local Matrix Generalizations of W-Algebras
+Authors: Adel Bilal
+Comments: 43 pages, a reference and a remark on the conformal properties for
+  $U_1\ne 0$ added
+Report-no: PUPT-1452
+Subj-class: High Energy Physics - Theory; Functional Analysis
+Journal-ref: Commun.Math.Phys. 170 (1995) 117-150
+\\
+  There is a standard way to define two symplectic (hamiltonian) structures,
+the first and second Gelfand-Dikii brackets, on the space of ordinary linear
+differential operators of order $m$, $L = -d^m + U_1 d^{m-1} + U_2 d^{m-2} +
+\ldots + U_m$. In this paper, I consider in detail the case where the $U_k$ are
+$n\times n$-matrix-valued functions, with particular emphasis on the (more
+interesting) second Gelfand-Dikii bracket. Of particular interest is the
+reduction to the symplectic submanifold $U_1=0$. This reduction gives rise to
+matrix generalizations of (the classical version of) the {\it non-linear}
+$W_m$-algebras, called $V_{m,n}$-algebras. The non-commutativity of the
+matrices leads to {\it non-local} terms in these $V_{m,n}$-algebras. I show
+that these algebras contain a conformal Virasoro subalgebra and that
+combinations $W_k$ of the $U_k$ can be formed that are $n\times n$-matrices of
+conformally primary fields of spin $k$, in analogy with the scalar case $n=1$.
+In general however, the $V_{m,n}$-algebras have a much richer structure than
+the $W_m$-algebras as can be seen on the examples of the {\it non-linear} and
+{\it non-local} Poisson brackets of any two matrix elements of $U_2$ or $W_3$
+which I work out explicitly for all $m$ and $n$. A matrix Miura transformation
+is derived, mapping these complicated second Gelfand-Dikii brackets of the
+$U_k$ to a set of much simpler Poisson brackets, providing the analogue of the
+free-field realization of the $W_m$-algebras.
+\\

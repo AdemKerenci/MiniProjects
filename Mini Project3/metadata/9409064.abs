@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409064
+From: "Igor Klebanov" <klebanov@puhep1.Princeton.EDU>
+Date: Mon, 12 Sep 94 11:48:11 -0400   (17kb)
+
+Title: Non-Perturbative Solution of Matrix Models Modified by Trace-Squared
+  Terms
+Authors: Igor R. Klebanov and Akikazu Hashimoto
+Comments: 26 pages, PUPT-1498
+Journal-ref: Nucl.Phys. B434 (1995) 264-282
+\\
+  We present a non-perturbative solution of large $N$ matrix models modified by
+terms of the form $ g(\Tr\Phi^4)^2$, which add microscopic wormholes to the
+random surface geometry. For $g<g_t$ the sum over surfaces is in the same
+universality class as the $g=0$ theory, and the string susceptibility exponent
+is reproduced by the conventional Liouville interaction $\sim e^{\alpha_+
+\phi}$. For $g=g_t$ we find a different universality class, and the string
+susceptibility exponent agrees for any genus with Liouville theory where the
+interaction term is dressed by the other branch, $e^{\alpha_- \phi}$. This
+allows us to define a double-scaling limit of the $g=g_t$ theory. We also
+consider matrix models modified by terms of the form $g O^2$, where $O$ is a
+scaling operator. A fine-tuning of $g$ produces a change in this operator's
+gravitational dimension which is, again, in accord with the change in the
+branch of the Liouville dressing.
+\\

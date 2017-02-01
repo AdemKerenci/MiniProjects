@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210056
+From: devega@lpthe.jussieu.fr (hector DE VEGA)
+Date: Fri, 9 Oct 92 18:23:31 +0100   (11kb)
+
+Title: Simple Approach to Thermal Bethe Ansatz
+Author: H.J. de Vega
+Comments: 12 pages, phyzzx
+Report-no: LPTHE 92-30
+\\
+  We report on a new approach to the calculation of thermodynamic functions for
+crossing-invariant models solvable by Bethe Ansatz. In the case of the XXZ
+Heisenberg chain we derive, for arbitrary values of the anysotropy, a single
+non-linear integral equation from which the free energy can be exactly
+calculated.These equations are shown to be equivalent to an infinite set of
+algebraic equations of Bethe type which provide alternatively the
+thermodinamics.
+  The high-temperature expansion follows in a sistematic and relatively simple
+way from our non-linear integral equations. For low temperatures we obtain the
+correct central charge and predict the analytic structure of the full expansion
+around T=0. Furthermore, we derive a single non-linear integral equation
+describing the finite-size ground-state energy of the Sine-Gordon quantum field
+theory.
+\\

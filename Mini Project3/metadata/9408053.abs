@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408053
+From: sen@theory.tifr.res.in (Ashoke Sen)
+Date: Tue, 9 Aug 94 12:15:23 -2359   (23kb)
+
+Title: Background Independent Algebraic Structures in Closed String Field
+  Theory
+Authors: Ashoke Sen and Barton Zwiebach
+Comments: phyzzx.tex, MIT-CTP-2346
+Journal-ref: Commun.Math.Phys. 177 (1996) 305-326
+\\
+  We construct a Batalin-Vilkovisky (BV) algebra on moduli spaces of Riemann
+surfaces. This algebra is background independent in that it makes no reference
+to a state space of a conformal field theory. Conformal theories define a
+homomorphism of this algebra to the BV algebra of string functionals. The
+construction begins with a graded-commutative free associative algebra $\C$
+built from the vector space whose elements are orientable subspaces of moduli
+spaces of punctured Riemann surfaces. The typical element here is a surface
+with several connected components. The operation $\Delta$ of sewing two
+punctures with a full twist is shown to be an odd, second order derivation that
+squares to zero. It follows that $(\C, \Delta)$ is a Batalin-Vilkovisky
+algebra. We introduce the odd operator $\delta = \partial + \hbar\Delta$, where
+$\partial$ is the boundary operator. It is seen that $\delta^2=0$, and that
+consistent closed string vertices define a cohomology class of $\delta$. This
+cohomology class is used to construct a Lie algebra on a quotient space of
+$\C$. This Lie algebra gives a manifestly background independent description of
+a subalgebra of the closed string gauge algebra.
+\\

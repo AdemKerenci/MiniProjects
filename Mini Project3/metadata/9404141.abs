@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404141
+From: Alejandro Gonzalez Ruiz <alexr@fis.ucm.es>
+Date: Fri, 22 Apr 1994 17:26:07 UTC+0100   (8kb)
+Date (revised): Thu, 5 May 1994 13:05:16 UTC+0100
+
+Title: Exact Bethe Ansatz solution for $A_{n-1}$ chains with non-$SU_{q}(n)$
+  invariant open boundary conditions
+Authors: H. J. de Vega and A. Gonz\'alez--Ruiz
+Comments: Two references added
+\\
+  The Nested Bethe Ansatz is generalized to open and independent boundary
+conditions depending on two continuous and two discrete free parameters. This
+is used to find the exact eigenvectors and eigenvalues of the $A_{n-1}$ vertex
+models and $SU(n)$ spin chains with such boundary conditions. The solution is
+found for all diagonal families of solutions to the reflection equations in all
+possible combinations. The Bethe ansatz equations are used to find de first
+order finite size correction.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206084
+From: ZWIEBACH%IASSNS.BITNET@pucc.princeton.edu
+Date: Tue, 23 Jun 92 17:11 EST   (100kb)
+
+Title: Closed String Field Theory: Quantum Action and the BV Master Equation
+Authors: Barton Zwiebach
+Comments: 115 pages, 5 figures (not included). IASSNS-HEP-92/41
+Journal-ref: Nucl.Phys. B390 (1993) 33-152
+\\
+  The complete quantum theory of covariant closed strings is constructed in
+detail. The action is defined by elementary vertices satisfying recursion
+relations that give rise to Jacobi-like identities for an infinite chain of
+string field products. The genus zero string field algebra is the homotopy Lie
+algebra $L_\infty$, and the higher genus algebraic structure implies the
+Batalin-Vilkovisky (BV) master equation. From these structures on the off-shell
+state space, we show how to derive the $L_\infty$ algebra, and the BV equation
+on physical states, recently constructed in d=2 string theory. The string
+diagrams are surfaces with minimal area metrics, foliated by closed geodesics
+of length $2\pi$. These metrics generalize quadratic differentials in that
+foliation bands can cross. The string vertices are succinctly characterized;
+they include the surfaces whose foliation bands are all of height smaller than
+$2\pi$.
+  --While this is not a review paper, an effort was made to give a fairly
+complete and accessible account of the quantum closed string field theory.--
+\\

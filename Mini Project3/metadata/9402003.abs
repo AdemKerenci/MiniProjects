@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402003
+From: gt0109e@prism.gatech.edu (Frank Dodd Smith)
+Date: Tue, 1 Feb 1994 12:49:18 -0500   (8kb)
+
+Title: SU(3)xSU(2)xU(1), Higgs, and Gravity from Spin(0,8) Clifford Algebra
+  Cl(0,8)
+Authors: F. D. T. Smith
+Comments: 1+20 pages, THEP-94-1, LaTex
+\\
+  The Lagrangian action for the D4-D5-E6 model of hep-th/9306011 has 8-dim
+spacetime V8 of the vector representation of Spin(0,8); 8-dim fermion fields
+S8+ = S8- of the half-spinor reps of Spin(0,8); and 28 gauge boson fields of
+the bivector adjoint rep of Spin(0,8). In this paper, the structure of the
+positive definite Clifford algebra Cl(0,8) of Spin(0,8), and the triality
+automorphism V8 = S8+ = S8-, are used to reduce the spacetime to 4 dimensions
+and thereby change the gauge group from Spin(0,8) to the realistic
+SU(3)xSU(2)xU(1), Higgs, and Gravity. The effect of dimensional reduction on
+fermions, to introduce 3 generations, has been described in hep-ph/9301210. The
+global geometry of manifolds V8 = S8+ = S8- = RP1xS7, the effects of
+dimensional reduction on them, and the calculation of force strength constants,
+has been described in hep-th/9302030.
+\\

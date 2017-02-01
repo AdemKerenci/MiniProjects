@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411086
+From: Hideaki AOYAMA <aoyama@phys.h.kyoto-u.ac.jp>
+Date: Sat, 12 Nov 1994 12:45:09 +0900   (10kb)
+
+Title: Complex-time approach for semi-classical quantum tunneling
+Authors: Hideaki Aoyama and Toshiyuki Harano
+Comments: 9 pages + 3 figures, phyzzx and epsf macros (ps files attached)
+Report-no: KUCP-0072/KUNS-1302
+Journal-ref: Mod. Phys. Lett. A10 (1995) 1135
+\\
+  The complex-time method for quantum tunneling is studied. In one-dimensional
+quantum mechanics, we construct a reduction formula for a Green function in the
+number of turning points based on the WKB approximation. This formula yields a
+series, which can be interpreted as a sum over the complex-time paths. The
+weights of the paths are determined.
+\\

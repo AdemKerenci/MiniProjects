@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410137
+From: "Dr. Mark Rakowski" <rakowski@maths.tcd.ie>
+Date: Wed, 19 Oct 1994 15:27:43 +0200   (8kb)
+
+Title: Topological Modes in Dual Lattice Models
+Authors: Mark Rakowski
+Comments: 10 pages, DIAS 94-32
+Journal-ref: Phys.Rev. D52 (1995) 354-357
+\\
+  Lattice gauge theory with gauge group $Z_{P}$ is reconsidered in four
+dimensions on a simplicial complex $K$. One finds that the dual theory,
+formulated on the dual block complex $\hat{K}$, contains topological modes
+which are in correspondence with the cohomology group $H^{2}(\hat{K},Z_{P})$,
+in addition to the usual dynamical link variables. This is a general phenomenon
+in all models with single plaquette based actions; the action of the dual
+theory becomes twisted with a field representing the above cohomology class. A
+similar observation is made about the dual version of the three dimensional
+Ising model. The importance of distinct topological sectors is confirmed
+numerically in the two dimensional Ising model where they are parameterized by
+$H^{1}(\hat{K},Z_{2})$.
+\\

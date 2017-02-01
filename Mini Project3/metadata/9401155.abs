@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401155
+From: carroll@marie.mit.edu (Sean Carroll)
+Date: Fri, 28 Jan 1994 16:11:45 -0500   (23kb)
+
+Title: Physical States in Canonically Quantized Supergravity
+Authors: Sean M. Carroll, Daniel Z. Freedman, Miguel E. Ortiz, and Don N. Page
+Comments: 36 pages (uses jnl.tex), CTP #2279
+Journal-ref: Nucl.Phys. B423 (1994) 661-687
+\\
+  We discuss the canonical quantization of $N=1$ supergravity in the functional
+Schrodinger representation. Although the form of the supersymmetry constraints
+suggests that there are solutions of definite order $n$ in the fermion fields,
+we show that there are no such states for any finite $n$. For $n=0$, a simple
+scaling argument definitively excludes the purely bosonic states discussed by
+D'Eath. For $n>0$, the argument is based on a mode expansion of the gravitino
+field on the quantization 3-surface. It is thus suggested that physical states
+in supergravity have infinite Grassmann number. This is confirmed for the free
+spin-3/2 field, for which we find that states satisfying the gauge constraints
+contain an infinite product of fermion mode operators.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412083
+From: <fteorica@cpd.uva.es> (FIS.TEORICA.VALLADOLID.)
+Date: Fri, 09 DEC 94 18:36:59 +0000   (22kb)
+Date (revised): Sat, 10 DEC 94 08:56:27 +0000
+Date (revised): Mon, 12 DEC 94 18:03:40 +0000
+
+Title: Lie bialgebra contractions and quantum deformations of quasi-orthogonal
+  algebras
+Authors: A. Ballesteros, N.A. Gromov, F.J. Herranz, M.A. del Olmo and M.
+  Santander
+Comments: 26 pages LATEX
+Report-no: UVA/011194
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 36 (1995) 5916-5937
+\\
+  Lie bialgebra contractions are introduced and classified. A non-degenerate
+coboundary bialgebra structure is implemented into all pseudo-orthogonal
+algebras $so(p,q)$ starting from the one corresponding to $so(N+1)$. It allows
+to introduce a set of Lie bialgebra contractions which leads to Lie bialgebras
+of quasi-orthogonal algebras. This construction is explicitly given for the
+cases $N=2,3,4$. All Lie bialgebra contractions studied in this paper define
+Hopf algebra contractions for the Drinfel'd-Jimbo deformations $U_z so(p,q)$.
+They are explicitly used to generate new non-semisimple quantum algebras as it
+is the case for the Euclidean, Poincar\'e and Galilean algebras.
+\\

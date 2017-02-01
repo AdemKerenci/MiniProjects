@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212007
+From: Ryu Sasaki <Ryu.Sasaki@durham.ac.uk>
+Date: Tue, 1 Dec 92 17:34:35 GMT   (19kb)
+
+Title: Covariance Properties of Reflection Equation Algebras
+Author: P. P. Kulish and R. Sasaki
+Comments: 31 pages, 8 figures (not included)
+Report-no: YITP/U-92-32; DUCPT-92-53
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Prog.Theor.Phys. 89 (1993) 741-762
+\\
+  The reflection equations (RE) are a consistent extension of the Yang-Baxter
+equations (YBE) with an addition of one element, the so-called reflection
+matrix or $K$-matrix. For example, they describe the conditions for
+factorizable scattering on a half line just like the YBE give the conditions
+for factorizable scattering on an entire line. The YBE were generalized to
+define quadratic algebras, \lq Yang-Baxter algebras\rq\ (YBA), which were used
+intensively for the discussion of quantum groups. Similarly, the RE define
+quadratic algebras, \lq the reflection equation algebras\rq\ (REA), which enjoy
+various remarkable properties both new and inherited from the YBA. Here we
+focus on the various properties of the REA, in particular, the quantum group
+comodule properties, generation of a series of new solutions by composing known
+solutions, the extended REA and the central elements, etc.
+\\

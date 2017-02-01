@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301111
+From: Leon Takhtajan <leontak@math.sunysb.edu>
+Date: Tue, 26 Jan 93 15:45:26 EST   (19kb)
+
+Title: On Foundation of the Generalized Nambu Mechanics
+Author: Leon Takhtajan
+Comments: 27 pages
+Subj-class: High Energy Physics - Theory; Symplectic Geometry
+Journal-ref: Commun.Math.Phys. 160 (1994) 295-316
+\\
+  We outline the basic principles of canonical formalism for the Nambu
+mechanics---a generalization of Hamiltonian mechanics proposed by Yoichiro
+Nambu in 1973. It is based on the notion of Nambu bracket which generalizes the
+Poisson bracket to the multiple operation of higher order $n \geq 3$ on
+classical observables and is described by Hambu-Hamilton equations of motion
+given by $n-1$ Hamiltonians. We introduce the fundamental identity for the
+Nambu bracket which replaces Jacobi identity as a consistency condition for the
+dynamics. We show that Nambu structure of given order defines a family of
+subordinated structures of lower order, including the Poisson structure,
+satisfying certain matching conditions. We introduce analogs of action from and
+principle of the least action for the Nambu mechanics and show how dynamics of
+loops ($n-2$-dimensional objects) naturally appears in this formalism. We
+discuss several approaches to the quantization problem and present explicit
+representation of Nambu-Heisenberg commutation relation for $n=3$ case. We
+emphasize the role higher order algebraic operations and mathematical
+structures related with them play in passing from Hamilton's to Nambu's
+dynamical picture.
+\\

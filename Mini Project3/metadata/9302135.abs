@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302135
+From: dannyb@phys.uva.nl (Danny Birmingham)
+Date: Fri, 26 Feb 1993 11:56:42 +0100   (13kb)
+
+Title: Subdivision Invariant Models in Lattice Gauge Theory
+Authors: D. Birmingham and M. Rakowski
+Comments: 19 pages, LaTex, ITFA-93-03/YCTP-P4-93
+\\
+  A class of lattice gauge theories is presented which exhibits novel
+topological properties. The construction is in terms of compact Wilson
+variables defined on a simplicial complex which models a four dimensional
+manifold with boundary. The case of Z2 and Z3 gauge groups is considered in
+detail, and we prove that at certain discrete values of the coupling parameter,
+the partition function in these models remains invariant under subdivision of
+the underlying simplicial complex. A variety of extensions is also presented.
+\\

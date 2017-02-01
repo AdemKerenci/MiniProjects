@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401094
+From: naoki sasakura <sasakura@danjuro.phys.s.u-tokyo.ac.jp>
+Date: Thu, 20 Jan 1994 10:55:08 +0900   (28kb)
+Date (revised): Fri, 18 Feb 1994 21:54:56 +0900
+
+Title: Discrete Phase Transitions Associated to Topological Lattice Field
+  Theories in Dimension $D\ge 2$
+Authors: Naoki Sasakura
+Comments: 40 pages, UT-668, (A mathematically incorrect statement and related
+  statements have been corrected.)
+Journal-ref: Phys.Rev. D51 (1995) 703-717
+\\
+  We investigate the neighborhood of Topological Lattice Field Theories (TLFTs)
+in the parameter space of general lattice field theories in dimension $D\geq
+2$, and discuss the phase structures associated to them. We first define a
+volume-dependent TLFT, and discuss its decomposition to a direct sum of
+irreducible TLFTs, which cannot be decomposed anymore. Using this decomposed
+form, we discuss phase structures and renormalization group flows of
+volume-dependent TLFTs. We find that TLFTs are on multiple first order phase
+transition points as well as on fixed points of the flow. The phase structures
+are controlled by the physical states on $(D-1)$-sphere of TLFTs. The flow
+agrees with the Nienhuis-Nauenberg criterion. We also discuss the neighborhood
+of a TLFT in general directions by a perturbative method, so-called cluster
+expansion. We investigate especially the $Z_p$ analogue of the Turaev-Viro
+model, and find that the TLFT is in general on a higher order discrete phase
+transition point. The phase structures depend on the topology of the base
+manifold and are controlled by the physical states on topologically non-trivial
+surfaces. We also discuss the correlation lengths of local fluctuations, and
+find long-range modes propagating along topological defects. Thus various
+discrete phase transitions are associated to TLFTs.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410163
+From: R Jagannathan <R.Jagannathan@rug.ac.be>
+Date: Fri, 21 Oct 1994 16:09:18 +0100 (MET)   (10kb)
+Date (revised): Tue, 25 Oct 1994 15:11:27 +0100 (MET)
+
+Title: On a nonstandard two-parametric quantum algebra and its connections with
+  $U_{p,q}(gl(2))$ and $U_{p,q}(gl(1|1))$
+Authors: R. Chakrabarti and R. Jagannathan
+Comments: 17pages, LaTeX, Preprint No. imsc-94/43 Revised version: A note added
+  at the end of the paper correcting and clarifying the bibliography
+Journal-ref: Z.Phys. C66 (1995) 523-528
+\\
+  A quantum algebra $U_{p,q}(\zeta ,H,X_\pm )$ associated with a nonstandard
+$R$-matrix with two deformation parameters$(p,q)$ is studied and, in
+particular, its universal ${\cal R}$-matrix is derived using Reshetikhin's
+method. Explicit construction of the $(p,q)$-dependent nonstandard $R$-matrix
+is obtained through a coloured generalized boson realization of the universal
+${\cal R}$-matrix of the standard $U_{p,q}(gl(2))$ corresponding to a
+nongeneric case. General finite dimensional coloured representation of the
+universal ${\cal R}$-matrix of $U_{p,q}(gl(2))$ is also derived. This
+representation, in nongeneric cases, becomes a source for various
+$(p,q)$-dependent nonstandard $R$-matrices. Superization of $U_{p,q}(\zeta ,
+H,X_\pm )$ leads to the super-Hopf algebra $U_{p,q}(gl(1|1))$. A contraction
+procedure then yields a $(p,q)$-deformed super-Heisenberg algebra
+$U_{p,q}(sh(1))$ and its universal ${\cal R}$-matrix.
+\\

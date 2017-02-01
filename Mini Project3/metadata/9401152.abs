@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401152
+From: HOISSEN@theo-phys.gwdg.de
+Date: 28 Jan 94 17:33:52 +0100   (12kb)
+
+Title: Differential Calculi on Quantum (Sub-) Groups and Their Classical Limit
+Authors: F. M"uller-Hoissen
+Comments: contribution to the proceedings of the International Symposium
+  ``Generalized Symmetries in Physics'' (ASI Clausthal 1993), 12 pages, LaTeX,
+  GOET-TP 97/93
+\\
+  For the two-parameter matrix quantum group GLp,q(2) all bicovariant
+differential calculi (with a four-dimensional space of 1-forms) are known. They
+form a one-parameter family. Here, we give an improved presentation of previous
+results by using a different parametrization. We also discuss different ways to
+obtain bicovariant calculi on the quantum subgroup SLq(2). For those calculi,
+we do not obtain the ordinary differential calculus on SL(2) in the classical
+limit. The structure which emerges here can be generalized to a nonstandard
+differential calculus on an arbitrary differentiable manifold and exhibits
+relations with stochastic calculus and `proper time' relativistic quantum
+theories.
+\\

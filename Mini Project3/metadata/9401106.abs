@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401106
+From: j Kubo <KUBO%DMUMPIWH.BITNET@vm.gmd.de>
+Date: Fri, 21 Jan 94 15:21:38 GMT   (23kb)
+
+Title: An analysis on the convergence of equal-time commutators and the closure
+  of the BRST algebra in Yang-Mills theories
+Authors: Jisuke Kubo
+Comments: 35 pages
+Report-no: MPI-PhT/94-01 and KANAZAWA-94-01
+Journal-ref: Nucl.Phys. B427 (1994) 398-424
+\\
+  In renormalizable theories, we define equal-time commutators (ETC'S) in terms
+of the equal-time limit and investigate its convergence in perturbation theory.
+We find that the equal-time limit vanishes for amplitudes with the effective
+dimension $d_{\em eff} \leq -2$ and is finite for those with $d_{\em eff} =-1$
+but without nontrivial discontinuity. Otherwise we expect divergent equal-time
+limits. We also find that, if the ETC's involved in verifying an Jacobi
+identity exist, the identity is satisfied.
+  Under these circumstances, we show in the Yang-Mills theory that the ETC of
+the $0$ component of the BRST current with each other vanishes to all orders in
+perturbation theory if the theory is free from the chiral anomaly, from which
+we conclude that $[\, Q\,,\,Q\,]=0$, where $Q$ is the BRST charge. For the case
+that the chiral anomaly is not canceled, we use various broken Ward identities
+to show that $[\, Q\,,\,Q\,]$ is finite and $[\,Q\,,\,[\, Q\,,\,Q]\,]$ vanishes
+at the one-loop level and that they start to diverge at the two-loop level
+unless there is some unexpected cancellation mechanism that improves the degree
+of convergence.
+\\

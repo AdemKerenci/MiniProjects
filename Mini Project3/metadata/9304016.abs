@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304016
+From: jack@math.unb.ca (Jack Gegenberg)
+Date: Fri, 2 Apr 93 14:00:36 AST   (15kb)
+
+Title: The Partition Function for Topological Field Theories
+Authors: J. Gegenberg and G. Kunstatter
+Comments: 23 pages, plain-TeX file
+Journal-ref: Ann. Phys. 231 (1994) 270-289
+\\
+  We use a Hodge decomposition and its generalization to non-abelian flat
+vector bundles to calculate the partition function for abelian and non- abelian
+BF theories in $n$ dimensions. This enables us to provide a simple proof that
+the partition function is related to the Ray-Singer torsion defined on flat
+vector bundles for all odd-dimensional manifolds, and is equal to unity for
+even dimensions.
+\\

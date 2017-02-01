@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9201051
+From: laartz@math.harvard.edu (Jurgen Laartz)
+Date: Thu, 23 Jan 92 22:38:35 EST   (27kb)
+
+Title: The Lie-Poisson Structure of Integrable Classical Non-Linear Sigma
+  Models
+Authors: M. Bordemann, M. Forger, J. Laartz, U. Schaeper
+Comments: 29 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 152 (1993) 167-190
+\\
+  The canonical structure of classical non-linear sigma models on Riemannian
+symmetric spaces, which constitute the most general class of classical
+non-linear sigma models known to be integrable, is shown to be governed by a
+fundamental Poisson bracket relation that fits into the $r$-$s$-matrix
+formalism for non-ultralocal integrable models first discussed by Maillet. The
+matrices $r$ and $s$ are computed explicitly and, being field dependent,
+satisfy fundamental Poisson bracket relations of their own, which can be
+expressed in terms of a new numerical matrix~$c$. It is proposed that all these
+Poisson brackets taken together are representation conditions for a new kind of
+algebra which, for this class of models, replaces the classical Yang-Baxter
+algebra governing the canonical structure of ultralocal models. The Poisson
+brackets for the transition matrices are also computed, and the notorious
+regularization problem associated with the definition of the Poisson brackets
+for the monodromy matrices is discussed.
+\\

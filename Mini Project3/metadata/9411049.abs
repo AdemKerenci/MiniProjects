@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411049
+From: anselmi@string.harvard.edu (Damiano Anselmi)
+Date: Mon, 7 Nov 1994 16:11:47 -0500   (31kb)
+Date (revised): Tue, 8 Nov 1994 08:44:44 -0500
+Date (revised): Wed, 11 Jan 95 16:02:09 -0500
+
+Title: Anomalies in Instanton Calculus
+Author: Damiano Anselmi
+Comments: 34 pages, latex, no figures
+Report-no: HUTP-94/A040
+Journal-ref: Nucl. Phys. B439 (1995) 617-649
+\\
+  I develop a formalism for solving topological field theories explicitly, in
+the case when the explicit expression of the instantons is known. I solve
+topological Yang-Mills theory with the $k=1$ Belavin {\sl et al.} instanton and
+topological gravity with the Eguchi-Hanson instanton. It turns out that naively
+empty theories are indeed nontrivial. Many unexpected interesting hidden
+quantities (punctures, contact terms, nonperturbative anomalies with or without
+gravity) are revealed. Topological Yang-Mills theory with $G=SU(2)$ is not just
+Donaldson theory, but contains a certain {\sl link} theory. Indeed, local and
+non-local observables have the property of {\sl marking} cycles. From
+topological gravity one learns that an object can be considered BRST exact only
+if it is so all over the moduli space ${\cal M}$, boundary included. Being BRST
+exact in any interior point of ${\cal M}$ is not sufficient to make an
+amplitude vanish. Presumably, recursion relations and hierarchies can be found
+to solve topological field theories in four dimensions, in particular
+topological Yang-Mills theory with $G=SU(2)$ on ${\bf R}^4$ and topological
+gravity on ALE manifolds.
+\\

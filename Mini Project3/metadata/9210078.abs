@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210078
+From: Johannes Kellendonk <UNP02A@IBM.rhrz.uni-bonn.de>
+Date: Wed, 14 Oct 92 22:17:51 MEZ   (34kb)
+Date (revised): Wed, 30 Dec 92 15:40:40 MEZ
+
+Title: On The Algebraic Characterization of Aperiodic Tilings Related To
+  ADE-Root Systems
+Authors: Johannes Kellendonk
+Comments: 29 pages LaTex, 2 figures not included (they may be send upon
+  request), BONN-HE-92-26
+\\
+  \noindent The algebraic characterization of classes of locally isomorphic
+aperiodic tilings, being examples of quantum spaces, is conducted for a certain
+type of tilings in a manner proposed by A. Connes.
+  These $2$-dimensional tilings are obtained by application of the strip method
+to the root lattice of an $ADE$-Coxeter group.
+  The plane along which the strip is constructed is determined by the canonical
+Coxeter element leading to the result that a $2$-dimensional tiling decomposes
+into a cartesian product of two $1$-dimensional tilings.
+  The properties of the tilings are investigated, including selfsimilarity, and
+the determination of the relevant algebraic invariant is considered, namely the
+ordered $K_0$-group of an algebra naturally assigned to the quantum space.
+  The result also yields an application of the $2$-dimensional abstract gap
+labelling theorem.
+\\

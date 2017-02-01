@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405029
+From: Fred Cooper <cooper@pion.lanl.gov>
+Date: Wed, 4 May 94 12:08:39 -0600   (101kb)
+Date (revised): Thu, 5 May 94 15:34:28 -0600
+
+Title: Supersymmetry and Quantum Mechanics
+Authors: Fred Cooper, Avinash Khare and Uday Sukhatme
+Comments: 159 pages, figures and tables available by request LA-UR-94-569
+Journal-ref: Phys.Rept. 251 (1995) 267-385
+\\
+  In the past ten years, the ideas of supersymmetry have been profitably
+applied to many nonrelativistic quantum mechanical problems. In particular,
+there is now a much deeper understanding of why certain potentials are
+analytically solvable and an array of powerful new approximation methods for
+handling potentials which are not exactly solvable. In this report, we review
+the theoretical formulation of supersymmetric quantum mechanics and discuss
+many applications. Exactly solvable potentials can be understood in terms of a
+few basic ideas which include supersymmetric partner potentials, shape
+invariance and operator transformations. Familiar solvable potentials all have
+the property of shape invariance. We describe new exactly solvable shape
+invariant potentials which include the recently discovered self-similar
+potentials as a special case. The connection between inverse scattering,
+isospectral potentials and supersymmetric quantum mechanics is discussed and
+multi-soliton solutions of the KdV equation are constructed. Approximation
+methods are also discussed within the framework of supersymmetric quantum
+mechanics and in particular it is shown that a supersymmetry inspired WKB
+approximation is exact for a class of shape invariant potentials. Supersymmetry
+ideas give particularly nice results for the tunneling rate in a double well
+potential and for improving large $N$ expansions. We also discuss the problem
+of a charged Dirac particle in an external magnetic field and other potentials
+in terms of supersymmetric quantum mechanics. Finally, we discuss structures
+more general than supersymmetric quantum mechanics such as parasupersymmetric
+quantum mechanics in which there is a symmetry between a boson and a
+para-fermion of order $p$.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407173
+From: piljin@theory.caltech.edu (Piljin Yi)
+Date: Tue, 26 Jul 94 12:31:12 PDT   (27kb)
+Date (revised): Wed, 16 Nov 94 07:09:38 PST
+
+Title: Toward One-Loop Tunneling Rates of Near-Extremal Magnetic Black Hole
+  Pair-Production
+Authors: Piljin Yi
+Comments: LaTeX, 27pp, one uuencoded figure (A few sentences are rephrased to
+  prevent a possible confusion; an extra paragraph Commenting on the strictly
+  extremal case is added.)
+Report-no: CALT-68-1936, SNUTP-94-67
+Journal-ref: Phys.Rev. D51 (1995) 2813-2826
+\\
+  Pair-production of magnetic Reissner-Nordstr\"{o}m black holes (of charges
+$\pm q$) was recently studied in the leading WKB approximation. Here, we
+consider generic quantum fluctuations in the corresponding instanton geometry
+given by the Euclidean Ernst metric, in order to simulate the behaviour of the
+one-loop tunneling rate. A detailed study of the Ernst metric suggests that for
+sufficiently weak field $B$, the problem can be reduced to that of quantum
+fluctuations around a single near-extremal Euclidean black hole in thermal
+equilibrium with a heat bath of finite size. After appropriate renormalization
+procedures, typical one-loop contributions to the WKB exponent are shown to be
+inversely proportional to $B$, as $B\rightarrow 0$, indicating that the leading
+Schwinger term is corrected by a small fraction $\sim \hbar /q^2$. We
+demonstrate that this correction to the Schwinger term is actually due to a
+semiclassical shift of the black hole mass-to-charge ratio that persists even
+in the extremal limit. Finally we discuss a few loose ends.
+\\

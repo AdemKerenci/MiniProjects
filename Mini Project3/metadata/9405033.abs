@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405033
+From: Jean-Bruno Erismann <jb@cptsu5.univ-mrs.fr>
+Date: Thu, 5 May 94 10:43:49 +0200   (8kb)
+
+Title: The Angular Momentum Operator in the Dirac Equation
+Authors: Victor M. Villalba
+Comments: 13 pages,CPT-94/P.3027,latex
+\\
+  The Dirac equation in spherically symmetric fields is separated in two
+different tetrad frames. One is the standard cartesian (fixed) frame and the
+second one is the diagonal (rotating) frame. After separating variables in the
+Dirac equation in spherical coordinates, and solving the corresponding
+eingenvalues equations associated with the angular operators, we obtain that
+the spinor solution in the rotating frame can be expressed in terms of Jacobi
+polynomials, and it is related to the standard spherical harmonics, which are
+the basis solution of the angular momentum in the Cartesian tetrad, by a
+similarity transformation.
+\\

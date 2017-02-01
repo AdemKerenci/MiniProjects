@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311158
+From: kraus <kraus@butp.unibe.ch>
+Date: Fri, 26 Nov 93 12:17:33 +0100   (48kb)
+Date (revised): Tue, 30 Nov 93 12:42:50 +0100
+
+Title: The structure of the invariant charge in massive theories with one
+  coupling
+Authors: Elisabeth Kraus
+Comments: 35 pages (1 figure available upon request), Plain TeX, BUTP 93-26 (1
+  more macro included)
+Journal-ref: Annals Phys. 240 (1995) 367
+\\
+  Invariance under finite renormalization group (RG) transformations is used to
+structure the invariant charge in models with one coupling in the 4 lowest
+orders of perturbation theory. In every order there starts a RG-invariant,
+which is uniquely continued to higher orders. Whereas in massless models the
+RG-invariants are power series in logarithms, there is no such requirement in a
+massive model. Only, when one applies the Callan-Symanzik (CS) equation of the
+respective theories, the high-energy behavior of the RG-invariants is
+restricted. In models, where the CS-equation has the same form as the
+RG-equation, the massless limit is reached smoothly, i.e. the beta-functions
+are constants in the asymptotic limit and the RG-functions starting the new
+invariant tend to logarithms. On the other hand in the spontaneously broken
+models with fermions the CS-equation contains a beta-function of a physical
+mass. As a consequence the beta-functions depend on the normalization point
+also in the asymptotic region and a mass independent limit does not exist
+anymore.
+\\

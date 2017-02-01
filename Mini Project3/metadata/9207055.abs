@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207055
+From: dorey@pion.lanl.gov (Nick Dorey 505-665-4733)
+Date: Wed, 15 Jul 92 14:56:08 MDT   (11kb)
+
+Title: Vortex condensation in a model of random $\phi^{4}$-graphs
+Authors: N. Dorey and P. S. Kurzepa
+Comments: 12 pages, LaTeX, (5 figures not included)
+Journal-ref: Phys. Lett. B295 (1992) 51-58
+\\
+  We consider a soluble model of large $\phi^{4}$-graphs randomly embedded in
+one compactified dimension; namely the large-order behaviour of
+finite-temperature perturbation theory for the partition function of the
+anharmonic oscillator. We solve the model using semi-classical methods and
+demonstrate the existence of a critical temperature at which the system
+undergoes a second-order phase transition from $D=1$ to $D=0$ behaviour.
+Non-trivial windings of the closed loops in a graph around the compactified
+time direction are interpreted as vortices. The critical point has a natural
+interpretation as the temperature at which these vortices condense and disorder
+the system. We show that the vortex density increases rapidly in the critical
+region indicating the breakdown of the dilute vortex gas approximation at this
+point. We discuss the relation of this phenomenon to the
+Berezinskii-Kosterlitz-Thouless transition in the $D=1$ matrix model formulated
+on a circle.
+\\

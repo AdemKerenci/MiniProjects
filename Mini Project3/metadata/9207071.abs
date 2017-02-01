@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207071
+From: obers@pib1.physik.uni-bonn.de
+Date: Wed, 22 Jul 1992 01:48:15 MEZ   (35kb)
+
+Title: Ward Identities for Affine-Virasoro Correlators
+Authors: M.B. Halpern and N.A. Obers
+Comments: 53 pages, Latex, LBL-32619, UCB-PTH-92/24, BONN-HE-92/21
+Journal-ref: Int. J. Mod. Phys. A9 (1994) 265-312
+\\
+  Generalizing the Knizhnik-Zamolodchikov equations, we derive a hierarchy of
+non-linear Ward identities for affine-Virasoro correlators. The hierarchy
+follows from null states of the Knizhnik-Zamolodchikov type and the assumption
+of factorization, whose consistency we verify at an abstract level. Solution of
+the equations requires concrete factorization ans\"atze, which may vary over
+affine-Virasoro space. As a first example, we solve the non-linear equations
+for the coset constructions, using a matrix factorization. The resulting coset
+correlators satisfy first-order linear partial differential equations whose
+solutions are the coset blocks defined by Douglas.
+\\

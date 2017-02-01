@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412067
+From: "Nikolay E. Andreev" <andr@hedric.msk.su>
+Date: Wed, 7 Dec 1994 18:28:48 +0300   (7kb)
+
+Title: Statistical Properties of Schr\"odinger Real and Imaginary Cat States
+Authors: V.V.Dodonov, S.Yu.Kalmykov, V.I.Man'ko
+Comments: 13 pages, LaTEX
+Report-no: INFN-IV-55/94 DSF-T-55/94
+\\
+  We study the Photon statistics in the superpositions of coherent states
+$|\alpha\rangle$ and $|\alpha^*\rangle$ named ``Schr\"odinger real and
+imaginary cat states''. The oscillatory character of photon distribution
+function (PDF) emerging due to the quantum interference between the two
+components is shown, and the phenomenon of the quadrature squeezing is observed
+for the moderate values of $|\alpha|\sim 1$. Despite the quantity
+${\langle\triangle n^2\rangle}/{\langle n\rangle}$ tends to the unit value
+(like in the Poissonian PDF) at $|\alpha|\gg 1$, the photon statistics is
+essentially non-Poissonian for all values of $|\alpha|$. The factorial moments
+and cumulants of the PDF are calculated, and the oscillations of their ratio
+are demonstrated.
+\\

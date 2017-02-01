@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310183
+From: delius@mth.kcl.ac.uk (Gustav Delius)
+Date: Thu, 28 Oct 93 11:12:03 EST   (11kb)
+Date (revised): Fri, 29 Oct 93 11:29:54 EST
+Date (revised): Fri, 26 Nov 93 12:53:10 EST
+Date (revised): Mon, 29 Nov 93 09:51:36 EST
+Date (revised): Tue, 1 Mar 94 10:10:09 EST
+Date (revised): Thu, 21 Apr 94 15:20:33 EST
+
+Title: Infinite Families of Gauge-Equivalent $R$-Matrices and Gradations of
+  Quantized Affine Algebras
+Authors: Anthony J. Bracken, Gustav W. Delius, Mark D. Gould and Yao-Zhong
+  Zhang
+Comments: 14 pages, Latex, UQMATH-93-10 (final version for publication)
+Journal-ref: Int.J.Mod.Phys. B8 (1994) 3679-3691
+\\
+  Associated with the fundamental representation of a quantum algebra such as
+$U_q(A_1)$ or $U_q(A_2)$, there exist infinitely many gauge-equivalent
+$R$-matrices with different spectral-parameter dependences. It is shown how
+these can be obtained by examining the infinitely many possible gradations of
+the corresponding quantum affine algebras, such as $U_q(A_1^{(1)})$ and
+$U_q(A_2^{(1)})$, and explicit formulae are obtained for those two cases.
+Spectral-dependent similarity (gauge) transformations relate the $R$-matrices
+in different gradations. Nevertheless, the choice of gradation can be
+physically significant, as is illustrated in the case of quantum affine Toda
+field theories.
+\\

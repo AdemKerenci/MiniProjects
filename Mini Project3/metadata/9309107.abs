@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309107
+From: MAGNEA@to.infn.it
+Date: Mon, 20 SEP 93 20:26 GMT   (12kb)
+
+Title: Two-dimensional QCD on the sphere and on the cylinder
+Authors: M. Caselle, A. D'Adda, L. Magnea and S. Panzeri
+Comments: 12 pages, plain latex, DFTT 50/93
+\\
+  The partition functions of QCD2 on simple surfaces admit representations in
+terms of exponentials of the inverse coupling, that are modular transforms of
+the usual character expansions. We review the construction of such a
+representation in the case of the cylinder, and show how it leads to a
+formulation of QCD2 as a $c=1$ matrix model of the Kazakov-Migdal type. The
+eigenvalues describe the positions of $N$ Sutherland fermions on a circle,
+while their discretized momenta label the representations in the corresponding
+character expansion. Using this language, we derive some new results: we give
+an alternative description of the Douglas-Kazakov phase transition on the
+sphere, and we argue that an analogous phase transition exists on the cylinder.
+We calculate the large $N$ limit of the partition function on the cylinder with
+boundary conditions given by semicircular distributions of eigenvalues, and we
+find an explicit expression for the large $N$ limit of the Itzykson-Zuber
+integral with the same boundary conditions. (Talk given at the ``Workshop on
+high energy physics and cosmology'' at Trieste, July 1993.)
+\\

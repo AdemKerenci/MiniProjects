@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209125
+From: jhs@theory3.caltech.edu (John Schwarz)
+Date: Tue, 29 Sep 92 13:45:10 PDT   (18kb)
+
+Title: Dilaton-Axion Symmetry
+Authors: John H. Schwarz
+Comments: CALT-68-1815, 22pp
+\\
+  The heterotic string compactified on a six-torus is described by a low-energy
+effective action consisting of N=4 supergravity coupled to N=4 super
+Yang-Mills, a theory that was studied in detail many years ago. By explicitly
+carrying out the dimensional reduction of the massless fields, we obtain the
+bosonic sector of this theory. In the Abelian case the action is written with
+manifest global $O(6,6+n)$ symmetry. A duality transformation that replaces the
+antisymmetric tensor field by an axion brings it to a form in which the axion
+and dilaton parametrize an $SL(2,R)/SO(2)$ coset, and the equations of motion
+have $SL(2,R)$ symmetry. This symmetry, which combines Peccei--Quinn
+translations with Montonen--Olive duality transformations, has been exploited
+in several recent papers to construct black hole solutions carrying both
+electric and magnetic charge. Our purpose is to explore whether, as various
+authors have conjectured, an $SL(2,Z)$ subgroup could be an exact symmetry of
+the full quantum string theory. If true, this would be of fundamental
+importance, since this group transforms the dilaton nonlinearly and can relate
+weak and strong coupling.
+\\

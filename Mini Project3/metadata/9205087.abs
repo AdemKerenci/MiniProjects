@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205087
+From: Tsuneo Uematsu <UEMATSU%JPNYITP.BITNET@pucc.princeton.edu>
+Date: Tue, 26 May 92 11:33:58 JST   (15kb)
+
+Title: Differential Calculus on the Quantum Superspace and Deformation of Phase
+  Space
+Authors: Tatsuo Kobayashi and Tsuneo Uematsu
+Comments: 17 pages, KUCP-47
+Journal-ref: Z.Phys. C56 (1992) 193-200
+\\
+  We investigate non-commutative differential calculus on the supersymmetric
+version of quantum space where the non-commuting super-coordinates consist of
+bosonic as well as fermionic (Grassmann) coordinates. Multi-parametric quantum
+deformation of the general linear supergroup, $GL_q(m|n)$, is studied and the
+explicit form for the ${\hat R}$-matrix, which is the solution of the
+Yang-Baxter equation, is presented. We derive the quantum-matrix commutation
+relation of $GL_q(m|n)$ and the quantum superdeterminant. We apply these
+results for the $GL_q(m|n)$ to the deformed phase-space of supercoordinates and
+their momenta, from which we construct the ${\hat R}$-matrix of q-deformed
+orthosymplectic group $OSp_q(2n|2m)$ and calculate its ${\hat R}$-matrix. Some
+detailed argument for quantum super-Clifford algebras and the explict
+expression of the ${\hat R}$-matrix will be presented for the case of
+$OSp_q(2|2)$.
+\\

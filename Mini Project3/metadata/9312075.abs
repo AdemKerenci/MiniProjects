@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312075
+From: schupp%theorm.hepnet@Csa4.LBL.Gov
+Date: Thu, 9 Dec 93 18:28:21 PST   (94kb)
+
+Title: Quantum Groups, Non-Commutative Differential Geometry and Applications
+Author: Peter Schupp
+Comments: 137 pages, PhD thesis
+Report-no: LBL-34942 & UCB-93/35
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  The topic of this thesis is the development of a versatile and geometrically
+motivated differential calculus on non-commutative or quantum spaces, providing
+powerful but easy-to-use mathematical tools for applications in physics and
+related sciences. A generalization of unitary time evolution is proposed and
+studied for a simple 2-level system, leading to non-conservation of microscopic
+entropy, a phenomenon new to quantum mechanics. A Cartan calculus that combines
+functions, forms, Lie derivatives and inner derivations along general vector
+fields into one big algebra is constructed for quantum groups and then extended
+to quantum planes. The construction of a tangent bundle on a quantum group
+manifold and an BRST type approach to quantum group gauge theory are given as
+further examples of applications. The material is organized in two parts: Part
+I studies vector fields on quantum groups, emphasizing Hopf algebraic
+structures, but also introducing a `quantum geometric' construction. Using a
+generalized semi-direct product construction we combine the dual Hopf algebras
+\A\ of functions and \U\ of left-invariant vector fields into one fully
+bicovariant algebra of differential operators. The pure braid group is
+introduced as the commutant of $\Delta (\U)$. It provides invariant maps $\A
+\to \U$ and thereby bicovariant vector fields, casimirs and metrics. This
+construction allows the translation of undeformed matrix expressions into their
+less obvious quantum algebraic counter parts. We study this in detail for
+quasitriangular Hopf algebras, giving the determinant and
+\\

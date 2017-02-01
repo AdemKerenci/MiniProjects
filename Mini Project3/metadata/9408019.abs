@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408019
+From: ramos@qmchep.DNET.NASA.GOV (Eduardo Ramos)
+Date: Wed, 3 Aug 94 12:24:12 -0400   (18kb)
+
+Title: W-symmetry and the rigid particle
+Authors: E. Ramos and J. Roca
+Comments: 14 pages, plain TeX (macros included). QMW-PH-94-23
+Journal-ref: Nucl.Phys. B436 (1995) 529-544
+\\
+  We prove that $\W_3$ is the gauge symmetry of the scale-invariant rigid
+particle, whose action is given by the integrated extrinsic curvature of its
+world line. This is achieved by showing that its equations of motion can be
+written in terms of the Boussinesq operator. The $\W_3$ generators $T$ and $W$
+then appear respectively as functions of the induced world line metric and the
+extrinsic curvature. We also show how the equations of motion for the standard
+relativistic particle arise from those of the rigid particle whenever it is
+consistent to impose the ``zero-curvature gauge'', and how to rewrite them in
+terms of the $\KdV$ operator. The relation between particle models and
+integrable systems is further pursued in the case of the spinning particle,
+whose equations of motion are closely related to the $\SKdV$ operator. We also
+partially extend our analysis in the supersymmetric domain to the scale
+invariant rigid particle by explicitly constructing a supercovariant version of
+its action. Comment: This is an expanded version of hep-th/9406072 (to be
+published in the Proceedings of the Workshop on the Geometry of Constrained
+Dynamical Systems, held at the Isaac Newton Institute for Mathematical
+Sciences, Cambridge, June 14-18, 1994.).
+\\

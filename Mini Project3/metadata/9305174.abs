@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305174
+From: Henric Rhedin <hr@fy.chalmers.se>
+Date: Sat, 29 May 93 14:06:04 +0200   (19kb)
+Date (revised): Thu, 17 Jun 93 13:55:41 +0200
+Date (revised): Wed, 23 Jun 93 09:41:38 +0200
+
+Title: The BRST formulation of G/H WZNW models
+Authors: Stephen Hwang and Henric Rhedin
+Comments: 23 pages latex file. G\"oteborg ITP 93-01 ( Not encoded version )
+Journal-ref: Nucl.Phys. B406 (1993) 165-186
+\\
+  We consider a BRST approach to G/H coset WZNW models, {\it i.e.} a
+formulation in which the coset is defined by a BRST condition. We will give the
+precise ingrediences needed for this formulation. Then we will prove the
+equivalence of this approach to the conventional coset formulation by solving
+the the BRST cohomology. This will reveal a remarkable connection between
+integrable representations and a class of non-integrable representations for
+negative levels. The latter representations are also connected to string
+theories based on non-compact WZNW models. The partition functions of G/H
+cosets are also considered. The BRST approach enables a covariant construction
+of these, which does not rely on the decomposition of G as $G/H\times H$. We
+show that for the well-studied examples of $SU(2)_k \times SU(2)_1/SU(2)_{k+1}$
+and $SU(2)_k/U(1)$, we exactly reproduce the previously known results.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402122
+From: mans@guinness.ias.edu (Mans Henningson)
+Date: Mon, 21 Feb 94 17:08:45 EST   (8kb)
+Date (revised): Wed, 13 Apr 94 10:24:53 EDT
+
+Title: Mirror symmetry for the Kazama-Suzuki models
+Authors: Mans Henningson
+Comments: 9 pages, IASSNS-HEP-94/13, (An erroneous statement concerning the
+  equivalence of vector and axial gauging has been corrected.)
+Journal-ref: Nucl.Phys. B423 (1994) 631-638
+\\
+  We study the $N = 2$ coset models in their formulation as supersymmetric
+gauged Wess-Zumino-Witten models. A model based on the coset $G/H$ is invariant
+under a symmetry group isomorphic to $\Z_{k+Q}$, where $k$ is the level of the
+model and $Q$ is the dual Coxeter number of $G$. Using a duality-like
+relationship, we show that the $\Z_m$ orbifold of the vectorially gauged model
+and the $\Z_{\tilde{m}}$ orbifold of the axially gauged model are each others
+mirror partners when $m \tilde{m} = k + Q$.
+\\

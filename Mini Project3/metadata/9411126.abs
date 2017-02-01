@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411126
+From: braval@math.tau.ac.il
+Date: Thu, 17 Nov 94 09:57:33+020   (11kb)
+
+Title: On quantum flag algebras
+Author: Alexander Braverman
+Comments: 4 pages; AMS-TeX
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Let g be a semisimple Lie algebra over an algebraically closed field k of
+characteristic 0. Let V be a simple finite-dimensional g-module and let y\in V
+be a highest weight vector. It is a classical result of B. Kostant that the
+algebra of functions on the closure of the orbit of y under the simply
+connected group which corresponds to g is quadratic (i.e. the closuree of the
+orbit is a quadratic cone). In the present paper we extend this result of
+Kostant to the case of the quantized universal enveloping algebra U_q(g). The
+result uses certain information about spectrum of braiding operators for U_q(g)
+due to Reshetikhin and Drinfeld.
+\\

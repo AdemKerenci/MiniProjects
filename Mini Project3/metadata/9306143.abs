@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306143
+From: drg@theory3.caltech.edu (Doron Gepner)
+Date: Sun, 27 Jun 93 09:58:32 PDT   (14kb)
+Date (revised): Mon, 5 Jul 93 22:54:05 PDT
+
+Title: Graph IRF Models and Fusion Rings
+Authors: Doron Gepner (Caltech and Weizmann)
+Comments: 21 pages. Caltech preprint, June (1993), Revised: Added two more
+  examples, the KAW and grand hierarchies
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Recently, a class of interaction round the face (IRF) solvable lattice models
+were introduced, based on any rational conformal field theory (RCFT). We
+investigate here the connection between the general solvable IRF models and the
+fusion ones. To this end, we introduce an associative algebra associated to any
+graph, as the algebra of products of the eigenvalues of the incidence matrix.
+If a model is based on an RCFT, its associated graph algebra is the fusion ring
+of the RCFT. A number of examples are studied. The Gordon--generalized IRF
+models are studied, and are shown to come from RCFT, by the graph algebra
+construction. The IRF models based on the Dynkin diagrams of A-D-E are studied.
+While the $A$ case stems from an RCFT, it is shown that the $D-E$ cases do not.
+The graph algebras are constructed, and it is speculated that a natural
+isomorphism relating these to RCFT exists. The question whether all solvable
+IRF models stems from an RCFT remains open, though the $D-E$ cases shows that a
+mixing of the primary fields is needed.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310106
+From: khare@iopb.ernet.in
+Date: Sun Oct 17 12:52:46 1993   (6kb)
+
+Title: An improved calculation of the Third Virial Coefficient of a free anyon
+  Gas
+Authors: J. Law, Avinash Khare, R.K. Bhaduri and Akira Suzuki
+Comments: pages 9 and 1 figure (available from authors on request)
+Report-no: IP-BBSR/93-63
+Journal-ref: Phys.Rev. E49 (1994) 1753-1755
+\\
+  For three anyons confined in a harmonic oscillator, only the class of states
+that interpolate nonlinearly with the statistical parameter contributes to the
+third virial coefficient of a free anyon gas. Rather than evaluating the full
+three-body partition function as was done in an earlier publication (Phys. Rev.
+{\bf A46}, 4693 (1992)), here only the nonlinear contribution is calculated,
+thus avoiding delicate cancellations between the irrelevant linear part and the
+two-body partition function. Our numerical results are consistent with the
+simple analytical form suggested recently by Myrheim and Olaussen.
+\\

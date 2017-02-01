@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207065
+From: "Igor Klebanov" <klebanov@puhep1.princeton.edu>
+Date: Mon, 20 Jul 92 12:45:59 EDT   (11kb)
+Date (revised): Mon, 14 Sep 92 15:46:28 EDT
+
+Title: Light-Cone Quantization of the c=2 Matrix Model
+Authors: S.Dalley and I.Klebanov
+Comments: 12 pages, (3 diagrams now available as postscript files from authors,
+  1 ref added), PUPT-1333
+Journal-ref: Phys.Lett. B298 (1993) 79-87
+\\
+  We study the large $N$ limit of an interacting \td\ matrix field theory,
+whose perturbative expansion generates the sum over planar random graphs
+embedded in two dimensions. In the \lc\ quantization the theory possesses
+closed string excitations which become free as $N\to\infty$. If the
+longitudinal momenta are discretized, then the calculation of the free string
+spectrum reduces to finite matrix diagonalization, the size of the matrix
+growing as the cut-off is removed. Our numerical results suggest that, for a
+critical coupling, the \lc\ string spectrum becomes continuous. This would
+indicate the massless dynamics of the Liouville mode of \td\ gravity, which
+would constitute a {\it third} dimension of the string theory.
+\\

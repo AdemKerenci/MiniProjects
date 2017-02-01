@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411240
+From: Harry Braden <hwb@maths.ed.ac.uk>
+Date: Wed, 30 Nov 94 20:16:20 GMT   (24kb)
+Date (revised): Thu, 18 Apr 1996 08:36:32 +0100
+
+Title: Integrable Systems with Pairwise Interactions and Functional Equations
+Author: H. W. Braden, V. M. Buchstaber
+Comments: 32 pages latex2e. Some Proofs removed. New Examples
+\\
+  A new ansatz is presented for a Lax pair describing systems of particles on
+the line interacting via (possibly nonsymmetric) pairwise forces. Particular
+cases of this yield the known Lax pairs for the Calogero-Moser and Toda
+systems, as well as their relativistic generalisations. The ansatz leads to a
+system of functional equations. Several new functional equations are described
+and the general analytic solution to some of these is given. New integrable
+systems are described.
+\\

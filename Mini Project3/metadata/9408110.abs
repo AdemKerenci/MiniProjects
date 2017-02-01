@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408110
+From: "Yakov Kanter" <yakov@hepth.cornell.edu>
+Date: Fri, 19 Aug 1994 11:28:45 -0400   (10kb)
+
+Title: Computation of Yukawa Couplings for Calabi-Yau Hypersurfaces in Weighted
+  Projective Spaces
+Authors: Yakov Kanter
+Comments: 8 pages, RevTEX, CLNS-94/1295
+Journal-ref: Phys.Lett. B338 (1994) 204-211
+\\
+  Greene, Morrison and Plesser \cite{GMP} have recently suggested a general
+method for constructing a mirror map between a $d$-dimensional Calabi-Yau
+hypersurface and its mirror partner for $d > 3$. We apply their method to
+smooth hypersurfaces in weighted projective spaces and compute the Chern
+numbers of holomorphic curves on these hypersurfaces. As anticipated, the
+results satisfy nontrivial integrality constraints. These examples differ from
+those studied previously in that standard methods of algebraic geometry which
+work in the ordinary projective space case for low degree curves are not
+generally applicable. In the limited special cases in which they do work we can
+get independent predictions, and we find agreement with our results.
+\\

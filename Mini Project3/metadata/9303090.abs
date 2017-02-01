@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303090
+From: Saburo Higuchi <hig@phys.titech.ac.jp>
+Date: Tue, 16 Mar 93 14:48:20 +0900   (12kb)
+Date (revised): Tue, 13 Apr 93 16:08:08 +0900
+
+Title: Exact Beta Functions in the Vector Model and Renormalization Group
+  Approach
+Authors: Saburo Higuchi, Chigak Itoi and Norisuke Sakai
+Comments: 13 pages (no figures) in LaTeX, TIT/HEP-215, NUP-A-93-4, a few minor
+  corrections
+Journal-ref: Phys.Lett. B312 (1993) 88-96
+\\
+  The validity of the renormalization group approach for large $N$ is clarified
+by using the vector model as an example. An exact difference equation is
+obtained which relates free energies for neighboring values of $N$. The
+reparametrization freedom in field space provides infinitely many identities
+which reduce the infinite dimensional coupling constant space to that of finite
+dimensions. The effective beta functions give exact values for the fixed points
+and the susceptibility exponents.
+\\

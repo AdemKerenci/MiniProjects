@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312081
+From: FILIPPOV@to.infn.it (ALEXANDRE T.FILIPPOV, DUBNA)
+Date: Fri, 10 Dec 1993 12:11:24 +0100 (WET)   (14kb)
+
+Title: Paragrassmann Algebras with Many Variables
+Authors: A.T.Filippov and A.B.Kurdikov
+Comments: 12 pages
+Report-no: DFTT 77/93, Torino, December 1993
+\\
+  This is a brief review of our recent work attempted at a generalization of
+the Grassmann algebra to the paragrassmann ones. The main aim is constructing
+an algebraic basis for representing `fractional' symmetries appearing in $2D$
+integrable models and also introduced earlier as a natural generalization of
+supersymmetries. We have shown that these algebras are naturally related to
+quantum groups with $q = {\rm root \;of \; unity}$. By now we have a general
+construction of the paragrassmann calculus with one variable and preliminary
+results on deriving a natural generalization of the Neveu--Schwarz--Ramond
+algebra. The main emphasis of this report is on a new general construction of
+paragrassmann algebras with any number of variables, N. It is shown that for
+the nilpotency indices $(p + 1) = 3, 4, 6$ the algebras are almost as simple as
+the Grassmann algebra (for which $(p + 1) = 2$). A general algorithm for
+deriving algebras with arbitrary p and N is also given. However, it is shown
+that this algorithm does not exhaust all possible algebras, and the simplest
+example of an `exceptional' algebra is presented for $p = 4, N = 4$.
+\\

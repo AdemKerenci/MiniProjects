@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405084
+From: Larus Thorlacius <larus@itp.ucsb.edu>
+Date: Thu, 12 May 94 17:47:42 PDT   (62kb)
+Date (revised): Fri, 13 May 94 15:11:38 PDT
+
+Title: Conformally Invariant Boundary Conditions for Dilaton Gravity
+Authors: A. Strominger and L. Thorlacius
+Comments: 23 pages, 5 figures, (references added and figures included in a
+  uuencoded file)
+Report-no: NSF-ITP-94-34
+Journal-ref: Phys.Rev. D50 (1994) 5177-5187
+\\
+  Quantum mechanical boundary conditions along a timelike line, corresponding
+to the origin in radial coordinates, in two-dimensional dilaton gravity coupled
+to $N$ matter fields, are considered. Conformal invariance and vacuum stability
+severely constrain the possibilities. The simplest choice found corresponds to
+a nonlinear Liouville-type boundary interaction. The scattering of low-energy
+matter off the boundary can be computed perturbatively. It is found that weak
+incident pulses induce damped oscillations at the boundary while large incident
+pulses produce black holes. The response of the boundary to such pulses is
+semi-classically characterized by a second order, nonlinear ordinary
+differential equation which is analyzed numerically.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301046
+From: mccoy@max.physics.sunysb.edu (Barry McCoy)
+Date: 12 Jan 1993 22:11:19 -0500 (EST)   (14kb)
+Date (revised): 02 Mar 1993 12:58:57 -0500 (EST)
+
+Title: Fermionic Sum Representations for Conformal Field Theory Characters
+Authors: R. Kedem, T.R. Klassen, B.M. McCoy and E. Melzer
+Comments: 15/9 pages in harvmac, ITP-SB-93-05/RU-93-01. [Subsections 4.5 and
+  4.6 concerning N=2 super- and Z_N-parafermion characters were added, and
+  minor corrections made.]
+Journal-ref: Phys.Lett. B307 (1993) 68-76
+\\
+  We present sum representations for all characters of the unitary Virasoro
+minimal models. They can be viewed as fermionic companions of the Rocha-Caridi
+sum representations, the latter related to the (bosonic) Feigin-Fuchs-Felder
+construction. We also give fermionic representations for certain characters of
+the general $(G^{(1)})_k \times (G^{(1)})_l \over (G^{(1)})_{k+l}}$ coset
+conformal field theories, the non-unitary minimal models ${\cal M}(p,p+2)$ and
+${\cal M}(p,kp+1)$, the $N$=2 superconformal series, and the
+$\ZZ_N$-parafermion theories, and relate the $q\to 1$ behaviour of all these
+fermionic sum representations to the thermodynamic Bethe Ansatz.
+\\

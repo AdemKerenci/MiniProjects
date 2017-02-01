@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207051
+From: <BXS19@psuvm.psu.edu>
+Date: Tue, 14 Jul 92 19:33 EDT   (14kb)
+
+Title: Loop Variables and the Virasoro Group
+Authors: B. Sathiapalan
+Comments: 23 pages, PSU/TH
+Journal-ref: Nucl. Phys. B405 (1993) 367
+\\
+  We derive an expression in closed form for the action of a finite element of
+the Virasoro Group on generalized vertex operators. This complements earlier
+results giving an algorithm to compute the action of a finite string of
+generators of the Virasoro Algebra on generalized vertex operators. The main
+new idea is to use a first order formalism to represent the infinitesimal group
+element as a loop variable. To obtain a finite group element it is necessary to
+thicken the loop to a band of finite thickness. This technique makes the
+calculation very simple.
+\\

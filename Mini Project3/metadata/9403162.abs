@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403162
+From: "Gustav W. Delius" <delius@PHYSF.UNI-BIELEFELD.DE>
+Date: Sat, 26 Mar 1994 16:35:31 EST   (15kb)
+
+Title: Finite Dimensional Representations of Quantum Affine Algebras
+Author: Gustav W. Delius and Yao-Zhong Zhang
+Comments: 18 pages
+Report-no: UQMATH-94-01
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Phys. A28 (1995) 1915-1928
+\\
+  We give a general construction for finite dimensional representations of
+$U_q(\hat{\G})$ where $\hat{\G}$ is a non-twisted affine Kac-Moody algebra with
+no derivation and zero central charge. At $q=1$ this is trivial because
+$U(\hat{\G})=U({\G})\otimes \C(x,x^{-1})$ with $\G$ a finite dimensional Lie
+algebra. But this fact no longer holds after quantum deformation. In most cases
+it is necessary to take the direct sum of several irreducible
+$U_q({\G})$-modules to form an irreducible $U_q(\hat{\G})$-module which becomes
+reducible at $q = 1$. We illustrate our technique by working out explicit
+examples for $\hat{\G}=\hat{C}_2$ and $\hat{\G}=\hat{G}_2$. These finite
+dimensional modules determine the multiplet structure of solitons in affine
+Toda theory.
+\\

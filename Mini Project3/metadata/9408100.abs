@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408100
+From: apfel@utpapa.ph.utexas.edu (Karyn M. Apfeldorf)
+Date: Wed, 17 Aug 1994 14:53:13 -0500   (21kb)
+Date (revised): Tue, 28 Nov 1995 15:16:58 -0600
+
+Title: Field Redefinition Invariance and "Extra Terms"
+Authors: K.M. Apfeldorf and C.R. Ordonez
+Comments: 35pp. A more rigorous derivation of the quantum mechanical extra
+  term is given. Work on the extension to the quantum field theory case is
+  in progress
+Report-no: UTTG-29-93
+Journal-ref: Nucl.Phys. B479 (1996) 515-526
+\\
+  We investigate the issue of coordinate redefinition invariance by carefully
+performing nonlinear transformations in the discretized quantum mechanical path
+integral. By resorting to hamiltonian path integral methods, we provide the
+first complete derivation of the extra terms (beyond the usual jacobian term)
+which arises in the action when a nonlinear transformation is made. We comment
+on possible connections with the renormalization group, by showing that these
+extra terms may emerge from a ``blocking" procedure. Finally, by performing
+field redefinitions before and after dimensional reduction of a two dimensional
+field theory, we derive an explicit form fo an extra term appearing in a field
+theory.
+\\

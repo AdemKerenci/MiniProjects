@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212103
+From: Kanehisa Takasaki <TAKASAKI%JPNYITP.BITNET@pucc.Princeton.EDU>
+Date: Thu, 17 Dec 92 14:37:38 JST   (10kb)
+
+Title: Dressing operator approach to Moyal algebraic deformation of selfdual
+  gravity
+Authors: Kanehisa Takasaki
+Comments: 10 pages, Kyoto University KUCP-0054/92
+Journal-ref: J. Geom. Phys. 14 (1994) 111-120
+\\
+  Recently Strachan introduced a Moyal algebraic deformation of selfdual
+gravity, replacing a Poisson bracket of the Plebanski equation by a Moyal
+bracket. The dressing operator method in soliton theory can be extended to this
+Moyal algebraic deformation of selfdual gravity. Dressing operators are defined
+as Laurent series with coefficients in the Moyal (or star product) algebra, and
+turn out to satisfy a factorization relation similar to the case of the KP and
+Toda hierarchies. It is a loop algebra of the Moyal algebra (i.e., of a
+$W_\infty$ algebra) and an associated loop group that characterize this
+factorization relation. The nonlinear problem is linearized on this loop group
+and turns out to be integrable.
+\\

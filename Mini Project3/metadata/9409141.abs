@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409141
+From: hollow@surya11.cern.ch (Timothy Hollowood)
+Date: Fri, 23 Sep 94 11:50:46 +0200   (19kb)
+
+Title: The Exact Mass-Gap of the Supersymmetric O(N) Sigma Model
+Authors: Jonathan M. Evans and Timothy J. Hollowood
+Comments: Plain TeX (macro included), CERN-TH.7426/94, SWAT/93-94/39
+Journal-ref: Phys.Lett. B343 (1995) 189-197
+\\
+  A formula for the mass-gap of the supersymmetric O($N$) sigma model ($N>4$)
+in two dimensions is derived: $m/\Lambda_{\overline{\rm
+MS}}=2^{2\Delta}\sin(\pi\Delta)/(\pi\Delta)$, where $\Delta=1/(N-2)$ and $m$ is
+the mass of the fundamental vector particle in the theory. This result is
+obtained by comparing two expressions for the free-energy density in the
+presence of a coupling to a conserved charge; one expression is computed from
+the exact S-matrix of Shankar and Witten via the the thermodynamic Bethe ansatz
+and the other is computed using conventional perturbation theory. These
+calculations provide a stringent test of the S-matrix, showing that it
+correctly reproduces the universal part of the beta-function and resolving the
+problem of CDD ambiguities.
+\\

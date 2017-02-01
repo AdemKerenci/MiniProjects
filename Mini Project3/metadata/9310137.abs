@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310137
+From: Geoffrey Harris <gharris@npac.syr.edu>
+Date: Wed, 20 Oct 1993 18:25:20 -0400   (55kb)
+Date (revised): Tue, 28 Feb 1995 16:07:19 -0500
+
+Title: Percolation on Strings and the Cover-up of the c=1 Disaster
+Author: Geoffrey Harris
+Comments: revised version w/ typos corrected, standard latex w/ epsf, 9 figures
+Report-no: appeared in Nucl. Phys. B418 (1994) 278-304
+Journal-ref: Nucl. Phys. B418 (1994) 278
+\\
+  We study percolation on the worldsheets of string theory for $c=0,1/2,1$ and
+$2$. For $c<1$ we find that critical exponents measured from simulations agree
+quite well with the theoretical values. For $c=1$ we show how log corrections
+determined from the exact solution reconcile numerical results with the KPZ
+predictions. We extend this analysis to the large $c$ regime and estimate how
+finite-size effects will effectively raise the ground state energy, masking the
+presence of the tachyon for moderate values of $c > 1$. It thus appears likely
+that simulations for $c=2,3 \ldots$ on numerically accessible lattices will
+fail to even capture the qualitative behavior of the continuum limit.
+\\

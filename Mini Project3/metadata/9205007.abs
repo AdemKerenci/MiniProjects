@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205007
+From: John C. Baez <jbaez@math.ucr.edu>
+Date: Tue, 5 May 92 12:54:36 EDT   (15kb)
+Date (revised): Mon, 22 Jun 92 14:23:22 EDT
+
+Title: Quantum Gravity and the Algebra of Tangles
+Authors: John C. Baez
+Comments: 16 pages (with major corrections)
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Class.Quant.Grav. 10 (1993) 673-694
+\\
+  In Rovelli and Smolin's loop representation of nonperturbative quantum
+gravity in 4 dimensions, there is a space of solutions to the Hamiltonian
+constraint having as a basis isotopy classes of links in R^3. The physically
+correct inner product on this space of states is not yet known, or in other
+words, the *-algebra structure of the algebra of observables has not been
+determined. In order to approach this problem, we consider a larger space H of
+solutions of the Hamiltonian constraint, which has as a basis isotopy classes
+of tangles. A certain algebra T, the ``tangle algebra,'' acts as operators on
+H. The ``empty state'', corresponding to the class of the empty tangle, is
+conjectured to be a cyclic vector for T. We construct simpler representations
+of T as quotients of H by the skein relations for the HOMFLY polynomial, and
+calculate a *-algebra structure for T using these representations. We use this
+to determine the inner product of certain states of quantum gravity associated
+to the Jones polynomial (or more precisely, Kauffman bracket).
+\\

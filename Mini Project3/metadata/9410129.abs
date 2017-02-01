@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410129
+From: Mark Evans <evans@prufrock.Rockefeller.EDU>
+Date: Tue, 18 Oct 94 12:43:41 -0400   (14kb)
+
+Title: Potential Scattering on $R^3\otimes s^1
+Authors: N. N. Khuri
+Comments: LaTeX file, 23 pages, RU94-6-B
+Journal-ref: Annals Phys. 242 (1995) 332
+\\
+  In this paper we consider non-relativistic quantum mechanics on a space with
+an additional internal compact dimension, i.e. $R^3\otimes S^1$ instead of
+$R^3$. More specifically we study potential scattering for this case and the
+analyticity properties of the forward scattering amplitude, $T_{nn}(K)$, where
+$K^2$ is the total energy and the integer n denotes the internal excitation of
+the incoming particle. The surprising result is that the analyticity properties
+which are true in $R^3$ do not hold in $R^3\otimes S^1$.
+  For example, $T_{nn}(K)$, is \underline{not} analytic in K for $ImK>0$, for n
+such that $(|n|/R)>\mu$, where R is the radius of $S^1$, and $\mu^{-1}$ is the
+exponential range of the potential, $V(r,\phi)=O(e^{-\mu r})$ for large r. We
+show by explicit counterexample that $T_{nn}(K)$ for $n\neq0$, can have
+singularities on the physical energy sheet. We also discuss the motivation for
+our work, and briefly the lesson it teaches us.
+\\

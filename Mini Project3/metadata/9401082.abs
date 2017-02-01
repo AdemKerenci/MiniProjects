@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401082
+From: Ty <CANDIELLO%39169@BNLDAG.AGS.BNL.GOV>
+Date: Tue, 18 Jan 1994 04:59:05 -0500 (EST)   (12kb)
+
+Title: WBase: a C package to reduce tensor products of Lie algebra
+  representations
+Author: A. Candiello
+Comments: 18 pages
+Report-no: DFPD/93/TH/76
+Subj-class: High Energy Physics - Theory; Representation Theory
+Journal-ref: Comput.Phys.Commun. 81 (1994) 248-260
+\\
+  It is nearly twenty years that there exist computer programs to reduce
+products of Lie algebra irreps. This is a contribution in the field that uses a
+modern computer language (``C'') in a highly structured and object-oriented
+way. This gives the benefits of high portability, efficiency, and makes it
+easier to include the functions in user programs. Characteristic of this set of
+routines is the {\it all-dynamic} approach for the use of memory, so that the
+package only uses the memory resources as needed.
+\\

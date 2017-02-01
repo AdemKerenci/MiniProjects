@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411191
+From: York Xylander <xylander@x4u2.desy.de>
+Date: Fri, 25 Nov 1994 15:46:36 GMT   (19kb)
+Date (revised): Mon, 28 Nov 1994 10:25:42 +0100 (MET)
+
+Title: Improved actions, the perfect action, and scaling by perturbation theory
+  in Wilsons renormalization group: the two dimensional $O(N)$-invariant non
+  linear $\sigma$-model in the hierarchical approximation
+Authors: C. Wieczerkowski, Y. Xylander
+Comments: 13 pages in LaTeX, 5 uuencoded PS figures included with epsfig.sty
+  (including of ps-files fixed)
+Report-no: MS-TPI-94-14,DESY-94-223
+Journal-ref: Nucl.Phys. B440 (1995) 393-404
+\\
+  We propose a method using perturbation theory in the running coupling
+constant and the idea of scaling to determine improved actions for lattice
+field theories combining Wilson's renormalization group with Symanzik's
+improvement program . The method is based on the analysis of a single
+renormalization group transformation. We test it on the hierarchical $O(N)$
+invariant $\sigma$ model in two dimensions.
+\\

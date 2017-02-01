@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403112
+From: Jose Mourao <mourao@phys.psu.edu>
+Date: Fri, 18 Mar 1994 16:09:26 -0500 (EST)   (21kb)
+
+Title: On the support of the Ashtekar-Lewandowski measure
+Authors: Donald Marolf and Jose M. Mourao
+Comments: 22 pages, Tex, Preprint CGPG-94/3-1
+Journal-ref: Commun.Math.Phys. 170 (1995) 583-606
+\\
+  We show that the Ashtekar-Isham extension of the classical configuration
+space of Yang-Mills theories (i.e. the moduli space of connections) is
+(topologically and measure-theoretically) the projective limit of a family of
+finite dimensional spaces associated with arbitrary finite lattices. These
+results are then used to prove that the classical configuration space is
+contained in a zero measure subset of this extension with respect to the
+diffeomorphism invariant Ashtekar-Lewandowski measure.
+  Much as in scalar field theory, this implies that states in the quantum
+theory associated with this measure can be realized as functions on the
+``extended" configuration space.
+\\

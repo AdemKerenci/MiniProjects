@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311112
+From: "Pavel Pyatov" <pyatov@thsun1.jinr.dubna.su>
+Date: Fri, 19 Nov 1993 13:00:05    (21kb)
+
+Title: Covariant differential complexes on quantum linear groups
+Author: A. P. Isaev and P. N. Pyatov
+Comments: 23 pages
+Report-no: JINR preprint E2-93-416
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Phys. A28 (1995) 2227-2246
+\\
+  We consider the possible covariant external algebra structures for Cartan's
+1-forms on GL_q(N) and SL_q(N). We base upon the following natural postulates:
+ 1. the invariant 1-forms realize an adjoint representation of quantum group;
+ 2. all monomials of these forms possess the unique ordering.
+  For the obtained external algebras we define the exterior derivative
+possessing the usual nilpotence condition, and the generally deformed version
+of Leibniz rules. The status of the known examples of GL_q(N)-differential
+calculi in the proposed classification scheme, and the problems of
+SL_q(N)-reduction are discussed.
+\\

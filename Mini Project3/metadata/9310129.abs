@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310129
+From: Nakazato Hiromichi <b985039@sci.u-ryukyu.ac.jp>
+Date: Thu, 21 Oct 93 00:33:34 JST   (8kb)
+
+Title: Analytical Solution to the Fokker-Planck Equation with a Bottomless
+  Action
+Authors: Hiromichi Nakazato (Univ. of the Ryukyus, Japan)
+Comments: 9 pages, DPUR 66, plain TeX
+Journal-ref: Phys. Lett. B333 (1994) 98-103
+\\
+  A new Langevin equation with a field-dependent kernel is proposed to deal
+with bottomless systems within the framework of the stochastic quantization of
+Parisi and Wu. The corresponding Fokker-Planck equation is shown to be a
+diffusion-type equation and is solved analytically. An interesting connection
+between the solution with the ordinary Feynman measure, which in this case is
+not normalizable, is clarified.
+\\

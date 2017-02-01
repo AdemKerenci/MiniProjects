@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401013
+From: MAKOTO@sbitp.itp.ucsb.edu
+Date: Wed, 5 Jan 1994 22:31 PST   (10kb)
+
+Title: Zero Mode Divergence Problem in String Theory
+Authors: Makoto Natsuume
+Comments: 14 pages + 2 figures (included as a uufile), LaTeX file,
+  NSF-ITP-93-157 and UTTG-33-93
+Journal-ref: Mod.Phys.Lett. A9 (1994) 2113-2122
+\\
+  For $2D$ string theory, the perturbative $S$-matrices are not well-defined
+due to a zero mode divergence. Although there exist formal procedures to make
+the integral convergent, their physical meanings are unclear. We describe a
+method to obtain finite $S$-matrices physically to justify the formal schemes.
+The scheme uses asymptotic states by wave packets which fall faster than
+exponentials. It is shown that the scheme gives well-defined $S$-matrices and
+justifies the formal shifted Virasoro-Shapiro amplitude for simple processes.
+The tree-level unitarity for these processes is also shown. We point out a
+problem in this scheme.
+\\

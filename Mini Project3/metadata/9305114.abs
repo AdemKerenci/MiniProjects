@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305114
+From: melzer@max.physics.sunysb.edu (Ezer Melzer)
+Date: Sun, 23 May 1993 15:42:24 -0500 (EDT)   (22kb)
+
+Title: Fermionic Character Sums and the Corner Transfer Matrix
+Authors: Ezer Melzer
+Comments: 24/15 pages in harvmac, Stony Brook preprint ITP-SB-93-29
+Journal-ref: Int.J.Mod.Phys. A9 (1994) 1115-1136
+\\
+  We present a ``natural finitization'' of the fermionic q-series (certain
+generalizations of the Rogers-Ramanujan sums) which were recently conjectured
+to be equal to Virasoro characters of the unitary minimal conformal field
+theory (CFT) M(p,p+1). Within the quasi-particle interpretation of the
+fermionic q-series this finitization amounts to introducing an ultraviolet
+cutoff, which -- contrary to a lattice spacing -- does not modify the linear
+dispersion relation. The resulting polynomials are conjectured (proven, for
+p=3,4) to be equal to corner transfer matrix (CTM) sums which arise in the
+computation of order parameters in regime III of the r=p+1 RSOS model of
+Andrews, Baxter, and Forrester. Following Schur's proof of the Rogers-Ramanujan
+identities, these authors have shown that the infinite-lattice limit of the CTM
+sums gives what later became known as the Rocha-Caridi formula for the Virasoro
+characters. Thus we provide a proof of the fermionic q-series representation
+for the Virasoro characters for p=4 (the case p=3 is ``trivial''), in addition
+to extending the remarkable connection between CFT and off-critical RSOS
+models. We also discuss finitizations of the CFT modular-invariant partition
+functions.
+\\

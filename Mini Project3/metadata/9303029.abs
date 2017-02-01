@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303029
+From: visser@kiwi.wustl.edu (Matt Visser)
+Date: Thu, 4 Mar 93 12:34:54 GMT-0600   (13kb)
+Date (revised): Mon, 7 Jun 93 15:36:36 GMT-0600
+
+Title: Dirty black holes: Entropy versus area
+Authors: Matt Visser
+Comments: plain LaTeX, 17 pages, minor revisions
+Journal-ref: Phys.Rev. D48 (1993) 583-591
+\\
+  Considerable interest has recently been expressed in the entropy versus area
+relationship for ``dirty'' black holes --- black holes in interaction with
+various classical matter fields, distorted by higher derivative gravity, or
+infested with various forms of quantum hair. In many cases it is found that the
+entropy is simply related to the area of the event horizon: S = k
+A_H/(4\ell_P^2). For example, the ``entropy = (1/4) area'' law *holds* for:
+Schwarzschild, Reissner--Nordstrom, Kerr--Newman, and dilatonic black holes. On
+the other hand, the ``entropy = (1/4) area'' law *fails* for: various types of
+(Riemann)^n gravity, Lovelock gravity, and various versions of quantum hair.
+The pattern underlying these results is less than clear. This paper
+systematizes these results by deriving a general formula for the entropy: S =
+{k A_H/(4\ell_P^2)}
+  + {1/T_H} \int_\Sigma [rho - {L}_E ] K^\mu d\Sigma_\mu
+  + \int_\Sigma s V^\mu d\Sigma_\mu. (K^\mu is the timelike Killing vector,
+V^\mu the four velocity of a co--rotating observer.) If no hair is present the
+validity of the ``entropy = (1/4) area'' law reduces to the question of whether
+or not the Lorentzian energy density for the system under consideration is
+formally equal to the Euclideanized Lagrangian. ****** To appear in Physical
+Review D 15 July 1993 ****** [Stylistic changes, minor typos fixed, references
+updated, discussion of the Born-Infeld system excised]
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308038
+From: "V. Petkova" <PTVP@IBM.RZ.TU-CLAUSTHAL.DE>
+Date: Sun, 08 Aug 93 23:26:25 MET   (13kb)
+Date (revised): Tue, 21 Sep 93 18:04:34 MET
+
+Title: On $\widehat{sl}(3)$ reduction, quantum gauge transformations, and
+  ${\cal W}-$ algebras singular vectors
+Author: P. Furlan, Alexander Ganchev and V. B. Petkova
+Comments: 9 pages
+Report-no: SISSA-106/93/EP
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Phys.Lett. B318 (1993) 85-91
+\\
+  The problem of describing the singular vectors of $\cW_3$ and $\cW_3^{(2)}$
+Verma modules is addressed, viewing these algebras as BRST quantized
+Drinfeld-Sokolov (DS) reductions of $A^{(1)}_2\,$. Singular vectors of an
+$A^{(1)}_2\,$ Verma module are mapped into $\W$ algebra singular vectors and
+are shown to differ from the latter by terms trivial in the BRST cohomology.
+These maps are realized by quantum versions of the highest weight DS gauge
+transformations.
+\\

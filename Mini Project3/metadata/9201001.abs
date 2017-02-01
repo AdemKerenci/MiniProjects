@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9201001
+From: zuber@poseidon.saclay.cea.fr (C. Itzykson)
+Date: Tue Dec 31 23:54:17 MET 1991 +0100   (37kb)
+
+Title: Combinatorics of the Modular Group II: the Kontsevich integrals
+Authors: C. Itzykson and J.-B. Zuber
+Comments: 46 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Int.J.Mod.Phys. A7 (1992) 5661-5705
+\\
+  We study algebraic aspects of Kontsevich integrals
+as generating functions for intersection theory over moduli space
+and review the derivation of Virasoro and KdV constraints.
+ 1. Intersection numbers
+ 2. The Kontsevich integral
+  2.1. The main theorem
+  2.2 Expansion of Z on characters and Schur functions
+  2.3 Proof of the first part of the Theorem
+ 3. From Grassmannians to KdV
+ 4. Matrix Airy equation and Virasoro highest weight conditions
+ 5. Genus expansion
+ 6. Singular behaviour and Painlev'e equation.
+ 7. Generalization to higher degree potentials
+\\

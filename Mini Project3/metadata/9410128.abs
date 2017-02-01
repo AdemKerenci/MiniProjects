@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410128
+From: Alexander Turbiner <turbiner@teorica0.ifisicacu.unam.mx>
+Date: Tue, 18 Oct 94 11:35:34 -0500   (4kb)
+
+Title: Invariant Indentities in the Heisenberg Algebra
+Authors: Alexander Turbiner
+Comments: 6pp., LaTeX
+Report-no: Preprint ITEP-M (October 1994) and IFUNAM FT 94-60
+Subj-class: High Energy Physics - Theory; Functional Analysis
+\\
+  Polynomial relations between the generators of $q$--deformed
+Heisenberg algebra  invariant under the quantization and $q$-deformation
+are discovered.
+One of the examples of such relations is the following:  if two elements
+$a$ and $b$, obeying the relation
+\[
+ab - q ba  = p,
+\]
+where $p, q$ are any complex numbers, then for any $p,q$ and natural $n$
+\[
+(aba)^n = a^n b^n a^n
+\]
+\\

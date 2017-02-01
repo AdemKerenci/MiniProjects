@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409134
+From: "D.V.AHLUWALIA, LANL, 505 665 4278" <AV@lampf.lanl.gov>
+Date: Thu, 22 Sep 1994 15:54:48 -0600 (MDT)   (22kb)
+Date (revised): Tue, 18 Jul 1995 14:29:54 -0600 (MDT)
+
+Title: Theory of Neutral Particles: Mclennan-Case Construct for Neutrino, Its
+  Generalization, and a New Wave Equation
+Author: D. V. Ahluwalia (LAMPF, Los Alamos National Laboratory)
+Comments: Revised and re-written version to appear in Int. J. Mod. Phys. A. At
+  present violations of various symmetries, such as C, P, and T, are assumed to
+  arise from interactions. It is argued that the violation is more fundamental
+  than that and is to be found at basic level of the representations of the
+  Lorentz group. Revtex 3.0 (20 pages)
+Report-no: LA-UR-94-3118
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 1855-1874
+\\
+  Continuing our recent argument where we constructed a FNBWW-type spin-$1$
+boson having opposite relative intrinsic parity to that of the associated
+antiparticle, we now study eigenstates of the Charge Conjugation operator.
+Based on the observation that if $\phi_{_{L}}(p^\mu)$ transforms as a $(0,\,j)$
+spinor under Lorentz boosts, then $\Theta_{[j]}\,\phi_{_{L}}^\ast(p^\mu)$
+transforms as a $(j,\,0)$ spinor (with a similar relationship existing between
+$\phi_{_{R}}(p^\mu)$ and $\Theta_{[j]}\,\phi_{_{R}}^\ast(p^\mu)$; where $
+\Theta_{[j]}\,{\bf J}\,\Theta_{[j]}^{-1}\,=\,-\,{\bf J}^\ast $ with
+$\Theta_{[j]}$ the well known Wigner matrix involved in the operation of time
+reversal) we introduce McLennan-Case type $(j,\,0)\oplus(0,\,j)$ spinors.
+Relative phases between $\phi_{_{R}}(p^\mu)$ and
+$\Theta_{[j]}\,\phi_{_{R}}^\ast(p^\mu)$, and
+$\Theta_{[j]}\,\phi_{_{L}}^\ast(p^\mu)$ and $\phi_{_{L}}(p^\mu)$, turn out to
+have physical significance and are fixed by appropriate requirements. Explicit
+construction, and a series of physically relevant properties, for these spinors
+are obtained for spin-$1/2$ and spin-$1$ culminating in the construction of a
+new wave equation and introduction of Dirac-like and Majorana-like quantum
+fields.
+\\

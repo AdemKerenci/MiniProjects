@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412215
+From: Masako Asano <maa@th.phys.titech.ac.jp>
+Date: Mon, 26 Dec 1994 19:28:46 +0900   (37kb)
+
+Title: Random Walk Construction of Spinor Fields on Three Dimensional Lattice
+Authors: Masako Asano, Chigak Itoi and Shin-Ichi Kojima
+Comments: 30 pages, LaTeX, 8 ps figures included
+Report-no: TIT/HEP--271, NUP-A-94-19
+Journal-ref: Nucl. Phys. B448 (1995) 533
+\\
+  Euclidean invariant Klein-Gordon, Dirac and massive Chern-Simons field
+theories are constructed in terms of a random walk with a spin factor on a
+three dimensional lattice. We exactly calculate the free energy and the
+correlation functions which allow us to obtain the critical diffusion constant
+and associated critical exponents. It is pointed out that these critical
+exponents do not satisfy the hyper-scaling relation but the scaling
+inequalities. We take the continuum limit of this theory on the basis of these
+analyses. We check the universality of obtained results on other lattice
+structure such as triclinic lattice and body centered lattice.
+\\

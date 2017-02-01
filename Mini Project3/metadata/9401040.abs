@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401040
+From: PARANJ@LPS.UMONTREAL.CA
+Date: Mon, 10 Jan 1994 22:55:05 -0500 (EST)   (11kb)
+Date (revised): Mon, 24 Jan 1994 11:58:59 -0500 (EST)
+
+Title: Low Energy Skyrmion-Skyrmion Scattering
+Authors: T. Gisiger and M. B. Paranjape
+Comments: 18 pages, UdeM-LPN-TH-94-187, plain tex
+Journal-ref: Phys.Rev. D50 (1994) 1010-1015
+\\
+  We study the scattering of two Skyrmions at low energy and large separation.
+We use the method proposed by Manton for truncating the degrees of freedom of
+the system from infinite to a manageable finite number. This corresponds to
+identifying the manifold consisting of the union of the low energy critical
+points of the potential along with the gradient flow curves joining these
+together and by positing that the dynamics is restricted here. The kinetic
+energy provides an induced metric on this manifold while restricting the full
+potential energy to the manifold defines a potential. The low energy dynamics
+is now constrained to these finite number of degrees of freedom. For large
+separation of the two Skyrmions the manifold is parametrised by the variables
+of the product ansatz. We find the interaction between two Skyrmions coming
+from the induced metric, which was independently found by Schroers. We find
+that the static potential is actually negligible in comparison to this
+interaction. Thus to lowest order, at large separation, the dynamics reduces to
+geodesic motion on the manifold. We consider the scattering to first order in
+the interaction using the perturbative method of Lagrange and find that the
+dynamics in the no spin or charge exchange sector reduces to the Kepler
+problem.
+\\

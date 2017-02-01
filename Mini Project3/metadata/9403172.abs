@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403172
+From: "Genadi A Sardanashvily" <sard@theor.phys.msu.su>
+Date: Wed, 30 Mar 1994 08:13:10   (18kb)
+Date (revised): Thu, 31 Mar 1994 13:34:48
+
+Title: Multimomentum Hamiltonian Formalism
+Authors: G.Sardanashvily (Department of Theoretical Physics, Moscow State
+  University, Moscow, Russia)
+Comments: LaTeX preprint MSU-TP-94-13
+\\
+  The standard Hamiltonian machinery, being applied to field theory, leads to
+infinite-dimensional phase spaces. It is not covariant. In this article, we
+present covariant finite-dimensional multimomentum Hamiltonian formalism for
+field theory. This is the multisymplectic generalization of the Hamiltonian
+formalism in mechanics. In field theory, multimomentum canonical variables are
+field functions and momenta corresponding to derivatives of fields with respect
+all world coordinates, not only the time. In case of regular Lagrangian
+densities, the multimomentum Hamiltonian formalism is equivalent to the
+Lagrangian formalism, otherwise for degenerate Lagrangian densities. In this
+case, the Euler-Lagrange equations become undetermined and require additional
+conditions which remain elusive. In the framework of the multimomentum
+Hamiltonian machinery, one obtaines them automatically as a part of Hamilton
+equations. The key point consists in the fact that, given a degenerate
+Lagrangian density, one must consider a family of associated multimomentum
+Hamiltonian forms in order to exaust solutions of the Euler-Lagrange equations.
+We spell out degenerate quadratic and affine Lagrangian densities. The most of
+field models are of these types. As a result, we get the general procedure of
+describing constraint field systems.
+\\

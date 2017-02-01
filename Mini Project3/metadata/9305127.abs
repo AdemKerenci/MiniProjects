@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305127
+From: westonr@ERE.UMontreal.CA (Weston Robert)
+Date: Mon, 24 May 93 22:26:35 -0400   (16kb)
+Date (revised): Wed, 26 May 93 21:27:23 -0400
+
+Title: Vertex Operators and Matrix Elements of $U_q(su(2)_k)$ via Bosonization
+Authors: A.H. Bougourzi and Robert A. Weston
+Comments: 20 pages, LaTex. Minor changes
+Journal-ref: Int. J. Mod. Phys. A9 (1994) 4431-4448
+\\
+  We construct bosonized vertex operators (VOs) and conjugate vertex operators
+(CVOs) of $U_q(su(2)_k)$ for arbitrary level $k$ and representation $j\leq
+k/2$. Both are obtained directly as two solutions of the defining condition of
+vertex operators - namely that they intertwine $U_q(su(2)_k)$ modules. We
+construct the screening charge and present a formula for the n-point function.
+Specializing to $j=1/2$ we construct all VOs and CVOs explicitly. The existence
+of the CVO allows us to place the calculation of the two-point function on the
+same footing as $k=1$; that is, it is obtained without screening currents and
+involves only a single integral from the CVO. This integral is evaluated and
+the resulting function is shown to obey the q-KZ equation and to reduce simply
+to both the expected $k=1$ and $q=1$ limits.
+\\

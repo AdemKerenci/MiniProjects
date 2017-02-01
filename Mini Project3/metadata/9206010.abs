@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206010
+From: ANIEMI@phcu.helsinki.fi
+Date: Tue, 2 Jun 1992 23:14 +0300   (10kb)
+
+Title: Index Theorems and Loop Space Geometry
+Authors: A. Hietamaki and A.J. Niemi
+Comments: 15 pages, report CERN-TH-6471 and HU-TFT-92-15
+Journal-ref: Phys.Lett. B288 (1992) 331-341
+\\
+  We investigate the evaluation of the Dirac index using symplectic geometry in
+the loop space of the corresponding supersymmetric quantum mechanical model. In
+particular, we find that if we impose a simple first class constraint, we can
+evaluate the Callias index of an odd dimensional Dirac operator directly from
+the quantum mechanical model which yields the Atiyah-Singer index of an even
+dimensional Dirac operator in one more dimension. The effective action obtained
+by BRST quantization of this constrained system can be interpreted in terms of
+loop space symplectic geometry, and the corresponding path integral for the
+index can be evaluated exactly using the recently developed localization
+techniques.
+\\

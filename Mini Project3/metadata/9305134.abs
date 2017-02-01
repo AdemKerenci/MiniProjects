@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305134
+From: warnaar@phys.uva.nl (S. Ole Warnaar)
+Date: Tue, 25 May 1993 14:53:29 +0200   (40kb)
+
+Title: Order Parameters of the Dilute A Models
+Authors: S. O. Warnaar, P. A. Pearce, K. A. Seaton, B. Nienhuis
+Comments: 53 pages, LaTex, ITFA 93-15
+\\
+  The free energy and local height probabilities of the dilute A models with
+broken $\Integer_2$ symmetry are calculated analytically using inversion and
+corner transfer matrix methods. These models possess four critical branches.
+The first two branches provide new realisations of the unitary minimal series
+and the other two branches give a direct product of this series with an Ising
+model. We identify the integrable perturbations which move the dilute A models
+away from the critical limit. Generalised order parameters are defined and
+their critical exponents extracted. The associated conformal weights are found
+to occur on the diagonal of the relevant Kac table. In an appropriate regime
+the dilute A$_3$ model lies in the universality class of the Ising model in a
+magnetic field. In this case we obtain the magnetic exponent $\delta=15$
+directly, without the use of scaling relations.
+\\

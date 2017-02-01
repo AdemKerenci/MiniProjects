@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9203065
+From: giorgio@lpthe.jussieu.fr
+Date: Tue, 24 Mar 92 15:29:28 +0100   (29kb)
+Date (revised): Tue, 26 May 92 16:53:46 +0200
+
+Title: Bethe Ansatz and Quantum Groups: The Light--Cone Approach. II. From
+  RSOS($p+1$) models to $p-$restricted Sine--Gordon Field Theories
+Authors: C. Destri and H.J. de Vega
+Comments: 33 pages
+Report-no: LPTHE 92/08, UPRF-92-33 February 1992
+Journal-ref: Nucl.Phys. B385 (1992) 361-394
+\\
+  We solve the RSOS($p$) models on the light--cone lattice with fixed boundary
+conditions by disentangling the type II representations of $SU(2)_q$, at
+$q=e^{i\pi/p}$, from the full SOS spectrum obtained through Algebraic Bethe
+Ansatz. The rule which realizes the quantum group reduction to the RSOS states
+is that there must not be {\it singular} roots in the solutions of the Bethe
+Ansatz equations describing the states with quantum spin $J<(p-1)/2$. By
+studying how this rule is active on the particle states, we are able to give a
+microscopic derivation of the lattice $S-$matrix of the massive kinks. The
+correspondence between the light--cone Six--Vertex model and the Sine--Gordon
+field theory implies that the continuum limit of the RSOS($p+1$) model is to be
+identified with the $p-$restricted Sine--Gordon field theory.
+\\

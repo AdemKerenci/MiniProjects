@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404133
+From: aulakh@iopb.ernet.in
+Date: Thu Apr 21 16:41:48 1994   (6kb)
+
+Title: Exact self dual vortices in $d=3$ Majumdar-Papapetrou dilaton gravity
+Authors: C.S.Aulakh
+Comments: 8pages , ReVTeX, IP/BBSR/94-12
+\\
+  We show that self-dual Nielsen Olesen (NO) vortices in $3$ dimensions give
+rise to a class of exact solutions when coupled to Einstein Maxwell Dilaton
+gravity obeying the Majumdar-Papapetrou(MP) relation between gravitational and
+Maxwell couplings , provided certain Chern-Simons type interactions are
+present. The metric may be solved for explicitly in terms of the NO vortex
+function and is asymptotic to Euclidean space with signature (-1,-1,-1). The MP
+electric field is long range but, strictly speaking, the charge of the vortices
+is zero since the field dies off as $O(1/r (ln r)^2)$. The total ADM energy
+integral of such vortices is {\it{zero}}.
+  These peculiarities are due to the nature of the two dimensional Greens
+function.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408035
+From: xiong@pib1.physik.uni-bonn.de
+Date: Fri, 05 Aug 1994 18:37:41 MEZ ( +0100)   (21kb)
+Date (revised): Mon, 08 Aug 1994 16:26:04 MEZ ( +0100)
+Date (revised): Tue, 13 Sep 1994 16:53:13 MEZ ( +0100)
+
+Title: The integrable hierarchy constructed from a pair of KdV-type hierarchies
+  and its associated $W$ algebra
+Authors: L. Bonora, Q.P. Liu and C.S. Xiong
+Comments: 26p, latex, BONN--TH-94-17, SISSA-ISAS-118/94/EP, AS-ITP-94-43,
+  revised version with additions
+Journal-ref: Commun.Math.Phys. 175 (1996) 177-202
+\\
+  For any two arbitrary positive integers `$n$' and `$m$', using the $m$--th
+KdV hierarchy and the $(n+m)$--th KdV hierarchy as building blocks, we are able
+to construct another integrable hierarchy (referred to as the $(n,m)$--th KdV
+hierarchy). The $W$--algebra associated to the \shs\, of the $(n,m)$--th KdV
+hierarchy (called $W(n,m)$ algebra) is isomorphic via a Miura map to the direct
+sum of $W_m$--algebra, $W_{n+m}$--algebra and an additional $U(1)$ current
+algebra. In turn, from the latter, we can always construct a representation of
+$W_\infty$--algebra.
+\\

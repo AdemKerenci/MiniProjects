@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304122
+From: xiong@tsmi19.sissa.it
+Date: Mon, 26 Apr 1993 11:52:51 +0100   (27kb)
+
+Title: Modules Over Affine Lie Superalgebras
+Author: Jiang-Bei Fan and Ming Yu
+Comments: 35 pages
+Report-no: ASITP-93-14
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Modules over affine Lie superalgebras ${\cal G}$ are studied, in particular,
+for ${\cal G}=\hat{OSP(1,2)}$. It is shown that on studying Verma modules, much
+of the results in Kac-Moody algebra can be generalized to the super case. Of
+most importance are the generalized Kac-Kazhdan formula and the
+Malikov-Feigin-Fuchs construction, which give the weights and the explicit form
+of the singular vectors in the Verma module over affine Kac-Moody
+superalgebras. We have also considered the decomposition of the admissible
+representation of $\hat{OSP(1,2)}$ into that of $\hat{SL(2)}\otimes$Virasoro
+algebra, through which we get the modular transformations on the torus and the
+fusion rules. Different boundary conditions on the torus correspond to the
+different modings of the current superalgebra and characters or
+super-characters, which might be relevant to the Hamiltonian reduction
+resulting in Neveu-Schwarz or Ramond superconformal algebras. Finally, the
+Felder BRST complex, which consists of Wakimoto modules by the free field
+realization, is constructed.
+\\

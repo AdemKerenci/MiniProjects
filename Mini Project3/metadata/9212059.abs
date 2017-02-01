@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212059
+From: habib@tdo-serv.lanl.gov (Salman Habib)
+Date: Wed, 9 Dec 92 12:07:24 MST   (9kb)
+
+Title: Statistical Mechanics of Kinks in (1+1)-Dimensions
+Authors: Francis J. Alexander and Salman Habib
+Comments: 8 pages, Latex (4 figures available on request), LA-UR-92-3991
+Journal-ref: Phys.Rev.Lett. 71 (1993) 955-958
+\\
+  We investigate the thermal equilibrium properties of kinks in a classical
+$\phi^4$ field theory in $1+1$ dimensions. The distribution function, kink
+density, and correlation function are determined from large scale simulations.
+A dilute gas description of kinks is shown to be valid below a characteristic
+temperature. A double Gaussian approximation to evaluate the eigenvalues of the
+transfer operator enables us to extend the theoretical analysis to higher
+temperatures where the dilute gas approximation fails. This approach accurately
+predicts the temperature at which the kink description breaks down.
+\\

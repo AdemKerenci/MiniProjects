@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311004
+From: leclair@lnssun1.tn.cornell.edu (Andre LeClair)
+Date: Mon, 1 Nov 1993 10:16:01 -0500   (16kb)
+
+Title: Affine Lie Algebras in Massive Field Theory and Form-Factors from Vertex
+  Operators
+Authors: Andre LeClair
+Comments: 13 pages, CLNS 93/1255
+Journal-ref: Theor.Math.Phys. 98 (1994) 297-305; Teor.Mat.Fiz. 98 (1994)
+  430-441
+\\
+  We present a new application of affine Lie algebras to massive quantum field
+theory in 2 dimensions, by investigating the $q\to 1$ limit of the q-deformed
+affine $\hat{sl(2)}$ symmetry of the sine-Gordon theory, this limit occurring
+at the free fermion point. Working in radial quantization leads to a
+quasi-chiral factorization of the space of fields. The conserved charges which
+generate the affine Lie algebra split into two independent affine algebras on
+this factorized space, each with level 1 in the anti-periodic sector, and level
+$0$ in the periodic sector. The space of fields in the anti-periodic sector can
+be organized using level-$1$ highest weight representations, if one supplements
+the $\slh$ algebra with the usual local integrals of motion. Introducing a
+particle-field duality leads to a new way of computing form-factors in radial
+quantization. Using the integrals of motion, a momentum space bosonization
+involving vertex operators is formulated. Form-factors are computed as vacuum
+expectation values in momentum space. (Based on talks given at the Berkeley
+Strings 93 conference, May 1993, and the III International Conference on
+Mathematical Physics, String Theory, and Quantum Gravity, Alushta, Ukraine,
+June 1993.)
+\\

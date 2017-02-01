@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408128
+From: Alex Kovner <kovner@tachyon.lanl.gov>
+Date: Tue, 23 Aug 94 15:13:15 -0600   (8kb)
+
+Title: Fermionic Operators from Bosonic Fields in 3+1 Dimensions
+Authors: A. Kovner and B. Rosenstein
+Comments: 8 pages, two figures available on request, LA-UR-94-2863
+Journal-ref: Phys.Lett. B342 (1995) 381-386
+\\
+  We present a construction of fermionic operators in 3+1 dimensions in terms
+of bosonic fields in the framework of $QED_4$. The basic bosonic variables are
+the electric fields $E_i$ and their conjugate momenta $A_i$. Our construction
+generalizes the analogous constuction of fermionic operators in 2+1 dimensions.
+Loosely speaking, a fermionic operator is represented as a product of an
+operator that creates a pointlike charge and an operator that creates an
+infinitesimal t'Hooft loop of half integer strength. We also show how the axial
+$U(1)$ transformations are realized in this construction.
+\\

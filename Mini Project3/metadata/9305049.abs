@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305049
+From: David Fairlie <David.Fairlie@durham.ac.uk>
+Date: Wed, 12 May 93 15:34:58 BST   (7kb)
+
+Title: Equations of Hydrodynamic Type
+Authors: D.B. Fairlie
+Comments: 10 pages, PlainTeX, DTP/93/31
+\\
+  The universal field equations introduced by the author and his collaborators,
+which admit infinitely many inequivalent Lagrangian formulations are shown to
+arise as consistency conditions for the existence of non-trivial solutions to
+the quasi-linear equations, called equations of hydrodynamic type by Novikov ,
+Dubrovin and others. The solutions in closed form are only implicit. A method
+due to Stokes, which is in essence just Fourier Analysis is resurrected for
+application to those equations. With the benefit of algebraic computation
+facilities, this method, allows the general structure of power series solutions
+to be conjectured.
+\\

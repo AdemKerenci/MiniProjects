@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310190
+From: lee@het.brown.edu (Julian Lee)
+Date: Thu, 28 Oct 93 23:23:53 EDT   (14kb)
+
+Title: Time-Dependent Backgrounds in 2D String Theory and the $S$-matrix
+  Generating Functional
+Authors: Julian Lee
+Comments: 23 pages, BROWN-HET-925
+Journal-ref: Phys.Rev. D49 (1994) 2957-2965
+\\
+  We study the time-dependent tachyon backgrounds of the string collective
+field theory using the formalism of the $S$-matrix generating functional. In
+the process we clarify the connection between two ways of calculating the
+$S$-matrix, the one using the Feynman rule and the other using the classical
+solution to the nonlinear equation of motion. We develop the formalism for
+general backgrounds and apply it to the gravitational sine-Gordon model in
+detail. We reproduce the conformal field theory calculation which was based on
+expanding around the static $c=1$ theory. Furthermore, we prove that the tree-
+level partition function of this model shows the scaling behavior corresponding
+to $c=0$ model in the limit $p \to 0$ of sine-Gordon `momentum' $p$.
+\\

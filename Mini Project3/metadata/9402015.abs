@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402015
+From: Robert Perry <perry@pacific.mps.ohio-state.edu>
+Date: Thu, 3 Feb 94 10:03:26 EST   (105kb)
+
+Title: A renormalization group approach to Hamiltonian light-front field theory
+Authors: Robert J. Perry
+Comments: TEX with macros included. 11 figures available upon request. 120
+  pages. Ohio State preprint OSU-NT-93-117
+Journal-ref: Annals Phys. 232 (1994) 116-222
+\\
+  A perturbative renormalization group is formulated for the study of
+Hamiltonian light-front field theory near a critical Gaussian fixed point. The
+only light-front renormalization group transformations found that can be
+approximated by dropping irrelevant operators and using perturbation theory
+near Gaussian fixed volumes, employ invariant-mass cutoffs. These cutoffs
+violate covariance and cluster decomposition, and allow functions of
+longitudinal momenta to appear in all relevant, marginal, and irrelevant
+operators. These functions can be determined by insisting that the Hamiltonian
+display a coupling constant coherence, with the number of couplings that
+explicitly run with the cutoff scale being limited and all other couplings
+depending on this scale only through perturbative dependence on the running
+couplings. Examples are given that show how coupling coherence restores Lorentz
+covariance and cluster decomposition, as recently speculated by Wilson and the
+author. The ultimate goal of this work is a practical Lorentz metric version of
+the renormalization group, and practical renormalization techniques for
+light-front quantum chromodynamics.
+\\

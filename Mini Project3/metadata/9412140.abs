@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412140
+From: salcedo@goliat.ugr.es (Lorenzo Luis Salcedo Moreno)
+Date: Fri, 16 Dec 94 10:00:20 GMT   (38kb)
+
+Title: Wigner transformation for the determinant of Dirac operators
+Authors: L.L. Salcedo and E. Ruiz Arriola
+Comments: Plain TeX, 48 pages
+Report-no: UG-DFM-33/94
+Journal-ref: Annals Phys. 250 (1996) 1-50
+\\
+  We use the $\zeta$-function regularization and an integral representation of
+the complex power of a pseudo differential operator, to give an unambiguous
+definition of the determinant of the Dirac operator. We bring this definition
+to a workable form by making use of an asymmetric Wigner representation. The
+expression so obtained is amenable to several treatments of which we consider
+in detail two, the inverse mass expansion and the gradient expansion, with
+concrete examples. We obtain explicit closed expressions for the corresponding
+Seeley-DeWitt coefficients to all orders. The determinant is shown to be vector
+gauge invariant and to posses the correct axial and scale anomalies. The main
+virtue of our approach is that it is conceptually simple and systematic and can
+be extended naturally to more general problems (bosonic operators,
+gravitational fields, etc). In particular, it avoids defining the real and
+imaginary parts of the effective action separately. In addition, it does not
+reduce the problem to a bosonic one to apply heat kernel nor performs further
+analytical rotations of the fields to make the Dirac operator Hermitian. We
+illustrate the flexibility of the method by studying some interesting cases.
+\\

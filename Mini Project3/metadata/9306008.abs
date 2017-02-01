@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306008
+From: Kurt Haller <KHALLER%UCONNVM.bitnet@YaleVM.YCC.Yale.Edu>
+Date: Tue, 01 Jun 93 16:12:09 EST   (23kb)
+
+Title: Quantum Gauge Equivalence in QED
+Authors: K. Haller and E. Lim-Lombridas
+Comments: Contribution for a special issue of Foundations of Physics honoring
+  Fritz Rohrlich; edited by Larry P. Horwitz, Tel-Aviv University, and Alwyn
+  van der Merwe, University of Denver (Plenum Publishing, New York); 40 pages,
+  REVTEX, Preprint UCONN-93-3, 1 figure available upon request from authors
+Journal-ref: Found.Phys. 24 (1994) 217-247
+\\
+  We discuss gauge transformations in QED coupled to a charged spinor field,
+and examine whether we can gauge-transform the entire formulation of the theory
+from one gauge to another, so that not only the gauge and spinor fields, but
+also the forms of the operator-valued Hamiltonians are transformed. The
+discussion includes the covariant gauge, in which the gauge condition and
+Gauss's law are not primary constraints on operator-valued quantities; it also
+includes the Coulomb gauge, and the spatial axial gauge, in which the
+constraints are imposed on operator-valued fields by applying the
+Dirac-Bergmann procedure. We show how to transform the covariant, Coulomb and
+spatial axial gauges to what we call
+  ``common form,'' in which all particle excitation modes have identical
+properties. We also show that, once that common form has been reached, QED in
+different gauges has a common time-evolution operator that defines
+time-translation for states that represent systems of electrons and photons.
+  By combining gauge transformations with changes of representation from
+standard to common form, the entire apparatus of a gauge theory can be
+transformed from one gauge to another.
+\\

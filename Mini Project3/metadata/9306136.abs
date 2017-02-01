@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306136
+From: dannyb@phys.uva.nl (Danny Birmingham)
+Date: Fri, 25 Jun 1993 21:51:09 +0200   (9kb)
+
+Title: Subdivision Analysis of Topological $Z_{p}$ Lattice Gauge Theory
+Authors: D. Birmingham and M. Rakowski
+Comments: 13 pages, LaTex, ITFA-93-22
+\\
+  We analyze the subdivision properties of certain lattice gauge theories for
+the discrete abelian groups $Z_{p}$, in four dimensions. In these particular
+models we show that the Boltzmann weights are invariant under all $(k,l)$
+subdivision moves, when the coupling scale is a $p$th root of unity. For the
+case of manifolds with boundary, we demonstrate analytically that Alexander
+type $2$ and $3$ subdivision of a bounding simplex is equivalent to the
+insertion of an operator which equals a delta function on trivial bounding
+holonomies. The four dimensional model then gives rise to an effective gauge
+invariant three dimensional model on its boundary, and we compute the
+combinatorially invariant value of the partition function for the case of
+$S^{3}$ and $S^{2}\times S^{1}$.
+\\

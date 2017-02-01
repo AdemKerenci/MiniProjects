@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305129
+From: DURAND@hep.Physics.McGill.CA
+Date: Mon, 24 May 1993 23:41:23 -0400 (EDT)   (8kb)
+Date (revised): Tue, 25 May 1993 0:06:50 -0400 (EDT)
+
+Title: Extended Fractional Supersymmetric Quantum Mechanics
+Authors: Stephane Durand
+Comments: 12 pages, plain TEX, McGill/93-03
+Journal-ref: Mod. Phys. Lett. A8 (1993) 1795-1804
+\\
+  Recently, we presented a new class of quantum-mechanical Hamiltonians which
+can be written as the $F^{th}$ power of a conserved charge: $H=Q^F$ with
+$F=2,3,...\,.$ This construction, called fractional supersymmetric quantum
+mechanics, was realized in terms of a paragrassmann variable $\theta$ of order
+$F$, which satisfies $\theta^F=0$. Here, we present an alternative realization
+of such an algebra in which the internal space of the Hamiltonians is described
+by a tensor product of two paragrassmann variables of orders $F$ and $F-1$
+respectively. In particular, we find $q$-deformed relations (where $q$ are
+roots of unity) between different conserved charges. (To appear in
+"Mod.Phys.Lett.A")
+\\

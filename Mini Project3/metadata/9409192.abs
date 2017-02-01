@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409192
+From: MARKL@CSEARN.BITNET
+Date: Fri, 30 Sep 94 13:43:53 MET   (25kb)
+
+Title: Distributive Laws and the Koszulness
+Authors: Martin Markl
+Comments: 23 pages, LaTeX, article 12pt style
+\\
+  We study algebras with a distributive law and the Koszulness of associated
+operads. As a corollary of our theory we prove that the homology operad of the
+little cubes operad is Koszul, the result which was originally proven by E.
+Getzler and J.D.S. Jones in their preprint "Operads, homotopy algebra, and
+iterated integrals for double loop spaces" using the combinatorics of the
+stratification of the Fulton-MacPherson compactification of the configuration
+space. Since the above mentioned result whose purely algebraic proof we give
+plays and important role in closed string field theory and especially the
+methods used in the original proof of Getzler and Jones are very relevant for
+this part of mathematical physics, we decided to put our paper here, though
+some 80% of its material belongs rather to universal and homological algebra.
+\\

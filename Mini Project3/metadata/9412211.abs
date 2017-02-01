@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412211
+From: frolov@phys.ualberta.ca (Valery P Frolov)
+Date: Fri, 23 Dec 1994 16:44:37 -0700   (16kb)
+
+Title: Black Hole Entropy
+Author: Valeri Frolov
+Comments: 16 pages, LaTeX; Talk at the Winnipeg Heat Kernel Conference (Aug,94)
+Report-no: Alberta-Thy 42-94
+\\
+  In the talk different definitions of the black hole entropy are discussed and
+compared. It is shown that the Bekenstein-Hawking entropy $S^{BH}$ (defined by
+the response of the free energy of a system containing a black hole on the
+change of the temperature) differs from the statistical- mechanical entropy
+$S^{SM}=-\mbox{Tr}(\hat{\rho}\ln \hat{\rho})$ (defined by counting internal
+degrees of freedom of a black hole). A simple explanation of the universality
+of the Bekenstein-Hawking entropy (i.e. its independence of the number and
+properties of the fields which might contribute to $S^{SM}$) is given.
+\\

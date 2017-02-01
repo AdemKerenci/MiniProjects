@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205008
+From: Jerome Gauntlett <jerome@bohr.uchicago.edu>
+Date: Tue, 5 May 92 16:53:06 CDT   (19kb)
+
+Title: Low-Energy Dynamics of Supersymmetric Solitons
+Authors: Jerome P. Gauntlett
+Comments: 25 pages
+Journal-ref: Nucl. Phys. B400 (1993) 103
+\\
+  In bosonic field theories the low-energy scattering of solitons that saturate
+Bogomol'nyi-type bounds can be approximated as geodesic motion on the moduli
+space of static solutions. In this paper we consider the analogous issue within
+the context of supersymmetric field theories. We focus our study on a class of
+$N=2$ non-linear sigma models in $d=2+1$ based on an arbitrary K\"ahler target
+manifold and their associated soliton or ``lump" solutions. Using a collective
+co-ordinate expansion, we construct an effective action which, upon
+quantisation, describes the low-energy dynamics of the lumps. The effective
+action is an $N=2$ supersymmetric quantum mechanics action with the target
+manifold being the moduli space of static charge $N$ lump solutions of the
+sigma model. The Hilbert space of states of the effective theory consists of
+anti-holomorphic forms on the moduli space. The normalisable elements of the
+dolbeault cohomology classes $H^{(0,p)}$ of the moduli space correspond to zero
+energy bound states and we argue that such states correpond to bound states in
+the full quantum field theory of the sigma model.
+\\

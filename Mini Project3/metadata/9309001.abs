@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309001
+From: maassara@physics.usc.edu (Ziad Maassarani)
+Date: Tue, 31 Aug 93 23:51:54 PDT   (9kb)
+
+Title: Bethe Ansatz for Lattice Analogues of $N=2$ Superconformal Theories
+Authors: Z. Maassarani
+Comments: 7 pages, preprint USC-93/019
+\\
+  The critical Boltzmann weights for lattice analogues of the $N=2$
+superconformal coset models $\frac{G_1 \times SO(dim(G/H))}{H}$ were given in
+\cite{nick}. In this paper Bethe Ansatz methods are employed to calculate the
+spectrum of the transfer matrix obtained from these Boltzmann weights. {}From
+this the central charge and conformal weights are obtained by calculating
+finite-size corrections to the free energy per site. The results agree with
+those obtained from the superconformal model.
+\\

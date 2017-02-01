@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402144
+From: Andre Leclair <leclair@mail.lns.cornell.edu>
+Date: Fri, 25 Feb 1994 11:32:53 -0500   (22kb)
+Date (revised): Thu, 06 Mar 1997 14:10:40 -0800
+
+Title: Differential Equations for Sine-Gordon Correlation Functions at the Free
+  Fermion Point
+Authors: D. Bernard and A. Leclair
+Comments: 28 pages. In this corrected version, more general solutions to the
+  differential equations, which are required for correlators of inequivalent
+  fields, are included. erratum hep-th/9703055 describes the substantial
+  changes from original version
+Journal-ref: Nucl.Phys. B426 (1994) 534-558; Erratum-ibid. B498 (1997) 619-621
+\\
+  We demonstrate that for the sine-Gordon theory at the free fermion point, the
+2-point correlation functions of the fields $\exp (i\al \Phi )$ for $0< \al <
+1$ can be parameterized in terms of a solution to a sinh-Gordon-like equation.
+This result is derived by summing over intermediate multiparticle states and
+using the form factors to express this as a Fredholm determinant. The proof of
+the differential equations relies on a $\Zmath_2$ graded multiplication law
+satisfied by the integral operators of the Fredholm determinant. Using this
+methodology, we give a new proof of the differential equations which govern the
+spin and disorder field correlators in the Ising model.
+\\

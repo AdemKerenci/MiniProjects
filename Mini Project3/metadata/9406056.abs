@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406056
+From: Cobi Sonnenschein <COBI@taunivm.tau.ac.il>
+Date: Thu, 09 Jun 94 17:32:48 IST   (65kb)
+
+Title: $(1,q=-1)$ Model as a Topological Description of $2d$ String Theory
+Authors: Yoav Lavi, Yaron Oz and Jacob Sonnenschein
+Comments: 39 pages,latex,taup-2170 -94
+Journal-ref: Nucl.Phys. B431 (1994) 223-257
+\\
+  We study the $(1,q=-1)$ model coupled to topological gravity as a candidate
+to describing $2d$ string theory at the self-dual radius. We define the model
+by analytical continuation of $q>1$ topological recursion relations to $q=-1$.
+We show that at genus zero the $q=-1$ recursion relations yield the
+$W_{1+\infty}$ Ward identities for tachyon correlators on the sphere. A scheme
+for computing correlation functions of $q=-1$ gravitational descendants is
+proposed and applied for the computation of several correlators. It is
+suggested that the latter correspond to correlators of discrete states of the
+$c=1$ string. In a similar manner to the $q>1$ models, we show that there exist
+topological recursion relations for the correlators in the $q=-1$ theory that
+consist of only one and two splittings of the Riemann surface. Using a
+postulated regularized contact, we prove that the genus one $q=-1$ recursion
+relations for tachyon correlators coincide with the $W_{1+\infty}$ Ward
+identities on the torus. We argue that the structure of these recursion
+relations coincides with that of the $W_{1+\infty}$ Ward identities for any
+genus.
+\\

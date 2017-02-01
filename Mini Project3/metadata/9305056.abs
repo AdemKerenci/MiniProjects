@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305056
+From: Shimon Levit <FNLEVIT@WEIZMANN.WEIZMANN.AC.IL>
+Date: Thu, 13 May 93 12:39:19 +0300   (26kb)
+
+Title: Body Fixed Frame, Rigid Gauge Rotations and Large N Random Fields in QCD
+Authors: Shimon Levit
+Comments: 29 pages LATEX, Weizmann Institute preprint WIS-93/40/Apr -PH
+Journal-ref: Z.Phys. A353 (1995) 213-225
+\\
+  The "body fixed frame" with respect to local gauge transformations is
+introduced. Rigid gauge "rotations" in QCD and their \Sch equation are studied
+for static and dynamic quarks. Possible choices of the rigid gauge field
+configuration corresponding to a nonvanishing static colormagnetic field in the
+"body fixed" frame are discussed. A gauge invariant variational equation is
+derived in this frame. For large number N of colors the rigid gauge field
+configuration is regarded as random with maximally random probability
+distribution under constraints on macroscopic--like quantities. For the uniform
+magnetic field the joint probability distribution of the field components is
+determined by maximizing the appropriate entropy under the area law constraint
+for the Wilson loop. In the quark sector the gauge invariance requires the
+rigid gauge field configuration to appear not only as a background but also as
+inducing an instantaneous quark-quark interaction. Both are random in the large
+N limit.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409023
+From: "bala" <BXS19@PSUVM.PSU.EDU>
+Date: Sun, 4 Sep 94 13:53 EDT   (17kb)
+Date (revised): Sun, 14 May 95 19:21 EDT
+
+Title: Proper Time Formalism, Gauge Invariance and the Effects of a Finite
+  World Sheet Cutoff in String Theory
+Authors: B. Sathiapalan
+Comments: 24 pages, Latex file. (This is a revised version, to appear in Int.
+  J. of Mod. Phys. Section 2 has been extensively revised. Minor revisions in
+  the other sections)
+Journal-ref: Int.J.Mod.Phys. A10 (1995) 4501-4520
+\\
+  We discuss the issue of going off-shell in the proper time formalism. This is
+done by keeping a finite world sheet cutoff. We construct one example of an
+off-shell covariant Klein Gordon type interaction. For a suitable choice of the
+gauge transformation of the scalar field, gauge invariance is maintained off
+mass shell. However at second order in the gauge field interaction, one finds
+that (U(1)) gauge invariance is violated due to the finite cutoff.
+Interestingly, we find, to lowest order, that by adding a massive mode with
+appropriate gauge transformation laws to the sigma model background, one can
+restore gauge invariance. The gauge transformation law is found to be
+consistent, to the order calculated, with what one expects from the interacting
+equation of motion of the massive field. We also extend some previous
+discussion on applying the proper time formalism for propagating gauge
+particles, to the interacting (i.e. Yang Mills) case.
+\\

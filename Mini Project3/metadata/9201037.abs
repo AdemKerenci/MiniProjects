@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9201037
+From: PHR74HE%TECHNION@TAUNIVM.TAU.AC.IL
+Date: Mon, 20 Jan 92 14:29:01 IST   (13kb)
+
+Title: String Field Theory for d \leq 0 Matrix Models via Marinari-Parisi
+Authors: Joshua Feinberg
+Comments: 15p. Latex twice!
+Journal-ref: Phys. Lett. B281 (1992) 225-232
+\\
+  We generalize the Marinari-Parisi definition for pure two dimensional quantum
+gravity $(k = 2)$ to all non unitary minimal multicritical points $(k \geq 3)$.
+The resulting interacting Fermi gas theory is treated in the collective field
+framework. Making use of the fact that the matrices evolve in Langevin time,
+the Jacobian from matrix coordinates to collective modes is similar to the
+corresponding Jacobian in $d = 1$ matrix models. The collective field theory is
+analyzed in the planar limit. The saddle point eigenvalue distribution is the
+one that defines the original multicritical point and therefore exhibits the
+appropriate scaling behaviour. Some comments on the nonperturbative properties
+of the collective field theory as well as comments on the Virasoro constraints
+associated with the loop equations are made at the end of this letter. There we
+also make some remarks on the fermionic formulation of the model and its
+integrability, as a nonlocal version of the non linear Schr\"{o}dinger model.
+\\

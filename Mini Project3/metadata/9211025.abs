@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211025
+From: UDAH101@ELM.CC.KCL.AC.UK
+Date: Wed, 4 Nov 92 15:38 GMT   (11kb)
+
+Title: Lorentz-Covariant Green-Schwarz Superstring Amplitudes
+Authors: Nathan Berkovits
+Comments: 11 pages plain Tex, KCL-TH-92-6
+Journal-ref: Phys. Lett. B300 (1993) 53
+\\
+  In a recent paper, the BRST formalism for the gauge-fixed N=2 twistor-string
+was used to calculate Green-Schwarz supersring scattering amplitudes with an
+arbitrary number of loops and external massless states. Although the
+gauge-fixing procedure preserved the worldsheet N=2 superconformal invariance
+of the twistor-string, it broke the target-space SO(9,1) super-Poincar\'e
+invariance down to an SU(4)xU(1) subgroup. In this paper, generators for the
+SO(9,1) super-Poincar\'e transformations, as well as manifestly covariant
+vertex operators, are explicitly constructed out of the gauge-fixed matter
+fields. The earlier calculated amplitudes are then expressed in manifestly
+Lorentz-covariant notation.
+\\

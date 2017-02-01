@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209083
+From: samson@guinness.ias.edu (Samson Shatashvili)
+Date: Tue, 22 Sep 92 11:17:26 EDT   (10kb)
+Date (revised): Fri, 25 Sep 92 22:07:55 EDT
+
+Title: Correlation Functions in The Itzykson-Zuber Model
+Authors: Samson L. Shatashvili
+Comments: 13p., corrected TEX version, Preprint IASSNS-HEP-92/61
+Journal-ref: Commun. Math. Phys. 154 (1993) 421-432
+\\
+  The n-point function for the integral over unitary matrices with
+Itzykson-Zuber measure is reduced to the integral over Gelfand-Tzetlin table;
+integrand (for generic n) is given by linear exponential times rational
+function. For $n=2$ and in some cases for $n>2$ later in fact is the polinomial
+and this allows to give an explicit and simple expression for all 2-point and a
+set of n-point functions. For the most general n-point function a simple linear
+differential equation is constructed.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309079
+From: dorn@convex.ifh.de (H.Dorn)
+Date: Tue, 14 Sep 93 14:32:57 MET   (8kb)
+
+Title: Operator product expansion of the energy momentum tensor in 2D conformal
+  field theories on manifolds with boundary
+Authors: H. Dorn and V. Preuss
+Comments: 8 pages, Latex, HU Berlin-IEP-93/4
+Journal-ref: Phys.Lett. B321 (1994) 355-360
+\\
+  Starting from the well-known expression for the trace anomaly we derive the
+$T\cdot T$ operator product expansion of the energy-momentum tensor in 2D
+conformal theories defined in the upper halfplane $without$ making use of the
+additional condition of no energy-momentum flux across the boundary. The OPE
+turns out to be the same as in the absence of the boundary. For this result it
+is crucial that the trace anomaly is proportional to the Gau\ss-Bonnet density.
+Some relations to the $\sigma$ - model approach for open strings are discussed.
+\\

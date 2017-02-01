@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402038
+From: qpark@nms.kyunghee.ac.kr (Q-Han Park)
+Date: Tue, 8 Feb 94 16:36:30 KST   (9kb)
+Date (revised): Mon, 21 Feb 94 13:17:17 KST
+
+Title: Deformed Coset Models From Gauged WZW Actions
+Authors: Q-Han Park
+Comments: 11 pages
+Journal-ref: Phys.Lett. B328 (1994) 329-336
+\\
+  A general Lagrangian formulation of integrably deformed G/H-coset models is
+given. We consider the G/H-coset model in terms of the gauged
+Wess-Zumino-Witten action and obtain an integrable deformation by adding a
+potential energy term $Tr(gTg^{-1}\Tb )$, where algebra elements $T, \Tb $
+belong to the center of the algebra {\bf h} associated with the subgroup H. We
+show that the classical equation of motion of the deformed coset model can be
+identified with the integrability condition of certain linear equations which
+makes the use of the inverse scattering method possible. Using the linear
+equation, we give a systematic way to construct infinitely many conserved
+currents as well as soliton solutions. In the case of the parafermionic
+SU(2)/U(1)-coset model, we derive $n$-solitons and conserved currents
+explicitly.
+\\

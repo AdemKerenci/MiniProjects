@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303159
+From: Michael Douglas <mrd@mike.rutgers.edu>
+Date: Mon, 29 Mar 93 22:18:08 PST   (12kb)
+
+Title: Conformal Field Theory Techniques for Large N Group Theory
+Authors: Michael R. Douglas
+Comments: RU-93-13, NSF-ITP-93-39, 13 pp
+\\
+  We show how to use quantum mechanics on the group manifold U(N) as a tool for
+problems in U(N) representation theory. The quantum mechanics reduces to free
+fermions on the circle, which in the large N limit become relativistic. The
+theory can be bosonized giving the Das-Jevicki-Sakita collective field theory.
+The formalism is particularly suited to problems involving tensor product
+multiplicity (Littlewood-Richardson) coefficients. As examples, we discuss the
+partition function of two-dimensional Yang-Mills theory on the sphere, and the
+zero magnetic field limit of D-dimensional Eguchi-Kawai Yang-Mills theory. We
+give the leading O(N^0) solution of the latter theory, using a method which
+allows computing corrections. Largely (but not completely) superseded by
+hep-th/9311130.
+\\

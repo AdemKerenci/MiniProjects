@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306153
+From: Jean Zinn-Justin <zinn@amoco.saclay.cea.fr>
+Date: 29 Jun 93 08:20:41+0200   (130kb)
+Date (revised): 27 Jul 94 09:30:51+0200
+
+Title: 2D Gravity and Random Matrices
+Authors: P. Di Francesco, P. Ginsparg, and J. Zinn-Justin
+Comments: 190 pages (harvmac l mode), 400kb (don't even dream of requesting
+  hardcopy)
+Report-no: LA-UR-93-1722, SPhT/93-061
+Journal-ref: Phys.Rept. 254 (1995) 1-133
+\\
+  We review recent progress in 2D gravity coupled to $d<1$ conformal matter,
+based on a representation of discrete gravity in terms of random matrices. We
+discuss the saddle point approximation for these models, including a class of
+related $O(n)$ matrix models. For $d<1$ matter, the matrix problem can be
+completely solved in many cases by the introduction of suitable orthogonal
+polynomials. Alternatively, in the continuum limit the orthogonal polynomial
+method can be shown to be equivalent to the construction of representations of
+the canonical commutation relations in terms of differential operators. In the
+case of pure gravity or discrete Ising--like matter, the sum over topologies is
+reduced to the solution of non-linear differential equations (the Painlev\'e
+equation in the pure gravity case) which can be shown to follow from an action
+principle. In the case of pure gravity and more generally all unitary models,
+the perturbation theory is not Borel summable and therefore alone does not
+define a unique solution. In the non-Borel summable case, the matrix model does
+not define the sum over topologies beyond perturbation theory. We also review
+the computation of correlation functions directly in the continuum formulation
+of matter coupled to 2D gravity, and compare with the matrix model results.
+Finally, we review the relation between matrix models and topological gravity,
+and as well the relation to intersection theory of the moduli space of
+punctured Riemann surfaces.
+\\

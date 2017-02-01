@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411232
+From: NAKAZAWA@nbivax.nbi.dk
+Date: Wed, 30 Nov 1994 18:41:46 +0100   (10kb)
+Date (revised): Tue, 22 Aug 1995 08:56:50 +0200
+
+Title: On Field Theories of Loops
+Author: N. Nakazawa
+Comments: 14 pages, LaTex, final version to be published in Modern Physics
+  Letters A
+Report-no: NBI-HE-94-54
+Journal-ref: Mod.Phys.Lett. A10 (1995) 2175
+\\
+  We apply stochastic quantization method to matrix models for the second
+quantization of loops in both discretized and continuum levels. The fictitious
+time evolution described by the Langevin equation is interpreted as the time
+evolution in a field theory of loops. The corresponding Fokker-Planck
+hamiltonian defines a non-critical string field theory. We study both
+orientable and non-orientable interactions of loops in terms of matrix models
+and take the continuum limit for one-matrix case. As a consequence, we show the
+equivalence of stochastic quantization of matrix models in loop space to the
+transfer-matrix formalism in dynamical triangulation of random surfaces. We
+also clarifies the origin of Virasoro algebra in this context.
+\\

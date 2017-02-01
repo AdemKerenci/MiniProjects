@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305023
+From: kazama@tkyvax.phys.s.u-tokyo.ac.jp (yoichi kazama)
+Date: Fri, 7 May 93 15:56:40 +0900   (39kb)
+
+Title: On the Exact Operator Formalism of Two-Dimensional Liouville Quantum
+  Gravity in Minkowski Spacetime
+Authors: Yoichi Kazama and Hermann Nicolai
+Comments: 47 pages. DESY 93-043, UT Komaba 93-6
+Journal-ref: Int. J. Mod. Phys. A9 (1994) 667-710
+\\
+  A detailed reexamination is made of the exact operator formalism of
+two-dimensional Liouville quantum gravity in Minkowski spacetime with the
+cosmological term fully taken into account.
+  Making use of the canonical mapping from the interacting Liouville field into
+a free field, we focus on the problem of how the Liouville exponential operator
+should be properly defined. In particular, the condition of mutual locality
+among the exponential operators is carefully analyzed, and a new solution,
+which is neither smoothly connected nor relatively local to the existing
+solution, is found. Our analysis indicates that, in Minkowski spacetime,
+coupling gravity to matter with central charge $d<1$ is problematical. For
+$d=1$, our new solution appears to be the appropriate one; for this value of
+$d$, we demonstrate that the operator equation of motion is satisfied to all
+orders in the cosmological constant with a certain regularization. As an
+application of the formalism, an attempt is made to study how the basic
+generators of the ground ring get modified due to the inclusion of the
+cosmological term. Our investigation, although incomplete, suggests that in
+terms of the canonically mapped free field the ground ring is not modified.
+\\

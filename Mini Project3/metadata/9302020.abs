@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302020
+From: Petr Horava <horava@yukawa.uchicago.edu>
+Date: Fri, 5 Feb 93 16:57:20 CST   (26kb)
+
+Title: Spacetime Diffeomorphisms and Topological W-Infinity Symmetry in Two
+  Dimensional Topological String Theory
+Authors: Petr Horava
+Comments: EFI-92-70; 36 pages, no figures; requires PHYZZX
+Journal-ref: Nucl.Phys. B414 (1994) 485-516
+\\
+  This paper analyzes spacetime symmetries of topological string theory on a
+two dimensional torus, and points out that the spacetime geometry of the model
+is that of the Batalin-Vilkovisky formalism. Previously I found an infinite
+symmetry algebra in the absolute BRST cohomology of the model. Here I find an
+analog of the BV $\Delta$ operator, and show that it defines a natural
+semirelative BRST cohomology. In the absolute cohomology, the ghost-number-zero
+symmetries form the algebra of all infinitesimal spacetime diffeomorphisms,
+extended at non-zero ghost numbers to the algebra of all odd-symplectic
+diffeomorphisms on a spacetime supermanifold. In the semirelative cohomology,
+the symmetries are reduced to $w_\infty$ at ghost number zero, and to a
+topologically twisted N=2 $w_\infty$ superalgebra when all ghost numbers are
+included. I discuss deformations of the model that break parts of the spacetime
+symmetries while preserving the topological BRST symmetry on the worldsheet. In
+the absolute cohomology of the deformed model, another topological $w_\infty$
+superalgebra may emerge, while the semirelative cohomology leads to a bosonic
+$w_\infty$ symmetry.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408160
+From: eholzer@avzw01.physik.uni-bonn.de (Wolfgang Eholzer)
+Date: Mon, 29 Aug 94 11:45:07 +0200   (39kb)
+Date (revised): Mon, 8 May 95 09:01:58 +0200
+
+Title: On the Classification of Modular Fusion Algebras
+Author: Wolfgang Eholzer
+Comments: 39 pages (AMS TeX) and one postscript figure, one exceptional case
+  added in Main theorem 4, some typos corrected
+Report-no: BONN-TH-94-18, MPI-94-91, Commun. Math. Phys. (to appear)
+Journal-ref: Commun.Math.Phys. 172 (1995) 623-659
+\\
+  We introduce the notion of (nondegenerate) strong-modular fusion algebras.
+Here strongly-modular means that the fusion algebra is induced via Verlinde's
+formula by a representation of the modular group SL(2,Z) whose kernel contains
+a congruence subgroup. Furthermore, nondegenerate means that the conformal
+dimensions of possibly underlying rational conformal field theories do not
+differ by integers. Our main result is the classification of all
+strongly-modular fusion algebras of dimension two, three and four and the
+classification of all nondegenerate strongly-modular fusion algebras of
+dimension less than 24. We use the classification of the irreducible
+representations of the finite groups SL(2,Z_{p^l}) where p is a prime and l a
+positive integer. Finally, we give polynomial realizations and fusion graphs
+for all simple nondegenerate strongly-modular fusion algebras of dimension less
+than 24.
+\\

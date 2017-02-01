@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307008
+From: Yao-Zhong Zhang <yzz@maths.uq.oz.au>
+Date: Fri, 2 Jul 93 12:49:31 EST   (16kb)
+Date (revised): Wed, 14 Jul 93 14:14:36 EST
+
+Title: Quantum affine algebras and universal R-matrix with spectral parameter,
+  II
+Author: Yao-Zhong Zhang and Mark D. Gould
+Comments: 22 pages
+Report-no: UQMATH-93-06
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Bull. Austral. Math. Soc. 51 (1995) 177
+\\
+  This paper is an extended version of our previous short letter \cite{ZG2} and
+is attempted to give a detailed account for the results presented in that
+paper. Let $U_q({\cal G}^{(1)})$ be the quantized nontwisted affine Lie algebra
+and $U_q({\cal G})$ be the corresponding quantum simple Lie algebra. Using the
+previous obtained universal $R$-matrix for $U_q(A_1^{(1)})$ and
+$U_q(A_2^{(1)})$, we determine the explicitly spectral-dependent universal
+$R$-matrix for $U_q(A_1)$ and $U_q(A_2)$. We apply these spectral-dependent
+universal $R$-matrix to some concrete representations. We then reproduce the
+well-known results for the fundamental representations and we are also able to
+derive for the first time the extreamly explicit and compact formula of the
+spectral-dependent $R$-matrix for the adjoint representation of $U_q(A_2)$, the
+simplest nontrival case when the tensor product of the representations is {\em
+not} multiplicity-free.
+\\

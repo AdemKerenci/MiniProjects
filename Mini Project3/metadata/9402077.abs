@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402077
+From: I96@VM.URZ.UNI-HEIDELBERG.DE
+Date: Mon, 14 Feb 94 15:49:11 CET   (10kb)
+Date (revised): Fri, 29 Jul 94 09:59:50 CET
+
+Title: Flow Equations and BRS Invariance for Yang-Mills Theories
+Authors: Ulrich Ellwanger
+Comments: 10 pages, HD-THEP-94-02 (References and example added; version to
+  appear in Phys. Lett. B)
+Journal-ref: Phys.Lett. B335 (1994) 364-370
+\\
+  Flow equations describe the evolution of the effective action $\Gamma_k$ in
+the process of varying an infrared cutoff $k$. The presence of the infrared
+cutoff explicitly breaks gauge and hence BRS invariance. We derive modified
+Slavnov-Taylor identities, which are valid for nonvanishing $k$. They guarantee
+the BRS invariance of $\Gamma_k$ for $k\to0$, and hence allow the study of
+non-abelian gauge theories by integrating the flow equations. Within a
+perturbative expansion of $\Gamma_k$, we derive an equation for a $k$ dependent
+mass term for the gauge fields implied by the modified Slavnov-Taylor
+identities.
+\\

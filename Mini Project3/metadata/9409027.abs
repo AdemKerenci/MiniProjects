@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409027
+From: sazdjian@ipncls.in2p3.fr
+Date: Mon, 5 Sep 94 11:30:42 +0200   (24kb)
+
+Title: $SU_3$ coherent state operators and invariant correlation functions and
+  their quantum group counterparts
+Authors: H. Sazdjian, Y.S. Stanev and I.T. Todorov
+Comments: 33 pages, LATEX, preprint IPNO/TH 94-01
+Journal-ref: J.Math.Phys. 36 (1995) 2030-2052
+\\
+  Coherent state operators (CSO) are defined as operator valued functions on
+G=SL(n,C), homogeneous with respect to right multiplication by lower triangular
+matrices. They act on a model space containing all holomorphic finite
+dimensional representations of G with multiplicity 1. CSO provide an analytic
+tool for studying G invariant 2- and 3-point functions, which are written down
+in the case of $SU_3$. The quantum group deformation of the construction gives
+rise to a non-commutative coset space. We introduce a "standard" polynomial
+basis in this space (related to but not identical with the Lusztig canonical
+basis) which is appropriate for writing down $U_q(sl_3)$ invariant 2-point
+functions for representaions of the type $(\lambda,0)$ and $(0,\lambda)$.
+General invariant 2-point functions are written down in a mixed
+Poincar\'e-Birkhoff-Witt type basis.
+\\

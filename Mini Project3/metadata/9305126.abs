@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305126
+From: itoyama@osklns.kek.jp (Itoyama)
+Date: Tue, 25 May 93 10:10:00 JST   (16kb)
+Date (revised): Tue, 8 Jun 93 18:16:37 JST
+
+Title: Universal and Nonperturbative Behavior in the One-Plaquette Model of
+  Two-Dimensional String Theory
+Authors: S. Chaudhuri, H. Itoyama and T. Ooshita
+Comments: 22 pages, Latex, OU-HET-178, UTTG-14-93. More references added
+Journal-ref: Nucl. Phys. B409 (1993) 397
+\\
+  The one-plaquette Hamiltonian of large N lattice gauge theory offers a
+constructive model of a $1+1$-dimensional string theory with a stable ground
+state.
+  The free energy is found to be equivalent to the partition function of a
+string where the world sheet is discretized by even polygons with signature and
+the link factor is given by a non-Gaussian propagator.
+  At large, but finite, N we derive the nonperturbative density of states from
+the WKB wave function and the dispersion relations. This is expressible as an
+infinite, but convergent, series with the inverse of the hypergeometric
+function replacing the harmonic oscillator spectrum of the $1+1$-dimensional
+string. In the scaling limit, the series is shown to be finite, containing both
+the perturbative (asymptotic) expansion of the inverted harmonic oscillator
+model, and a nonperturbative piece that survives the scaling limit.
+\\

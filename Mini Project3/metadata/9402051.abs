@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402051
+From: Schwiebert <cbs@kurims.kyoto-u.ac.jp>
+Date: Wed, 9 Feb 94 21:12:21 JST   (36kb)
+
+Title: Extended reflection equation algebras, the braid group on a handlebody
+  and associated link polynomials
+Author: C. Schwiebert
+Comments: 26 pages, 10 figures
+Report-no: RIMS 965
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 35 (1994) 5288-5305
+\\
+  The correspondence of the braid group on a handlebody of arbitrary genus to
+the algebra of Yang-Baxter and extended reflection equation operators is shown.
+Representations of the infinite dimensional extended reflection equation
+algebra in terms of direct products of quantum algebra generators are derived,
+they lead to a representation of this braid group in terms of $R$-matrices.
+Restriction to the reflection equation operators only gives the coloured braid
+group. The reflection equation operators, describing the effect of handles
+attached to a 3-ball, satisfy characteristic equations which give rise to
+additional skein relations and thereby invariants of links on handlebodies. The
+origin of the skein relations is explained and they are derived from an
+adequately adapted handlebody version of the Jones polynomial. Relevance of
+these results to the construction of link polynomials on closed 3-manifolds via
+Heegard splitting and surgery is indicated.
+\\

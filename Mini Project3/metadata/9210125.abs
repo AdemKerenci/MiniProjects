@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210125
+From: Andreas Honecker <UNP06B@IBM.rhrz.uni-bonn.de>
+Date: Thu, 22 Oct 92 20:51:05 MEZ   (95kb)
+
+Title: Multi-particle structure in the Z_n-chiral Potts models
+Authors: G. von Gehlen and A. Honecker
+Comments: 22 pages (LaTeX) plus 5 figures (included as PostScript),
+  BONN-HE-92-32
+Journal-ref: J.Phys. A26 (1993) 1275-1298
+\\
+  We calculate the lowest translationally invariant levels of the Z_3- and
+Z_4-symmetrical chiral Potts quantum chains, using numerical diagonalization of
+the hamiltonian for N <= 12 and N <= 10 sites, respectively, and extrapolating
+N to infinity. In the high-temperature massive phase we find that the pattern
+of the low-lying zero momentum levels can be explained assuming the existence
+of n-1 particles carrying Z_n-charges Q = 1, ... , n-1 (mass m_Q), and their
+scattering states. In the superintegrable case the masses of the n-1 particles
+become proportional to their respective charges: m_Q = Q m_1. Exponential
+convergence in N is observed for the single particle gaps, while power
+convergence is seen for the scattering levels. We also verify that
+qualitatively the same pattern appears for the self-dual and integrable cases.
+For general Z_n we show that the energy-momentum relations of the particles
+show a parity non-conservation asymmetry which for very high temperatures is
+exclusive due to the presence of a macroscopic momentum P_m=(1-2Q/n)/\phi,
+where \phi is the chiral angle and Q is the Z_n-charge of the respective
+particle.
+\\

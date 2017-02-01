@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407082
+From: Henric Rhedin <hr@fy.chalmers.se>
+Date: Fri, 15 Jul 94 11:13:42 +0200   (15kb)
+Date (revised): Mon, 22 Aug 94 11:33:47 +0200
+
+Title: BRST invariant branching functions of G/H coset models
+Authors: Henric Rhedin
+Comments: 21 p., G\"oteborg ITP 94-16
+\\
+  We compute branching functions of $G/H$ coset models using a BRST invariant
+branching function formulae, i.e. a branching function that respects a BRST
+invariance of the model. This ensures that only the coset degrees of freedom
+will propagate. We consider $G/H$ for rank$(G/H)=0$ models which includes the
+Kazama-Suzuki construction, and $G_{k_1}\times G_{k_2}/G_{k_1+k_2}$ models. Our
+calculations here confirm in part previous results for those models which have
+been obtained under an assumption in a free field approach. We also consider
+$G_{k_1}\times H_{k_2}/H_{k_1+k_2}$, where $H$ is a subgroup of $G$, and
+$\prod_{a=1}^mG_{k_a}/G_{\sum_{a=1}^nk_a}$, whose branching functions, to our
+knowledge, has not been calculated before.
+\\

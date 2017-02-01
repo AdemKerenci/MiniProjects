@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410093
+From: A Petkos <A.Petkos@damtp.cambridge.ac.uk>
+Date: Thu, 13 Oct 94 11:43 BST   (37kb)
+Date (revised): Thu, 13 Oct 94 12:44 BST
+Date (revised): Sun, 30 Oct 94 16:48:29 GMT
+
+Title: Conserved Currents, Consistency Relations and Operator Product
+  Expansions in the Conformally Invariant O(N) Vector Model
+Authors: Anastasios Petkou
+Comments: 45 pages Latex + 2 uuencoded PostScript figures, DAMTP 94/12
+Journal-ref: Annals Phys. 249 (1996) 180-221
+\\
+  We discuss conserved currents and operator product expansions (OPE's) in the
+context of a $O(N)$ invariant conformal field theory. Using OPE's we find
+explicit expressions for the first few terms in suitable short-distance limits
+for various four-point functions involving the fundamental $N$-component scalar
+field $\phi^{\alpha}(x)$, $\alpha=1,2,..,N$. We propose an alternative
+evaluation of these four-point functions based on graphical expansions.
+Requiring consistency of the algebraic and graphical treatments of the
+four-point functions we obtain the values of the dynamical parameters in either
+a free theory of $N$ massless fields or a non-trivial conformally invariant
+$O(N)$ vector model in $2<d<4$, up to next-to-leading order in a $1/N$
+expansion. Our approach suggests an interesting duality property of the
+critical $O(N)$ invariant theory. Also, solving our consistency relations we
+obtain the next-to-leading order in $1/N$ correction for $C_{T}$ which
+corresponds to the normalisation of the energy momentum tensor two-point
+function.
+\\

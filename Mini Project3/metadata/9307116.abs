@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307116
+From: Saburo Higuchi <hig@phys.titech.ac.jp>
+Date: Mon, 19 Jul 93 21:45:22 +0900   (13kb)
+Date (revised): Wed, 20 Oct 93 20:21:08 +0900
+
+Title: Nonlinear Renormalization Group Equation for Matrix Models
+Authors: Saburo Higuchi, Chigak Itoi, Shinsuke Nishigaki and Norisuke Sakai
+Comments: 12 pages, TIT/HEP-228, NUP-A-93-13 ( a few corrections in formulae,
+  the conclusion not changed)
+Journal-ref: Phys.Lett. B318 (1993) 63-72
+\\
+  An exact renormalization group equation is derived for the free energy of
+matrix models. The renormalization group equation turns out to be nonlinear for
+matrix models, as opposed to linear for vector models. An algorithm for
+determining the critical coupling constant and the critical exponent is
+obtained. As concrete examples, one-matrix models with one and two coupling
+constants are analyzed and the exact values of the critical coupling constant
+and the associated critical exponent are found.
+\\

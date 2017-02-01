@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305077
+From: Antti Niemi <niemi@rhea.teorfys.uu.se>
+Date: Tue, 18 May 93 08:51:36 +0200   (9kb)
+
+Title: On Quantum Integrability and the Lefschetz Number
+Authors: A.J. Niemi and K. Palo (Uppsala University)
+Comments: 11 pages
+Journal-ref: Mod. Phys. Lett. A8 (1993) 2311-2322
+\\
+  Certain phase space path integrals can be evaluated exactly using equivariant
+cohomology and localization in the canonical loop space. Here we extend this to
+a general class of models. We consider hamiltonians which are {\it a priori}
+arbitrary functions of the Cartan subalgebra generators of a Lie group which is
+defined on the phase space. We evaluate the corresponding path integral and
+find that it is closely related to the infinitesimal Lefschetz number of a
+Dirac operator on the phase space. Our results indicate that equivariant
+characteristic classes could provide a natural geometric framework for
+understanding quantum integrability.
+\\

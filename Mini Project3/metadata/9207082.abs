@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207082
+From: "Paul A. Griffin ph. (904)392-5712" <pgriffin@ufhepa.phys.ufl.edu>
+Date: Fri, 24 Jul 1992 15:25:49 EDT   (11kb)
+
+Title: The sine-Gordon model and the small k^+ region of light-cone
+  perturbation theory
+Authors: Paul A. Griffin
+Comments: 8 pages, UFIFT-HEP-92-17
+Journal-ref: Phys.Rev. D46 (1992) 3538-3543
+\\
+  The non-perturbative ultraviolet divergence of the sine-Gordon model is used
+to study the $k^+ = 0$ region of light-cone perturbation theory. The light-cone
+vacuum is shown to be unstable at the non-perturbative $\beta^2 = 8\pi$
+critical point by a light-cone version of Coleman's variational method. Vacuum
+bubbles, which are $k^+=0$ diagrams in light-cone field theory and are
+individually finite and non-vanishing for all $\beta$, conspire to generate
+ultraviolet divergences of the light-cone energy density. The $k^+ = 0$ region
+of momentum also contributes to connected Green's functions; the connected two
+point function will not diverge, as it should, at the critical point unless
+diagrams which contribute only at $k^+ = 0$ are properly included. This
+analysis shows in a simple way how the $k^+ =0$ region cannot be ignored even
+for connected diagrams. This phenomenon is expected to occur in higher
+dimensional gauge theories starting at two loop order in light-cone
+perturbation theory.
+\\

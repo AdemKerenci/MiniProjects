@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407034
+From: Alexander Kavalov <kavalov@physik.uni-kl.de>
+Date: Wed, 6 Jul 94 10:46:33 +0200   (12kb)
+Date (revised): Mon, 11 Jul 94 12:57:16 +0200
+Date (revised): Mon, 18 Jul 94 10:57:47 +0200
+Date (revised): Thu, 21 Jul 94 11:53:15 +0200
+
+Title: On the Schwinger-Dyson Equations for a Vertex Model Coupled to 2D
+  Gravity
+Authors: Al. Kavalov
+Comments: KL-TH-94/16 (a misspelled name is corrected)
+Journal-ref: Mod.Phys.Lett. A10 (1995) 695-708
+\\
+  We consider a two matrix model with gaussian interaction involving the term
+$tr ABAB$, which is quartic in angular variables. It describes a vertex model
+(in particular case - of F-model type) on the lattice of fluctuating geometry
+and is the simplest representative of the class of matrix models describing
+coupling to two-dimensional gravity of general vertex models. This class
+includes most of physically interesting matrix models, such as lattice gauge
+theories and matrix models describing extrinsic curvature strings. We show that
+the system of loop (Schwinger-Dyson) equations of the model decouples in the
+planar limit and allows one to find closed equations for arbitrary correlators,
+including the ones involving angular variables. This provides a solution of the
+model in the planar limit. We write down the equations for the two-point
+function and the eigenvalue density and sketch the calculation of perturbative
+corrections to the free case.
+\\

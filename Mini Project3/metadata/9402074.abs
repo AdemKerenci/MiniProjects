@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402074
+From: gannon@ihes.fr (Terry Gannon)
+Date: Mon, 14 Feb 94 12:44:42 +0100   (40kb)
+
+Title: Towards a Classification of su(2)$\bigoplus\cdots\bigoplus$su(2) Modular
+  Invariant Partition Functions
+Authors: Terry Gannon
+Comments: 38 pp, (plain tex)
+Journal-ref: J.Math.Phys. 36 (1995) 675-706
+\\
+  The complete classification of WZNW modular invariant partition functions is
+known for very few affine algebras and levels, the most significant being all
+levels of $A_1$ and $A_2$ and level 1 of all simple algebras. Here, we address
+the classification problem for the nicest high rank semi-simple affine
+algebras: $(A_1^{(1)})^{\oplus_r}$. Among other things, we explicitly find all
+automorphism invariants, for all levels $k=(k_1,\ldots,k_r)$, and complete the
+classification for $A_1^{(1)}\oplus A_1^{(1)}$, for all levels $k_1,k_2$. We
+also solve the classification problem for $(A_1^{(1)})^{\oplus_r}$, for any
+levels $k_i$ with the property that for $i\ne j$ each $gcd(k_i+2,k_j+2)\leq 3$.
+In addition, we find some physical invariants which seem to be new. Together
+with some recent work by Stanev, the classification for all
+$(A^{(1)}_1)^{\oplus_r}_k$ could now be within sight.
+\\

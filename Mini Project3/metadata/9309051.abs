@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309051
+From: a.albrecht@ic.ac.uk
+Date: Thu, 9 Sep 93 11:16:34 bst   (52kb)
+
+Title: Following a "Collapsing" Wavefunction
+Authors: Andreas Albrecht
+Comments: 30 pages, plain LaTex, 3 figures in a separate uuencoded file
+Report-no: Imperial/TP/92-93/03 and Fermilab-Pub-92/318-A
+Journal-ref: Phys.Rev. D48 (1993) 3768-3778
+\\
+  I study the quantum mechanics of a spin interacting with an ``apparatus''.
+Although the evolution of the whole system is unitary, the spin evolution is
+not. The system is chosen so that the spin exhibits loss of quantum coherence,
+or ``wavefunction collapse'', of the sort usually associated with a quantum
+measurement. The system is analyzed from the point of view of the spin density
+matrix (or ``Schmidt paths''), and also using the consistent histories
+approach. These two points of view are contrasted with each other. Connections
+between the results and the form of the Hamiltonian are discussed in detail.
+\\

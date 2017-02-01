@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202065
+From: Kresimir Demeterfi <ST402758@brownvm.brown.edu>
+Date: Wed, 19 Feb 92 10:56:07 EST   (20kb)
+Date (revised): Sat, 29 Feb 92 20:12:32 EST
+
+Title: Algebraic Structures and Eigenstates for Integrable Collective Field
+  Theories
+Authors: Jean Avan and Antal Jevicki
+Comments: 27 pages
+Journal-ref: Commun. Math. Phys. 150 (1992) 149-166
+\\
+  Conditions for the construction of polynomial eigen--operators for the
+Hamiltonian of collective string field theories are explored. Such
+eigen--operators arise for only one monomial potential $v(x) = \mu x^2$ in the
+collective field theory. They form a $w_{\infty}$--algebra isomorphic to the
+algebra of vertex operators in 2d gravity. Polynomial potentials of orders only
+strictly larger or smaller than 2 have no non--zero--energy polynomial
+eigen--operators. This analysis leads us to consider a particular potential
+$v(x)= \mu x^2 + g/x^2$. A Lie algebra of polynomial eigen--operators is then
+constructed for this potential. It is a symmetric 2--index Lie algebra, also
+represented as a sub--algebra of $U (s\ell (2)).$ 
+\\

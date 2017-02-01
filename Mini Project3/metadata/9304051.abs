@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304051
+From: fendley@BUCRF17.BU.EDU (Paul Fendley)
+Date: Tue, 13 Apr 93 13:09:41 -0400   (26kb)
+
+Title: Massless Flows II: the exact S-matrix approach
+Authors: P. Fendley, H. Saleur and Al.B. Zamolodchikov
+Comments: 34 pages, BUHEP-93-6, USC-93-004, LPM-93-08
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 5751-5778
+\\
+  We study the spectrum, the massless S-matrices and the ground-state energy of
+the flows between successive minimal models of conformal field theory, and
+within the sine-Gordon model with imaginary coefficient of the cosine term
+(related to the minimal models by ``truncation''). For the minimal models, we
+find exact S-matrices which describe the scattering of massless kinks, and show
+using the thermodynamic Bethe ansatz that the resulting non-perturbative
+c-function (defined by the Casimir energy on a cylinder) flows appropriately
+between the two theories, as conjectured earlier. For the non-unitary
+sine-Gordon model, we find unusual behavior. For the range of couplings we can
+study analytically, the natural S-matrix deduced from the minimal one by
+``undoing'' the quantum-group truncation does not reproduce the proper
+c-function with the TBA. It does, however, describe the correct properties of
+the model in a magnetic field.
+\\

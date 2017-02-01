@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307063
+From: AMBJORN@nbivax.nbi.dk
+Date: 09 Jul 1993 13:50:49 +0200   (15kb)
+
+Title: From 1-matrix model to Kontsevich model
+Authors: Jan Ambjorn and Charlotte F. Kristjansen
+Comments: 17 pages, Latex
+Report-no: nbi-he-93-30
+Journal-ref: Mod.Phys.Lett. A8 (1993) 2875-2890
+\\
+  Loop equations of matrix models express the invariance of the models under
+field redefinitions. We use loop equations to prove that it is possible to
+define continuum times for the generic hermitian {1-matrix} model such that all
+correlation functions in the double scaling limit agree with the corresponding
+correlation functions of the Kontsevich model expressed in terms of kdV times.
+In addition the double scaling limit of the partition function of the hermitian
+matrix model agree with the $\tau$-function of the kdV hierarchy corresponding
+to the Kontsevich model (and not the square of the $\tau$-function) except for
+some complications at genus zero.
+\\

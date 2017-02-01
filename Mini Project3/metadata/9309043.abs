@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309043
+From: dowker@v2.ph.man.ac.uk
+Date: Wed, 8 Sep 1993 11:32:03 +0100   (23kb)
+Date (revised): Fri, 10 Sep 1993 11:01:20 +0100
+
+Title: A zeta function approach to the relation between the numbers of symmetry
+  planes and axes of a polytope
+Authors: J. S. Dowker
+Comments: Plain TeX, 26 pages (eqn. (86) corrected)
+Report-no: MUTP/93/20
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: J.Math.Phys. 35 (1994) 6076-6095
+\\
+  A derivation of the Ces\`aro-Fedorov relation from the Selberg trace formula
+on an orbifolded 2-sphere is elaborated and extended to higher dimensions using
+the known heat-kernel coefficients for manifolds with piecewise-linear
+boundaries. Several results are obtained that relate the coefficients, $b_i$,
+in the Shephard-Todd polynomial to the geometry of the fundamental domain. For
+the 3-sphere we show that $b_4$ is given by the ratio of the volume of the
+fundamental tetrahedron to its Schl\"afli reciprocal.
+\\

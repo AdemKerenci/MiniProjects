@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303097
+From: Yves Leroyer <LEROYER@FRCPN11.IN2P3.FR>
+Date: Wed, 17 Mar 93 13:26:00 MET   (14kb)
+
+Title: Intermittency in the q-State Potts Model
+Authors: Yves Leroyer
+Comments: 10 pages (Latex) 3 postcript figures included, Preprint LPTB93_2,
+  Bordeaux University
+\\
+  We define a block observable for the $q$-state Potts model which exhibits an
+intermittent behaviour at the critical point. We express the intermittency
+indices of the normalised moments in terms of the magnetic critical exponent
+$\beta /\nu$ of the model. We confirm this relation by a numerical similation
+of the $q=2$ (Ising) and $q=3$ two-dimensional Potts model.
+\\

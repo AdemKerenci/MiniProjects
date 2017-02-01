@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310084
+From: OLSHANETSKY@FERRARA.INFN.IT
+Date: Thu, 14 OCT 93 17:32 GMT   (13kb)
+
+Title: Liouville Quantum Mechanics on a Lattice Large from Geometry of Quantum
+  Lorentz Group
+Authors: M.A.Olshanetsky and V.-B.K.Rogov
+Comments: LATEX, 20 pages, no figures, September 1993
+Report-no: ITEP-MO-93/3; INFN-FE-11-93
+Journal-ref: J.Phys. A27 (1994) 4669-4684
+\\
+  We consider the quantum Lobachevsky space ${\bf L}_q^3$, which is defined as
+subalgebra of the Hopf algebra ${\cal A}_q(SL_2({\bf C}))$. The Iwasawa
+decomposition of ${\cal A}_q(SL_2({\bf C}))$ introduced by Podles and
+Woronowicz allows to consider the quantum analog of the horospheric coordinates
+on ${\bf L}_q^3$. The action of the Casimir element, which belongs to the dual
+to ${\cal A}_q$ quantum group $U_q(SL_2({\bf C}))$, on some subspace in ${\bf
+L}_q^3$ in these coordinates leads to a second order difference operator on the
+infinite one-dimensional lattice. In the continuos limit $q\rightarrow 1$ it is
+transformed into the Schr\"{o}dinger Hamiltonian, which describes zero modes
+into the Liouville field theory (the Liouville quantum mechanics). We calculate
+the spectrum (Brillouin zones) and the eigenfunctions of this operator. They
+are $q$-continuos Hermit polynomials, which are particular case of the
+Macdonald or Rogers-Askey-Ismail polynomials. The scattering in this problem
+corresponds to the scattering of first two level dressed excitations in the
+$Z_N$ Baxter model in the very peculiar limit when the anisotropy parameter
+$\ga$ and $N~\rightarrow\infty$, or, equivalently, $(\ga, N)\rightarrow 0$.
+\\

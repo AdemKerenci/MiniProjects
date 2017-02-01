@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406080
+From: Victor Aldaya <valdaya@ugr.es>
+Date: Tue, 14 Jun 1994 10:46:21 UTC+0200   (11kb)
+Date (revised): Tue, 21 Jun 1994 18:01:10 UTC+0200
+Date (revised): Thu, 18 May 1995 9:53:54 UTC+0200
+
+Title: Canonical Coherent States for the Relativistic Harmonic Oscillator
+Authors: V. Aldaya and J. Guerrero
+Comments: 11 LaTeX pages, final version, shortened and corrected, to appear in
+  J. Math. Phys
+Report-no: FT-UG-40/94
+Journal-ref: J.Math.Phys. 36 (1995) 3191-3199
+\\
+  In this paper we construct manifestly covariant relativistic coherent states
+on the entire complex plane which reproduce others previously introduced on a
+given $SL(2,R)$ representation, once a change of variables $z\in C\rightarrow
+z_D \in $ unit disk is performed. We also introduce higher-order, relativistic
+creation and annihilation operators, $\C,\Cc$, with canonical commutation
+relation $[\C,\Cc]=1$ rather than the covariant one $[\Z,\Zc]\approx$ Energy
+and naturally associated with the $SL(2,R)$ group. The canonical (relativistic)
+coherent states are then defined as eigenstates of $\C$. Finally, we construct
+a canonical, minimal representation in configuration space by mean of
+eigenstates of a canonical position operator.
+\\

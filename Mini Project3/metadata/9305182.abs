@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305182
+From: drg@theory3.caltech.edu (Doron Gepner)
+Date: Mon, 31 May 93 04:07:16 PDT   (7kb)
+
+Title: On Solvable Lattice Models and Knot Invariants
+Authors: Doron Gepner (Caltech and Weizmann Institute)
+Comments: 11 pages, Caltech preprint, May, 1993, phyzzx macropackage
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Recently, a class of solvable interaction round the face lattice models (IRF)
+were constructed for an arbitrary rational conformal field theory (RCFT) and an
+arbitrary field in it. The Boltzmann weights of the lattice models are related
+in the extreme ultra violet limit to the braiding matrices of the rational
+conformal field theory. In this note we use these new lattice models to
+construct a link invariant for any such pair of an RCFT and a field in it.
+Using the properties of RCFT and the IRF lattice models, we prove that the
+invariants so constructed always obey the Markov properties, and thus are true
+link invariants. Further, all the known link invariants, such as the Jones,
+HOMFLY and Kauffman polynomials arise in this way, along with giving a host of
+new invariants, and thus also a unified approach to link polynomials. It is
+speculated that all link invariants arise from some RCFT, and thus the problem
+of classifying link and knot invariants is equivalent to that of classifying
+two dimensional conformal field theory.
+\\

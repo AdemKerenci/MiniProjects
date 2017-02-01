@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308101
+From: Jean-Philippe Brunet <brunet@Think.COM>
+Date: Fri, 20 Aug 93 18:04:48 EDT   (13kb)
+
+Title: The KP Equation from Plebanski and $SU(\infty)$ Self-Dual Yang-Mills
+Authors: Carlos Castro (I.A.E.C 1407 Alegria, Austin, Texas USA)
+Comments: 10 pages, IAEC 7-93R
+\\
+  Starting from a self-dual $SU(\infty)$ Yang-Mills theory in $(2+2)$
+dimensions, the Plebanski second heavenly equation is obtained after a suitable
+dimensional reduction. The self-dual gravitational background is the cotangent
+space of the internal two-dimensional Riemannian surface required in the
+formulation of $SU(\infty)$ Yang-Mills theory. A subsequent dimensional
+reduction leads to the KP equation in $(1+2)$ dimensions after the relationship
+from the Plebanski second heavenly function, $\Omega$, to the KP function, $u$,
+is obtained. Also a complexified KP equation is found when a different
+dimensional reduction scheme is performed . Such relationship between $\Omega$
+and $u$ is based on the correspondence between the $SL(2,R)$ self-duality
+conditions in $(3+3)$ dimensions of Das, Khviengia, Sezgin (DKS) and the ones
+of $SU(\infty)$ in $(2+2)$ dimensions . The generalization to the
+Supersymmetric KP equation should be straightforward by extending the
+construction of the bosonic case to the previous Super-Plebanski equation,
+found by us in [1], yielding self-dual supergravity backgrounds in terms of the
+light-cone chiral superfield, $\Theta$, which is the supersymmetric analog of
+$\Omega$. The most important consequence of this Plebanski-KP correspondence is
+that $W$ gravity can be seen as the gauge theory of $\phi$-diffeomorphisms in
+the space of dimensionally-reduced $D=2+2,~SU^*(\infty)$ Yang-Mills instantons.
+These $\phi$ diffeomorphisms preserve a volume-three-form and are, precisely,
+the ones which provide the Plebanski-KP correspondence.
+\\

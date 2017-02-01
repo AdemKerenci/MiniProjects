@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301077
+From: Roland Charles Warner <warner@tasman.cc.utas.edu.au>
+Date: Tue, 19 Jan 93 14:20:24 EST   (15kb)
+
+Title: The $N=2$ super $W_4$ algebra and its associated generalized KdV
+  hierarchies
+Authors: C. M. Yung and Roland C. Warner
+Comments: 16 pages, LaTeX, UTAS-PHYS-92-32
+Journal-ref: J.Math.Phys. 34 (1993) 4050-4063
+\\
+  We construct the $N=2$ super $W_4$ algebra as a certain reduction of the
+second Gel'fand-Dikii bracket on the dual of the Lie superalgebra of $N=1$
+super pseudo-differential operators. The algebra is put in manifestly $N=2$
+supersymmetric form in terms of three $N=2$ superfields $\Phi_i(X)$, with
+$\Phi_1$ being the $N=2$ energy momentum tensor and $\Phi_2$ and $\Phi_3$ being
+conformal spin $2$ and $3$ superfields respectively. A search for integrable
+hierarchies of the generalized KdV variety with this algebra as Hamiltonian
+structure gives three solutions, exactly the same number as for the $W_2$
+(super KdV) and $W_3$ (super Boussinesq) cases.
+\\

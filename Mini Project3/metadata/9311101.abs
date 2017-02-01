@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311101
+From: anuradha@max.physics.sunysb.edu (Anuradha Misra)
+Date: Wed, 17 Nov 1993 14:04:12 -0500 (EST)   (12kb)
+
+Title: Coherent States in Null-Plane Q.E.D
+Authors: Anuradha Misra
+Comments: 20 pages and two figures, REVTEX, ITP-SB-93-75
+Journal-ref: Phys.Rev. D50 (1994) 4088-4096
+\\
+  Light front field theories are known to have the usual infra-red divergences
+of the equal time theories, as wellas new `spurious' infra-red divergences. The
+formar kind of IR divergences are usually treated by giving a small mass to the
+gauge particle. An alternative method to deal with these divergences is to
+calculate the transition matrix elements in a coherent state basis. In this
+paper we present, as a model calculation the lowest order correction to the
+three point vertex in QED using a coherent state basis in the light cone
+formalism. The relevant transition matrix element is shown to be free of the
+true IR divergences up to $O(e^2)$.
+\\

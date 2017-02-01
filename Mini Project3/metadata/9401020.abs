@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401020
+From: Jaume Garriga <J.Garriga@damtp.cambridge.ac.uk>
+Date: Thu, 6 Jan 94 16:44:01 GMT   (17kb)
+
+Title: Instantons for Vacuum Decay at Finite Temperature in the Thin Wall Limit
+Authors: Jaume Garriga
+Comments: 24 pages, 7 figures available upon request, DAMTP-R-94/2
+Journal-ref: Phys.Rev. D49 (1994) 5497-5506
+\\
+  In $N+1$ dimensions, false vacuum decay at zero temperature is dominated by
+the $O(N+1)$ symmetric instanton, a sphere of radius $R_0$, whereas at
+temperatures $T>>R_0^{-1}$, the decay is dominated by a `cylindrical' (static)
+$O(N)$ symmetric instanton. We study the transition between these two regimes
+in the thin wall approximation. Taking an $O(N)$ symmetric ansatz for the
+instantons, we show that for $N=2$ and $N=3$ new periodic solutions exist in a
+finite temperature range in the neighborhood of $T\sim R_0^{-1}$. However,
+these solutions have higher action than the spherical or the cylindrical one.
+This suggests that there is a sudden change (a first order transition) in the
+derivative of the nucleation rate at a certain temperature $T_*$, when the
+static instanton starts dominating. For $N=1$, on the other hand, the new
+solutions are dominant and they smoothly interpolate between the zero
+temperature instanton and the high temperature one, so the transition is of
+second order. The determinantal prefactors corresponding to the `cylindrical'
+instantons are discussed, and it is pointed out that the entropic contributions
+from massless excitations corresponding to deformations of the domain wall give
+rise to an exponential enhancement of the nucleation rate for $T>>R_0^{-1}$.
+\\

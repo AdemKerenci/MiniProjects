@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412105
+From: mirkr@tsmi19.sissa.it
+Date: Mon, 12 Dec 1994 17:59:09 +0200   (8kb)
+Date (revised): Tue, 13 Dec 1994 21:46:47 +0200
+
+Title: Different factorizations of the relativistic finite-difference
+  Schroedinger equation and q-oscillators
+Authors: R.M.Mir -- Kasimov
+Comments: 34 pages, REVTEX. Replaced for minor LATEX mistakes
+\\
+  The concept of the one -- dimensional quantum mechanics in the relativistic
+configurational space (RQM) is reviewed briefly. The Relativistic Schroedinger
+equation (RSE) arising here is the finite-difference equation with the step
+equal to the Compton wave length of the particle. The different generalizations
+of the Dirac -- Infeld -- Hall factorizarion method for this case are
+constructed. This method enables us to find out all possible finite-difference
+generalizations of the most important nonrelativistic integrable case -- the
+harmonic oscillator. As it was shown (\cite{kmn},\cite{mir6}) in RQM the
+harmonic oscillator = $q$ -- oscillator. It is also shown that the relativistic
+and nonrelativistic QM's are different representations of the same theory.
+Thetransformation connecting these two representations is found in explicit
+form. It could be considered as the generalization of the Kontorovich --
+Lebedev transformation.
+\\

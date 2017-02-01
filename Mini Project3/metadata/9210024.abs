@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210024
+From: Shahn Majid <majid@damtp.cambridge.ac.uk>
+Date: Mon, 5 Oct 92 17:22:24 BST   (14kb)
+
+Title: Quantum Group Gauge Theory on Classical Spaces
+Authors: T. Brzezinski and S. Majid
+Comments: 12 pages, LATEX, DAMTP/92-51
+Journal-ref: Phys.Lett. B298 (1993) 339-343
+\\
+  We study the quantum group gauge theory developed elsewhere in the limit when
+the base space (spacetime) is a classical space rather than a general quantum
+space. We show that this limit of the theory for gauge quantum group $U_q(g)$
+is isomorphic to usual gauge theory with Lie algebra $g$. Thus a new kind of
+gauge theory is not obtained in this way, although we do find some differences
+in the coupling to matter. Our analysis also illuminates certain
+inconsistencies in previous work on this topic where a different conclusion had
+been reached. In particular, we show that the use of the quantum trace in
+defining a Yang-Mills action in this setting is not appropriate.
+\\

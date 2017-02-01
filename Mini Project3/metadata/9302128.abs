@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302128
+From: zastaven@theor.jinrc.dubna.su ( )
+Date: Thu, 25 Feb 93 20:53:32 +0300 (MSK)   (9kb)
+
+Title: On the problem of unboundedness from below of the spinor QED Hamiltonian
+Authors: L.G. Zastavenko
+Comments: 14pages, latex
+\\
+  We show that the Hamiltonian $ h= H_{QED}+H_2$, where $H_{QED}$ is the spinor
+QED Hamiltonian and $H_2$ is the positive transversal photon mass term, is
+unbounded from below if the electromagnetic coupling constant $e^2$ is small
+enough, $e^2<e^2_0 $, and the transversal photon squared mass parameter $M^2$
+is not too large: $0\leq M^2<e^2l^2c$, here, $l$ is the cut-off parameter, and
+$c$ and $e^2_0$, positive constants which do not depend on any parameters.
+\\

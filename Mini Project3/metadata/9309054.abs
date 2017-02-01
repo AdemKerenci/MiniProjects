@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309054
+From: prats%physics.ROCKEFELLER.EDU@ROCKVAX.ROCKEFELLER.EDU
+Date: Thu, 09 Sep 1993 12:53:29 EDT   (15kb)
+
+Title: An Alternative Perturbative Expansion in Quantum Mechanics. Scaling and
+  cut-off Resummation
+Authors: J.M. Prats
+Comments: 16 pages, tex file, report RU93-3-B
+Journal-ref: Annals of Physics 239 (1995) 22-39
+\\
+  An alternative perturbative expansion in quantum mechanics which allows a
+full expression of the scaling arbitrariness is introduced. This expansion is
+examined in the case of the anharmonic oscillator and is conveniently resummed
+using a method which consists in introducing an energy cut-off that is
+carefully removed as the order of the expansion is increased. We illustrate
+this technique numerically by computing the asymptotic behavior of the ground
+state energy of the anharmonic oscillator for large couplings, and show how the
+exploitation of the scaling arbitrariness substantially improves the
+convergence of this perturbative expansion.
+\\

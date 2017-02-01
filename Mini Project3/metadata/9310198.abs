@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310198
+From: denjoe@stp.dias.ie
+Date: Sun, 31 Oct 93 17:33:32 GMT   (74kb)
+
+Title: Environmentally Friendly Renormalization
+Authors: Denjoe O'Connor and C. R. Stephens
+Comments: 76 pages of Plain Tex, Postscript figures available upon request from
+  denjoe@stp.dias.ie, preprint numbers THU-93/14, DIAS-STP-93-19
+Journal-ref: Int.J.Mod.Phys. A9 (1994) 2805-2902; Erratum-ibid. A9 (1994) 5851
+\\
+  We analyze the renormalization of systems whose effective degrees of freedom
+are described in terms of fluctuations which are ``environment'' dependent.
+Relevant environmental parameters considered are: temperature, system size,
+boundary conditions, and external fields. The points in the space of \lq\lq
+coupling constants'' at which such systems exhibit scale invariance coincide
+only with the fixed points of a global renormalization group which is
+necessarily environment dependent. Using such a renormalization group we give
+formal expressions to two loops for effective critical exponents for a generic
+crossover induced by a relevant mass scale $g$. These effective exponents are
+seen to obey scaling laws across the entire crossover, including hyperscaling,
+but in terms of an effective dimensionality, $d\ef=4-\gl$, which represents the
+effects of the leading irrelevant operator. We analyze the crossover of an
+$O(N)$ model on a $d$ dimensional layered geometry with periodic, antiperiodic
+and Dirichlet boundary conditions. Explicit results to two loops for effective
+exponents are obtained using a [2,1] Pad\'e resummed coupling, for: the
+``Gaussian model'' ($N=-2$), spherical model ($N=\infty$), Ising Model ($N=1$),
+polymers ($N=0$), XY-model ($N=2$) and Heisenberg ($N=3$) models in four
+dimensions. We also give two loop Pad\'e resummed results for a three
+dimensional Ising ferromagnet in a transverse magnetic field and corresponding
+one loop results for the two dimensional model. One loop results are also
+presented for a three dimensional layered Ising model with Dirichlet and
+antiperiodic boundary conditions. Asymptotically the effective exponents are in
+excellent agreement with known results.
+\\

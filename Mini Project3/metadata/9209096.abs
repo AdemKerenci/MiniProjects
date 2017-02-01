@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209096
+From: reina@tsmi19.sissa.it
+Date: Thu, 24 Sep 1992 15:33:08 +0100   (12kb)
+
+Title: Topological Observables in Semiclassical Field Theories
+Authors: M. Nolasco, C.Reina
+Comments: 11 pages
+Journal-ref: Phys.Lett. B297 (1992) 82-88
+\\
+  We give a geometrical set up for the semiclassical approximation to euclidean
+field theories having families of minima (instantons) parametrized by suitable
+moduli spaces ${\cal M}$. The standard examples are of course Yang-Mills theory
+and non-linear $\sigma$-models. The relevant space here is a family of measure
+spaces $\tilde {\cal N} \ra {\cal M}$, with standard fibre a distribution
+space, given by a suitable extension of the normal bundle to ${\cal M}$ in the
+space of smooth fields. Over $\tilde {\cal N}$ there is a probability measure
+$d\mu$ given by the twisted product of the (normalized) volume element on
+${\cal M}$ and the family of gaussian measures with covariance given by the
+tree propagator $C_\phi$ in the background of an instanton $\phi \in {\cal M}$.
+The space of ``observables", i.e. measurable functions on ($\tilde {\cal N}, \,
+d\mu$), is studied and it is shown to contain a topological sector,
+corresponding to the intersection theory on ${\cal M}$. The expectation value
+of these topological ``observables" does not depend on the covariance; it is
+therefore exact at all orders in perturbation theory and can moreover be
+computed in the topological regime by setting the covariance to zero.
+\\

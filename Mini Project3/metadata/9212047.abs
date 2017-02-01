@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212047
+From: watamura@kaws.coge.tohoku.ac.jp (Watamura)
+Date: Tue, 8 Dec 92 22:37:29 JST   (22kb)
+
+Title: Quantum Deformation of BRST Algebra
+Authors: Satoshi Watamura
+Comments: 28pages, HD-THEP-92-39, Preprint TU-411 (September, 1992), LaTeX
+Journal-ref: Commun.Math.Phys. 158 (1993) 67-92
+\\
+  We investigate the $q$-deformation of the BRST algebra, the algebra of the
+ghost, matter and gauge fields on one spacetime point using the result of the
+bicovariant differential calculus. There are two nilpotent operations in the
+algebra, the BRST transformation $\brs$ and the derivative $d$. We show that
+one can define the covariant commutation relations among the fields and their
+derivatives consistently with these two operation as well as the $*$-operation,
+the antimultiplicative inner involution.
+\\

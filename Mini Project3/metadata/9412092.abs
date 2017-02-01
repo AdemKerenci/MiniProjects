@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412092
+From: MAGGIORE@sc2a.unige.ch
+Date: Sun, 11 Dec 1994 14:08:48 +0000 (WET-DST)   (12kb)
+Date (revised): Thu, 02 Mar 1995 11:37:49 +0000 (WET-DST)
+
+Title: Off--shell formulation of N = 2 Super Yang--Mills theories coupled to
+  matter without auxiliary fields
+Author: Nicola Maggiore
+Comments: Conclusions changed, refs. added
+Report-no: UGVA-DPT-94-12-870, to be published on Int. J. Mod. Phys. A
+Journal-ref: Int.J.Mod.Phys. A10 (1995) 3937-3950
+\\
+  N=2 supersymmetric Yang--Mills theories coupled to matter are considered in
+the Wess--Zumino gauge. The supersymmetries are realized nonlinearly and the
+anticommutator between two susy charges gives, in addition to translations,
+gauge transformations and equations of motion. The difficulties hidden in such
+an algebraic structure are well known: almost always auxiliary fields can be
+introduced in order to put the formalism off--shell, but still the field
+dependent gauge transformations give rise to an infinite dimensional algebra
+quite hard to deal with. However, it is possible to avoid all these problems by
+collecting into an unique nilpotent operator all the symmetries defining the
+theory, namely ordinary BRS, supersymmetries and translations. According to
+this method the role of the auxiliary fields is covered by the external sources
+coupled, as usual, to the nonlinear variations of the quantum fields. The
+analysis is then formally reduced to that of ordinary Yang--Mills theory.
+\\

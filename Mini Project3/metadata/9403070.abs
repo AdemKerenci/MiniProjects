@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403070
+From: bdolan@thphys.may.ie
+Date: Fri, 11 Mar 94 18:19:37 GMT   (23kb)
+
+Title: Co-Variant Derivatives And The Renormalisation Group
+Author: Brian Dolan
+Comments: 25 pages PlainTeX, (bdolan@thphys.may.ie)
+Report-no: DIAS-STP-94-05
+Journal-ref: Int.J.Mod.Phys. A10 (1995) 2439-2466
+\\
+  The renormalisation group equation for $N$-point correlation functions can be
+interpreted in a geometrical manner as an equation for Lie transport of
+amplitudes in the space of couplings. The vector field generating the
+diffeomorphism has components given by the $\beta$-functions of the theory. It
+is argued that this simple picture requires modification whenever any one of
+the points at which the amplitude is evaluated becomes close to any other. This
+modification requires the introduction of a connection on the space of
+couplings and new terms appear in the renormalisation group equation involving
+co-variant derivatives of the $\beta$-function and the curvature associated
+with the connection. It is shown how the connection is related to the operator
+expansion co-efficients, but there remains an arbitrariness in its definition.
+\\

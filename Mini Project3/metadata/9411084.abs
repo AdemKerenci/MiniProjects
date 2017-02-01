@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411084
+From: Florian Nill <nill@omega.physik.fu-berlin.de>
+Date: Fri, 11 Nov 1994 17:52:24 +0100 (MET)   (21kb)
+
+Title: A Comment on Jones Inclusions with infinite Index
+Author: Florian Nill, Hans-Werner Wiesbrock
+Comments: latex, 40 pages
+Subj-class: High Energy Physics - Theory; Functional Analysis; Quantum Algebra
+Journal-ref: Rev.Math.Phys. 7 (1995) 599-630
+\\
+  Given an irreducible inclusion of infinite von-Neumann-algebras $\cn \subset
+\cm$ together with a conditional expectation $ E : \cm \rightarrow \cm $ such
+that the inclusion has depth 2, we show quite explicitely how $\cn $ can be
+viewed as the fixed point algebra of $\cm$ w.r.t. an outer action of a compact
+Kac-algebra acting on $\cm$. This gives an alternative proof, under this
+special setting of a more general result of M. Enock and R. Nest, [E-N], see
+also S. Yamagami, [Ya2].
+\\

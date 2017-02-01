@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209011
+From: wu@mail.physics.utah.edu (yong-shi wu)
+Date: Fri, 4 Sep 92 01:05:14 GMT   (46kb)
+Date (revised): Mon, 7 Sep 1992 23:31:22 -0600
+
+Title: The Complete Structure of the Cohomology Ring and Associated Symmetries
+  in $D=2$ String Theory
+Authors: Yong-Shi Wu and Chuan-Jie Zhu
+Comments: 48 pages, UU-HEP/92/6, with postscript file for one figure; with
+  input line corrected
+Journal-ref: Nucl. Phys. B404 (1993) 245
+\\
+  We determine explicitly all structure constants of the whole chiral BRST
+cohomology ring in $D=2$ string theory including both the discrete states and
+tachyon states. This is made possible by establishing several identities for
+Schur polynomials with operator argument and exploring associativity.
+Furthermore we find that the (chiral) symmetry algebra of the charges obtained
+by using the descent equations can actually be read off from the cohomology
+ring structure by simple operation involving the ghost field $b$. We also
+determine the enlarged symmetry algebra which contains the charges having ghost
+number $-1$ and $1$. Finally the complete symmetry transformation rules are
+derived for closed string discrete states by carefully combining the left and
+right sectors. It turns out that the new states introduced recently by Witten
+and Zwiebach are naturally created when symmetries act on the old states.
+\\

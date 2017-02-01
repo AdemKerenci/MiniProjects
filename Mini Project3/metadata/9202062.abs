@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202062
+From: ZWIEBACH%IASSNS.BITNET@pucc.princeton.edu
+Date: Tue, 18 Feb 92 21:35 EST   (30kb)
+
+Title: The Plumbing of Minimal Area Metrics
+Authors: Michael Wolf and Barton Zwiebach
+Comments: 38 pages, 5 figures (not included)
+\\
+  We study the metric of minimal area on a punctured Riemann surface under the
+condition that all nontrivial homotopy closed curves be longer than or equal to
+$2\pi$. By constructing deformations of admissible metrics we establish
+necessary conditions on minimal area metrics and a partial converse to
+Beurling's criterion for extremal metrics. We explicitly construct new minimal
+area metrics that do not arise from quadratic differentials.
+  Under the physically motivated assumption of existence of the minimal area
+metrics, we show there exist neighborhoods of the punctures isometric to a flat
+semiinfinite cylinder of circumference $2\pi$, allowing the definition of
+canonical complex coordinates around the punctures. The plumbing of surfaces
+with minimal area metrics is shown to induce a metric of minimal area on the
+resulting surface. This implies that minimal area string diagrams define a
+consistent quantum closed string field theory.
+\\

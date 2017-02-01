@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311041
+From: Yao-Zhong Zhang <yzz@maths.uq.oz.au>
+Date: Sun, 7 Nov 93 12:35:51 EST   (14kb)
+Date (revised): Mon, 8 Nov 93 11:56:38 EST
+Date (revised): Wed, 10 Nov 93 14:14:58 EST
+Date (revised): Wed, 15 Dec 93 16:42:51 EST
+
+Title: Quantum Affine Lie Algebras, Casimir Invariants and Diagonalization of
+  the Braid Generator
+Author: Mark D. Gould and Yao-Zhong Zhang
+Comments: 22 pages (many changes are made)
+Report-no: UQMATH-93-11
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 35 (1994) 6757-6773
+\\
+  Let $U_q(\hat{\cal G})$ be an infinite-dimensional quantum affine Lie
+algebra. A family of central elements or Casimir invariants are constructed and
+their eigenvalues computed in any integrable irreducible highest weight
+representation. These eigenvalue formulae are shown to absolutely convergent
+when the deformation parameter $q$ is such that $|q|>1$. It is proven that the
+universal R-matrix $R$ of $U_q(\hat{\cal G})$ satisfies the celebrated
+conjugation relation $R^\dagger=TR$ with $T$ the usual twist map. As
+applications, the braid generator is shown to be diagonalizable on arbitrary
+tensor product modules of integrable irreducible highest weight $U_q(\hat{\cal
+G})$-modules and a spectral decomposition formula for the braid generator is
+obtained which is the generalization of Reshetikhin's and Gould's forms to the
+present affine case. Casimir invariants acting on a specified module are also
+constructed and their eigenvalues, again absolutely convergent for $|q|>1$,
+computed by means of the spectral decomposition formula.
+\\

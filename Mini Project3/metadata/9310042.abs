@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310042
+From: rball@surya11.cern.ch (Richard Ball)
+Date: Thu, 7 Oct 93 17:09:22 +0100   (90kb)
+Date (revised): Fri, 5 Nov 93 16:17:58 +0100
+
+Title: Renormalizability of Effective Scalar Field Theory
+Authors: R. D. Ball and R. S. Thorne
+Comments: 80 pages, TeX, OUTP-93-23P, CERN-TH.7067/93. Many minor revisions,
+  and several new paragraphs
+Journal-ref: Annals Phys. 236 (1994) 117-204
+\\
+  We present a comprehensive discussion of the consistency of the effective
+quantum field theory of a single $Z_2$ symmetric scalar field. The theory is
+constructed from a bare Euclidean action which at a scale much greater than the
+particle's mass is constrained only by the most basic requirements; stability,
+finiteness, analyticity, naturalness, and global symmetry. We prove to all
+orders in perturbation theory the boundedness, convergence, and universality of
+the theory at low energy scales, and thus that the theory is perturbatively
+renormalizable in the sense that to a certain precision over a range of such
+scales it depends only on a finite number of parameters. We then demonstrate
+that the effective theory has a well defined unitary and causal analytic
+S--matrix at all energy scales. We also show that redundant terms in the
+Lagrangian may be systematically eliminated by field redefinitions without
+changing the S--matrix, and discuss the extent to which effective field theory
+and analytic S--matrix theory are actually equivalent. All this is achieved by
+a systematic exploitation of Wilson's exact renormalization group flow
+equation, as used by Polchinski in his original proof of the renormalizability
+of conventional $\varphi^4$-theory.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405194
+From: ocouss@ulb.ac.be (Coussaert Olivier)
+Date: Tue, 31 May 1994 14:06:07 +0200 (DST)   (21kb)
+
+Title: Local BRST cohomology in the antifield formalism: II. Application to
+  Yang-Mills theory
+Authors: G. Barnich, F. Brandt and M. Henneaux
+Comments: 30 pages Latex file, ULB-TH-94/07, NIKHEF-H 94-15
+Journal-ref: Commun.Math.Phys. 174 (1995) 93-116
+\\
+  Yang-Mills models with compact gauge group coupled to matter fields are
+considered. The general tools developed in a companion paper are applied to
+compute the local cohomology of the BRST differential $s$ modulo the exterior
+spacetime derivative $d$ for all values of the ghost number, in the space of
+polynomials in the fields, the ghosts, the antifields (=sources for the BRST
+variations) and their derivatives. New solutions to the consistency conditions
+$sa+db=0$ depending non trivially on the antifields are exhibited. For a
+semi-simple gauge group, however, these new solutions arise only at ghost
+number two or higher. Thus at ghost number zero or one, the inclusion of the
+antifields does not bring in new solutions to the consistency condition
+$sa+db=0$ besides the already known ones. The analysis does not use power
+counting and is purely cohomological. It can be easily extended to more general
+actions containing higher derivatives of the curvature, or Chern-Simons terms.
+\\

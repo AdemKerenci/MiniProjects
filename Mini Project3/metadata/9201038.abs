@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9201038
+From: FEHER@LPS.UMONTREAL.CA
+Date: Mon, 20 Jan 1992 22:18:51 EST   (16kb)
+Date (revised): Wed, 26 Feb 1992 15:24:11 -0500 (EST)
+
+Title: Rational vs Polynomial Character of W$_n^l$-Algebras
+Authors: L. Feher, L. O'Raifeartaigh, P. Ruelle and I. Tsutsui
+Comments: 18 pages
+\\
+  The constraints proposed recently by Bershadsky to produce $W^l_n$ algebras
+are a mixture of first and second class constraints and are degenerate. We show
+that they admit a first-class subsystem from which they can be recovered by
+gauge-fixing, and that the non-degenerate constraints can be handled by
+previous methods. The degenerate constraints present a new situation in which
+the natural primary field basis for the gauge-invariants is rational rather
+than polynomial. We give an algorithm for constructing the rational basis and
+converting the base elements to polynomials.
+\\

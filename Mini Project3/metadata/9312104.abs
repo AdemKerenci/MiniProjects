@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312104
+From: WITTEN@sns.ias.edu
+Date: 13 Dec 1993 11:26:54 -0400 (EDT)   (58kb)
+
+Title: The Verlinde Algebra And The Cohomology Of The Grassmannian
+Authors: Edward Witten
+Comments: 78 pages
+Report-no: IASSNS-HEP-93/41
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  The article is devoted to a quantum field theory explanation of the
+relationship (noticed some years ago by Gepner) between the Verlinde algebra of
+the group $U(k)$ at level $N-k$ and the cohomology of the Grassmannian. The
+argument proceeds by starting with the two dimensional sigma model whose target
+space is the Grassmannian and integrating out some fields in a standard way. It
+has long been known that the resulting low energy effective action describes a
+theory with a mass gap; the novelty here is that this theory in fact is
+equivalent at long distances to a gauged WZW model of $U(k)/U(k)$, and hence is
+related to the Verlinde algebra.
+\\

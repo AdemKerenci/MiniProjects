@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404161
+From: Ira Jakuchina <ira@rhea.teorfys.uu.se>
+Date: Tue, 26 Apr 94 11:40:20 +0200   (9kb)
+
+Title: Uniform Asymptotic Solutions of a System of two Schr\"odinger Equations
+  with Potential-Curve-Crossing Point
+Authors: Irina Jakushina
+Comments: 16 pages, LaTex, UUITP 9/94
+Journal-ref: J.Phys. A28 (1995) 1727-1736
+\\
+  A formal uniform asymptotic solution of the system of differential equations
+$ h^{2}\frac{d^{2}U_{1}}{dz^{2}}+\Phi_{1} U_{1}=\alpha U_{2} $ , $
+h^{2}\frac{d^{2}U_{2}}{dz^{2}}+\Phi_{2} U_{2}=\alpha U_{1}$ , for $ z\in D$ and
+for h real, large is obtained, when D contains curve-crossing point. Asymptotic
+approximations for the solutions are constructed in terms of parabolic cylinder
+functions. Analytical properties of the expansion's coefficients are
+investigated.The case of potantial barier is also considered.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303028
+From: cognola@itnvax.cineca.it
+Date: 04 Mar 1993 15:49:05 +0000   (12kb)
+Date (revised): 08 Mar 1993 10:21:09 +0000
+
+Title: The trace of the heat kernel on a compact hyperbolic 3-orbifold
+Author: Guido Cognola and Luciano Vanzo
+Comments: 11 pages
+Report-no: UTF-288
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: J.Math.Phys. 35 (1994) 3109-3116
+\\
+  The heat coefficients related to the Laplace-Beltrami operator defined on the
+hyperbolic compact manifold $H^3/\Ga$ are evaluated in the case in which the
+discrete group $\Ga$ contains elliptic and hyperbolic elements. It is shown
+that while hyperbolic elements give only exponentially vanishing corrections to
+the trace of the heat kernel, elliptic elements modify all coefficients of the
+asymptotic expansion, but the Weyl term, which remains unchanged. Some physical
+consequences are briefly discussed in the examples.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303147
+From: smassar@ulb.ac.be
+Date: Fri, 26 Mar 1993 12:13:33 +0100   (13kb)
+
+Title: Energy Momentum Tensor of the Evaporating Black Hole and Local
+  Bogoljubov Transformations
+Authors: S.Massar,R. Parentani,R. Brout
+Comments: 15 pages PhyzzxTeX (one figure not included),ULB-TH-01/93
+Journal-ref: Class.Quant.Grav. 10 (1993) 2431-2440
+\\
+  The method of Hawking to obtain black hole evaporation through Bogoljubov
+transformation between asymptotic modes (in and out) is generalized. The
+construction is local in that the in modes (of say positive frequency) are
+decomposed by Bogoljubov transformation into positive and negative frequency
+local inertial modes (i.e. those which are solutions of the d'Alembertian in
+terms of the local normal coordinates). From this follows an interesting
+reexpression of the local energy momentum tensor, more particularly of the
+outgoing energy flux. One finds that even in the local description there exists
+a partial thermal character parametrized by a local temperature. There exists
+quantum interference effects as well. These become negligible at large distance
+from the black hole.
+\\

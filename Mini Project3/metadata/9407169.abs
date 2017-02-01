@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407169
+From: thorn@uful07.phys.ufl.edu
+Date: Tue, 26 Jul 94 12:34:37 -0400   (42kb)
+Date (revised): Wed, 27 Jul 94 11:45:00 -0400
+
+Title: Calculating the Rest Tension for a Polymer of String Bits
+Authors: Charles B. Thorn
+Comments: 44 pages, phyzzx, psfig required, Univ. of Florida preprint,
+  UFIFT-HEP-94-
+Journal-ref: Phys.Rev. D51 (1995) 647-664
+\\
+  We explore the application of approximation schemes from many body physics,
+including the Hartree-Fock method and random phase approximation (RPA), to the
+problem of analyzing the low energy excitations of a polymer chain made up of
+bosonic string bits. We accordingly obtain an expression for the rest tension
+$T_0$ of the bosonic relativistic string in terms of the parameters
+characterizing the microscopic string bit dynamics. We first derive an exact
+connection between the string tension and a certain correlation function of the
+many-body string bit system. This connection is made for an arbitrary
+interaction potential between string bits and relies on an exact dipole sum
+rule. We then review an earlier calculation by Goldstone of the low energy
+excitations of a polymer chain using RPA. We assess the accuracy of the RPA by
+calculating the first order corrections. For this purpose we specialize to the
+unique scale invariant potential, namely an attractive delta function potential
+in two (transverse) dimensions. We find that the corrections are large, and
+discuss a method for summing the large terms. The corrections to this improved
+RPA are roughly 15\%.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303019
+From: vtapia@halcon.dpi.udec.cl
+Date: Wed, 3 Mar 1993 15:03:03 +22311259 (CST)   (12kb)
+
+Title: Integrable Conformal Field Theory in Four Dimensions and Fourth-Rank
+  Geometry
+Authors: Victor Tapia
+Comments: 17 pages, plain TEX
+Journal-ref: Int. J. Mod. Phys. D2 (1993) 413-430
+\\
+  We consider the conformal properties of geometries described by higher-rank
+line elements. A crucial role is played by the conformal Killing equation
+(CKE). We introduce the concept of null-flat spaces in which the line element
+can be written as ${ds}^r=r!d\zeta_1\cdots d\zeta_r$. We then show that, for
+null-flat spaces, the critical dimension, for which the CKE has infinitely many
+solutions, is equal to the rank of the metric. Therefore, in order to construct
+an integrable conformal field theory in 4 dimensions we need to rely on
+fourth-rank geometry. We consider the simple model ${\cal L}={1\over 4}
+G^{\mu\nu\lambda\rho}\partial_\mu\phi\partial_\nu\phi\partial_\lambda\phi
+\partial_\rho\phi$ and show that it is an integrable conformal model in 4
+dimensions. Furthermore, the associated symmetry group is ${Vir}^4$.
+\\

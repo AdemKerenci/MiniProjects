@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411177
+From: Christian Schubert <schubert@hades.ifh.de>
+Date: Wed, 23 Nov 1994 22:22:18 +0100 (MET)   (11kb)
+
+Title: An Improved Heat Kernel Expansion from Worldline Path Integrals
+Authors: D. Fliegner, P. Haberl, M.G. Schmidt, C. Schubert
+Comments: 13 pages, Plain TEX, no figures
+Report-no: DESY-94-221, HD-THEP-94-26
+Journal-ref: Discourses Math. Appl. 4 (1995) 87-99
+\\
+  The one--loop effective action for the case of a massive scalar loop in the
+background of both a scalar potential and an abelian or non--abelian gauge
+field is written in a one--dimensional path integral representation. From this
+the inverse mass expansion is obtained by Wick contractions using a suitable
+Green function, which allows the computation of higher order coefficients. For
+the scalar case, explicit results are presented up to order O(T**8) in the
+proper time expansion. The relation to previous work is clarified.
+\\

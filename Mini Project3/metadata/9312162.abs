@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312162
+From: igor@thphys.physik.rwth-aachen.de (Igor Kanatchikov)
+Date: Mon, 20 Dec 1993 16:17:53 +0100 (MET)   (25kb)
+
+Title: On the Canonical Structure of the De Donder-Weyl Covariant Hamiltonian
+  Formulation of Field Theory I. Graded Poisson brackets and equations of
+  motion
+Authors: Igor V. Kanatchikov
+Comments: LATEX, 30 pages, PITHA 93/41
+\\
+  The analogue of the Poisson bracket for the De Donder-Weyl (DW) Hamiltonian
+formulation of field theory is proposed. We start from the Hamilton-
+Poincar\'{e}-Cartan (HPC) form of the multidimensional variational calculus and
+define the bracket on the differential forms over the space-time (=horizontal
+forms). This bracket is related to the Schouten-Nijenhuis bracket of the
+multivector fields which are associated with the horizontal forms by means of
+the "polysymplectic form". The latter is given by the HPC form and generalizes
+the symplectic form to field theory. We point out that the algebra of forms
+with respect to our Poisson bracket and the exterior product has the structure
+of the Gerstenhaber graded algebra. It is shown that the Poisson bracket with
+the DW Hamiltonian function generates the exterior differential thus leading to
+the bracket representation of the DW Hamiltonian field equations. Few
+illustrative examples are also presented.
+\\

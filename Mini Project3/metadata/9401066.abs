@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401066
+From: kundu@pib1.physik.uni-bonn.de
+Date: Fri, 14 Jan 1994 13:31:01 MEZ ( +0100)   (14kb)
+Date (revised): Tue, 08 Feb 1994 16:35:33 MEZ ( +0100)
+
+Title: A Simple Lattice Version of the Nonlinear Schrodinger Equation and its
+  Deformation with Exact Quantum Solution
+Authors: A Kundu and Orlando Ragnisco
+Comments: 14 pages (plain TEX)
+Journal-ref: J.Phys. A27 (1994) 6335-6348
+\\
+  A lattice version of quantum nonlinear Schrodinger (NLS) equation is
+considered, which has significantly simple form and fullfils most of the
+criteria desirable for such lattice variants of field models. Unlike most of
+the known lattice NLS, the present model belongs to a class which does not
+exhibit the usual symmetry properties. However this lack of symmetry itself
+seems to be responsible for the remarkable simplification of the relevant
+objects in the theory, such as the Lax operator, the
+  Hamiltonian and other commuting conserved quantities as well as their
+spectrum.
+  The model allows exact quantum solution through algebraic Bethe ansatz and
+also a straightforward and natural generalisation to the vector case, giving
+thus a new exact lattice version of the vector NLS model. A deformation
+representing a new quantum integrable system involving Tamm-Dancoff like
+$q$-boson operators is constructed.
+\\

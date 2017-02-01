@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212014
+From: Mihai Marcu <MARCU@taunivm.tau.ac.il>
+Date: Wed, 02 Dec 92 11:23:47 IST   (11kb)
+Date (revised): Sun, 13 Dec 92 10:22:24 IST
+
+Title: Monte Carlo Simulations of 2-Dimensional Quantum Gravity Coupled to $c =
+  1$ Matter
+Authors: T. Filk, M. Marcu and B. Scheffold
+Comments: 4 pages, LaTeX, uses espcrc2.sty, uses emtex for figures -- if no
+  emtex available, just ignore error messages, Freiburg THEP-92/26 and Tel Aviv
+  TAUP 2007-92, November 1992. Replaced version: we added the name of one of
+  our collaborators, which had mistakenly omitted
+Journal-ref: Nucl.Phys.Proc.Suppl. 30 (1993) 783-786
+\\
+  We present results of a high precision Monte Carlo simulation of dynamically
+triangulated random surfaces (up to $\approx$ 34,000 triangles) coupled to one
+scalar field ($c=1$). The mean square extent has been measured for different
+actions to test the universality of the leading term as a function of the size
+of the surfaces. Furthermore, the integrated 2-point correlation function for
+vertex operators is compared with conformal field theory and matrix model
+predictions.
+\\

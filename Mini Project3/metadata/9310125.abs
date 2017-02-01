@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310125
+From: turbiner@vxcrna.cern.ch
+Date: Tue, 19 Oct 1993 23:50:46 +0100   (8kb)
+Date (revised): Sun, 24 Oct 1993 01:17:05 +0100
+
+Title: Hidden algebra of the $N$-body Calogero problem
+Authors: Alexander Turbiner
+Comments: 10pp., CWRU-Math, October 1993
+Subj-class: High Energy Physics - Theory; Functional Analysis
+Journal-ref: Phys. Lett. B320 (1994) 281-286
+\\
+  A certain generalization of the algebra $gl(N,{\bf R})$ of first-order
+differential operators acting on a space of inhomogeneous polynomials in ${\bf
+R}^{N-1}$ is constructed. The generators of this (non)Lie algebra depend on
+permutation operators. It is shown that the Hamiltonian of the $N$-body
+Calogero model can be represented as a second-order polynomial in the
+generators of this algebra. Given representation implies that the Calogero
+Hamiltonian possesses infinitely-many, finite-dimensional invariant subspaces
+with explicit bases, which are closely related to the finite-dimensional
+representations of above algebra. This representation is an alternative to the
+standard representation of the Bargmann-Fock type in terms of creation and
+annihilation operators.
+\\

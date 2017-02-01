@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212136
+From: ologhlin@physics.rutgers.edu (martin oloughlin)
+Date: Tue, 22 Dec 92 17:33:12 EST   (24kb)
+Date (revised): Thu, 3 Jun 93 14:43:52 EDT
+
+Title: Nonsingular Lagrangians for Two Dimensional Black Holes
+Authors: T. Banks and M. O'Loughlin
+Comments: 27 pages, three figures, RU-92-61. (Replaced version contains some
+  corrections to incorrect equations. The zero temperature extremal geometry
+  (the conjectured end-point of the Hawking evaporation) is not as stated in
+  the previous version, but rather is a nonsingular analogue of the zero
+  temperature $M^2 = Q^2$ Reissner-Nordstrom space-time.)
+Journal-ref: Phys.Rev. D48 (1993) 698-706
+\\
+  We introduce a large class of modifications of the standard lagrangian for
+two dimensional dilaton gravity, whose general solutions are nonsingular black
+holes. A subclass of these lagrangians have extremal solutions which are
+nonsingular analogues of the extremal Reissner-Nordstrom spacetime. It is
+possible that quantum deformations of these extremal solutions are the endpoint
+of Hawking evaporation when the models are coupled to matter, and that the
+resulting evolution may be studied entirely within the framework of the
+semiclassical approximation. Numerical work to verify this conjecture is in
+progress. We point out however that the solutions with non-negative mass always
+contain Cauchy horizons, and may be sensitive to small perturbations.
+\\

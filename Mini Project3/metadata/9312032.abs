@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312032
+From: German Sierra <sierra@cc.csic.es>
+Date: Fri,  3 Dec 1993 17:15:18 UTC+0100   (21kb)
+Date (revised): Thu, 9 Dec 1993 11:55:39 UTC+0100
+
+Title: On the integrability of N=2 supersymmetric massive theories
+Authors: C.Gomez and G.Sierra
+Comments: 26 pages, Latex (this version replaces a previously corrupted one;
+  epic.sty macro needed, available from hep-th in compressed form
+  epic.sty.tar.Z)
+Journal-ref: Nucl.Phys. B419 (1994) 589-610
+\\
+  In this paper we propose a criteria to establish the integrability of N=2
+supersymmetric massive theories.The basic data required are the vacua and the
+spectrum of Bogomolnyi solitons, which can be neatly encoded in a graph
+(nodes=vacua and links= Bogomolnyi solitons). Integrability is then equivalent
+to the existence of solutions of a generalized Yang-Baxter equation which is
+built up from the graph (graph-Yang-Baxter equation). We solve this equation
+for two general types of graphs: circular and daisy, proving, in particular,
+the inte- grability of the following Landau-Ginzburg superpotentials: A_n(t_1),
+A_n(t_2), D_n(\tau),E_6(t_7), E_8(t_16). For circular graphs the solutions are
+intertwiners of the affine Hopf algebra $\tilde(U)_q(A^{(1)}_1)$, while for
+daisy graphs the solution corresponds to a susy generalization of the Boltzmann
+weights of the chiral Potts model in the trigonometric regime. A chiral Potts
+like solution is conjectured for the more tricky case $ D_n(t_2)$. The
+scattering theory of circular models, for instance $A_n(t_1)$ or $D_n(\tau)$,
+is Toda like. The physical spectrum of daisy models, as $A_n(t_2), E_6(t_7)$ or
+$E_8(t_16)$, is given by confined states of radial solitons. The scattering
+theory of the confined states is again Toda like. Bootstrap factors for the
+confined solitons are given by fusing the susy chiral Potts S-matrices of the
+elementary constituents, i.e. the radial solitons of the daisy graph.
+\\

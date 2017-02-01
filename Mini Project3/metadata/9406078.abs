@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406078
+From: harnad@MATHCN.UMontreal.CA (Harnad John)
+Date: Mon, 13 Jun 1994 20:33:54 -0400 (EDT)   (8kb)
+Date (revised): Wed, 15 Jun 1994 15:01:46 -0400 (EDT)
+
+Title: Quantum Isomonodromic Deformations and the Knizhnik--Zamolodchikov
+  Equations
+Author: John Harnad
+Comments: 9 pages. (Spelling improved.)
+Report-no: CRM-2890
+Subj-class: High Energy Physics - Theory; Quantum Algebra; Exactly Solvable and
+  Integrable Systems
+Journal-ref: CRM Proc. Lecture Notes 9, 155-161, (Amer. Math. Soc., Providence,
+  RI, 1996)
+\\
+  Viewing the Knizhnik--Zamolodchikov equations as multi--time, nonautonomous
+Shr\"odinger equations, the transformation to the Heisenberg representation is
+shown to yield the quantum Schlesinger equations. These are the quantum form of
+the isomonodromic deformations equations for first order operators of the form
+$\DD_\l = {\di \over \di \l} - \wh{\NN}(\l)$, where $\wh{\NN}(\l)$ is a
+rational $r\times r$ matrix valued function of $\l$ having simple poles only,
+and the matrix entries are interpreted as operators on a module of the rational
+$R$--matrix loop algebra $\wt{\frak{gl}}(r)_R$. This provides a simpler
+formulation of a construction due to Reshetikhin, relating the KZ equations to
+quantum isomonodromic deformations.
+\\

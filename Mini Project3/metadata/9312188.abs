@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312188
+From: lerche@nxth04.cern.ch
+Date: Thu, 23 Dec 93 16:27:58 +0100   (55kb)
+Date (revised): Sun, 26 Dec 93 13:48:31 +0100
+Date (revised): Tue, 25 Jan 94 09:35:45 +0100
+Date (revised): Fri, 30 Sep 94 10:08:48 +0100
+
+Title: Generalized Drinfeld-Sokolov Hierarchies, Quantum Rings, and W-Gravity
+Authors: W. Lerche
+Comments: 34p, harvmac/lanlmac with hyperlinks, 2 uuencoded PostScript figures
+  appended, CERN-TH.6988/93. (streamlined version that incorporates recent
+  results on $W$-ground ring spectra)
+Journal-ref: Nucl.Phys. B434 (1995) 445-474
+\\
+  We investigate the algebraic structure of integrable hierarchies that, we
+propose, underlie models of $W$-gravity coupled to matter. More precisely, we
+concentrate on the dispersionless limit of the topological subclass of such
+theories, by making use of a correspondence between Drinfeld-Sokolov systems,
+principal $s\ell(2)$ embeddings and certain chiral rings. We find that the
+integrable hierarchies can be viewed as generalizations of the usual matrix
+Drinfeld-Sokolov systems to higher fundamental representations of $s\ell(n)$.
+The underlying Heisenberg algebras have an intimate connection with the quantum
+cohomology of grassmannians. The Lax operators are directly given in terms of
+multi-field superpotentials of the associated topological LG theories. We view
+our construction as a prototype for a multi-variable system and suspect that it
+might be useful also for a class of related problems.
+\\

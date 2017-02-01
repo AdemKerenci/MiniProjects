@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9204064
+From: foda@mundoe.maths.mu.oz.au (Omar Foda RBA5)
+Date: Tue, 21 Apr 92 19:43:20 EST   (68kb)
+
+Title: Diagonalization of the XXZ Hamiltonian by Vertex Operators
+Authors: Brian Davies, Omar Foda, Michio Jimbo, Tetsuji Miwa and Atsushi
+  Nakayashiki
+Comments: 65 pages
+Journal-ref: Commun.Math.Phys. 151 (1993) 89-154
+\\
+  We diagonalize the anti-ferroelectric XXZ-Hamiltonian directly in the
+thermodynamic limit, where the model becomes invariant under the action of
+affine U_q( sl(2) ).
+  Our method is based on the representation theory of quantum affine
+algebras, the related vertex operators and KZ equation, and thereby
+bypasses the usual process of starting from a finite lattice, taking the
+thermodynamic limit and filling the Dirac sea. From recent results on the
+algebraic structure of the corner transfer matrix of the model, we obtain
+the vacuum vector of the Hamiltonian. The rest of the eigenvectors are
+obtained by applying the vertex operators, which act as particle creation
+operators in the space of eigenvectors.
+  We check the agreement of our results with those obtained using the Bethe
+Ansatz in a number of cases, and with others obtained in the scaling limit
+--- the $su(2)$-invariant Thirring model.
+\\

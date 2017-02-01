@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207034
+From: Steve Giddings <giddings@denali.physics.ucsb.edu>
+Date: Fri, 10 Jul 92 18:49:39 PDT   (15kb)
+Date (revised): Sat, 3 Oct 92 16:22:20 PDT
+
+Title: Quantum Theories of Dilaton Gravity
+Authors: Steven B. Giddings and Andrew Strominger
+Comments: 20 pages (Major additions made, including 5 pages on the relation
+  between conformal invariance and background independence.)
+Report-no: UCSBTH-92-28
+Journal-ref: Phys.Rev. D47 (1993) 2454-2460
+\\
+  Quantization of two-dimensional dilaton gravity coupled to conformal matter
+is investigated. Working in conformal gauge about a fixed background metric,
+the theory may be viewed as a sigma model whose target space is parameterized
+by the dilaton $\phi$ and conformal factor $\rho$. A precise connection is
+given between the constraint that the theory be independent of the background
+metric and conformal invariance of the resulting sigma model. Although the
+action is renormalizable, new coupling constants must be specified at each
+order in perturbation theory in order to determine the quantum theory. These
+constants may be viewed as initial data for the beta function equations. It is
+argued that not all choices of this data correspond to physically sensible
+theories of gravity, and physically motivated constraints on the data are
+discussed. In particular a recently constructed subclass of initial data which
+reduces the full quantum theory to a soluble Liouville-like theory has energies
+unbounded from below and thus is unphysical. Possibilities for modifying this
+construction so as to avoid this difficulty are briefly discussed.
+\\

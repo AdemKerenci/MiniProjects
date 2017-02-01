@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411041
+From: "Kalmykov M Yu" <kalmykov@thsun1.jinr.dubna.su>
+Date: Thu, 03 Nov 1994 22:38:40   (12kb)
+
+Title: The Background-Field Method and Noninvariant Renormalization
+Authors: L.V.Avdeev, D.I.Kazakov and M.Yu.Kalmykov
+Comments: 12 pages, LATEX
+Report-no: JINR E2-94-388
+\\
+  We investigate the consistency of the background-field formalism when
+applying various regularizations and renormalization schemes. By an example of
+a two-dimensional $\sigma$ model it is demonstrated that the background-field
+method gives incorrect results when the regularization (and/or renormalization)
+is noninvariant. In particular, it is found that the cut-off regularization and
+the differential renormalization belong to this class and are incompatible with
+the background-field method in theories with nonlinear symmetries.
+\\

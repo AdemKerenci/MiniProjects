@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403187
+From: drm@math.duke.edu (David R. Morrison)
+Date: Wed, 30 Mar 94 18:24:35 EST   (58kb)
+
+Title: Mirror Symmetry for Two Parameter Models -- II
+Authors: Philip Candelas, Anamaria Font, Sheldon Katz and David R. Morrison
+Comments: 57 pages + 9 figures using epsf
+Report-no: UTTG-25-93, IASSNS-HEP-94/12, OSU Math 1994-1
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B429 (1994) 626-674
+\\
+  We describe in detail the space of the two K\"ahler parameters of the
+Calabi--Yau manifold $\P_4^{(1,1,1,6,9)}[18]$ by exploiting mirror symmetry.
+The large complex structure limit of the mirror, which corresponds to the
+classical large radius limit, is found by studying the monodromy of the periods
+about the discriminant locus, the boundary of the moduli space corresponding to
+singular Calabi--Yau manifolds. A symplectic basis of periods is found and the
+action of the $Sp(6,\Z)$ generators of the modular group is determined. From
+the mirror map we compute the instanton expansion of the Yukawa couplings and
+the generalized $N=2$ index, arriving at the numbers of instantons of genus
+zero and genus one of each degree. We also investigate an $SL(2,\Z)$ symmetry
+that acts on a boundary of the moduli space.
+\\

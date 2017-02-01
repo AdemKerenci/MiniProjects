@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409093
+From: montpeta@ERE.UMontreal.CA (Montpetit Andre)
+Date: Fri, 16 Sep 1994 09:02:30 -0400 (EDT)   (38kb)
+
+Title: Free-Field Representation of Group Element for Simple Quantum Group
+Authors: Alexei Morozov and Luc Vinet
+Comments: 68 pages
+Report-no: ITEP-M3/94 and CRM-2202
+Journal-ref: Int.J.Mod.Phys. A13 (1998) 1651-1708
+\\
+  A representation of the group element (also known as ``universal ${\cal
+T}$-matrix'') which satisfies $\Delta(g) = g\otimes g$, is given in the form $$
+g = \left(\prod_{s=1}^{d_B}\phantom.^>\ {\cal
+E}_{1/q_{i(s)}}(\chi^{(s)}T_{-i(s)})\right) q^{2\vec\phi\vec H}
+\left(\prod_{s=1}^{d_B}\phantom.^<\ {\cal E}_{q_{i(s)}}(\psi^{(s)}
+T_{+i(s)})\right)$$ where $d_B = \frac{1}{2}(d_G - r_G)$, $q_i = q^{||
+\vec\alpha_i||^2/2}$ and $H_i = 2\vec H\vec\alpha_i/||\vec\alpha_i||^2$ and
+$T_{\pm i}$ are the generators of quantum group associated respectively with
+Cartan algebra and the {\it simple} roots. The ``free fields'' $\chi,\
+\vec\phi,\ \psi$ form a Heisenberg-like algebra: $\psi^{(s)}\psi^{(s')} =
+q^{-\vec\alpha_{i(s)} \vec\alpha_{i(s')}} \psi^{(s')}\psi^{(s)}, &
+\chi^{(s)}\chi^{(s')} = q^{-\vec\alpha_{i(s)}\vec\alpha_{i(s')}}
+\chi^{(s')}\chi^{(s)}& {\rm for} \ s<s', \\ q^{\vec h\vec\phi}\psi^{(s)} =
+q^{\vec h\vec\alpha_{i(s)}} \psi^{(s)}q^{\vec h\vec\phi}, & q^{\vec
+h\vec\phi}\chi^{(s)} = q^{\vec h \vec\alpha_{i(s)}}\chi^{(s)}q^{\vec
+h\vec\phi}, & \\ &\psi^{(s)} \chi^{(s')} = \chi^{(s')}\psi^{(s)} & {\rm for\
+any}\ s,s'.$ We argue that the $d_G$-parametric ``manifold'' which $g$ spans in
+the operator-valued universal envelopping algebra, can also be invariant under
+the group multiplication $g \rightarrow g'\cdot g''$. The universal ${\cal
+R}$-matrix with the property that ${\cal R} (g\otimes I)(I\otimes g) =
+(I\otimes g)(g\otimes I){\cal R}$ is given by the usual formula
+$${\cal R} = q^{-\sum_{ij}^{r_G}||\vec\alpha_i||^2|| \vec\alpha_j||^2
+(\vec\alpha\vec\alpha)^{-1}_{ij}H_i \otimes H_j}\prod_{ \vec\alpha >
+0}^{d_B}{\cal E}_{q_{\vec\alpha}}\left(-(q_{\vec\alpha}-
+q_{\vec\alpha}^{-1})T_{\vec\alpha}\otimes T_{-\vec\alpha}\right).$$
+\\

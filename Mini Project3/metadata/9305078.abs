@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305078
+From: bellucci@vxcrna.cern.ch
+Date: Tue, 18 May 1993 17:58:09 +0200   (10kb)
+Date (revised): Fri, 21 May 1993 12:41:56 +0200
+
+Title: N=2 Super Boussinesq Hierarchy: Lax Pairs and Conservation Laws
+Authors: S.Bellucci, E.Ivanov, S.Krivonos and A.Pichugin
+Comments: LaTeX, 10 p
+Journal-ref: Phys.Lett. B312 (1993) 463-470
+\\
+  We study the integrability properties of the one-parameter family of $N=2$
+super Boussinesq equations obtained earlier by two of us (E.I. \& S.K., Phys.
+Lett. B 291 (1992) 63) as a hamiltonian flow on the $N=2$ super-$W_3$ algebra.
+We show that it admits nontrivial higher order conserved quantities and hence
+gives rise to integrable hierarchies only for three values of the involved
+parameter, $\alpha=-2,\;-1/2,\;5/2$. We find that for the case $\alpha = -1/2$
+there exists a Lax pair formulation in terms of local $N=2$ pseudo-differential
+operators, while for $\alpha = -2$ the associated equation turns out to be
+bi-hamiltonian.
+\\

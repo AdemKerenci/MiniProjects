@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202019
+From: SHAHAR@slacvm.slac.stanford.edu
+Date: Thu, 06 Feb 1992 04:19 -0800 (PST)   (24kb)
+
+Title: D=0 Matrix Model as Conjugate Field Theory
+Authors: Shahar Ben-Menahem (SLAC)
+Comments: 38 pages, phyzzx
+Journal-ref: Nucl.Phys. B391 (1993) 176-210
+\\
+  The D=0 matrix model is reformulated as a 2d nonlocal quantum field theory.
+The interactions occur on the one-dimensional line of hermitian matrix
+eigenvalues. The field is conjugate to the density of matrix eigenvalues which
+appears in the Jevicki-Sakita collective field theory. The classical solution
+of the field equation is either unique or labeled by a discrete index. Such a
+solution corresponds to the Dyson sea modified by an entropy term. The
+modification smoothes the sea edges, and interpolates between different
+eigenvalue bands for multiple-well potentials. Our classical eigenvalue density
+contains nonplanar effects, and satisfies a local nonlinear Schr\"odinger
+equation with similarities to the Marinari-Parisi $D=1$ reformulation. The
+quantum fluctuations about a classical solution are computable, and the IR and
+UV divergences are manifestly removed to all orders. The quantum corrections
+greatly simplify in the double scaling limit, and include both
+string-perturbative and nonperturbative effects.
+\\

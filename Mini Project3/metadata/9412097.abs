@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412097
+From: bruzzo@tsmi19.sissa.it
+Date: Mon, 12 Dec 1994 12:44:17 +0200   (48kb)
+
+Title: Entropy of random coverings and 4D quantum gravity
+Authors: C. Bartocci, U. Bruzzo, M. Carfora and A. Marzuoli
+Comments: 54 pages, latex, no figures
+Report-no: SISSA 97/94/FM
+Journal-ref: J.Geom.Phys. 18 (1996) 247-294
+\\
+  We discuss the counting of minimal geodesic ball coverings of $n$-dimensional
+riemannian manifolds of bounded geometry, fixed Euler characteristic and
+Reidemeister torsion in a given representation of the fundamental group. This
+counting bears relevance to the analysis of the continuum limit of discrete
+models of quantum gravity. We establish the conditions under which the number
+of coverings grows exponentially with the volume, thus allowing for the search
+of a continuum limit of the corresponding discretized models. The resulting
+entropy estimates depend on representations of the fundamental group of the
+manifold through the corresponding Reidemeister torsion. We discuss the sum
+over inequivalent representations both in the two-dimensional and in the
+four-dimensional case. Explicit entropy functions as well as significant bounds
+on the associated critical exponents are obtained in both cases.
+\\

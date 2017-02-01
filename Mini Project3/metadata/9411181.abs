@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411181
+From: Vitaly Tarasov <tarasov@tftxb.helsinki.fi>
+Date: Thu, 24 Nov 1994 18:08:32 +0200   (9kb)
+
+Title: Solutions to the Quantized Knizhnik-Zamolodchikov Equation and the Bethe
+  Ansatz
+Authors: V.Tarasov and A.Varchenko
+Report-no: to appear in Proceedings of XX-th ICGTMP (Osaka, July 4-9, 1994)
+Comments: 6 pages, amstex.tex (ver 2.1), amsppt.sty (ver 2.1)
+\\
+  We give an integral representation for solutions to the quantized Knizhnik-
+Zamolodchikov equation (qKZ) associated with the Lie algebra $gl_{N+1}$.
+Asymptotic solutions to qKZ are constructed. The leading term of an asymptotic
+solution is the Bethe vector -- an eigenvector of the transfer-matrix of a
+quantum spin chain model. We show that the norm of the Bethe vector is equal to
+the product of the Hessian of a suitable function and an explicitly written
+rational function. This formula is a generalization of the Gaudin-Korepin
+formula for a norm of the Bethe vector. We show that, generically, the Bethe
+vectors form a base for the $gl_2$ case.
+\\

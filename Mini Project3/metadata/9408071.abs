@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408071
+From: "Nesterenko" <nestr@thsun1.jinr.dubna.su>
+Date: Fri, 12 Aug 1994 14:40:19   (13kb)
+
+Title: Dynamics of relativistic particle with Lagrangian dependent on
+  acceleration
+Authors: V.V. Nesterenko, A. Feoli, and G. Scarpetta
+Comments: 15 pages, LATEX, Preprint Salerno University DFT-US-3/94
+Journal-ref: J.Math.Phys. 36 (1995) 5552-5564
+\\
+  Models of relativistic particle with Lagrangian ${\cal L}(k_1)$, depending on
+the curvature of the worldline $k_1$, are considered. By making use of the
+Frenet basis, the equations of motion are reformulated in terms of the
+principal curvatures of the worldline. It is shown that for arbitrary
+Lagrangian function ${\cal L}(k_1)$ these equations are completely integrable,
+i.e., the principal curvatures are defined by integrals. The constants of
+integration are the particle mass and its spin. The developed method is applied
+to the study of a model of relativistic particle with maximal proper
+acceleration, whose Lagrangian is uniquely determined by a modified form of the
+invariant relativistic interval. This model gives us an example of a consistent
+relativistic dynamics obeying the principle of a superiorly limited value of
+the acceleration, advanced recently.
+\\

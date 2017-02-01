@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310086
+From: denjoe@stp.dias.ie
+Date: Thu, 14 Oct 93 22:00:47 BST   (9kb)
+
+Title: Effective Critical Exponents for Dimensional Ccrossover and Quantum
+  Systems from an Environmentally Friendly Renormalization Group
+Authors: Denjoe O'Connor and C. R. Stephens
+Comments: 10 pages of Plain Tex, Postscript figures available upon request from
+  denjoe@stp.dias.ie, preprint numbers THU-93/18, DIAS-STP-93-18
+\\
+  Series for the Wilson functions of an ``environmentally friendly''
+renormalization group are computed to two loops, for an $O(N)$ vector model, in
+terms of the ``floating coupling'', and resummed by the Pad\'e method to yield
+crossover exponents for finite size and quantum systems. The resulting
+effective exponents obey all scaling laws, including hyperscaling in terms of
+an effective dimensionality, ${d\ef}=4-\gl$, which represents the crossover in
+the leading irrelevant operator, and are in excellent agreement with known
+results.
+\\

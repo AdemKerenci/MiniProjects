@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301038
+From: matthias@physics.rutgers.edu (Matthias Staudacher)
+Date: Tue, 12 Jan 93 00:34:15 EST   (10kb)
+
+Title: Combinatorial Solution of the Two-Matrix Model
+Authors: Matthias Staudacher
+Comments: 10 pages, Rutgers preprint RU-92-64
+Journal-ref: Phys. Lett. B305 (1993) 332-338
+\\
+  We write down and solve a closed set of Schwinger-Dyson equations for the
+two-matrix model in the large $N$ limit. Our elementary method yields exact
+solutions for correlation functions involving angular degrees of freedom whose
+calculation was impossible with previously known techniques. The result
+sustains the hope that more complicated matrix models important for lattice
+string theory and QCD may also be solvable despite the problem of the angular
+integrations. As an application of our method we briefly discuss the
+calculation of wavefunctions with general matter boundary conditions for the
+Ising model coupled to $2D$ quantum gravity. Some novel insights into the
+relationship between lattice and continuum boundary conditions are obtained.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211049
+From: mende@het.brown.edu (Paul F. Mende)
+Date: Wed, 11 Nov 92 18:36:29 EST   (13kb)
+
+Title: Semiclassical Tunneling in 1+1 Dimensional String Theory
+Authors: Julian Lee and Paul F. Mende
+Comments: 16 pp., phyzzx macros
+Report-no: BROWN-HET-880
+Journal-ref: Phys.Lett. B312 (1993) 433-440
+\\
+  We describe time-dependent tunneling of massless particles in 1+1 dimensional
+string field theory. Polchinski's description of the classical solutions in
+terms of the Fermi sea is used to identify the leading instanton contribution
+connecting the two half-lines. The field theory lagrangian is proportional to
+$1/g^2$, where $g$ is the string coupling constant, but the $S$-matrix for
+tunneling from one half-line to the other behaves as $\exp(-C/g)$. We note the
+constant~$C$ involves curious boundary contributions and observe that a
+prescription connecting the two half-lines unifies treatments of the Fermi
+level above and below the barrier. We also note the relation to recent work of
+Brustein and Ovrut.
+\\

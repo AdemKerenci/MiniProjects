@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311170
+From: Jouko Mickesson <jouko@theophys.kth.se>
+Date: Mon, 29 Nov 93 18:32:53 EST   (9kb)
+
+Title: Renormalization of current algebra
+Authors: Jouko Mickelsson
+Comments: 12pp, talk at the meeting "Generalized symmetries in physics",
+  Clausthal, July 1993
+\\
+  In this talk I want to explain the operator substractions needed to
+renormalize gauge currents in a second quantized theory. The case of space-time
+dimensions $3+1$ is considered in detail. In presence of chiral fermions the
+renormalization effects a modification of the local commutation relations of
+the currents by local Schwinger terms. In $1+1$ dimensions on gets the usual
+central extension (Schwinger term does not depend on background gauge field)
+whereas in $3+1$ dimensions one gets an anomaly linear in the background
+potential. We extend our method to the spatial components of currents. Since
+the bose-fermi interaction hamiltonian is of the form $j^k A_k$ (in the
+temporal gauge) we get a new renormalization scheme for the interaction. The
+idea is to define a field dependent conjugation for the fermi hamiltonian in
+the one-particle space such that after the conjugation the hamiltonian can be
+quantized just by normal ordering prescription.
+\\

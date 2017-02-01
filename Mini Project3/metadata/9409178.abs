@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409178
+From: rama@imsc.ernet.in (P. Ramadevi)
+Date: Thu, 29 Sep 1994 00:56:20 +0530 (GMT+05:30)   (10kb)
+
+Title: Construction of Yangian algebra through a multi-deformation parameter
+  dependent rational $R$-matrix
+Authors: B. Basu-Mallick and P. Ramadevi
+Comments: 14 pages plain LATEX
+Report-no: IMSc preprint-94/38
+\\
+  Yang-Baxterising a braid group representation associated with multideformed
+version of $GL_{q}(N)$ quantum group and taking the corresponding $q\rightarrow
+1$ limit, we obtain a rational $R$-matrix which depends on $\left ( 1+ {N(N-1)
+\over 2} \right ) $ number of deformation parameters. By using such rational
+$R$-matrix subsequently we construct a multiparameter dependent extension of
+$Y(gl_N)$ Yangian algebra and find that this extended algebra leads to a
+modification of usual asymptotic condition on monodromy matrix $T(\lambda )$,
+at $ \lambda \rightarrow \infty $ limit. Moreover, it turns out that, there
+exists a nonlinear realisation of this extended algebra through the generators
+of original $Y(gl_N)$ algebra.  Such realisation interestingly provides a novel
+$\left ( 1 + { N(N-1) \over 2 } \right ) $ number of deformation parameter
+dependent coproduct for standard $Y(gl_N)$ algebra.
+\\

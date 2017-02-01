@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401161
+From: Jordi=Paris%TF%FYS@cc3.kuleuven.ac.be
+Date: Mon, 31 Jan 94 11:39:01 CET   (32kb)
+Date (revised): Thu, 15 Sep 94 16:12:07 CET
+
+Title: Anomalies and Wess-Zumino Terms in an Extended, Regularized
+  Field-Antifield Formalism
+Authors: Joaquim Gomis and Jordi Par\'{\i}s
+Comments: 30 pages, Latex file, KUL-TF-93/50, UB-ECM-PF 93/14, UTTG-16-93.
+  (shortened version, to appear in Nucl. Phys. B)
+Journal-ref: Nucl.Phys. B431 (1994) 378-412
+\\
+  Quantization of anomalous gauge theories with closed, irreducible gauge
+algebra within the extended Field-Antifield formalism is further pursued. Using
+a Pauli-Villars (PV) regularization of the generating functional at one loop
+level, an alternative form for the anomaly is found which involves only the
+regulator. The analysis of this expression allows to conclude that recently
+found ghost number one cocycles with nontrivial antifield dependence can not
+appear in PV regularization. Afterwards, the extended Field-Antifield formalism
+is further completed by incorporating quantum effects of the extra variables,
+i.e., by explicitly taking into account the regularization of the extra sector.
+In this context, invariant PV regulators are constructed from non-invariant
+ones, leading to an alternative interpretation of the Wess-Zumino action as the
+local counterterm relating invariant and non-invariant regularizations.
+Finally, application of the above ideas to the bosonic string reproduces the
+well-known Liouville action and the shift $(26-D)\rightarrow(25-D)$ at one
+loop.
+\\

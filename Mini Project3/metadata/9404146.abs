@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404146
+From: ploh@yurim.skku.ac.kr (Oh phillial)
+Date: Sat, 23 Apr 94 16:19:15 KST   (12kb)
+
+Title: Phase Space Structure of Non-Abelian Chern-Simons Particles
+Authors: Myung-Ho Kim and Phillial Oh
+Comments: 18 pages, REVTEX 3.0, SNUTP-93-41
+Journal-ref: J.Math.Phys. 35 (1994) 3959-3968
+\\
+  We investigate the classical phase space structure of $N$ $SU(n+1)$
+non-Abelian Chern-Simons (NACS) particles by first constructing the product
+space of associated $SU(n+1)$ bundle with ${\bf CP}^n$ as the fiber. We
+calculate the Poisson bracket using the symplectic structure on the associated
+bundle and find that the minimal substitution in the presence of external gauge
+fields is equivalent to the modification of symplectic structure by the
+addition of field strength two form. Then, we take a direct product of the
+associated bundle by the space of all connections and choose a specific
+connection by the condition of vanishing momentum map corresponding to the
+gauge transformation, thus recovering the quantum mechanical model of NACS
+particles in Ref.\cite{lo1}.
+\\

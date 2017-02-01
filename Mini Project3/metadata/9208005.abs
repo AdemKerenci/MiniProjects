@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208005
+From: Shahn Majid <S.Majid@damtp.cambridge.ac.uk>
+Date: Mon, 3 Aug 92 12:30:58 BST   (28kb)
+
+Title: Quantum Random Walks and Time Reversal
+Authors: S. Majid
+Comments: 32 pages, LATEX, (DAMTP/92-20)
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 4521-4546
+\\
+  Classical random walks and Markov processes are easily described by Hopf
+algebras. It is also known that groups and Hopf algebras (quantum groups) lead
+to classical and quantum diffusions. We study here the more primitive notion of
+a quantum random walk associated to a general Hopf algebra and show that it has
+a simple physical interpretation in quantum mechanics. This is by means of a
+representation theorem motivated from the theory of Kac algebras: If $H$ is any
+Hopf algebra, it may be realised in $\Lin(H)$ in such a way that $\Delta
+h=W(h\tens 1)W^{-1}$ for an operator $W$. This $W$ is interpreted as the time
+evolution operator for the system at time $t$ coupled quantum-mechanically to
+the system at time $t+\delta$. Finally, for every Hopf algebra there is a dual
+one, leading us to a duality operation for quantum random walks and quantum
+diffusions and a notion of the coentropy of an observable. The dual system has
+its time reversed with respect to the original system, leading us to a CTP-type
+theorem.
+\\

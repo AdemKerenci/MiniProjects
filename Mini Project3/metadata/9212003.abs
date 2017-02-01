@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212003
+From: Robert Marnelius <tferm@fy.chalmers.se>
+Date: Tue, 1 Dec 92 14:57:22 +0100   (9kb)
+
+Title: Simple BRST quantization of general gauge models
+Author: Robert Marnelius (G\"{o}teborg ITP)
+Comments: 18 pages, Latex
+Report-no: G\"{o}teborg ITP 92-48
+Journal-ref: Nucl. Phys. B395 (1993) 647
+\\
+  It is shown that the BRST charge $Q$ for any gauge model with a Lie algebra
+symmetry may be decomposed as $$Q=\del+\del^{\dag}, \del^2=\del^{\dag 2}=0,
+[\del, \del^{\dag}]_+=0$$ provided dynamical Lagrange multipliers are used but
+without introducing other matter variables in $\del$ than the gauge generators
+in $Q$. Furthermore, $\del$ is shown to have the form $\del=c^{\dag a}\phi_a$
+(or $\phi'_ac^{\dag a}$) where $c^a$ are anticommuting expressions in the
+ghosts and Lagrange multipliers, and where the non-hermitian operators $\phi_a$
+satisfy the same Lie algebra as the original gauge generators. By means of a
+bigrading the BRST condition reduces to $\del|ph\hb=\del^{\dag}|ph\hb=0$ which
+is naturally solved by $c^a|ph\hb=\phi_a|ph\hb=0$ (or $c^{\dag
+a}|ph\hb={\phi'_a}^{\dag}|ph\hb=0$). The general solutions are shown to have a
+very simple form.
+\\

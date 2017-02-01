@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208052
+From: carreau@buphyk.bu.edu (carreau)
+Date: Fri, 21 Aug 92 10:10:28 EDT   (17kb)
+
+Title: The Functional Integral for a Free Particle on a Half-Plane
+Authors: Michel Carreau (Boston University)
+Comments: 16 pages
+Journal-ref: J.Math.Phys. 33 (1992) 4139-4147
+\\
+  A free non-relativistic particle moving in two dimensions on a half-plane can
+be described by self-adjoint Hamiltonians characterized by boundary conditions
+imposed on the systems. The most general boundary condition is parameterized in
+terms of the elements of an infinite-dimensional matrix. We construct the
+Brownian functional integral for each of these self-adjoint Hamiltonians.
+Non-local boundary conditions are implemented by allowing the paths striking
+the boundary to jump to other locations on the boundary. Analytic continuation
+in time results in the Green's functions of the Schrodinger equation satisfying
+the boundary condition characterizing the self-adjoint Hamiltonian.
+\\

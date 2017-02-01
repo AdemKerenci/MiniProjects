@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306039
+From: dasnieres@ipncls.in2p3.fr
+Date: Mon, 7 Jun 93 15:23:45 GMT   (10kb)
+
+Title: Equation of State of an Anyon Gas in a Strong Magnetic Field
+Authors: Alain DASNI\`ERES de VEIGY and St\a'ephane OUVRY (Division de Physique
+  Th\'eorique, IPN Orsay Fr-91406)
+Comments: 14 pages, PACS numbers: 03.65.-w, 05.30.-d, 05.70.Ce, IPNO/TH 93-16
+  (MAY 1993), e-mail: OUVRY@FRCPN11
+Journal-ref: Phys.Rev.Lett. 72 (1994) 600-603
+\\
+  The statistical mechanics of an anyon gas in a magnetic field is addressed.
+An harmonic regulator is used to define a proper thermodynamic limit. When the
+magnetic field is sufficiently strong, only exact $N$-anyon groundstates, where
+anyons occupy the lowest Landau level, contribute to the equation of state.
+Particular attention is paid to the interval of definition of the statistical
+parameter $\alpha\in[-1,0]$ where a gap exists. Interestingly enough, one finds
+that at the critical filling $\nu=-{1/\alpha}$ where the pressure diverges, the
+external magnetic field is entirely screened by the flux tubes carried by the
+anyons.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312214
+From: kaul@imsc.ernet.in ( Romesh Kaul )
+Date: Fri, 31 Dec 1993 14:59:22 +0530 (GMT+5:30)   (16kb)
+
+Title: The representations of Temperley-Lieb-Jones algebras
+Author: R. K. Kaul
+Comments: 24 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Nucl.Phys. B417 (1994) 267-288
+\\
+  Representations of braid group obtained from rational conformal field
+theories can be used to obtain explicit representations of Temperley-Lieb-Jones
+algebras. The method is described in detail for SU(2)$_k$ Wess - Zumino
+conformal field theories and its generalization to an arbitrary rational
+conformal field theory outlined. Explicit definition of an associated linear
+trace operation in terms of a certain matrix element in the space of conformal
+blocks of such a conformal theory is presented. Further for every primary field
+of a rational conformal field theory, there is a subfactor of hyperfinite
+II$_1$ factor with trivial relative commutant. The index of the subfactor is
+given in terms of identity - identity element of certain duality matrix for
+conformal blocks of four-point correlators. Jones formula for index ( $<$ 4 )
+for subfactors corresponds to spin ${\frac{1}{2}}$ representation of SU(2)$_k$
+Wess-Zumino conformal field theory. Definition of the trace operation also
+provides a method of obtaining link invariants explicitly.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212141
+From: CASTELLANI@TORINO.INFN.IT
+Date: Wed, 23 DEC 92 11:26 GMT   (7kb)
+
+Title: U_q(N) Gauge Theories
+Authors: Leonardo Castellani
+Comments: 7pp., plain TeX, DFTT-74/92
+Journal-ref: Mod.Phys.Lett. A9 (1994) 2835-2848
+\\
+  Improving on an earlier proposal, we construct the gauge theories of the
+quantum groups $U_q(N)$. We find that these theories are consistent also with
+an ordinary (commuting) spacetime. The bicovariance conditions of the quantum
+differential calculus are essential in our construction. The gauge potentials
+and the field strengths are $q$-commuting ``fields", and satisfy
+$q$-commutation relations with the gauge parameters. The transformation rules
+of the potentials are given explicitly, and generalize the ordinary
+infinitesimal gauge variations. The $q$-lagrangian invariant under the $U_q(N)$
+variations has the Yang-Mills form $\Fmn^i \Fmn^j g_{ij}$, the ``quantum
+metric'' $g_{ij}$ being a generalization of the Killing metric.
+\\

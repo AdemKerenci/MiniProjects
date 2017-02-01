@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404008
+From: Larus Thorlacius <larus@itp.ucsb.edu>
+Date: Fri, 1 Apr 1994 19:01:16 -0800   (10kb)
+
+Title: Free Fermion Representation of a Boundary Conformal Field Theory
+Authors: J. Polchinski and L. Thorlacius
+Comments: latex, 12 pages
+Report-no: NSF-ITP-94-29
+Journal-ref: Phys.Rev. D50 (1994) 622-626
+\\
+  The theory of a massless two-dimensional scalar field with a periodic
+boundary interaction is considered. At a critical value of the period this
+system defines a conformal field theory and can be re-expressed in terms of
+free fermions, which provide a simple realization of a hidden $SU(2)$ symmetry
+of the original theory. The partition function and the boundary $S$-matrix can
+be computed exactly as a function of the strength of the boundary interaction.
+We first consider open strings with one interacting and one Dirichlet boundary,
+and then with two interacting boundaries. The latter corresponds to motion in a
+periodic tachyon background, and the spectrum exhibits an interesting band
+structure which interpolates between free propagation and tight binding as the
+interaction strength is varied.
+\\

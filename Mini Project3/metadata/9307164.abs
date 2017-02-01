@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307164
+From: Wolfram Boenkost <Boenkost@mathematik.uni-frankfurt.d400.de>
+Date: Tue, 27 Jul 1993 14:44:38 +0200   (25kb)
+Date (revised): Tue, 12 Oct 1993 10:13:10 +0100
+
+Title: Quantum Symmetry
+Authors: Reinhard H\"aring
+Comments: 23 pages Institut f\"ur angewandte Mathematik, c/o Lersnerstr. 19,
+  60322 Frankfurt
+\\
+  The representations of the observable algebra of a low dimensional quantum
+field theory form the objects of a braided tensor category. The search for
+gauge symmetry in the theory amounts to finding an algebra which has the same
+representation category. In this paper we try to establish that every quantum
+field theory satisfying some basic axioms posseses a weak quasi Hopf algebra as
+gauge symmetry. The first step is to construct a functor from the
+representation category to the category of finite dimensional vector spaces.
+Given such a functor we can use a generalized reconstruction theorem to find
+the symmetry algebra. It is shown how this symmetry algebra is used to build a
+gauge covariant field algebra and we investigate the question why this
+generality is necessary.
+\\

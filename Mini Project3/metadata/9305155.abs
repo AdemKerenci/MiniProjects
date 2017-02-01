@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305155
+From: ORTIZ@IRENE.MIT.EDU
+Date: Thu, 27 May 1993 16:02:53 -0400 (EDT)   (10kb)
+
+Title: Canonical quantization and braid invariance of (2+1)-dimensional gravity
+  coupled to point particles
+Authors: Daniel Kabat and Miguel Ortiz
+Comments: 11 pages, CTP # 2210, Plain TeX
+Journal-ref: Phys.Rev. D49 (1994) 1684-1688
+\\
+  We investigate the canonical quantization of gravity coupled to pointlike
+matter in 2+1 dimensions. Starting from the usual point particle action in the
+first order formalism, we introduce auxiliary variables which make the action
+locally Poincar\'e invariant. A Hamiltonian analysis shows that the gauge group
+is actually larger than the Poincar\'e group -- certain additional gauge
+constraints are present which act on the matter degrees of freedom. These
+additional constraints are necessary to mimic the diffeomorphism invariance
+present if the theory is formulated with a spacetime metric. The additional
+gauge constraints are realized projectively in the quantum theory, with a phase
+in the composition law for finite gauge transformations. That phase is
+responsible for the braid invariance of physical observables (holonomies).
+\\

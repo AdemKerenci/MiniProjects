@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411172
+From: Nicholas Landsman <N.P.Landsman@damtp.cambridge.ac.uk>
+Date: Wed, 23 Nov 1994 17:43:44 +0000 (GMT)   (33kb)
+
+Title: Classical and quantum representation theory
+Author: N.P. Landsman
+Comments: LaTeX, 40 pages
+\\
+  These notes present an introduction to an analytic version of deformation
+quantization. The central point is to study algebras of physical observables
+and their irreducible representations. In classical mechanics one deals with
+real Poisson algebras, whereas in quantum mechanics the observables have the
+structure of a real non-associative Jordan-Lie algebra. The non-associativity
+is proportional to $\pl^2$, hence for $\pl\raw 0$ one recovers a real Poisson
+algebra. This observation lies at the basis of `strict' deformation
+quantization, where one deforms a given Poisson algebra into a $C^*$-algebra,
+in such a way that the basic algebraic structures are preserved. Our main
+interest lies in degenerate Poisson algebras and their quantization by
+non-simple Jordan-Lie algebras. The traditional symplectic manifolds of
+classical mechanics, and their quantum counterparts (Hilbert spaces and
+operator algebras which act irreducibly) emerge from a generalized
+representation theory. This two-step procedure sheds considerable light on the
+subject. We discuss a large class of examples, in which the Poisson algebra
+canonically associated to an (integrable) Lie algebroid is deformed into the
+Jordan-Lie algebra of the corresponding Lie groupoid. A special case of this
+construction, which involves the gauge groupoid of a principal fibre bundle,
+describes the classical and quantum mechanics of a particle moving in an
+external gravitational and Yang-Mills field.
+\\

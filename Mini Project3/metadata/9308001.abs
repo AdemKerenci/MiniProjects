@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308001
+From: "H. Hata" <hata@gauge.scphys.kyoto-u.ac.jp>
+Date: Mon, 02 Aug 93 16:28:41 +0900   (16kb)
+
+Title: ``Theory of Theories'' Approach to String Theory
+Authors: H. Hata
+Comments: 20 pages, LaTeX, KUNS-1212
+Journal-ref: Phys.Rev. D50 (1994) 4079-4087
+\\
+  We propose a new formulation of gauge theories as a quantum theory which has
+the gauge theory action $S$ as its dynamical variable. This system is described
+by a simple actional $I(S)$ (that is, an action for the action $S$) whose
+equation of motion gives the Batalin-Vilkovisky (BV) master equation for $S$.
+Upon quantization we find that our new formulation is reduced to something like
+a topological field theory having a BRST exact gauge-fixed actional. Therefore
+the present formulation can reproduce ordinary gauge theories since the
+path-integral over $S$ is dominated by the classical configuration which
+satisfies the BV master equation. This ``theory of theories'' formulation is
+intended to be applied to closed string field theory.
+\\

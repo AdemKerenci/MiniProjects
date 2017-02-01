@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308013
+From: RUBEN@PHYS.TAMU.EDU
+Date: Wed, 4 Aug 1993 16:05:50 CDT   (14kb)
+
+Title: Higher Spin BRS Cohomology of Supersymmetric Chiral Matter in D=4
+Authors: J. A. Dixon, R. Minasian and J. Rahmfeld
+Comments: 15 pages, CPT-TAMU-20/93
+Journal-ref: Commun.Math.Phys. 171 (1995) 459-474
+\\
+  We examine the BRS cohomology of chiral matter in $N=1$, $D=4$ supersymmetry
+to determine a general form of composite superfield operators which can suffer
+from supersymmetry anomalies. Composite superfield operators $\Y_{(a,b)}$ are
+products of the elementary chiral superfields $S$ and $\ov S$ and the
+derivative operators $D_\a$, $\ov D_{\dot \b}$ and $\pa_{\a \dot \b}$. Such
+superfields $\Y_{(a,b)}$ can be chosen to have `$a$' symmetrized undotted
+indices $\a_i$ and `$b$' symmetrized dotted indices $\dot \b_j$. The result
+derived here is that each composite superfield $\Y_{(a,b)}$ is subject to
+potential supersymmetry anomalies if $a-b$ is an odd number, which means that
+$\Y_{(a,b)}$ is a fermionic superfield.
+\\

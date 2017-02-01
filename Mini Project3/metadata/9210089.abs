@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210089
+From: harnad@MATHCN.UMontreal.CA (Harnad John)
+Date: Fri, 16 Oct 92 10:42:10 EDT   (50kb)
+
+Title: Darboux Coordinates and Liouville-Arnold Integration in Loop Algebras
+Authors: M.R. Adams, J. Harnad and J. Hurtubise
+Comments: 61 pgs
+Report-no: CRM-1788 (1991)
+Journal-ref: Commun. Math. Phys. 155, 385-413 (1993)
+\\
+  Darboux coordinates are constructed on rational coadjoint orbits of the
+positive frequency part $\wt{\frak{g}}^+$ of loop algebras. These are given by
+the values of the spectral parameters at the divisors corresponding to
+eigenvector line bundles over the associated spectral curves, defined within a
+given matrix representation. A Liouville generating function is obtained in
+completely separated form and shown, through the Liouville-Arnold integration
+method, to lead to the Abel map linearization of all Hamiltonian flows induced
+by the spectral invariants. Serre duality is used to define a natural
+symplectic structure on the space of line bundles of suitable degree over a
+permissible class of spectral curves, and this is shown to be equivalent to the
+Kostant-Kirillov symplectic structure on rational coadjoint orbits. The general
+construction is given for $\frak{g}=\frak{gl}(r)$ or $\frak{sl}(r)$, with
+reductions to orbits of subalgebras determined as invariant fixed point sets
+under involutive automorphisms. The case $\frak{g=sl}(2)$ is shown to reproduce
+the classical integration methods for finite dimensional systems defined on
+quadrics, as well as the quasi-periodic solutions of the cubically nonlinear
+Schr\"odinger equation. For $\frak{g=sl}(3)$, the method is applied to the
+computation of quasi-periodic solutions of the two component coupled nonlinear
+Schr\"odinger equation.
+\\

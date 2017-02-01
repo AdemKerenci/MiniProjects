@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411101
+From: hong@fermi.tamu.edu
+Date: Mon, 14 Nov 1994 18:29:47 CST   (19kb)
+Date (revised): Wed, 26 Apr 1995 15:11:56 CST
+
+Title: BRST Quantisation of the N=2 String in a Real Spacetime Structure
+Authors: H. Lu and C.N. Pope
+Comments: 17 pages, latex, no figures. Significant revisions, with extended
+  discussion of cohomology in different bases for fermionic currents
+Report-no: CTP TAMU-62/94, SISSA-175/94/EP
+Journal-ref: Nucl.Phys. B447 (1995) 297-316
+\\
+  We study the $N=2$ string with a real structure on the $(2,2)$ spacetime,
+using BRST methods. Several new features emerge. In the diagonal basis, the
+operator $\exp(\lambda \int^z J^{\rm tot})$, which is associated with the
+moduli for the $U(1)$ gauge field on the world-sheet, is local and it relates
+the physical operators in the NS and R sectors. However, the picture-changing
+operators are non-invertible in this case, and physical operators in different
+pictures cannot be identified. The three-point interactions of all physical
+operators leads to three different types of amplitudes, which can be
+effectively described by the interactions of a scalar NS operator and a bosonic
+spinorial R operator. In the off-diagonal bases for the fermionic currents, the
+picture-changing operators are invertible, and hence physical operators in
+different pictures can be identified. However, now there is no local operator
+$\exp(\lambda \int^z J^{\rm tot})$ that relates the physical operators in
+different sectors. The physical spectrum is thus described by one scalar NS
+operator and one spinorial R operator. The NS and R operators give rise to
+different types of three-point amplitudes, and thus cannot be identified.
+\\

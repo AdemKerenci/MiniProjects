@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405149
+From: VASILEVICH@niif.lgu.spb.su
+Date: Tue, 17 May 1994 15:51:19 +0400 (MSK-DST)   (3kb)
+
+Title: Comment on gauge choices and physical variables in QED
+Authors: Dmitri Vassilevich
+Comments: 4 pages, SPbU-IP-94-8, Latex
+Journal-ref: Nuovo Cim. A108 (1995) 123-126
+\\
+  We consider possible definitions of physical variables in QED. We demonstrate
+that the condition $\partial_i A_i$$=0$ is the most convenient one because it
+leads to path integral over physical components with local action. However,
+other choices, as $A_3=0$, are also possible. The standard expression for
+configuration space path integral in $A_3=0$ gauge is obtained starting with
+reduced phase space formulation. Contrary to the claims of the paper [M.Lavelle
+and D.McMullan,Phys. Lett. B316 (1993)172] the $A_3=0$ gauge is not
+overconstrained.
+\\

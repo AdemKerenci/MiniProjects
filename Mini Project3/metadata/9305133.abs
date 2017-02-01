@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305133
+From: vosoloviev@mx.ihep.su
+Date: Tue, 25 May 1993 15:07:24 GMT+3:00   (18kb)
+
+Title: Boundary values as Hamiltonian variables. I. New Poisson brackets
+Authors: Vladimir O. Soloviev
+Comments: 26 pages, LaTex, IHEP 93-48
+Journal-ref: J.Math.Phys. 34 (1993) 5747-5769
+\\
+  The ordinary Poisson brackets in field theory do not fulfil the Jacobi
+identity if boundary values are not reasonably fixed by special boundary
+conditions. We show that these brackets can be modified by adding some surface
+terms to lift this restriction. The new brackets generalize a canonical bracket
+considered by Lewis, Marsden, Montgomery and Ratiu for the free boundary
+problem in hydrodynamics. Our definition of Poisson brackets permits to treat
+boundary values of a field on equal footing with its internal values and
+directly estimate the brackets between both surface and volume integrals. This
+construction is applied to any local form of Poisson brackets. A prescription
+for delta-function on closed domains and a definition of the {\it full}
+variational derivative are proposed.
+\\

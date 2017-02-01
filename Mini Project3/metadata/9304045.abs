@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304045
+From: derrick@bolvan.ph.utexas.edu (Edward G. Derrick)
+Date: Sun, 11 Apr 93 12:29:30 -0500   (37kb)
+
+Title: Generalized Calabi-Yau Manifolds and the Mirror of a Rigid Manifold
+Authors: P. Candelas, E. Derrick and L. Parkes
+Comments: 39 pages, plain TeX
+Report-no: CERN-TH.6831/93, UTTG-24-92
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B407 (1993) 115-154
+\\
+  We describe the mirror of the Z orbifold as a representation of a class of
+generalized Calabi-Yau manifolds that can be realized as manifolds of dimension
+five and seven. Despite their dimension these correspond to superconformal
+theories with $c=9$ and so are perfectly good for compactifying the heterotic
+string to the four dimensions of space-time. As a check of mirror symmetry we
+compute the structure of the space of complex structures of the mirror and
+check that this reproduces the known results for the Yukawa couplings and
+metric appropriate to the Kahler class parameters on the Z orbifold together
+with their instanton corrections.
+\\

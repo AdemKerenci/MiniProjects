@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309009
+From: Chris Fewster <C.J.Fewster@damtp.cambridge.ac.uk>
+Date: Wed, 1 Sep 93 14:47:58 BST   (18kb)
+
+Title: Resonance Point Interactions
+Authors: C.J.Fewster
+Comments: 21 pages, DAMTP-R93/21
+\\
+  A new construction is presented for point interactions (PI) and generalised
+point interactions (GPI). The construction is an inverse scattering procedure,
+using integral transforms suggested by the required scattering theory. The
+usual class of PI in 3 dimensions (i.e. the self adjoint extensions of the
+Laplacian on the domain of smooth functions compactly supported away from the
+origin) is reconstructed. In addition a 1-parameter family of GPI models termed
+resonance point interactions (RPI) is constructed, labelled by $M$. The case
+$M<0$ coincides with a special case of a known GPI model; the case $M>0$
+appears to be new. In both cases, the Hilbert space of states must be extended,
+for $M<0$, a larger Hilbert space is required, whilst for $M>0$, the Hilbert
+space is extended to a Pontryagin space. In the latter case, the space of
+physical states is identified as a positive definite invariant subspace.
+Complete M{\o}ller wave operators are constructed for the models considered,
+using a two space formalism where necessary, which confirm that the PI and RPI
+models exhibit the required scattering theory. The physical interpretation of
+RPI as models for quantum mechanical systems exhibiting zero energy resonances
+is described.
+\\

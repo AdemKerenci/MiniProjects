@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407007
+From: SHIFMAN@physics.spa.umn.edu
+Date: Fri, 1 Jul 1994 15:56:22 CDT   (24kb)
+
+Title: Fractons in Twisted Multiflavor Schwinger Model
+Authors: M. Shifman and A. Smilga
+Comments: 29 pages, 3 figures available upon request, Report TPI-MINN-94-24-T
+  Plain LATEX
+Journal-ref: Phys.Rev. D50 (1994) 7659-7672
+\\
+  We consider two-dimensional QED with several fermion flavors on a finite
+spatial circle. A modified version of the model with {\em flavor-dependent}
+boundary conditions $\psi_p(L) = e^{2\pi ip/ N} \psi_p(0)$, $p = 1, \ldots , N$
+is discussed ($N $ is the number of flavors). In this case a non-contactable
+contour in the space of the gauge fields is {\em not} determined by large gauge
+transformations. The Euclidean path integral acquires the contribution from the
+gauge field configurations with fractional topological charge. The
+configuration with $\nu = 1/N$ is responsible for the formation of the fermion
+condensate $\langle\bar{\psi}_p \psi_p\rangle_0$. The condensate dies out as a
+power of $L^{-1}$ when the length $L$ of the spatial box is sent to infinity.
+Implications of this result for non-abelian gauge field theories are discussed
+in brief.
+\\

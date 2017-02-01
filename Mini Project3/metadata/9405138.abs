@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405138
+From: delius@mth.kcl.ac.uk (Gustav Delius)
+Date: Sat, 21 May 94 11:43:58 EST   (12kb)
+Date (revised): Sun, 22 May 94 11:23:37 EST
+
+Title: Solutions to the Quantum Yang-Baxter Equation with Extra Non-Additive
+  Parameters
+Author: Anthony J. Bracken, Gustav W. Delius, Mark D. Gould, Yao-Zhong Zhang
+Comments: 13 pages
+Report-no: UQMATH-94-03, BI-TP-94/23
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Phys. A27 (1994) 6551-6562
+\\
+  We present a systematic technique to construct solutions to the Yang-Baxter
+equation which depend not only on a spectral parameter but in addition on
+further continuous parameters. These extra parameters enter the Yang-Baxter
+equation in a similar way to the spectral parameter but in a non-additive form.
+We exploit the fact that quantum non-compact algebras such as $U_q(su(1,1))$
+and type-I quantum superalgebras such as $U_q(gl(1|1))$ and $U_q(gl(2|1))$ are
+known to admit non-trivial one-parameter families of infinite-dimensional and
+finite dimensional irreps, respectively, even for generic $q$. We develop a
+technique for constructing the corresponding spectral-dependent R-matrices. As
+examples we work out the the $R$-matrices for the three quantum algebras
+mentioned above in certain representations.
+\\

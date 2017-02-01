@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307111
+From: "Kresimir Demeterfi" <kresimir@puhep1.Princeton.EDU>
+Date: Sun, 18 Jul 93 14:14:22 EDT   (17kb)
+
+Title: $1+1$-Dimensional Large $N$ QCD coupled to Adjoint Fermions
+Authors: G. Bhanot, K. Demeterfi and I. Klebanov
+Comments: 22 pages + 9 figures (available by request from
+  kresimir@puhep1.princeton.edu), uses phyzzx.tex + tables.tex PUPT-1413,
+  IASSNS-HEP-93/42
+Journal-ref: Phys.Rev. D48 (1993) 4980-4990
+\\
+  We consider 1+1-dimensional QCD coupled to Majorana fermions in the adjoint
+representation of the gauge group $SU(N)$. Pair creation of partons (fermion
+quanta) is not suppressed in the large-$N$ limit, where the glueball-like bound
+states become free. In this limit the spectrum is given by a linear \lc\ Schr\"
+odinger equation, which we study numerically using the discretized \lcq. We
+find a discrete spectrum of bound states, with the logarithm of the level
+density growing approximately linearly with the mass. The wave function of a
+typical excited state is a complicated mixture of components with different
+parton numbers. A few low-lying states, however, are surprisingly close to
+being eigenstates of the parton number, and their masses can be accurately
+calculated by truncated diagonalizations.
+\\

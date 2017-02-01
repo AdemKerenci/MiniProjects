@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304017
+From: bordag@qft.physik.uni-leipzig.dbp.de
+Date: Tue, 6 Apr 1993 13:11:50 +0200   (22kb)
+
+Title: Charged Particle with Magnetic Moment in the Aharonov-Bohm Potential
+Authors: M. Bordag and S. Voropaev
+Comments: 16 pages, Latex, NTZ-93-07
+Journal-ref: J.Phys. A26 (1993) 7637-7649
+\\
+  We considered a charged quantum mechanical particle with spin ${1\over 2}$
+and gyromagnetic ratio $g\ne 2$ in the field af a magnetic string. Whereas the
+interaction of the charge with the string is the well kown Aharonov-Bohm effect
+and the contribution of magnetic moment associated with the spin in the case
+$g=2$ is known to yield an additional scattering and zero modes (one for each
+flux quantum), an anomaly of the magnetic moment (i.e. $g>2$) leads to bound
+states. We considered two methods for treating the case $g>2$. \\ The first is
+the method of self adjoint extension of the corresponding Hamilton operator. It
+yields one bound state as well as additional scattering. In the second we
+consider three exactly solvable models for finite flux tubes and take the limit
+of shrinking its radius to zero. For finite radius, there are $N+1$ bound
+states ($N$ is the number of flux quanta in the tube).\\ For $R\to 0$ the bound
+state energies tend to infinity so that this limit is not physical unless $g\to
+2$ along with $R\to 0$. Thereby only for fluxes less than unity the results of
+the method of self adjoint extension are reproduced whereas for larger fluxes
+$N$ bound states exist and we conclude that this method is not applicable.\\ We
+discuss the physically interesting case of small but finite radius whereby the
+natural scale is given by the anomaly of the magnetic moment of the electron
+$a_e=(g-2)/2\approx 10^{-3}$.
+\\

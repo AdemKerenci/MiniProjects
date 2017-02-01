@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310159
+From: sfetsos@ruuntl.fys.ruu.nl (Konstadinos Sfetsos)
+Date: Sat, 23 Oct 93 21:38:14 GMT   (46kb)
+Date (revised): Tue, 7 Dec 1993 14:29:42 +0100
+
+Title: Antisymmetric tensor coupling and conformal invariance in sigma models
+  corresponding to gauged WZNW theories
+Authors: K. Sfetsos and A.A. Tseytlin
+Comments: 55 pages, harvmac, CERN-TH.6969/93, THU-93/25, Imperial/TP/92-93/59.
+  (Another prescription for extracting the exact antisymmetric tensor is
+  described leading to a purely semiclassical expression for it)
+Journal-ref: Phys.Rev. D49 (1994) 2933-2956
+\\
+  String backgrounds associated with gauged $G/H$ WZNW models generically
+depend on $\alpha'$ or $1/k$. The exact expressions for the corresponding
+metric $G_{\m\n}$, antisymmetric tensor $B_{\m\n}$, and dilaton $\phi$ can be
+obtained by eliminating the $2d$ gauge field from the local part of the
+effective action of the gauged WZNW model. We show that there exists a
+manifestly gauge-invariant prescription for the derivation of the antisymmetric
+tensor coupling. When the subgroup $H$ is one-dimensional and $G$ is simple the
+antisymmetric tensor is given by the semiclassical ($\alpha'$-independent)
+expression. We consider in detail the simplest non-trivial example with
+non-trivial $B_{\m\n}$ -- the D=3 sigma model corresponding to the $[SL(2,R) x
+R]/R$ gauged WZNW theory (`charged black string') and show that the exact
+expressions for $G_{\m\n}$, $B_{\m\n}$ and $\phi$ solve the Weyl invariance
+conditions in the two-loop approximation. Similar conclusion is reached for the
+closely related $SL(2,R)/R$ chiral gauged WZNW model. We find that there exists
+a scheme in which the semiclassical background is also a solution of the
+two-loop conformal invariance equations (but the tachyon equation takes a
+non-canonical form). We discuss in detail the role of field redefinitions
+(scheme dependence) in establishing a correspondence between the sigma model
+and conformal field theory results.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411006
+From: fiore@lswes8.ls-wess.physik.uni-muenchen.de
+Date: Tue, 01 Nov 94 20:01:40 +0100   (17kb)
+
+Title: Many Q-Particles from One: A New Approach to $*$-Hopf Algebras?
+Author: Gaetano Fiore
+Comments: 16 pp., latex file
+Report-no: LMU-TPW 94-15
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We propose a nonstandard approach to solving the apparent incompatibility
+between the coalgebra structure of some inhomogeneous quantum groups and their
+natural complex conjugation. In this work we sketch the general idea and
+develop the method in detail on a toy-model; the latter is a q-deformation of
+the Hopf algebra of 1-dim translations + dilatations. We show how to get all
+Hilbert space representations of the latter from tensor products of the
+fundamental ones; physically, this corresponds to constructing composite
+systems of many free distinct q-particles in terms of the basic one-particle
+ones. The spectrum of the total momentum turns out to be the same as that of a
+one-particle momentum, i.e. of the form $\{\mu q^n\}_{n\in\zn}$.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306009
+From: ADLER@sns.ias.edu
+Date: 01 Jun 1993 16:20:40 -0400 (EDT)   (30kb)
+
+Title: Generalized quantum dynamics
+Authors: Stephen L. Adler
+Comments: 48 pages, IASSNS-HEP-93/32
+Journal-ref: Nucl. Phys. B415 (1994) 195
+\\
+  We propose a generalization of Heisenberg picture quantum mechanics in which
+a Lagrangian and Hamiltonian dynamics is formulated directly for dynamical
+systems on a manifold with non--commuting coordinates, which act as operators
+on an underlying Hilbert space. This is accomplished by defining the Lagrangian
+and Hamiltonian as the real part of a graded total trace over the underlying
+Hilbert space, permitting a consistent definition of the first variational
+derivative with respect to a general operator--valued coordinate. The
+Hamiltonian form of the equations is expressed in terms of a generalized
+bracket operation, which is conjectured to obey a Jacobi identity. The
+formalism permits the natural implementation of gauge invariance under
+operator--valued gauge transformations. When an operator Hamiltonian exists as
+well as a total trace Hamiltonian, as is generally the case in complex quantum
+mechanics, one can make an operator gauge transformation from the Heisenberg to
+the Schr\"odinger picture. When applied to complex quantum mechanical systems
+with one bosonic or fermionic degree of freedom, the formalism gives the usual
+operator equations of motion, with the canonical commutation relations emerging
+as constraints associated with the operator gauge invariance. More generally,
+our methods permit the formulation of quaternionic quantum field theories with
+operator--valued gauge invariance, in which we conjecture that the operator
+constraints act as a generalization of the usual canonical commutators.
+\\

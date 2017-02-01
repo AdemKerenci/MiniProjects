@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301036
+From: Mario Bergeron <mario@physics.ubc.ca>
+Date: 11 Jan 93 14:52 -0800   (12kb)
+
+Title: Canonical Chern-Simons Theory and the Braid Group on a Riemann Surface
+Authors: Mario Bergeron, David Eliezer and Gordon Semenoff
+Comments: 12 pages, Latex
+Journal-ref: Phys.Lett. B311 (1993) 137-146
+\\
+  We find an explicit solution of the Schr\"odinger equation for a Chern-Simons
+theory coupled to charged particles on a Riemann surface, when the coefficient
+of the Chern-Simons term is a rational number (rather than an integer) and
+where the total charge is zero. We find that the wave functions carry a
+projective representation of the group of large gauge transformations. We also
+examine the behavior of the wave function under braiding operations which
+interchange particle positions. We find that the representation of both the
+braiding operations and large gauge transformations involve unitary matrices
+which mix the components of the wave function. The set of wave functions are
+expressed in terms of appropriate Jacobi theta functions. The matrices form a
+finite dimensional representation of a particular (well known to
+mathematicians) version of the braid group on the Riemann surface. We find a
+constraint which relates the charges of the particles, $q$, the coefficient of
+the Chern-Simons term, $k$ and the genus of the manifold, $g$: $q^2(g-1)/k$
+must be an integer. We discuss a duality between large gauge transformations
+and braiding operations.
+\\

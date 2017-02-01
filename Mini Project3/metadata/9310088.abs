@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310088
+From: Alexander Migdal <sasha@malina.Princeton.EDU>
+Date: Thu, 14 Oct 93 19:57:42 -0400   (41kb)
+
+Title: Loop Equation and Area Law in Turbulence
+Authors: Alexander A. Migdal
+Comments: 41 pages, 7 figures, LaTeX, PUPT-1426 (the figures uuencoded)
+Journal-ref: Int. J. Mod. Phys. A9 (1994) 1197-1238
+\\
+  This is the extended version of the preprint \ct{Loop}, based on the lectures
+given in Cargese Summer School and Chernogolovka Summer School in 93. The
+incompressible fluid dynamics is reformulated as dynamics of closed loops $C$
+in coordinate space. We derive explicit functional equation for the pdf of the
+circulation $P_C(\Gamma)$ which allows the scaling solutions in inertial range
+of spatial scales. The pdf decays as exponential of some power of $
+\Gamma^3/A^2 $ where $A$ is the minimal area inside the loop.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405148
+From: Enzo Marinari <marinari@centauro.roma1.infn.it>
+Date: Mon, 23 May 1994 12:49:59 +0200   (90kb)
+
+Title: Replica Field Theory for Deterministic Models: Binary Sequences with Low
+  Autocorrelation
+Authors: E. Marinari, G. Parisi and F. Ritort
+Comments: 42 pages, uufile with eps figures added in figures, ROM2F/94/15
+Journal-ref: J.Phys. A27 (1994) 7615-7646
+\\
+  We study systems without quenched disorder with a complex landscape, and we
+use replica symmetry theory to describe them. We discuss the
+Golay-Bernasconi-Derrida approximation of the low autocorrelation model, and we
+reconstruct it by using replica calculations. Then we consider the full model,
+its low $T$ properties (with the help of number theory) and a Hartree-Fock
+resummation of the high-temperature series. We show that replica theory allows
+to solve the model in the high $T$ phase. Our solution is based on one-link
+integral techniques, and is based on substituting a Fourier transform with a
+generic unitary transformation. We discuss this approach as a powerful tool to
+describe systems with a complex landscape in the absence of quenched disorder.
+\\

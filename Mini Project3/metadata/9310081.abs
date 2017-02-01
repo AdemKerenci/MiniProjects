@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310081
+From: atmmh@vax.ox.ac.uk
+Date: Thu, 14 Oct 1993 12:07:25 +0100   (31kb)
+
+Title: SCHR\"Odinger Invariance and Strongly Anisotropic Critical Systems
+Authors: Malte Henkel
+Comments: Latex 44 pp. (no figs), Oxford preprint OUTP-93-33S, Geneva preprint
+  UGVA-DPT 1993/09-833
+Journal-ref: J. Stat. Phys. 75, 1023-1061 (1994)
+\\
+  The extension of strongly anisotropic or dynamical scaling to local scale
+invariance is investigated. For the special case of an anisotropy or dynamical
+exponent $\theta=z=2$, the group of local scale transformation considered is
+the Schr\"odinger group, which can be obtained as the non-relativistic limit of
+the conformal group. The requirement of Schr\"odinger invariance determines the
+two-point function in the bulk and reduces the three-point function to a
+scaling form of a single variable. Scaling forms are also derived for the
+two-point function close to a free surface which can be either space-like or
+time-like. These results are reproduced in several exactly solvable statistical
+systems, namely the kinetic Ising model with Glauber dynamics, lattice
+diffusion, Lifshitz points in the spherical model and critical dynamics of the
+spherical model with a non-conserved order parameter. For generic values of
+$\theta$, evidence from higher order Lifshitz points in the spherical model and
+from directed percolation suggests a simple scaling form of the two-point
+function.
+\\

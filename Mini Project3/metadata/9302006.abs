@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302006
+From: deboer@ruunte.fys.ruu.nl (Jan de Boer)
+Date: Tue, 2 Feb 93 13:48:20 GMT   (18kb)
+
+Title: The Relation between Quantum W algebras and Lie algebras
+Authors: Jan de Boer and Tjark Tjin
+Comments: 21 pages, THU-93/05, ITFA-93/2
+Journal-ref: Commun.Math.Phys. 160 (1994) 317-332
+\\
+  By quantizing the generalized Drinfeld-Sokolov reduction scheme for arbitrary
+$sl_2$ embeddings we show that a large set $\cal W$ of quantum W algebras can
+be viewed as (BRST) cohomologies of affine Lie algebras. The set $\cal W$
+contains many known $W$ algebras such as $W_N$ and $W_3^{(2)}$. Our formalism
+yields a completely algorithmic method for calculating the W algebra generators
+and their operator product expansions, replacing the cumbersome construction of
+W algebras as commutants of screening operators. By generalizing and quantizing
+the Miura transformation we show that any $W$ algebra in $\cal W$ can be
+embedded into the universal enveloping algebra of a semisimple affine Lie
+algebra which is, up to shifts in level, isomorphic to a subalgebra of the
+original affine algebra. Therefore {\em any} realization of this semisimple
+affine Lie algebra leads to a realization of the $W$ algebra. In particular,
+one obtains in this way a general and explicit method for constructing the free
+field realizations and Fock resolutions for all algebras in $\cal W$. Some
+examples are explicitly worked out.
+\\

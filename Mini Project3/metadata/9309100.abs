@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309100
+From: BOULATOV@nbivax.nbi.dk
+Date: Sat, 18 Sep 1993 17:24:17 +0200   (8kb)
+
+Title: Critical scaling in the matrix model on the Bethe tree
+Authors: D.Boulatov
+Comments: 12 pp., NBI-93-55
+Journal-ref: Mod. Phys. Lett. A9 (1994) 1963-1974
+\\
+  The matrix model with a Bethe-tree embedding space (coinciding at large $N$
+with the Kazakov-Migdal ``induced QCD'' model \cite{KM}) is investigated. We
+further elaborate the Riemann-Hilbert approach of \rf{Mig1} assuming certain
+holomorphic properties of the solution. The critical scaling (an edge
+singularity of the density) is found to be $\gamma_{str} = -\frac{1}{\pi}
+\arcos D$, for $|D|<1$, and $\gamma_{str} = -\frac{1}{\pi} \arcos
+\frac{D}{2D-1}$, for $D>1$. Explicit solutions are constructed at
+$D=\frac{1}{2}$ and $D=\infty$.
+\\

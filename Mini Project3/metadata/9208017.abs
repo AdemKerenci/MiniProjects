@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208017
+From: gitman@uspif.if.usp.br
+Date: Wed, 05 Aug 1992 12:17:28 EDT   (11kb)
+
+Title: Coherent States of the SU(N) groups
+Authors: D.M.Gitman and A.L.Shelepin
+Comments: 19pg, IFUSP/P-974 March/1992
+Journal-ref: J.Phys. A26 (1993) 313-328
+\\
+  Coherent states $(CS)$ of the $SU(N)$ groups are constructed explicitly and
+their properties are investigated. They represent a nontrivial generalization
+of the spining $CS$ of the $SU(2)$ group. The $CS$ are parametrized by the
+points of the coset space, which is, in that particular case, the projective
+space $CP^{N-1}$ and plays the role of the phase space of a corresponding
+classical mechanics. The $CS$ possess of a minimum uncertainty, they minimize
+an invariant dispersion of the quadratic Casimir operator. The classical limit
+is ivestigated in terms of symbols of operators. The role of the Planck
+constant playes $h=P^{-1}$, where $P$ is the signature of the representation.
+The classical limit of the so called star commutator generates the Poisson
+bracket in the $CP^{N-1}$ phase space. The logarithm of the modulus of the $CS$
+overlapping, being interpreted as a symmetric in the space, gives the
+Fubini-Study metric in $CP^{N-1}$. The $CS$ constructed are useful for the
+quasi-classical analysis of the quantum equations of the $SU(N)$ gauge
+symmetric theories.
+\\

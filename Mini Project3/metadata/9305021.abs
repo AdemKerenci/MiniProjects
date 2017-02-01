@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305021
+From: ruiz@nikhef.nl (fernando ruiz)
+Date: Thu, 6 May 93 20:46:45 +0200   (21kb)
+
+Title: Physically meaningful and not so meaningful symmetries in Chern-Simons
+  theory
+Authors: G. Giavarini, C.P. Martin and F. Ruiz Ruiz
+Comments: phyzzx, 21 pages, 2 figures in one PS file
+Report-no: NIKHEF-H 93-05
+Journal-ref: Phys.Rev. D47 (1993) 5536-5545
+\\
+  We explicitly show that the Landau gauge supersymmetry of Chern-Simons theory
+does not have any physical significance. In fact, the difference between an
+effective action both BRS invariant and Landau supersymmetric and an effective
+action only BRS invariant is a finite field redefinition. Having established
+this, we use a BRS invariant regulator that defines CS theory as the large mass
+limit of topologically massive Yang-Mills theory to discuss the shift $k \to
+k+\cv$ of the bare Chern-Simons parameter $k$ in conncection with the Landau
+supersymmetry. Finally, to convince ourselves that the shift above is not an
+accident of our regularization method, we comment on the fact that all BRS
+invariant regulators used as yet yield the same value for the shift.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202002
+From: chung@beauty.tn.cornell.edu (Stephen Chung)
+Date: Sun, 2 Feb 92 18:35:46 EST   (32kb)
+
+Title: Chiral Gauged WZW Theories and Coset Models in Conformal Field Theory
+Authors: Stephen-wei Chung and S.-H. Henry Tye
+Comments: 42 pages
+Journal-ref: Phys.Rev. D47 (1993) 4546-4566
+\\
+  The Wess-Zumino-Witten (WZW) theory has a global symmetry denoted by
+$G_L\otimes G_R$. In the standard gauged WZW theory, vector gauge fields (\ie\
+with vector gauge couplings) are in the adjoint representation of the subgroup
+$H \subset G$. In this paper, we show that, in the conformal limit in two
+dimensions, there is a gauged WZW theory where the gauge fields are chiral and
+belong to the subgroups $H_L$ and $H_R$ where $H_L$ and $H_R$ can be different
+groups. In the special case where $H_L=H_R$, the theory is equivalent to vector
+gauged WZW theory. For general groups $H_L$ and $H_R$, an examination of the
+correlation functions (or more precisely, conformal blocks) shows that the
+chiral gauged WZW theory is equivalent to $(G/H)_L\otimes (G/H)_R$ coset models
+in conformal field theory. The equivalence of the vector gauged WZW theory and
+the corresponding $G/H$ coset theory then follows.
+\\

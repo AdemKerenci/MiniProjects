@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308055
+From: TEMPLE@Vax2.Concordia.CA
+Date: Wed, 11 Aug 1993 14:18:08 -0500 (EST)   (11kb)
+Date (revised): Thu, 12 Aug 1993 09:51:39 -0500 (EST)
+
+Title: Instantons in topological field theories
+Authors: M. Temple-Raston
+Comments: 15 pages, Plain TeX, CON-93-2. (missing macro included)
+\\
+  On an oriented, compact, connected, real four-dimensional manifold, $M$, we
+introduce a topological Lagrangian gauge field theory with a Bogomol'nyi
+structure that leads to non-singular, finite-Action, stable solutions to the
+variational field equations. These soliton-like solutions are analogous to the
+instanton in Yang-Mills theory. Unlike Yang-Mills instantons, however,
+`topological' instantons are independent of any underlying metric structure,
+and, in particular, they are independent of the metric signature. We show that
+when the topology of the underlying manifold, $M$, is equipped with a complex
+K\"ahler structure, and $M$ is interpreted as space-time, then the moduli space
+of topological instantons---the space of motions---is a finite-dimensional,
+smooth, Hausdorff manifold with a natural symplectic structure. We identify
+space-time topologies which lead to the physical stability of topological
+instanton field configurations compatible with the additional geometric
+structures. The spaces of motion for $U(1)$ topological instantons over either
+minimal elliptic or algebraic complex space-times with irregularity $q=2$ are
+examined.
+\\

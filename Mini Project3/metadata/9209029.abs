@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209029
+From: Andreas Honecker <UNP06B@ibm.rhrz.uni-bonn.de>
+Date: Wed, 09 Sep 92 11:51:42 MEZ   (14kb)
+Date (revised): Wed, 11 Nov 92 15:33:30 MEZ
+
+Title: A Note on the Algebraic Evaluation of Correlators in Local Chiral
+  Conformal Field Theory
+Authors: A. Honecker
+Comments: 12 pages (Plain TeX), BONN-HE-92-25; Changes: Reference to H.G.
+  Kausch for W(2,4,6) added, W(2,3) as possible application added and a few
+  minor bugs corrected
+\\
+  We comment on a program designed for the study of local chiral algebras and
+their representations in 2D conformal field theory. Based on the algebraic
+approach described by W. Nahm, this program efficiently calculates arbitrary
+n-point functions of these algebras. The program is designed such that
+calculations involving e.g. current algebras, W-algebras and N-Superconformal
+algebras can be performed. As a non-trivial application we construct an
+extension of the Virasoro algebra by two fields with spin four and six using
+the N=1-Super-Virasoro algebra.
+\\

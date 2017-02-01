@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9204018
+From: A87353 <a87353@tansei.cc.u-tokyo.ac.jp>
+Date: Wed, 8 Apr 92 15:41:09 JST   (7kb)
+
+Title: A naive matrix-model approach to two-dimensional quantum gravity coupled
+  to matter of arbitrary central charge
+Authors: E. Brezin and S. Hikami
+Comments: P. 11
+Journal-ref: Phys. Lett. B283 (1992) 203
+\\
+  In the usual matrix-model approach to random discretized two-dimensional
+manifolds, one introduces n Ising spins on each cell, i.e. a discrete version
+of 2D quantum gravity coupled to matter with a central charge n/2. The
+matrix-model consists then of an integral over $2^{n}$ matrices, which we are
+unable to solve for $n>1$. However for a fixed genus we can expand in the
+cosmological constant g for arbitrary values of n, and a simple minded analysis
+of the series yields for n=0,1 and 2 the expected results for the exponent
+$\gamma_{string}$ with an amazing precision given the small number of terms
+that we considered. We then proceed to larger values of n. Simple tests of
+universality are successfully applied; for instance we obtain the same
+exponents for n=3 or for one Ising model coupled to a one dimensional target
+space. The calculations are easily extended to states Potts models, through an
+integration over $q^{n}$ matrices. We see no sign of the tachyonic instability
+of the theory, but we have only considered genus zero at this stage.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309144
+From: Peter Freund <freund@rabi.uchicago.edu>
+Date: Mon, 27 Sep 93 15:18:22 CDT   (20kb)
+
+Title: The Spectral Problem for the q-Knizhnik-Zamolodchikov Equation and
+  Continuous q-Jacobi Polynomials
+Author: P. G. O. Freund, A. V. Zabrodin
+Comments: 30 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 173 (1995) 17
+\\
+  The spectral problem for the q-Knizhnik-Zamolodchikov equations for
+$U_{q}(\widehat{sl_2}) (0<q<1)$ at arbitrary level $k$ is considered. The case
+of two-point functions in the fundamental representation is studied in
+detail.The scattering states are given explicitly in terms of continuous
+q-Jacobi polynomials, and the $S$-matrix is derived from their asymptotic
+behavior. The level zero $S$-matrix is shown to coincide, up to a trivial
+factor, with the kink-antikink $S$-matrix for the spin-$\frac{1}{2}$ XXZ
+antiferromagnet. In the limit of infinite level we observe connections with
+harmonic analysis on $p$-adic groups with the prime $p$ given by $p=q^{-2}$.
+\\

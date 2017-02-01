@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311088
+From: BOULATOV@nbivax.nbi.dk
+Date: Tue, 16 Nov 1993 15:58:50 +0100   (19kb)
+
+Title: 3D Gravity and Gauge Theories
+Authors: D.V.Boulatov
+Comments: 20 pp., NBI-HE-93-67 (Contribution to Proceedings of 1993 Cargese
+  workshop)
+\\
+  I argue that the complete partition function of 3D quantum gravity is given
+by a path integral over gauge-inequivalent manifolds times the Chern-Simons
+partition function. In a discrete version, it gives a sum over simplicial
+complexes weighted with the Turaev-Viro invariant. Then, I discuss how this
+invariant can be included in the general framework of lattice gauge theory
+(qQCD$_3$). To make sense of it, one needs a quantum analog of the Peter-Weyl
+theorem and an invariant measure, which are introduced explicitly. The
+consideration here is limited to the simplest and most interesting case of
+$SL_q(2)$, $q=e^{i\frac{2\pi}{k+2}}$. At the end, I dwell on 3D generalizations
+of matrix models.
+\\

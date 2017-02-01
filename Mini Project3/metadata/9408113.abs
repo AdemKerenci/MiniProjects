@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408113
+From: Anatol Kirillov <kirillov@crm.umontreal.ca>
+Date: Sat, 20 Aug 94 15:10:21 +0900   (67kb)
+Date (revised): Thu, 25 Aug 94 16:04:49 +0900
+
+Title: Dilogarithm identities
+Author: Anatol N. Kirillov
+Comments: 96 pages
+Subj-class: High Energy Physics - Theory; Classical Analysis and ODEs; Quantum
+  Algebra
+Journal-ref: Prog.Theor.Phys.Suppl. 118 (1995) 61-142
+\\
+  We study the dilogarithm identities from algebraic, analytic, asymptotic,
+$K$-theoretic, combinatorial and representation-theoretic points of view. We
+prove that a lot of dilogarithm identities (hypothetically all !) can be
+obtained by using the five-term relation only. Among those the Coxeter, Lewin,
+Loxton and Browkin ones are contained. Accessibility of Lewin's one variable
+and Ray's multivariable (here for $n\le 2$ only) functional equations is given.
+For odd levels the $\hat{sl_2}$ case of Kuniba-Nakanishi's dilogarithm
+conjecture is proven and additional results about remainder term are obtained.
+The connections between dilogarithm identities and
+Rogers-Ramanujan-Andrews-Gordon type partition identities via their asymptotic
+behavior are discussed. Some new results about the string functions for level
+$k$ vacuum representation of the affine Lie algebra $\hat{sl_n}$ are obtained.
+Connection between dilogarithm identities and algebraic $K$-theory (torsion in
+$K_3({\bf R})$) is discussed. Relations between crystal basis, branching
+functions $b_{\lambda}^{k\Lambda_0}(q)$ and Kostka-Foulkes polynomials
+(Lusztig's $q$-analog of weight multiplicity) are considered. The Melzer and
+Milne conjectures are proven. In some special cases we are proving that the
+branching functions $b_{\lambda}^{k\Lambda_0}(q)$ are equal to an appropriate
+limit of Kostka polynomials (the so-called Thermodynamic Bethe Ansatz limit).
+Connection between "finite-dimensional part of crystal base" and
+Robinson-Schensted-Knuth correspondence is considered.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207006
+From: mikovic@qmchep.dnet.nasa.gov
+Date: Thu, 2 Jul 92 09:43:29 -0400   (16kb)
+
+Title: Exactly Solvable Models of 2d Dilaton Quantum Gravity
+Authors: A. Mikovic
+Comments: 12 pgs
+Journal-ref: Phys.Lett. B291 (1992) 19-25
+\\
+  We study canonical quantization of a class of 2d dilaton gravity models,
+which contains the model proposed by Callan, Giddings, Harvey and Strominger. A
+set of non-canonical phase space variables is found, forming an $SL(2,{\bf R})
+\times U(1)$ current algebra, such that the constraints become quadratic in
+these new variables. In the case when the spatial manifold is compact, the
+corresponding quantum theory can be solved exactly, since it reduces to a
+problem of finding the cohomology of a free-field Virasoro algebra. In the
+non-compact case, which is relevant for 2d black holes, this construction is
+likely to break down, since the most general field configuration cannot be
+expanded into Fourier modes. Strategy for circumventing this problem is
+discussed.
+\\

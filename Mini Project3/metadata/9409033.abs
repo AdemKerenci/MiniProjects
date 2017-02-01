@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409033
+From: kibler@lyolav.in2p3.fr
+Date: Mon, 5 Sep 94 20:28:58 +0200   (17kb)
+
+Title: On a Generalized Kepler-Coulomb System: Interbasis Expansions
+Authors: M. Kibler, L.G. Mardoyan, and G.S. Pogosyan
+Comments: 24 pages, Latex, LYCEN 9415
+\\
+  This paper deals with a dynamical system that generalizes the Kepler-Coulomb
+system and the Hartmann system. It is shown that the Schr\"odinger equation for
+this generalized Kepler-Coulomb system can be separated in prolate spheroidal
+coordinates. The coefficients of the interbasis expansions between three bases
+(spherical, parabolic and spheroidal) are studied in detail. It is found that
+the coefficients for the expansion of the parabolic basis in terms of the
+spherical basis, and vice-versa, can be expressed through the Clebsch-Gordan
+coefficients for the group SU(2) analytically continued to real values of their
+arguments. The coefficients for the expansions of the spheroidal basis in terms
+of the spherical and parabolic bases are proved to satisfy three-term recursion
+relations.
+\\

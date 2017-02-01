@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210147
+From: VANDESANDE@MPS.OHIO-STATE.EDU
+Date: Wed, 28 Oct 1992 13:04 EST   (12kb)
+
+Title: Renormalization of Tamm-Dancoff Integral Equations
+Authors: Brett van de Sande and Stephen Pinsky
+Comments: 19 pages, OHSTPY-HEP-T-92-014
+Journal-ref: Phys.Rev. D46 (1992) 5479-5486
+\\
+  During the last few years, interest has arisen in using light-front
+Tamm-Dancoff field theory to describe relativistic bound states for theories
+such as QCD. Unfortunately, difficult renormalization problems stand in the
+way. We introduce a general, non-perturbative approach to renormalization that
+is well suited for the ultraviolet and, presumably, the infrared divergences
+found in these systems. We reexpress the renormalization problem in terms of a
+set of coupled inhomogeneous integral equations, the ``counterterm equation.''
+The solution of this equation provides a kernel for the Tamm-Dancoff integral
+equations which generates states that are independent of any cutoffs. We also
+introduce a Rayleigh-Ritz approach to numerical solution of the counterterm
+equation. Using our approach to renormalization, we examine several ultraviolet
+divergent models. Finally, we use the Rayleigh-Ritz approach to find the
+counterterms in terms of allowed operators of a theory.
+\\

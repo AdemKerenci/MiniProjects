@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312147
+From: peeters@orthe.physics.sunysb.edu (Bas Peeters)
+Date: Thu, 16 Dec 1993 11:59:04 -0500 (EST)   (61kb)
+
+Title: The Hamiltonian Approach and Phase Space Path Integration for Nonlinear
+  Sigma Models with and without Fermions
+Authors: Bas Peeters and Peter van Nieuwenhuizen
+Comments: 43 pages, jytex (macros included, just tex the file), ITP-SB-93-51
+\\
+  Instead of imposing the Schr\"{o}dinger equation to obtain the configuration
+space propagator $\csprop$ for a quantum mechanical nonlinear sigma model, we
+directly evaluate the phase space propagator $\psprop$ by expanding the
+exponent and pulling all operators $\hat p$ to the right and $\hat x$ to the
+left. Contrary to the widespread belief that it is sufficient to keep only
+terms linear in $\Delta t$ in the expansion if one is only interested in the
+final result through order $\Delta t$, we find that all terms in the expansion
+must be retained. We solve the combinatorical problem of summing the infinite
+series in closed form through order $\Delta t$. Our results straightforwardly
+generalize to higher orders in $\Delta t$. We then include fermions for which
+we use coherent states in phase space. For supersymmetric $N{=}1$ and $N{=}2$
+quantum mechanics, we find that if the super Van Vleck determinant replaces the
+original Van Vleck determinant the propagator factorizes into a classical part,
+this super determinant and the extra scalar curvature term which was first
+found by DeWitt for the purely bosonic case by imposing the Schr\"{o}dinger
+equation. Applying our results to anomalies in $n$-dimensional quantum field
+theories, we note that the operator ordering in the corresponding quantum
+mechanical Hamiltonians is fixed in these cases. We present a formula for the
+path integral action, which corresponds one to one to any given covariant or
+noncovariant $\hat H$. We then evaluate these path integrals through two loop
+order, and reobtain the same propagators in all cases.
+\\

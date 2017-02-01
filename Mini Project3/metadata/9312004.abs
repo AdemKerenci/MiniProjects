@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312004
+From: Alexeiev Anton <alexeiev@rhea.teorfys.uu.se>
+Date: Wed, 1 Dec 93 17:52:36 +0100   (16kb)
+
+Title: Symplectic structure of the moduli space of flat connections on a
+  Riemann surface
+Author: A. Yu. Alekseev, A. Z. Malkin
+Comments: 20 pages
+Report-no: Uppsala University UUITP-32/1993
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: Commun.Math.Phys. 169 (1995) 99
+\\
+  We consider canonical symplectic structure on the moduli space of flat
+${\g}$-connections on a Riemann surface of genus $g$ with $n$ marked points.
+For ${\g}$ being a semisimple Lie algebra we obtain an explicit efficient
+formula for this symplectic form and prove that it may be represented as a sum
+of $n$ copies of Kirillov symplectic form on the orbit of dressing
+transformations in the Poisson-Lie group $G^{*}$ and $g$ copies of the
+symplectic structure on the Heisenberg double of the Poisson-Lie group $G$ (the
+pair ($G,G^{*}$) corresponds to the Lie algebra ${\g}$).
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212127
+From: brower@BUCRF20.bu.edu (Richard Brower)
+Date: Mon, 21 Dec 92 20:45:04 -0500   (57kb)
+
+Title: Symmetry Breaking in the Double-Well Hermitian Matrix Models
+Authors: Richard C. Brower, Nevidita Deo , Sanjay Jain and Chung-I Tan
+Comments: 23 pages and 4 figures, Preprint No. CERN-TH.6611/92, Brown HET-863,
+  HUTP -- 92/A035, LPTHE-Orsay: 92/29
+Journal-ref: Nucl.Phys. B405 (1993) 166-190
+\\
+  We study symmetry breaking in $Z_2$ symmetric large $N$ matrix models. In the
+planar approximation for both the symmetric double-well $\phi^4$ model and the
+symmetric Penner model, we find there is an infinite family of broken symmetry
+solutions characterized by different sets of recursion coefficients $R_n$ and
+$S_n$ that all lead to identical free energies and eigenvalue densities. These
+solutions can be parameterized by an arbitrary angle $\theta(x)$, for each
+value of $x = n/N < 1$. In the double scaling limit, this class reduces to a
+smaller family of solutions with distinct free energies already at the torus
+level. For the double-well $\phi^4$ theory the double scaling string equations
+are parameterized by a conserved angular momentum parameter in the range $0 \le
+l < \infty$ and a single arbitrary $U(1)$ phase angle.
+\\

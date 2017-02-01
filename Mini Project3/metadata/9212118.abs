@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212118
+From: Konno Hitoshi <hkonno@kurims.kyoto-u.ac.jp>
+Date: Sat, 19 Dec 92 17:15:33 JST   (22kb)
+
+Title: $SU(2)_k\times SU(2)_l/SU(2)_{k+l}$ Coset Conformal Field Theory and
+  Topological Minimal Model on Higher Genus Riemann Surface
+Authors: Hitoshi Konno
+Comments: 30 pages, RIMS-908, plain TeX
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 5537-5562
+\\
+  We consider the Feigin-Fuchs-Felder formalism of the $SU(2)_k\times
+SU(2)_l/SU(2)_{k+l}$ coset minimal conformal field theory and extend it to
+higher genus. We investigate a double BRST complex with respect to two
+compatible BRST charges, one associated with the parafermion sector and the
+other associated with the minimal sector in the theory. The usual screened
+vertex operator is extended to the BRST invariant screened three string vertex.
+We carry out a sewing operation of these string vertices and derive the BRST
+invariant screened $g$-loop operator. The latter operator characterizes the
+higher genus structure of the theory. An analogous operator formalism for the
+topological minimal model is obtained as the limit $ l=0$ of the coset theory.
+We give some calculations of correlation functions on higher genus.
+\\

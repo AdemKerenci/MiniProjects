@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409186
+From: bergshoe@th.rug.nl (Eric Bergshoeff)
+Date: Thu, 29 Sep 94 17:36:07 +0100   (9kb)
+
+Title: On realizing the bosonic string as a noncritical $W_3$-string
+Authors: E. Bergshoeff, H.J. Boonstra and M. de Roo
+Comments: 12 pages, UG-7/94
+Journal-ref: Phys. Lett. B346 (1995) 269-274
+\\
+  We discuss a realization of the bosonic string as a noncritical $W_3$-string.
+The relevant noncritical $W_3$-string is characterized by a Liouville sector
+which is restricted to a (non-unitary) $(3,2)$ $W_3$ minimal model with central
+charge contribution $c_l = - 2$. Furthermore, the matter sector of this
+$W_3$-string contains $26$ free scalars which realize a critical bosonic
+string. The BRST operator for this $W_3$-string can be written as the sum of
+two, mutually anticommuting, nilpotent BRST operators: $Q = Q_0 + Q_1$ in such
+a way that the scalars which realize the bosonic string appear only in $Q_0$
+while the central charge contribution of the fields present in $Q_1$ equals
+zero. We argue that, in the simplest case that the Liouville sector is given by
+the identity operator only, the $Q_1$-cohomology is given by a particular
+(non-unitary) $(3,2)$ Virasoro minimal model at $c=0$.
+\\

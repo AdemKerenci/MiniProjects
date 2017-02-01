@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404159
+From: edwin langmann <langmann@physics.ubc.ca>
+Date: 25 Apr 94 17:48 -0700   (14kb)
+Date (revised): 5 Oct 94 9:28 -0700
+
+Title: QCD(1+1) with massless quarks and gauge covariant Sugawara construction
+Authors: E. Langmann and G.W. Semenoff
+Comments: 11 pages, ESI 110 Minor changes (including title); version to appear
+  in Phys. Lett. B
+Journal-ref: Phys.Lett. B341 (1994) 195-204
+\\
+  We use the Hamiltonian framework to study massless QCD$_{1+1}$, i.e.\
+Yang-Mills gauge theories with massless Dirac fermions on a cylinder (= (1+1)
+dimensional spacetime $S^1\times \R$) and make explicite the full,
+non-perturbative structure of these quantum field theory models. We consider
+$N_F$ fermion flavors and gauge group either $\U(N_C)$, $\SU(N_C)$ or another
+Lie subgroup of $\U(N_C)$. In this approach, anomalies are traced back to
+kinematical requirements such as positivity of the Hamiltonian, gauge
+invariance, and the condition that all observables are represented by
+well-defined operators on a Hilbert space. We also give equal time commutators
+of the energy momentum tensor and find a gauge-covariant form of the (affine-)
+Sugawara construction. This allows us to represent massless QCD$_{1+1}$ as a
+gauge theory of Kac-Moody currents and prove its equivalence to a gauged
+Wess-Zumino-Witten model with a dynamical Yang-Mills field.
+\\

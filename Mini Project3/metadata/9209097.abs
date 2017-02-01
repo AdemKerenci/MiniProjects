@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209097
+From: RUSAKOV@taunivm.tau.ac.il
+Date: Thu, 24 Sep 92 17:13:12 IST   (6kb)
+
+Title: From hermitian matrix model to lattice gauge theory
+Authors: B. Rusakov
+Comments: 8pages, Latex
+Report-no: TAUP 1996-92
+\\
+  I consider a lattice model of a gauge field interacting with matrix-valued
+scalars in $D$ dimensions. The model includes an adjustable parameter $\s$,
+which plays role of the string tension. In the limit $\s=\infty$ the model
+coincides with Kazakov-Migdal's ``induced QCD", where Wilson loops obey a zero
+area law. The limit $\s=0$, where Wilson loops $W(C)=1$ independently of the
+size of the loop, corresponds to the Hermitian matrix model. For $D=2$ and
+$D=3$ I show that the model obeys the same combinatorics as the standard LGT
+and therefore one may expect the area law behavior. In the strong coupling
+expansion such a behavior is demonstrated.
+\\

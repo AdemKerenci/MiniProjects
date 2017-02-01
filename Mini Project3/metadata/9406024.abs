@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406024
+From: illuminati@ipdgr4.pd.infn.it
+Date: Sat, 4 Jun 1994 20:40:00 +0100   (14kb)
+
+Title: Classical and quantum dissipation in non homogeneous environments
+Authors: F. Illuminati, M. Patriarca, and P. Sodano
+Comments: 17 pages, plain LaTeX [12pt,A4wide], DFPD 94/TH/24
+Journal-ref: Physica A211 (1994) 449
+\\
+  We generalize the oscillator model of a particle interacting with a thermal
+reservoir by introducing arbitrary nonlinear couplings in the particle
+coordinates.The equilibrium positions of the heat bath oscillators are promoted
+to space-time functions, which are shown to represent a modulation of the
+internal noise by the external forces. The model thus provides a description of
+classical and quantum dissipation in non homogeneous environments. In the
+classical case we derive a generalized Langevin equation with nonlinear
+multiplicative noise and a position-dependent fluctuation- dissipation theorem
+associated to non homogeneous dissipative forces. When time-modulation of the
+noise is present, a new force term is predicted besides the dissipative and
+random ones. The model is quantized to obtain the non homogenous influence
+functional and master equation for the reduced density matrix of the Brownian
+particle. The quantum evolution equations reproduce the correct Langevin
+dynamics in the semiclassical limit. The consequences for the issues of
+decoherence and localization are discussed.
+\\

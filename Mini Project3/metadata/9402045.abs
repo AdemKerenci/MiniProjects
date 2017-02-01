@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402045
+From: fendley@skat.usc.edu (Paul Fendley)
+Date: Tue, 8 Feb 94 18:40:42 -0800   (12kb)
+
+Title: Deriving Boundary S Matrices
+Authors: P. Fendley and H. Saleur
+Comments: 13 pages, USC-94-001
+Journal-ref: Nucl.Phys. B428 (1994) 681-693
+\\
+  We show how to derive exact boundary $S$ matrices for integrable quantum
+field theories in 1+1 dimensions using lattice regularization. We do this
+calculation explicitly for the sine-Gordon model with fixed boundary conditions
+using the Bethe ansatz for an XXZ-type spin chain in a boundary magnetic field.
+Our results agree with recent conjectures of Ghoshal and Zamolodchikov, and
+indicate that the only solutions to the Bethe equations which contribute to the
+scaling limit are the standard strings.
+\\

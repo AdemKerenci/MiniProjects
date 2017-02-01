@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9201040
+From: ZWIEBACH%IASSNS.BITNET@pucc.Princeton.EDU
+Date: Tue, 21 Jan 92 18:11 EST   (57kb)
+
+Title: Target Space Duality as a Symmetry of String Field Theory
+Authors: Taichiro Kugo and Barton Zwiebach
+Comments: 72pp
+Journal-ref: Prog.Theor.Phys. 87 (1992) 801-860
+\\
+  Toroidal backgrounds for bosonic strings are used to understand target space
+duality as a symmetry of string field theory and to study explicitly issues in
+background independence. Our starting point is the notion that the string field
+coordinates $X(\sigma)$ and the momenta $P(\sigma)$ are background independent
+objects whose field algebra is always the same; backgrounds correspond to
+inequivalent representations of this algebra. We propose classical string field
+solutions relating any two toroidal backgrounds and discuss the space where
+these solutions are defined.
+  String field theories formulated around dual backgrounds are shown to be
+related by a homogeneous field redefinition, and are therefore equivalent,
+if and only if their string field coupling constants are identical. Using
+this discrete equivalence of backgrounds and the classical solutions we find
+discrete symmetry transformations of the string field leaving the string action
+invariant. These symmetries, which are spontaneously broken for generic
+backgrounds, are shown to generate the full group of duality symmetries, and in
+general are seen to arise from the string field gauge group.
+\\

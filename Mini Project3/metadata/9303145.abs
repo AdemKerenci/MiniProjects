@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303145
+From: Alex Kovner <kovner@pion.lanl.gov>
+Date: Thu, 25 Mar 93 18:23:13 -0700   (11kb)
+Date (revised): Wed, 16 Jun 93 09:00:18 -0600
+
+Title: Bosonization in 2+1 dimensions without Chern - Simons attached
+Authors: A. Kovner and P. Kurzepa
+Comments: 12 pages, LA-UR-93-1062, some misprints and algebraic errors
+  corrected, several comments added
+Journal-ref: Phys. Lett. B321 (1994) 129-136
+\\
+  We perform the complete bosonization of 2+1 dimensional QED with one
+fermionic flavor in the Hamiltonian formalism. The fermion operators are
+explicitly constructed in terms of the vector potential and the electric field.
+We carefully specify the regularization procedure involved in the definition of
+these operators, and calculate the fermionic bilinears and the energy -
+momentum tensor. The algebra of bilinears exhibits the Schwinger terms which
+also appear in perturbation theory. The bosonic Hamiltonian density is a local
+polynomial function of $A_i$ and $E_i$, and we check explicitly the Lorentz
+invariance of the resulting bosonic theory. Our construction is conceptually
+very similar to Mandelstam's construction in 1+1 dimensions, and is dissimilar
+from the recent bosonization attempts in 2+1 dimensions which hinge crucially
+on the existence of a Chern - Simons term.
+\\

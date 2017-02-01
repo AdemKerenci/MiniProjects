@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304067
+From: TEOTONIO@SUHEP.PHY.SYR.EDU
+Date: Fri, 16 Apr 1993 18:30 EST   (201kb)
+Date (revised): Wed, 21 Apr 1993 21:38 EST
+
+Title: Vertex Operators for the BF System and its Spin-Statistics Theorems
+Authors: A.P. Balachandran and P. Teotonio-Sobrinho
+Comments: Latex, 64 pages, SU-4240-516 (plus 1 uuencoded compressed tar file
+  with the figures) Figures corrected
+Journal-ref: Int. J. Mod. Phys. A9 (1994) 1569-1630
+\\
+  Let $B$ and $F=\frac 12F_{\mu \nu}dx^\mu \wedge dx^\nu $ be two forms,
+$F_{\mu \nu}$ being the field strength of an abelian connection $A$. The
+topological $BF$ system is given by the integral of $B\wedge F$. With "kinetic
+energy'' terms added for $B$ and $A$, it generates a mass for $A$ thereby
+suggesting an alternative to the Higgs mechanism, and also gives the London
+equations. The $BF$ action, being the large length and time scale limit of this
+augmented action, is thus of physical interest. In earlier work, it has been
+studied on spatial manifold $\Sigma $ with boundaries $\partial \Sigma $, and
+the existence of edge states localised at $\partial \Sigma $ has been
+established. They are analogous to the conformal family of edge states to be
+found in a Chern-Simons theory in a disc. Here we introduce charges and
+vortices (thin flux tubes) as sources in the $BF$ system and show that they
+acquire an infinite number of spin excitations due to renormalization, just as
+a charge coupled to a Chern-Simons potential acquires a conformal family of
+spin excitations. For a vortex, these spins are transverse and attached to each
+of its points, so that it resembles a ribbon. Vertex operators for the creatin
+of these sources are constructed and interpreted in terms of a Wilson integral
+involving $A$ and a similar integral involving $B$. The standard
+spin-statistics theorem is proved for this sources. A new spin-statistics
+theorem, showing the equality of the ``interchange'' of two identical vortex
+loops and $2\pi $ rotation of the transverse spins of a constituent vortex, is
+established. Aharonov-Bohm interactions of charges and vortices are studied.
+The existence of topologically nontrivial vortex spins is pointed out and their
+vertex
+\\

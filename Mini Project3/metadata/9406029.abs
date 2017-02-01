@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406029
+From: devega@lpthe.jussieu.fr
+Date: Mon, 6 Jun 94 14:28:10 +0200   (23kb)
+
+Title: Back Reaction of Strings in Self-Consistent String Cosmology
+Authors: H.J.de Vega and N. S\'anchez
+Comments: 29 pages, revtex, LPTHE-94-21
+Journal-ref: Phys.Rev. D50 (1994) 7202-7215
+\\
+  We compute the string energy-momentum tensor and {\bf derive} the string
+equation of state from exact string dynamics in cosmological spacetimes.
+$1+1,~2+1$ and $D$-dimensional universes are treated for any expansion factor
+$R$. Strings obey the perfect fluid relation $ p = (\gamma -1) \rho $ with
+three different behaviours: (i) {\it Unstable} for $ R \to \infty $ with
+growing energy density $ \rho \sim R^{2-D} $, {\bf negative} pressure, and $
+\gamma =(D-2)/(D-1) $; (ii){\it Dual} for $ R \to 0 $, with $ \rho \sim R^{-D}
+$, {\bf positive} pressure and $\gamma = D/(D-1) $ (as radiation); (iii) {\it
+Stable} for $ R \to \infty $ with $ \rho \sim R^{1-D} $, {\bf vanishing}
+pressure and $\gamma = 1 $ (as cold matter). We find the back reaction effect
+of these strings on the spacetime and we take into account the quantum string
+decay through string splitting. This is achieved by considering {\bf
+self-consistently} the strings as matter sources for the Einstein equations, as
+well as for the complete effective string equations. String splitting
+exponentially suppress the density of unstable strings for large $R$. The
+self-consistent solution to the Einstein equations for string dominated
+universes exhibits the realistic matter dominated behaviour $ R \sim
+(X^0)^{2/(D-1)}\; $ for large times and the radiation dominated behaviour $ R
+\sim (X^0)^{2/D}\; $ for early times. De Sitter universe does not emerge as
+solution of the effective string equations. The effective string action
+(whatever be the dilaton, its potential and the central charge term) is not the
+appropriate framework in which to address the question of string driven
+inflation.
+\\

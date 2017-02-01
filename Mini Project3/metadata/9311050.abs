@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311050
+From: sch@cuphyg.phys.columbia.edu (Shailesh Chandrasekharan)
+Date: Mon, 8 Nov 1993 22:53:58 -0500   (14kb)
+
+Title: Anomaly Cancellation in 2+1 dimensions in the presence of a domainwall
+  mass
+Authors: Shailesh Chandrasekharan
+Comments: 17 pages, LaTex file, CU-TP-615
+Journal-ref: Phys.Rev. D49 (1994) 1980-1987
+\\
+  A Fermion in 2+1 dimensions, with a mass function which depends on one
+spatial coordinate and passes through a zero ( a domain wall mass), is
+considered. In this model, originally proposed by Callan and Harvey, the gauge
+variation of the effective gauge action mainly consists of two terms. One comes
+from the induced Chern-Simons term and the other from the chiral fermions,
+bound to the 1+1 dimensional wall, and they are expected to cancel each other.
+Though there exist arguments in favour of this, based on the possible forms of
+the effective action valid far from the wall and some facts about theories of
+chiral fermions in 1+1 dimensions, a complete calculation is lacking. In this
+paper we present an explicit calculation of this cancellation at one loop valid
+even close to the wall. We show that, integrating out the ``massive'' modes of
+the theory does produce the Chern-Simons term, as appreciated previously. In
+addition we show that it generates a term that softens the high energy
+behaviour of the 1+1 dimensional effective chiral theory thereby resolving an
+ambiguity present in a general 1+1 dimensional theory.
+\\

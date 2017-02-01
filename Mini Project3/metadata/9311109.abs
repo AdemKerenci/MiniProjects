@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311109
+From: Shahn Majid <majid@damtp.cambridge.ac.uk>
+Date: Thu, 18 Nov 93 18:05:08 GMT   (27kb)
+Date (revised): Thu, 25 Nov 93 17:05:19 GMT
+Date (revised): Sun, 5 Dec 93 13:12:55 GMT
+
+Title: Lie Algebras and Braided Geometry
+Author: Shahn Majid
+Comments: 19 pages (corrected title)
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We show that every Lie algebra or superLie algebra has a canonical braiding
+on it, and that in terms of this its enveloping algebra appears as a flat space
+with braided-commuting coordinate functions. This also gives a new point of
+view about $q$-Minkowski space which arises in a similar way as the enveloping
+algebra of the braided Lie algebra $gl_{2,q}$. Our point of view fixes the
+signature of the metric on $q$-Minkowski space and hence also of ordinary
+Minkowski space at $q=1$. We also describe an abstract construction for
+left-invariant integration on any braided group.
+\\

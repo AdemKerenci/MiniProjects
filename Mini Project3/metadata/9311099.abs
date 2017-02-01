@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311099
+From: kjsch@qft.physik.uni-leipzig.d400.de
+Date: Wed, 17 Nov 1993 20:11:17 +0100   (8kb)
+
+Title: Nonlocal QED admits a finitely induced gauge field action
+Authors: K. Scharnhorst
+Comments: 10 pages LATEX
+Journal-ref: Proc.Roy.Soc.Lond. A451 (1995) 571-577; Erratum-ibid. A452 (1996)
+  1503
+\\
+  The Letter reconsiders a result obtained by Chr\'etien and Peierls in 1954
+within nonlocal QED in 4D [Proc. Roy. Soc. London A 223, 468]. Starting from
+secondly quantized fermions subject to a nonlocal action with the kernel $[
+i\not\partial_x a(x) - m b(x)]$ and gauge covariantly coupled to an external
+U(1) gauge field they found that for $a = b$ the induced gauge field action
+cannot be made finite irrespectively of the choice of the nonlocality $a$ $(=
+b)$. But, the general case $a \neq b$ naturally to be studied admits a finitely
+induced gauge field action, as the present Letter demonstrates.
+\\

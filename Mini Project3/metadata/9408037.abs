@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408037
+From: jurisich@gnumath.rutgers.edu (Elizabeth Jurisich)
+Date: Fri, 5 Aug 94 15:52:06 EDT   (32kb)
+
+Title: Realizations of the Monster Lie algebra
+Author: Elizabeth Jurisich, James Lepowsky and R. L. Wilson
+Comments: 32 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We study aspects of the theory of generalized Kac-Moody Lie algebras (or
+Borcherds algebras) and their standard modules. It is shown how such an algebra
+with no mutually orthogonal imaginary simple roots, including Borcherds'
+Monster Lie algebra $\frak m$, can be naturally constructed from a certain
+Kac-Moody subalgebra and a module for it. We observe that certain generalized
+Verma (induced) modules for generalized Kac-Moody algebras are standard modules
+and hence irreducible. In particular, starting from the moonshine module for
+the Monster group $M$, we construct a certain $\{frak gl}_2$- and $M$-module,
+the tensor algebra over which carries a natural structure of irreducible module
+for $\frak m$, which is realized as an explicitly prescribed $M$-covariant Lie
+algebra of operators on this tensor algebra. The existence of large free
+subalgebras of $\frak m$ is further exploited to provide a simplification of
+Borcherds' proof of the Conway-Norton conjectures for the McKay-Thompson series
+of the moonshine module. The coefficients of these series are shown to satisfy
+natural recursion relations (replication formulas) equivalent to, but different
+from, those obtained by Borcherds.
+\\

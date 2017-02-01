@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410083
+From: morchio@morchio.difi.unipi.it
+Date: Wed, 12 Oct 94 09:22:09 EST   (14kb)
+
+Title: Spectral stochastic processes arising in quantum mechanical models with
+  a non-L2 ground state
+Authors: J.Loffelholz, G.Morchio, F.Strocchi
+Comments: 15 pages, Plain Tex
+Report-no: Preprint IFUP-TH 55/94
+Subj-class: High Energy Physics - Theory; Functional Analysis
+Journal-ref: Lett. Math. Phys. 35 (1995) 251-262
+\\
+  A functional integral representation is given for a large class of quantum
+mechanical models with a non--L2 ground state. As a prototype the particle in a
+periodic potential is discussed: a unique ground state is shown to exist as a
+state on the Weyl algebra, and a functional measure (spectral stochastic
+process) is constructed on trajectories taking values in the spectrum of the
+maximal abelian subalgebra of the Weyl algebra isomorphic to the algebra of
+almost periodic functions. The thermodynamical limit of the finite volume
+functional integrals for such models is discussed, and the superselection
+sectors associated to an observable subalgebra of the Weyl algebra are
+described in terms of boundary conditions and/or topological terms in the
+finite volume measures.
+\\

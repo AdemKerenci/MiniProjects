@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403026
+From: GERVAIS Jean-Loup <gervais@physique.ens.fr>
+Date: Fri, 4 Mar 1994 14:57:37 +0100   (66kb)
+
+Title: Solving the Strongly Coupled 2D Gravity: 2. Fractional-Spin Operators,
+  and Topological Three-Point Functions
+Authors: Jean-Loup Gervais, Jean-Francois Roussel
+Comments: 45 pages Latex file, 14 figures (uuencoded)
+Report-no: LPTENS-94/01
+Journal-ref: Nucl.Phys. B426 (1994) 140-186
+\\
+  Progress along the line of a previous article are reported. One main point is
+to include chiral operators with fractional quantum group spins (fourth or
+sixth of integers) which are needed to achieve modular invariance. We extend
+the study of the chiral bootstrap (recently completed by E. Cremmer, and the
+present authors) to the case of semi-infinite quantum-group representations
+which correspond to positive integral screening numbers. In particular, we
+prove the Bidenharn-Elliot and Racah identities for q-deformed 6-j symbols
+generalized to continuous spins. The decoupling of the family of physical
+chiral operators (with real conformal weights) at the special values
+C_{Liouville}= =7, 13, and 19, is shown to provide a full solution of Moore and
+Seiberg's equations, only involving operators with real conformal weights.
+Moreover, our study confirms the existence of the strongly coupled topological
+models. The three-point functions are shown to be given by a product of leg
+factors similar to the ones of the weakly coupled models. However, contrary to
+this latter case, the equality between the quantum group spins of the
+holomorphic and antiholomorphic components is not preserved by the local vertex
+operator. Thus the ``c=1'' barrier appears as connected with a deconfinement of
+chirality.
+\\

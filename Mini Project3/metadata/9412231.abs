@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412231
+From: boenkost@math.uni-frankfurt.de
+Date: Thu, 29 Dec 1994 12:31:20 +0100 (MEZ)   (84kb)
+
+Title: Vertex--Operatoren, Darstellungen der Virasoro--Algebra und konforme
+  Quantenfeldtheorie
+Author: Wolfram Boenkost
+Comments: 118 pages (german) latex
+\\
+  In this work we describe the mathematical foundations used in the
+construction of primary fields of minimal models of conformal field theory. The
+work contains two parts: In the first part we give a description of Verma and
+Fock modules for the Virasoro algebra and develop their imbedding patterns.
+This part is a simplification of the work of Feigin and Fuks (we correct a
+mistake in their patterns in the case III_+), Rocha-Charidi and some new ideas
+which yield a simplification of the original papers. In the second part we
+define (free) vertex operators as unbounded Hilbert space operators, acting on
+Fock spaces, which are Virasoro modules. We prove several properties of these
+operators: under appropriate conditions vertex operators are densely defined,
+not closable operators. Radially ordered products of vertex operators exists on
+a dense subset. We prove commutation relations between vertex operators and
+elements of the Virasoro algebra. Next we define, following the (non rigouros)
+work of G. Felder, integrated vertex operators and prove that these operators
+resemble the properties of the not integrated vertex operators. Special
+integrated vertex operators can be identified with conformal fields and a
+Virasoro invariant subspace of Fock space can be identified with the physical
+Hilbert space for the conformal theory.
+\\

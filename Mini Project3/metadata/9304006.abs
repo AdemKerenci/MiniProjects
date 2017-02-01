@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304006
+From: def@BOURBAKI.MIT.EDU
+Date: Fri, 2 Apr 93 16:52:13 EST   (60kb)
+
+Title: Contact Terms and Duality Symmetry in The Critical Dissipative
+  Hofstadter Model
+Authors: Denise E. Freed
+Comments: 65 pages, six figures, CTP#2170
+Journal-ref: Nucl. Phys. B409 (1993) 565
+\\
+  The dissipative Hofstadter model describes the quantum mechanics of a charged
+particle in two dimensions subject to a periodic potential, uniform magnetic
+field, and dissipative force. Its phase diagram exhibits an SL(2,Z) duality
+symmetry and has an infinite number of critical circles in the
+dissipation/magnetic field plane. In addition, multi-critical points on a
+particular critical circle correspond to non-trivial solutions of open string
+theory. The duality symmetry is expected to provide relations between
+correlation functions at different multi-critical points. Many of these
+correlators are contact terms. However we expect them to have physical
+significance because under duality they transform into functions that are
+non-zero for large separations of the operators. Motivated by the search for
+exact, regulator independent solutions for these contact terms, in this paper
+we derive many properties and symmetries of the coordinate correlation
+functions at the special multi-critical points. In particular, we prove that
+the correlation functions are homogeneous, piecewise-linear functions of the
+momenta, and we prove a weaker version of the anticipated duality
+transformation. Consequently, the possible forms of the correlation functions
+are limited to lie in a finite dimensional linear space. We treat the potential
+perturbatively and these results are valid to all orders in perturbation
+theory.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411083
+From: vadik@math.sunysb.edu (Vadim Schechtman)
+Date: Fri, 11 Nov 94 10:32:53 EST   (10kb)
+Date (revised): Mon, 14 Nov 94 10:37:11 EST
+Date (revised): Thu, 22 Dec 94 08:30:20 EST
+
+Title: Local systems over complements of hyperplanes and the Kac-Kazhdan
+  conditions for singular vectors.
+Authors: V.Schechtman, H.Terao, A.Varchenko
+Comments: 10 pages, latex. A small error and a title in the bibliography are
+  corrected.
+Subj-class: High Energy Physics - Theory; Algebraic Geometry; Quantum Algebra
+Journal-ref: J. Pure Appl. Algebra 100 (1995) 93
+\\
+  In this note we strenghten a theorem by Esnault-Schechtman-Viehweg which
+states that one can compute the cohomology of a complement of hyperplanes
+in a complex affine space with coefficients in a local system using only
+logarithmic global differential forms, provided certain "Aomoto non-resonance
+conditions" for monodromies are fulfilled at some "edges" (intersections of
+hyperplanes). We prove that it is enough to check these conditions on a smaller
+subset of edges.
+   We show that for certain known one dimensional local systems over
+configuration spaces of points in a projective line defined by a root system
+and a finite set of affine weights (these local systems arise in the geometric
+study of Knizhnik-Zamolodchikov differential equations), the Aomoto resonance
+conditions at non-diagonal edges coincide with Kac-Kazhdan conditions of
+reducibility of Verma modules over affine Lie algebras.
+\\

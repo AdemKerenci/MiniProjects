@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411117
+From: andrasi@thphys.irb.hr (Andjelka Andrasi)
+Date: Wed, 16 Nov 94 13:23:43 +0100   (4kb)
+
+Title: New Features of the Mandelstam-Leibbrandt Lightcone Gauge
+Author: A. Andrasi
+Comments: 6 pages, tex, two figures not included
+Report-no: RBI-TH-12/94
+\\
+  This is about new unexpected features of the Mandestam-Leibbrandt
+prescription found as applied to spacelike Wilson lines. The regularization
+parameter $ \omega $ in the M-L denominator for the spurious poles has to be
+kept throughout the calculation till the very end or else the integrals do not
+make sense. We get various `ambiguous' terms of the form $ \omega
+^{-{\epsilon\over2}} \epsilon^{-2} $ which are not controlled by any sort of
+Ward identity. These terms cancel out in the sum and the final result is
+independent of $ \omega $. However, for the self energy on the spacelike Wilson
+line we obtain an unexpected double pole at $ \epsilon=0 $, using dimensional
+regularization in $ 4-\epsilon $ dimensions.
+\\

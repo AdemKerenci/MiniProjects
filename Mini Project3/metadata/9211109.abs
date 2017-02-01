@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211109
+From: deboer@ruunte.fys.ruu.nl (Jan de Boer)
+Date: Tue, 24 Nov 92 16:28:20 GMT   (46kb)
+
+Title: Representation theory of finite W algebras
+Authors: Jan de Boer and Tjark Tjin
+Comments: 62 pages, THU-92/32, ITFA-28-92
+Journal-ref: Commun. Math. Phys. 158 (1993) 485-516
+\\
+  In this paper we study the finitely generated algebras underlying $W$
+algebras. These so called 'finite $W$ algebras' are constructed as Poisson
+reductions of Kirillov Poisson structures on simple Lie algebras. The
+inequivalent reductions are labeled by the inequivalent embeddings of $sl_2$
+into the simple Lie algebra in question. For arbitrary embeddings a coordinate
+free formula for the reduced Poisson structure is derived. We also prove that
+any finite $W$ algebra can be embedded into the Kirillov Poisson algebra of a
+(semi)simple Lie algebra (generalized Miura map). Furthermore it is shown that
+generalized finite Toda systems are reductions of a system describing a free
+particle moving on a group manifold and that they have finite $W$ symmetry. In
+the second part we BRST quantize the finite $W$ algebras. The BRST cohomology
+is calculated using a spectral sequence (which is different from the one used
+by Feigin and Frenkel). This allows us to quantize all finite $W$ algebras in
+one stroke. Explicit results for $sl_3$ and $sl_4$ are given. In the last part
+of the paper we study the representation theory of finite $W$ algebras. It is
+shown, using a quantum version of the generalized Miura transformation, that
+the representations of finite $W$ algebras can be constructed from the
+representations of a certain Lie subalgebra of the original simple Lie algebra.
+As a byproduct of this we are able to construct the Fock realizations of
+arbitrary finite $W$ algebras.
+\\

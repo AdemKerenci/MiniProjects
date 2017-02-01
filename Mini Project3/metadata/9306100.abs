@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306100
+From: ocouss@ulb.ac.be (Coussaert Olivier)
+Date: Mon, 21 Jun 93 11:58:59 MDT   (6kb)
+
+Title: Ghosts of ghosts for second class constraints
+Authors: M. Henneaux
+Comments: 7 pages in LaTex, ULB-PMIF/93-02
+Journal-ref: Phys.Lett. B315 (1993) 283-286
+\\
+  When one uses the Dirac bracket, second class constraints become first class.
+Hence, they are amenable to the BRST treatment characteristic of ordinary first
+class constraints. This observation is the starting point of a recent
+investigation by Batalin and Tyutin, in which all the constraints are put on
+the same footing. However, because second class constraints identically vanish
+as operators in the quantum theory, they are quantum-mechanically reducible and
+require therefore ghosts of ghosts. Otherwise, the BRST cohomology would not
+yield the correct physical spectrum. We discuss how to incorporate this feature
+in the formalism and show that it leads to an infinite tower of ghosts of
+ghosts. An alternative treatment, in which the brackets of the ghosts are
+modified, is also mentioned.
+\\

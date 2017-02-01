@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411031
+From: Raimund Varnhagen <UNP034@IBM.RHRZ.UNI-BONN.DE>
+Date: Fri, 04 Nov 94 14:00:18 MEZ   (15kb)
+
+Title: Topology and Fractional Quantum Hall Effect
+Author: Raimund Varnhagen
+Comments: 15 pages, latex, no figures
+Report-no: BONN-TH-94-22
+Journal-ref: Nucl. Phys. B443 (1995) 501-515
+\\
+  Starting from Laughlin type wave functions with generalized periodic boundary
+conditions describing the degenerate groundstate of a quantum Hall system we
+explictly construct $r$ dimensional vector bundles. It turns out that the
+filling factor $\nu$ is given by the topological quantity $c_1 \over r$ where
+$c_1$ is the first chern number of these vector bundles. In addition, we
+managed to proof that under physical natural assumptions the stable vector
+bundles correspond to the experimentally dominating series of measured
+fractional filling factors $\nu = {n \over 2pn\pm 1}$. Most remarkably, due to
+the very special form of the Laughlin wave functions the fluctuations of the
+curvature of these vector bundles converge to zero in the limit of infinitely
+many particles which shows a new mathematical property. Physically, this means
+that in this limit the Hall conductivity is independent of the boundary
+conditions which is very important for the observabilty of the effect. Finally
+we discuss the relation of this result to a theorem of Donaldson.
+\\

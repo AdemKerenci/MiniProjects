@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310104
+From: khare@iopb.ernet.in
+Date: Sat Oct 16 10:28:59 1993   (9kb)
+
+Title: Supersymmetry,Shape Invariance and Exactly Solvable Noncentral
+  Potentials
+Authors: Avinash Khare (Institute of Physics, Bhubaneswar, India) and Rajat K.
+  Bhaduri (Mcmaster Univ., Hamilton, Canada)
+Comments: 16 pages
+Report-no: IP-BBSR/93-65
+Journal-ref: Am.J.Phys. 62 (1994) 1008-1014
+\\
+  Using the ideas of supersymmetry and shape invariance we show that the
+eigenvalues and eigenfunctions of a wide class of noncentral potentials can be
+obtained in a closed form by the operator method. This generalization
+considerably extends the list of exactly solvable potentials for which the
+solution can be obtained algebraically in a simple and elegant manner. As an
+illustration, we discuss in detail the example of the potential
+$$V(r,\theta,\phi)={\omega^2\over 4}r^2 + {\delta\over r^2}+{C\over r^2
+sin^2\theta}+{D\over r^2 cos^2\theta} + {F\over r^2 sin^2\theta sin^2
+\alpha\phi} +{G\over r^2 sin^2\theta cos^2\alpha\phi}$$ with 7 parameters.Other
+algebraically solvable examples are also given.
+\\

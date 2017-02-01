@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306018
+From: Philippe Di Francesco <philippe@amoco.saclay.cea.fr>
+Date: 03 Jun 93 16:14:33+0200   (45kb)
+
+Title: Graph Rings and Integrable Perturbations of $N=2$ Superconformal
+  Theories
+Authors: P. Di Francesco, F. Lesage and J.-B. Zuber
+Comments: 44 pages, uuencoded, compressed tar file using harvmac and epsf, four
+  figures included, Saclay preprint SPhT 93/057
+Journal-ref: Nucl.Phys. B408 (1993) 600-634
+\\
+  We show that the connection between certain integrable perturbations of $N=2$
+superconformal theories and graphs found by Lerche and Warner extends to a
+broader class. These perturbations are such that the generators of the
+perturbed chiral ring may be diagonalized in an orthonormal basis. This allows
+to define a dual ring, whose generators are labelled by the ground states of
+the theory and are encoded in a graph or set of graphs, that reproduce the
+pattern of the ground states and interpolating solitons. All known
+perturbations of the $ADE$ potentials and some others are shown to satisfy this
+criterion. This suggests a test of integrability.
+\\

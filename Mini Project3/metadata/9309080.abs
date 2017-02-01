@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309080
+From: Francois=Vanderseypen%TF%FYS@cc3.kuleuven.ac.be
+Date: Tue, 14 Sep 93 17:52:28 CET   (5kb)
+
+Title: A Noncommutative Note on the Antibracket Formalism
+Authors: F. Vanderseypen
+Comments: 5 pages, LaTeX, Leuven KUL-TF-93/38
+\\
+  We introduce a noncommutative calculus on the odd-symplectic superspace
+$\scri$ of fields and antifields. To this end we have to extend $\scri$ to
+$\exscri$ by including an extra anticommuting field $\eta$. As a consequence we
+show that the commutator induced on $\exnice\times T^\star(\exnice)$ is
+proportional to the antibracket. The $\Delta$-operator is an element of the
+quotient space of derivations twisted by the antibracket $A\der$ and $\der$.
+The natural measure on $\exscri$ is shown to be invariant under canonical
+transformations provided a certain 'wave equation' is satisfied.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307194
+From: visser@kiwi.wustl.edu (Matt Visser)
+Date: Fri, 30 Jul 93 14:02:47 GMT-0600   (15kb)
+
+Title: Dirty black holes: Entropy as a surface term
+Authors: Matt Visser
+Comments: Plain LaTeX. 19 pages
+Report-no: WashU-HEP-93/71
+Journal-ref: Phys.Rev. D48 (1993) 5697-5705
+\\
+  It is by now clear that the naive rule for the entropy of a black hole,
+{entropy} = 1/4 {area of event horizon}, is violated in many interesting cases.
+Indeed, several authors have recently conjectured that in general the entropy
+of a dirty black hole might be given purely in terms of some surface integral
+over the event horizon of that black hole. A formal proof of this conjecture,
+using Lorentzian signature techniques, has recently been provided by Wald. This
+note performs two functions. Firstly, a rather different proof of this result
+is presented --- a proof based on Euclidean signature techniques. The total
+entropy is S = 1/4 {k A_H / l_P^2} + \int_H {S} \sqrt{g} d^2x. The integration
+runs over a spacelike cross-section of the event horizon H. The surface entropy
+density, {S}, is related to the behaviour of the matter Lagrangian under time
+dilations.  Secondly, I shall consider the specific case of Einstein-Hilbert
+gravity coupled to an effective Lagrangian that is an arbitrary function of the
+Riemann tensor (though not of its derivatives). In this case a more explicit
+result is obtained S = 1/4 {k A_H / l_P^2} + 4 pi {k/hbar} \int_H {partial L /
+partial R_{\mu\nu\lambda\rho}} g^\perp_{\mu\lambda} g^\perp_{\nu\rho} \sqrt{g}
+d^2x . The symbol $g^\perp_{\mu\nu}$ denotes the projection onto the
+two-dimensional subspace orthogonal to the event horizon.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403117
+From: Manuel Asorey <asorey@saturno.unizar.es>
+Date: Sat, 19 Mar 94 20:03:34 +0100   (62kb)
+Date (revised): Mon, 21 Mar 94 19:54:12 +0100
+Date (revised): Sat, 19 May 2001 12:24:31 GMT
+
+Title: Universalty and Ultraviolet Regularizations of Chern-Simons Theory
+Authors: M. Asorey, F. Falceto, J.L. Lopez and G. Luzon
+Comments: 34 pages, harvmac, no changes, 6 Postscript figures (now included)
+Report-no: DFTUZ 93.10
+Journal-ref: Nucl.Phys. B429 (1994) 344-374
+\\
+  The universality of radiative corrections to the gauge coupling constant $k$
+of Chern-Simons theory is studied in a very general regularization scheme. We
+show that the effective coupling constant $k$ induced by radiative corrections
+depends crucially on the balance between the ultraviolet behavior of scalar and
+pseudoscalar terms in the regularized action. There are three different
+regimes. When the ultraviolet leading term is scalar the coupling $k$ is
+shifted to $k+h^{\vee}$.However, if the leading term is pseudoscalar the shift
+is $k+s h^{\vee}$ with $s=0$ or $s=2$ depending on the sign of such a term. In
+the borderline case when the scalar and pseudoscalar terms have the same
+ultraviolet behavior the shift of $k$ becomes arbitrary (even non-integer) and
+depends on the parameters of the regularization. We also show that the
+coefficient of the induced gravitational Chern-Simons term is different for the
+three regimes and has the same universality properties than the effective
+coupling constant $k$. The results open the possibility of a connection with
+non-rational two-dimensional conformal theories in the borderline regime.
+\\

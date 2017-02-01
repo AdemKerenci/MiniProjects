@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309137
+From: nakanisi@string.harvard.edu (Tomoki Nakanisi)
+Date: Sun, 26 Sep 93 14:03:51 -0400   (87kb)
+Date (revised): Wed, 13 Oct 93 14:56:23 -0400
+Date (revised): Sat, 28 May 1994 14:56:38 -0400
+
+Title: Functional Relations in Solvable Lattice Models I: Functional Relations
+  and Representation Theory
+Authors: A.Kuniba, T. Nakanishi, and J.Suzuki
+Comments: 58 pages, 16 eps figures, harvamc.tex epsf.tex (minor corrections, no
+  change in the result)
+Report-no: HUTP-93/A022
+Journal-ref: Int.J.Mod.Phys. A9 (1994) 5215-5266
+\\
+  We study a system of functional relations among a commuting family of
+row-to-row transfer matrices in solvable lattice models. The role of exact
+sequences of the finite dimensional quantum group modules is clarified. We find
+a curious phenomenon that the solutions of those functional relations also
+solve the so-called thermodynamic Bethe ansatz equations in the high
+temperature limit for $sl(r+1)$ models.  Based on this observation, we propose
+possible functional relations for models associated with all the simple Lie
+algebras.  We show that these functional relations certainly fulfill strong
+constraints coming from the fusion procedure analysis.  The application to the
+calculations of physical quantities will be presented in the subsequent
+publication.
+\\

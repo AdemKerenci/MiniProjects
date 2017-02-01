@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307133
+From: TEMPLE@Vax2.Concordia.CA
+Date: Wed, 21 Jul 1993 07:47:15 -0500 (EST)   (8kb)
+
+Title: Quantization of Bogomol'nyi soliton dynamics
+Authors: M. Temple-Raston
+Comments: 9 pages, Plain TeX, 2 figures (not included), CON-93-1
+\\
+  We approximate analytically the semi-classical differential cross-section for
+low-energy solitonic BPS SU(2) magnetic monopoles using the geodesic
+approximation. The semi-classical scattering amplitude, f(\theta), can be
+expressed as a conditionally convergent infinite series which is made
+absolutely convergent by analytic continuation of the generalised zeta
+function. Our results suggest that the classical solitonic cross-section
+(computed numerically in hep-th:9209063) and the semi-classical cross-section
+are in good agreement over a wide range of scattering angles,
+\pi/3<\theta<\pi/2 and \pi/2<\theta<2\pi/3.
+\\

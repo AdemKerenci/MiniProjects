@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403135
+From: Pavel Etingof <etingof@math.harvard.edu>
+Date: Tue, 22 Mar 1994 15:01:52 -0500   (16kb)
+
+Title: Algebraic integrability of Schr\"odinger operators and representations
+  of Lie algebras
+Author: Pavel Etingof and Kostantin Styrkas
+Comments: 19 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  In this paper we study integrability and algebraic integrability properties
+of certain matrix Schr\"odinger operators. More specifically, we associate such
+an operator (with rational, trigonometric, or elliptic coefficients) to every
+simple Lie algebra g and every representation U of this algebra with a nonzero
+but finite dimensional zero weight subspace. The Calogero-Sutherland operator
+is a special case of this construction. Such an operator is always integrable.
+Our main result is that it is also algebraically integrable in the rational and
+trigonometric case if the representation U is highest weight. This generalizes
+the corresponding result for Calogero-Sutherland operators proved by Chalyh and
+Vaselov. We also conjecture that this is true for the elliptic case as well,
+which is a generalization of the corresponding conjecture by Chalyh and Vaselov
+for Calogero-Sutherland operators.
+\\

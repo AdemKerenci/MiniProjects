@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406169
+From: YUTAKA@mnhep1.hep.umn.edu (YUTAKA HOSOTANI)
+Date: Fri, 24 Jun 1994 16:01:55 -0500 (CDT)   (21kb)
+
+Title: The Energy Density in the Maxwell-Chern-Simons Theory
+Authors: Denne Wesolowski, Yutaka Hosotani and Sumantra Chakravarty
+Comments: 19 pages (plain Tex), 12 figures not included, UMN-TH-1246/94
+Journal-ref: Phys.Rev. D50 (1994) 7624-7637
+\\
+  A two-dimensional nonrelativistic fermion system coupled to both
+electromagnetic gauge fields and Chern-Simons gauge fields is analysed.
+Polarization tensors relevant in the quantum Hall effect and anyon
+superconductivity are obtained as simple closed integrals and are evaluated
+numerically for all momenta and frequencies. The correction to the energy
+density is evaluated in the random phase approximation (RPA), by summing an
+infinite series of ring diagrams. It is found that the correction has
+significant dependence on the particle number density.
+  In the context of anyon superconductivity, the energy density relative to the
+mean field value is minimized at a hole concentration per lattice plaquette
+(0.05 \sim 0.06) (p_c a/\hbar)^2 where p_c and a are the momentum cutoff and
+lattice constant, respectively. At the minimum the correction is about -5 %
+\sim -25 %, depending on the ratio (2m \omega_c)/(p_c^2) where \omega_c is the
+frequency cutoff.
+  In the Jain-Fradkin-Lopez picture of the fractional quantum Hall effect the
+RPA correction to the energy density is very large. It diverges logarithmically
+as the cutoff is removed, implying that corrections beyond RPA become important
+at large momentum and frequency.
+\\

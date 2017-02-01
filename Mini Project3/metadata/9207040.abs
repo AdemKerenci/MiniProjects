@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207040
+From: RAVANINI@bologna.infn.it
+Date: Mon, 13 JUL 92 18:33 GMT   (21kb)
+
+Title: Dynkin TBA's
+Authors: F.Ravanini, R.Tateo and A.Valleriani
+Comments: 29 pages, Latex (no macros) DFUB-92-11, DFTT-31/92
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 1707-1728
+\\
+  We prove a useful identity valid for all $ADE$ minimal S-matrices, that
+clarifies the transformation of the relative thermodynamic Bethe Ansatz (TBA)
+from its standard form into the universal one proposed by Al.B.Zamolodchikov.
+By considering the graph encoding of the system of functional equations for the
+exponentials of the pseudoenergies, we show that any such system having the
+same form as those for the $ADE$ TBA's, can be encoded on $A,D,E,A/Z_2$ only.
+This includes, besides the known $ADE$ diagonal scattering, the set of all
+$SU(2)$ related {\em magnonic} TBA's. We explore this class sistematically and
+find some interesting new massive and massless RG flows. The generalization to
+classes related to higher rank algebras is briefly presented and an intriguing
+relation with level-rank duality is signalled.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305158
+From: Boris Spokoiny <BORIS%JPNYITP.BITNET@pucc.Princeton.EDU>
+Date: Fri, 28 May 93 16:34:22 JST   (9kb)
+Date (revised): Fri, 04 Jun 93 20:29:21 JST
+Date (revised): Sat, 05 Jun 93 16:16:22 JST
+
+Title: Stochastic Approach to a non de Sitter Inflation
+Authors: Boris Spokoiny
+Comments: 18p. Plain TeX,phyzzx. (We added a reference file which was
+  previously missed)
+Report-no: KUNS-1192
+\\
+  We develop a stochastic approach to a non de Sitter Universe in a
+gauge-invariant way and obtain a system of Langevin-type equations which may be
+considered to be renormalization group equations for the long wave parts of the
+scalar fields and metric. We investigate in detail the case of generalized
+power-law inflation that appears in the model of the deflationary exit from the
+inflationary stage. For this case the above system is simplified greatly, we
+derive a Fokker-Planck equation for the scalar field driving inflation, find
+its stationary solutions and solve the FP equation for a delta-function initial
+distribution of the field.
+\\

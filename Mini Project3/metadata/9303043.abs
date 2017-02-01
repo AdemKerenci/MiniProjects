@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303043
+From: NEPOMECHIE%PHYVAX@ren.IR.Miami.EDU
+Date: 08 Mar 1993 10:08:32 -0500 (EST)   (14kb)
+Date (revised): 31 Mar 1993 13:47:46 -0500 (EST)
+
+Title: Thermodynamics of Integrable Chains with Alternating Spins
+Authors: H.J. de Vega, Luca Mezincescu and Rafael I. Nepomechie
+Comments: 10 pages (change in the speed of sound by a factor of 2, implying
+  central charge c_{vir} = 2)
+Report-no: LPTHE-PAR 93-09, UMTG-171
+Journal-ref: Phys.Rev. B49 (1994) 13223-13226
+\\
+  We consider a two-parameter $(\bar c, \tilde c)$ family of quantum integrable
+Hamiltonians for a chain of alternating spins of spin $s=1/2$ and $s=1$. We
+determine the thermodynamics for low-temperature $T$ and small external
+magnetic field $H$, with $T << H$. In the antiferromagnetic $(\bar c > 0,
+\tilde c > 0)$ case, the model has two gapless excitations. In particular, for
+$\bar c = \tilde c$, the model is conformally invariant and has central charge
+$c_{vir} = 2$. When one of these parameters is zero, the Bethe Ansatz equations
+admit an infinite number of solutions with lowest energy.
+\\

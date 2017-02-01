@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312045
+From: Francesco.TOPPAN@enslapp.ens-lyon.fr (Francesco TOPPAN)
+Date: Mon, 6 Dec 93 22:46:46 +0100   (13kb)
+Date (revised): Tue, 7 Dec 93 18:46:11 +0100
+
+Title: Generalized NLS Hierarchies from Rational $W$ Algebras
+Authors: Francesco Toppan
+Comments: 12 pages, latex, preprint ENSLAPP-L-448/93
+Journal-ref: Phys. Lett. B327 (1994) 249
+\\
+  Finite rational $\cw$ algebras are very natural structures appearing in coset
+constructions when a Kac-Moody subalgebra is factored out. In this letter we
+address the problem of relating these algebras to integrable hierarchies of
+equations, by showing how to associate to a rational $\cw$ algebra its
+corresponding hierarchy. We work out two examples: the $sl(2)/U(1)$ coset,
+leading to the Non-Linear Schr\"{o}dinger hierarchy, and the $U(1)$ coset of
+the Polyakov-Bershadsky $\cw$ algebra, leading to a $3$-field representation of
+the KP hierarchy already encountered in the literature. In such examples a
+rational algebra appears as algebra of constraints when reducing a KP hierarchy
+to a finite field representation. This fact arises the natural question whether
+rational algebras are always associated to such reductions and whether a
+classification of rational algebras can lead to a classification of the
+integrable hierarchies.
+\\

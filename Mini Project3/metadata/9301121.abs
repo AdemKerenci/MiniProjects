@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301121
+From: Sanjaye Ramgoolam <skr@waldzell.physics.yale.edu>
+Date: Thu, 28 Jan 93 22:00:30 -0500   (19kb)
+Date (revised): Thu, 18 Feb 93 14:26:02 -0500
+
+Title: New Modular Hopf Algebras related to rational $k$ $\widehat {sl(2)}$
+Author: Sanjaye Ramgoolam
+Comments: 30 pages (minor typos corrected, refs added)
+Report-no: YCTP-P2-93
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We show that the Hopf link invariants for an appropriate set of finite
+dimensional representations of $ U_q SL(2)$ are identical, up to overall
+normalisation, to the modular S matrix of Kac and Wakimoto for rational $k$
+$\widehat {sl(2)}$ representations. We use this observation to construct new
+modular Hopf algebras, for any root of unity $q=e^{-i\pi m/r}$, obtained by
+taking appropriate quotients of $U_q SL(2)$, that give rise to 3-manifold
+invariants according to the approach of Reshetikin and Turaev. The phase factor
+correcting for the `framing anomaly' in these invariants is equal to $ e^{- {{i
+\pi} \over 4} ({ {3k} \over {k+2}})}$, an analytic continuation of the anomaly
+at integer $k$. As expected, the Verlinde formula gives fusion rule
+multiplicities in agreement with the modular Hopf algebras. This leads to a
+proposal, for $(k+2)=r/m$ rational with an odd denominator, for a set of
+$\widehat {sl(2)}$ representations obtained by dropping some of the highest
+weight representations in the Kac-Wakimoto set and replacing them with lowest
+weight representations. For this set of representations the Verlinde formula
+gives non-negative integer fusion rule multiplicities. We discuss the
+consistency of the truncation to highest and lowest weight representations in
+conformal field theory.
+\\

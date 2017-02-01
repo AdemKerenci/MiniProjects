@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308152
+From: ALLARSEN@nbivax.nbi.dk
+Date: Tue, 31 Aug 1993 12:58:52 +0200   (8kb)
+
+Title: On String Tunneling in Power Law Inflationary Universes
+Authors: A.L. Larsen and Minos Axenides
+Comments: Latex, 9 pages + 4 figures (not included), NBI-HE-93-50
+Journal-ref: Phys. Lett. B318 (1993) 47-52
+\\
+  We consider the evolution of circular string loops in power law expanding
+universes represented by a spatially flat Friedman-Robertson-Walker metric with
+scale factor $a(t)\propto t^p$ where $t$ is the cosmic time and $p\geq 0$. Our
+main result is the existence of a "magic" power $p_m=3+2\sqrt{2}$. In
+spacetimes with $p<p_m$ a circular string expands either forever or to a
+maximal radius and then contracts until it collapses into a point (black hole).
+For $p>p_m$, however, we find additional types of solutions. They include
+configurations which contract from a positive initial radius to a minimal one
+and then expand forever. Their existence we interpret as an indication for the
+presence of a finite potential barrier. Equivalently the new solutions signal
+string nucleation and tunneling, phenomena recently shown to occur in de Sitter
+space.
+\\

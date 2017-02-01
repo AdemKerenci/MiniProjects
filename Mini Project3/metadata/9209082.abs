@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209082
+From: turbiner@vxcrna.cern.ch
+Date: Tue, 22 Sep 92 16:56:53 +0200   (16kb)
+
+Title: Lie-algebraic approach to the theory of polynomial solutions. III.
+  Differential equations in two real variables and general outlook
+Authors: Alexander Turbiner
+Comments: 28pp
+Report-no: ETH-TH/92-34
+Subj-class: High Energy Physics - Theory; Algebraic Geometry; Functional
+  Analysis
+\\
+  Classification theorems for linear differential equations in two real
+variables, possessing eigenfunctions in the form of the polynomials (the
+generalized Bochner problem) are given. The main result is based on the
+consideration of the eigenvalue problem for a polynomial elements of the
+universal enveloping algebras of the algebras
+  $sl_3({\bf R})$, $sl_2({\bf R})\oplus sl_2({\bf R})$
+ and
+  $gl_2 ({\bf R})\ \triangleright\!\!\!< {\bf R}^{r+1}\ , r>0$
+ taken in the "projectivized" representations (in differential operators of
+the first order in two real variables) possessing an invariant subspace.
+General insight to the problem of a description of linear  differential
+operators possessing an invariant sub-space with a basis in polynomials is
+presented. Connection to the recently-discovered quasi-exactly-solvable
+problems is discussed.
+\\

@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403098
+From: NAKAZAWA@nbivax.nbi.dk
+Date: Thu, 17 Mar 1994 13:48:51 +0100   (8kb)
+
+Title: Large Improved Wick Rotation Prescription in Stochastic Quantization of
+  Dissipative Systems
+Authors: Naohito Nakazawa and Eisaku Sakane
+\\
+  We apply Stochastic Quantization Method to dissipative systems at finite
+temperature. Especially, the relation of SQM to the Caldeira-Leggett model is
+clarified ensuring that the naive Wick rotation is improved in this context. We
+show that the Langevin system obtained by the \lq\lq Improved Wick Rotation "
+prescription is equivalent to an ideal friction case ( low temperature limit)
+in the C-L model. We derive, based on our approach, a general formula on the
+fluctuation-dissipation theorem for higher derivative frictions.
+\\

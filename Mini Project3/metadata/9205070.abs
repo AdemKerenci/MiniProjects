@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205070
+From: vadim@bolvan.ph.utexas.edu (Vadim S. Kaplunovsky)
+Date: Tue, 19 May 92 18:14:59 CDT   (14kb)
+
+Title: One-Loop Threshold Effects in String Unification
+Author: Vadim Kaplunovsky
+Comments: revised version. 17 pages, no figures. Uses phyzzx macropackage
+\\
+  Like grand unification of old, string unification predicts simple tree-level
+relations between the couplings of all unbroken gauge groups such as
+$SU(3)_C$ or $SU(2)_W\)$.  I show here how to compute one-loop corrections
+to these relations for any four-dimensional model based on a classical
+vacuum of the heterotic string.  The result can be used to calculate both
+$\sin^2\theta_W$ and $\Lambda_{\rm QCD}$ in terms of $\alpha_{\rm QED}$ and
+$\mpl\)$.
+  The original version of this paper was written in 1987 and published in
+Nuclear Physics in 1988.  That version had a few factor-of-two errors,
+which lead some people into confusion.  To avoid future confusion, I've
+written Errata; they are submitted separately to hep-th (article #9205068).
+This submission is the complete revised version of the paper.
+\\

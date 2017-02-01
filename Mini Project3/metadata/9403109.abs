@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403109
+From: elgradec@ERE.UMontreal.CA (El Gradechi Amine)
+Date: Fri, 18 Mar 94 11:44:38 -0500   (46kb)
+
+Title: Supercoherent States, Super K\"ahler Geometry and Geometric Quantization
+Authors: Amine M. El Gradechi and Luis M. Nieto
+Comments: 53 pages, AMS-LaTeX (or LaTeX+AMSfonts)
+Report-no: CRM-1876
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Commun.Math.Phys. 175 (1996) 521-564
+\\
+  Generalized coherent states provide a means of connecting square integrable
+representations of a semi-simple Lie group with the symplectic geometry of some
+of its homogeneous spaces. In the first part of the present work this point of
+view is extended to the supersymmetric context, through the study of the
+OSp(2/2) coherent states. These are explicitly constructed starting from the
+known abstract typical and atypical representations of osp(2/2). Their
+underlying geometries turn out to be those of supersymplectic OSp(2/2)
+homogeneous spaces. Moment maps identifying the latter with coadjoint orbits of
+OSp(2/2) are exhibited via Berezin's symbols. When considered within
+Rothstein's general paradigm, these results lead to a natural general
+definition of a super K\"ahler supermanifold, the supergeometry of which is
+determined in terms of the usual geometry of holomorphic Hermitian vector
+bundles over K\"ahler manifolds. In particular, the supergeometry of the above
+orbits is interpreted in terms of the geometry of Einstein-Hermitian vector
+bundles. In the second part, an extension of the full geometric quantization
+procedure is applied to the same coadjoint orbits. Thanks to the super K\"ahler
+character of the latter, this procedure leads to explicit super unitary
+irreducible representations of OSp(2/2) in super Hilbert spaces of $L^2$
+superholomorphic sections of prequantum bundles of the Kostant type. This work
+lays the foundations of a program aimed at classifying Lie supergroups'
+coadjoint orbits and their associated irreducible representations, ultimately
+leading to harmonic superanalysis. For this purpose a set of consistent
+conventions is exhibited.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404113
+From: Andreas Honecker <UNP06B@IBM.RHRZ.UNI-BONN.DE>
+Date: Tue, 19 Apr 94 12:16:23 MEZ   (15kb)
+
+Title: Unifying W-Algebras
+Authors: R. Blumenhagen, W. Eholzer, A. Honecker, K. Hornfeck, R. Huebel
+Comments: 13 pages (plain TeX); BONN-TH-94-01, DFTT-15/94
+Journal-ref: Phys.Lett. B332 (1994) 51-60
+\\
+  We show that quantum Casimir W-algebras truncate at degenerate values of the
+central charge c to a smaller algebra if the rank is high enough: Choosing a
+suitable parametrization of the central charge in terms of the rank of the
+underlying simple Lie algebra, the field content does not change with the rank
+of the Casimir algebra any more. This leads to identifications between the
+Casimir algebras themselves but also gives rise to new, `unifying' W-algebras.
+For example, the kth unitary minimal model of WA_n has a unifying W-algebra of
+type W(2,3,...,k^2 + 3 k + 1). These unifying W-algebras are non-freely
+generated on the quantum level and belong to a recently discovered class of
+W-algebras with infinitely, non-freely generated classical counterparts. Some
+of the identifications are indicated by level-rank-duality leading to a coset
+realization of these unifying W-algebras. Other unifying W-algebras are new,
+including e.g. algebras of type WD_{-n}. We point out that all unifying quantum
+W-algebras are finitely, but non-freely generated.
+\\

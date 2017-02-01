@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409068
+From: Alexander Turbiner <turbiner@teorica0.ifisicacu.unam.mx>
+Date: Mon, 12 Sep 94 12:30:59 -0500   (26kb)
+Date (revised): Wed, 12 Oct 94 09:24:54 -0500
+
+Title: Quasi-Exactly-Solvable Differential Equations
+Authors: Alexander Turbiner
+Comments: 33 pages, to appear as Chapter 12 in CRC Handbook of Lie Group
+  Analysis of Differential Equations, Vol. 3 : New Trends in Theoretical
+  Developments and Computational Methods, ed. N. H. Ibragimov, CRC Press, 1995
+Report-no: AMSLaTeX, IFUNAM FT 94-57
+Subj-class: High Energy Physics - Theory; Functional Analysis
+\\
+  A general classification of linear differential and finite-difference
+operators possessing a finite-dimensional invariant subspace with a polynomial
+basis is given. The main result is that any operator with the above property
+must have a representation as a polynomial element of the universal enveloping
+algebra of the algebra of differential (difference) operators in
+finite-dimensional representation. In one-dimensional case a classification is
+given by algebras $sl_2({\bold R})$ (for differential operators in ${\bold R}$)
+and $sl_2({\bold R})_q$ (for finite-difference operators in ${\bold R}$),
+$osp(2,2)$ (operators in one real and one Grassmann variable, or equivalently,
+$2 \times 2$ matrix operators in ${\bold R}$) and $gl_2 ({\bold R})_K$ ( for
+the operators containing the differential operators and the parity operator). A
+classification of linear operators possessing infinitely many
+finite-dimensional invariant subspaces with a basis in polynomials is
+presented.
+\\

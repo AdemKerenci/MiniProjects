@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211131
+From: Stanislav Pakuliak <pakuliak@kurims.kyoto-u.ac.jp>
+Date: Sun, 29 Nov 92 11:20:28 JST   (7kb)
+
+Title: Large\bf $ w_{1+\infty} $--type constraints in two--matrix and
+  Kontsevich model--different approach
+Authors: N.L.Khviengia
+Comments: LaTeX, 8p
+\\
+  The technique of $Q$-polinomials are used to derive the $w$- constraints in
+the two-matrix and Kontsevich-like model at finite $N$. These constraints are
+closed and form Lie algebra. They are associated with the matrices, $\lambda
+^n{\partial}_\lambda^m$ with $n,m\geq 0$. In the case of two-matrix model they
+can be reduced to the $W$-constraints of \cite{8}. For the case of
+Kontsevich-like model and two-matrix model with the finite polinomial
+potential, the number of constraints are limited by the power of the finite
+matrix potential i.e. the spin of $w$-s coincide with that power. This
+statement is the natural consequence of the form of constraints.
+\\

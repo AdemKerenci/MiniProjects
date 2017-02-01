@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301123
+From: jag@s-a.amtp.liv.ac.uk (John Gracey)
+Date: Fri, 29 Jan 93 09:13 GMT   (15kb)
+
+Title: Algorithm for Computing the $\BETA$-Function of Quantum Electrodynamics
+  in the Large N_f Expansion
+Authors: J.A. Gracey
+Comments: latex file, 22 pages, 12 figures available on request from the
+  author, LTH-294
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 2465-2486
+\\
+  By considering corrections to the asymptotic scaling functions of the photon
+and electron in quantum electrodynamics with $\Nf$ flavours, we solve the
+skeleton Dyson equations at $O(1/\Nf)$ in the large $\Nf$ expansion at the
+$d$-dimensional critical point of the theory and deduce the critical exponent
+$\beta^\prime(g_c)$, in arbitrary dimensions, and subsequently present a method
+for computing higher order corrections to $\beta(g)$.
+\\

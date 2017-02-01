@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409076
+From: mussardo@tsmi19.sissa.it
+Date: Wed, 14 Sep 1994 10:53:19 +0200   (31kb)
+
+Title: Scattering Theory and Correlation Functions in Statistical Models with a
+  Line of Defect
+Authors: G. Delfino, G. Mussardo and P. Simonetti
+Comments: 50 pages, LATEX file, ISAS/EP/94-123
+Journal-ref: Nucl. Phys. B432 (1994) 518-550
+\\
+  The scattering theory of the integrable statistical models can be generalized
+to the case of systems with extended lines of defect. This is done by adding
+the reflection and transmission amplitudes for the interactions with the line
+of inhomegeneity to the scattering amplitudes in the bulk. The factorization
+condition for the new amplitudes gives rise to a set of Reflection-Transmission
+equations. The solutions of these equations in the case of diagonal $S$-matrix
+in the bulk are only those with $S =\pm 1$. The choice $S=-1$ corresponds to
+the Ising model. We compute the exact expressions of the transmission and
+reflection amplitudes relative to the interaction of the Majorana fermion of
+the Ising model with the defect. These amplitudes present a weak-strong duality
+in the coupling constant, the self-dual points being the special values where
+the defect line acts as a reflecting surface. We also discuss the bosonic case
+$S=1$ which presents instability properties and resonance states. Multi-defect
+systems which may give rise to a band structure are also considered. The exact
+expressions of correlation functions is obtained in terms of Form Factors of
+the bulk theory and matrix elements of the defect operator.
+\\

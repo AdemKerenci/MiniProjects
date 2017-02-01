@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404102
+From: Ko Okumura <okumura@rk.phys.keio.ac.jp>
+Date: Mon, 18 Apr 94 12:44:26 JST   (33kb)
+
+Title: Effective actions of local composite operators --- case of $\varphi^4$
+  theory, itinerant electron model, and QED
+Authors: K. Okumura
+Comments: (okumura@rk.phys.keio.ac.jp), 46p., LATEX, (figures are available on
+  request)
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 65-110
+\\
+  A compact graph rule for the effective action $\Gamma[\phi]$ of a local
+composite operator is given in this paper. This long-standing problem of
+obtaining $\Gamma[\phi]$ in this case is solved directly without using the
+auxiliary field. The rule is first deduced with help of the inversion method,
+which is a technique for making the Legendre transformation perturbatively. It
+is then proved by using a topological relation and also by the sum-up rule.
+Explicitly derived are the rules for the effective action of $\langle
+\varphi(x)^2 \rangle$ in the $\varphi^4$ theory, of the number density $\langle
+n_{{\bf r}\sigma} \rangle$ in the itinerant electron model, and of the gauge
+invariant operator $\langle \bar{\psi}\gamma^\mu\psi \rangle$ in QED.
+\\

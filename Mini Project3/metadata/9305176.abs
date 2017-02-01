@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305176
+From: ej@qft.mian.su (Irina Ya. Aref'eva)
+Date: Fri, 28 May 93 16:46:34 +0300 (MSD)   (13kb)
+Date (revised): Tue, 22 Jun 93 14:20:33 +0300 (MSD)
+
+Title: Uniqueness of $U_q(N)$ as a quantum gauge group and representations of
+  its differential algebra
+Author: I. Ya. Aref'eva and G. E. Arutyunov
+Comments: 14 pages (Changes in Introduction+changes in References+change in
+  title)
+Report-no: SMI-4-93
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Proc.Steklov Inst.Math. 203 (1994) 181-189
+\\
+  To construct a quantum group gauge theory one needs an algebra which is
+invariant under gauge transformations. The existence of this invariant algebra
+is closely related with the existence of a differential algebra $\delta _{{\cal
+H}} G_{q}$ compatible with the Hopf algebra structure. It is shown that $\delta
+_{{\cal H}} G_{q}$ exists only for the quantum group $U_{q}(N)$ and that the
+quantum group $SU_q(N)$ as a quantum gauge group is not allowed. The
+representations of the algebra $\delta _{{\cal H}} G_{q}$ are con- structed.
+The operators corresponding to the differentials are realized via derivations
+on the space of all irreducible *-representations of $U_q(2)$. With the help of
+this construction infinitesimal gauge transformations in two-dimensional
+classical space-time are described.
+\\

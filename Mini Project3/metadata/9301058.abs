@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301058
+From: Jacob Bekenstein <jacob@cosmic.physics.ucsb.edu>
+Date: Thu, 14 Jan 93 17:05:27 -0800   (14kb)
+
+Title: How Fast Does Information Leak out from a Black Hole?
+Authors: Jacob D. Bekenstein
+Comments: 8 pages, plain TeX, UCSBTH-93-02
+Journal-ref: Phys.Rev.Lett. 70 (1993) 3680-3683
+\\
+  Hawking's radiance, even as computed without account of backreaction, departs
+from blackbody form due to the mode dependence of the barrier penetration
+factor. Thus the radiation is not the maximal entropy radiation for given
+energy. By comparing estimates of the actual entropy emission rate with the
+maximal entropy rate for the given power, and using standard ideas from
+communication theory, we set an upper bound on the permitted information
+outflow rate. This is several times the rates of black hole entropy decrease or
+radiation entropy production. Thus, if subtle quantum effects not heretofore
+accounted for code information in the radiance, the information that was
+thought to be irreparably lost down the black hole may gradually leak back out
+from the black hole environs over the full duration of the hole's evaporation.
+\\

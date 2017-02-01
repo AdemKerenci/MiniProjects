@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310090
+From: Riuji Mochizuki <mochi@cuphd.nd.chiba-u.ac.jp>
+Date: Fri, 15 Oct 93 16:34:22 JST   (10kb)
+
+Title: The Stochastic Quantization Method in Phase Space and a New Gauge Fixing
+  Procedure
+Authors: R. Mochizuki
+Comments: 18 pages (Plain TeX), CHIBA-EP-71
+Journal-ref: Mod. Phys. Lett. A9 (1994) 2803-2816
+\\
+  We study the stochastic quantization of the system with first class
+constraints in phase space. Though the Langevin equations of the canonical
+variables are defined without ordinary gauge fixing procedure, gauge fixing
+conditions are automatically selected and introduced by imposing stochastic
+consistency conditions upon the first class constraints. Then the equilibrium
+solution of the Fokker-Planck equation is identical with corresponding path
+integral distribution.
+\\

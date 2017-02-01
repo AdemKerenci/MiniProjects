@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404109
+From: Damiano Anselmi <anselmi@tsmi19.sissa.it>
+Date: Mon, 18 Apr 1994 20:37:40 +0100   (46kb)
+
+Title: Constrained Topological Gravity from Twisted N=2 Liouville Theory
+Authors: D. Anselmi, P. Fre', L. Girardello and P. Soriani
+Comments: 48 pages, LaTex file, SISSA 49/94/EP, IFUM 468/FT
+Journal-ref: Nucl.Phys. B427 (1994) 351-397
+\\
+  In this paper we show that there exists a new class of topological field
+theories, whose correlators are intersection numbers of cohomology classes in a
+constrained moduli space. Our specific example is a formulation of 2D
+topological gravity. The constrained moduli-space is the Poincare' dual of the
+top Chern-class of the bundle $E_\rightarrow {\cal M}_g$, whose sections are
+the holomorphic differentials. Its complex dimension is $2g-3$, rather then
+$3g-3$. We derive our model by performing the A-topological twist of N=2
+supergravity, that we identify with N=2 Liouville theory, whose rheonomic
+construction is also presented. The peculiar field theoretical mechanism,
+rooted in BRST cohomology, that is responsible for the constraint on moduli
+space is discussed, the key point being the fact that the graviphoton becomes a
+Lagrange multiplier after twist. The relation with conformal field theories is
+also explored. Our formulation of N=2 Liouville theory leads to a
+representation of the N=2 superconformal algebra with $c=6$, instead of the
+value $c=9$ that is obtained by untwisting the Verlinde and Verlinde
+formulation of topological gravity. The reduced central charge is the shadow,
+in conformal field theory, of the constraint on moduli space.
+\\

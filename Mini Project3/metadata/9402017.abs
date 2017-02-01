@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402017
+From: kerler@math.harvard.edu (Thomas Kerler)
+Date: Thu, 3 Feb 94 11:33:17 EST   (38kb)
+
+Title: Mapping Class Group Actions on Quantum Doubles
+Author: Thomas Kerler
+Comments: 45 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 168 (1995) 353-388
+\\
+  We study representations of the mapping class group of the punctured torus on
+the double of a finite dimensional possibly non-semisimple Hopf algebra that
+arise in the construction of universal, extended topological field theories. We
+discuss how for doubles the degeneracy problem of TQFT's is circumvented. We
+find compact formulae for the ${\cal S}^{\pm 1}$-matrices using the canonical,
+non degenerate forms of Hopf algebras and the bicrossed structure of doubles
+rather than monodromy matrices. A rigorous proof of the modular relations and
+the computation of the projective phases is supplied using Radford's relations
+between the canonical forms and the moduli of integrals. We analyze the
+projective $SL(2, Z)$-action on the center of $U_q(sl_2)$ for $q$ an
+$l=2m+1$-st root of unity. It appears that the $3m+1$-dimensional
+representation decomposes into an $m+1$-dimensional finite representation and a
+$2m$-dimensional, irreducible representation. The latter is the tensor product
+of the two dimensional, standard representation of $SL(2, Z)$ and the finite,
+$m$-dimensional representation, obtained from the truncated TQFT of the
+semisimplified representation category of $U_q(sl_2)\,$.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411208
+From: MARKL@CSEARN.BITNET
+Date: Tue, 29 Nov 94 01:05:19 MET   (31kb)
+
+Title: Models for Operads
+Authors: Martin Markl
+Comments: 33 pages, LaTeX, article 12pt style, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We study properties of differential graded (dg) operads modulo weak
+equivalences, that is, modulo the relation given by the existence of a chain of
+dg operad maps inducing a homology isomorphism. This approach, naturally
+arising in string theory, leads us to consider various versions of models.
+Besides of some applications in topology and homological algebra we show that
+our theory enables one to prove the existence of homotopy structures on
+physically relevant spaces. For example, we prove that a closed string-field
+theory induces a homotopy Lie algebra structure on the space of relative
+states, which is one of main results of T. Kimura, A. Voronov and J. Stasheff
+(see [16]). Our theory gives a systematic way to prove statements of this type.
+The paper is a corrected version of a preprint which began to circulate in
+March 1994, with some new examples added.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312206
+From: ocouss@ulb.ac.be (Coussaert Olivier)
+Date: Wed, 29 Dec 93 12:25:22 MET   (9kb)
+
+Title: Renormalization of gauge invariant operators and anomalies in Yang-Mills
+  theory
+Authors: G. Barnich and M. Henneaux
+Comments: 10 pages, latex, ULB-PMIF-93/11
+Journal-ref: Phys.Rev.Lett. 72 (1994) 1588-1591
+\\
+  A long-standing conjecture on the structure of renormalized, gauge invariant,
+integrated operators of arbitrary dimension in Yang-Mills theory is
+established. The general solution of the consistency condition for anomalies
+with sources included is also derived. This is achieved by computing
+explicitely the cohomology of the full unrestricted BRST operator in the space
+of local polynomial functionals with ghost number equal to zero or one. The
+argument does not use power counting and is purely cohomological. It relies
+crucially on standard properties of the antifield formalism.
+\\

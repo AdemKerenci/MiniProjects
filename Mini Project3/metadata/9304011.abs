@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304011
+From: moore@castalia.physics.yale.edu  (Free the RCFTs)
+Date: Mon Apr  5 10:07:08 EDT 1993   (243kb)
+
+Title: Lectures on 2D gravity and 2D string theory (TASI 1992)
+Authors: P. Ginsparg and Gregory Moore
+Comments: 230 pages in harvmac l mode with 42 figures, all essential. WARNING:
+  tex file is 472kb, uuencoded figures another 285kb, also available only via
+  anon ftp (as usual in hep-th/papers/9304 ), uses harvmac + epsf
+Report-no: YCTP-P23-92, LA-UR-92-3479
+\\
+  emphasis is on 2d target space (c=1 coupled to gravity). Contents:
+  0. Introduction, Overview, and Purpose
+  1. Loops and States in Conformal Field Theory
+  2. 2D Euclidean Quantum Gravity I: Path Integral Approach
+  3. Brief Review of the Liouville Theory
+  4. 2D Euclidean Quantum Gravity II: Canonical Approach
+  5. 2D Critical String Theory
+  6. Discretized surfaces, matrix models, and the continuum limit
+  7. Matrix Model Technology I: Method of Orthogonal Polynomials
+  8. Matrix Model Technology II: Loops on the Lattice
+  9. Matrix Model Technology III: Free Fermions from the Lattice
+  10. Loops and States in Matrix Model Quantum Gravity
+  11. Loops and States in the $c=1$ Matrix Model
+  12. Fermi Sea Dynamics and Collective Field Theory
+  13. String scattering in two spacetime dimensions
+  14. Vertex Operator Calculations and Continuum Methods
+  15. Achievements, Disappointments, Future Prospects
+  "if you read only one set of lecture notes this year, don't read these."
+\\

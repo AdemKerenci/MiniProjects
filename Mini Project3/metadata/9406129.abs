@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406129
+From: Piotr Hajac <Piotr.Hajac@fuw.edu.pl>
+Date: Mon, 20 Jun 1994 02:23:07 -0700   (43kb)
+Date (revised): Fri, 25 Sep 1998 15:30:35 GMT
+
+Title: Strong Connections on Quantum Principal Bundles
+Authors: Piotr M. Hajac
+Comments: AMS-LaTeX, 40 pages, major revision including examples of connections
+  over a quantum real projective space
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 182 (1996) 579-617
+\\
+  A gauge invariant notion of a strong connection is presented and
+characterized. It is then used to justify the way in which a global curvature
+form is defined. Strong connections are interpreted as those that are induced
+from the base space of a quantum bundle. Examples of both strong and non-strong
+connections are provided. In particular, such connections are constructed on a
+quantum deformation of the fibration $S^2 -> RP^2$. A certain class of strong
+$U_q(2)$-connections on a trivial quantum principal bundle is shown to be
+equivalent to the class of connections on a free module that are compatible
+with the q-dependent hermitian metric. A particular form of the Yang-Mills
+action on a trivial $U\sb q(2)$-bundle is investigated. It is proved to
+coincide with the Yang-Mills action constructed by A.Connes and M.Rieffel.
+Furthermore, it is shown that the moduli space of critical points of this
+action functional is independent of q.
+\\

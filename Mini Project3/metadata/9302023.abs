@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302023
+From: Christian Preitschopf <tfecp@fy.chalmers.se>
+Date: Sun, 7 Feb 93 18:41:28 +0100   (17kb)
+
+Title: The Calogero Model - Anyonic Representation, Fermionic Extension and
+  Supersymmetry
+Authors: L. Brink, T.H. Hansson, S. Konstein and M.A. Vasiliev
+Comments: 24 pages, Latex, USITP-92-14, G{\"o}teborg ITP-92-53
+Journal-ref: Nucl.Phys. B401 (1993) 591-612
+\\
+  We discuss several applications and extensions of our previous operator
+solution of the $N$-body Calogero problem, \ie N particles in 1 dimension
+subject to a two-body interaction of the form $\half \sum_{i,j}[ (x_i - x_j)^2
++ g/ {(x_i - x_j)^2}]$. Using a complex representation of the deformed
+Heisenberg algebra underlying the Calogero model, we explicitly establish the
+equivalence between this system and anyons in the lowest Landau level. A
+construction based on supersymmetry is used to extend our operator method to
+include fermions, and we obtain an explicit solution of the supersymmetric
+Calogero model constructed by Freedman and Mende. We also show how the
+dynamical $OSp(2;2)$ supersymmetry is realized by bilinears of modified
+creation and annihilation operators, and how to construct a supersymmetic
+extension of the deformed Heisenberg algebra.
+\\

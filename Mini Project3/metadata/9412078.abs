@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412078
+From: suresh@theory.tifr.res.in (Suresh Govindarajan)
+Date: Fri, 9 Dec 94 13:53:20 -2359   (20kb)
+Date (revised): Wed, 11 Jan 95 11:43:57 IST
+Date (revised): Fri, 13 Oct 95 08:32:21 -2359
+
+Title: Higher dimensional uniformisation and W-geometry
+Author: Suresh Govindarajan
+Comments: LaTeX file; 25/13 pages in b/l mode ; version to appear in Nuc. Phys.
+  B
+Report-no: TIFR/TH/94-52
+Journal-ref: Nucl.Phys. B457 (1995) 357-374
+\\
+  We formulate the uniformisation problem underlying the geometry of
+W_n-gravity using the differential equation approach to W-algebras. We
+construct W_n-space (analogous to superspace in supersymmetry) as an (n-1)
+dimensional complex manifold using isomonodromic deformations of linear
+differential equations. The W_n-manifold is obtained by the quotient of a
+Fuchsian subgroup of PSL(n,R) which acts properly discontinuously on a simply
+connected domain in CP^{n-1}. The requirement that a deformation be
+isomonodromic furnishes relations which enable one to convert non-linear
+W-diffeomorphisms to (linear) diffeomorphisms on the W_n-manifold. We discuss
+how the Teichmuller spaces introduced by Hitchin can then be interpreted as the
+space of complex structures or the space of projective structures with real
+holonomy on the W_n-manifold. The projective structures are characterised by
+Halphen invariants which are appropriate generalisations of the Schwarzian.
+This construction will work for all ``generic'' W-algebras.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305035
+From: poli@itp.ethz.ch (Nathan Poliatzky)
+Date: Mon, 10 May 93 13:05:32 +0200   (25kb)
+
+Title: Soliton Solutions of Relativistic Hartree's Equations
+Authors: Nathan Poliatzky
+Comments: 36 pages, 8 figures (available upon request), LaTeX, Preprint
+  ETH-TH/93-13
+Journal-ref: J.Phys. A26 (1993) 3597-3626
+\\
+  We study a model based on $N$ scalar complex fields coupled to a scalar real
+field, where all fields are treated classically as c-numbers. The model
+describes a composite particle made up of $N$ constituents with bare mass $m_0$
+interacting both with each other and with themselves via the exchange of a
+particle of mass $\mu_0$. The stationary states of the composite particle are
+described by relativistic Hartree's equations. Since the self-interaction is
+included, the case of an elementary particle is a nontrivial special case of
+this model. Using an integral transform method we derive the exact ground state
+solution and prove its local stability. The mass of the composite particle is
+calculated as the total energy in the rest frame. For the case of a massless
+exchange particle the mass formula is given in closed form. The mass, as a
+function of the coupling constant, possesses a well pronounced minimum for each
+value of $\mu_0/m_0$, while the absolute minimum occurs at $\mu_0=0$.
+\\

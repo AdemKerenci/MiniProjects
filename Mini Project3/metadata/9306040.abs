@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306040
+From: garcia@het.brown.edu
+Date: Mon, 7 Jun 93 17:32:33 -0400   (18kb)
+Date (revised): Fri, 20 Aug 93 15:47:34 EDT
+Date (revised): Fri, 11 Mar 94 23:08:27 EST
+
+Title: Hidden invariance of the free classical particle
+Authors: Santiago Garc\' \i a
+Comments: <garcia@het.brown.edu>, LaTeX, 26 pages, BROWN-HET-921, some
+  stylistic corrections, enlarged bibliography
+\\
+  A formalism describing the dynamics of classical and quantum systems from a
+group theoretical point of view is presented. We apply it to the simple example
+of the classical free particle. The Galileo group $G$ is the symmetry group of
+the free equations of motion. Consideration of the free particle Lagrangian
+semi-invariance under $G$ leads to a larger symmetry group, which is a central
+extension of the Galileo group by the real numbers. We study the dynamics
+associated with this group, and characterize quantities like Noether invariants
+and evolution equations in terms of group geometric objects. An extension of
+the Galileo group by $U(1)$ leads to quantum mechanics.
+\\

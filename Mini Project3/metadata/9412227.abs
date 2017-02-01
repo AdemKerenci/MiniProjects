@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412227
+From: Hiroshi Shirokura <siro@funpth.phys.sci.osaka-u.ac.jp>
+Date: Wed, 28 Dec 94 20:54:28 +0900   (20kb)
+
+Title: Modification of Matrix Models by Square Terms of Scaling Operators
+Author: Hiroshi Shirokura (Osaka University)
+Comments: 25 pages, 1 postscript figure, uses latex and epsf.sty
+Report-no: OU-HET 208
+\\
+  We study one (or two) matrix models modified by terms of the form
+$g(\rho(P))^2 + g'(\rho'({\cal{O}}))^2$, where the matrix representation of the
+puncture operator $P$ and the one of a scaling operator ${\cal{O}}$ are denoted
+by $\rho(P)$ and $\rho'({\cal{O}})$ respectively. We rewrite the modified
+models as effective theories of baby universes. We find an upper bound for the
+gravitational dimension of ${\cal{O}}$ under which we can fine tune the
+coupling constants to obtain new critical behaviors in the continuum limit. The
+simultaneous tuning of $g$ and $g'$ is possible if the representations
+$\rho(P)$ and $\rho'({\cal{O}})$ are chosen so that the non-diagonal elements
+of the mass matrix of the effective theory vanish.
+\\

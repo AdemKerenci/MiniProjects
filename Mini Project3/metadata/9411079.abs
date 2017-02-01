@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411079
+From: hendrik@solution.maths.unsw.edu.au
+Date: Fri, 11 Nov 1994 16:47:40 +1100   (23kb)
+
+Title: Integrated differential geometry. Commutative and noncommutative
+Authors: Hendrik Grundling
+Comments: Plain tex, 35 pages
+Report-no: PM-94-10
+\\
+  For a manifold M we define a structure on the group action of Diff(M) on the
+smooth functions on M which reduces to the usual differential geometry upon
+differentiation at zero along the one-parameter groups of Diff(M). This
+``integrated differential geometry'' generalises to all group actions on
+associative algebras, including noncommutative ones, and defines an
+``integrated de Rham cohomology,'' which provides a new set of invariants for
+group actions. We calculate the first few integrated de Rham cohomologies for
+two examples;- a discrete group action on a commutative algebra, and a
+continuous Lie group action on a noncommutative matrix algebra.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307142
+From: LOLL@SUHEP.PHY.SYR.EDU
+Date: Thu, 22 Jul 1993 18:27 EST   (23kb)
+
+Title: Complexification of Gauge Theories
+Authors: R. Loll, J.M. Mour\~ao and J.N. Tavares
+Comments: 25pp., LaTeX, Syracuse SU-GP-93/6-2, Lisbon DF/IST 6.93
+Journal-ref: J.Geom.Phys. 18 (1996) 1-24
+\\
+  For the case of a first-class constrained system with an equivariant momentum
+map, we study the conditions under which the double process of reducing to the
+constraint surface and dividing out by the group of gauge transformations $G$
+is equivalent to the single process of dividing out the initial phase space by
+the complexification $G_C$ of $G$. For the particular case of a phase space
+action that is the lift of a configuration space action, conditions are found
+under which, in finite dimensions, the physical phase space of a gauge system
+with first-class constraints is diffeomorphic to a manifold imbedded in the
+physical configuration space of the complexified gauge system. Similar
+conditions are shown to hold in the infinite-dimensional example of Yang-Mills
+theories. As a physical application we discuss the adequateness of using
+holomorphic Wilson loop variables as (generalized) global coordinates on the
+physical phase space of Yang-Mills theory.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205088
+From: Albert Schwarz <asschwarz@ucdavis.edu>
+Date: Mon, 25 May 1992 21:47:30 -0700 (PDT)   (12kb)
+
+Title: Geometry of Batalin-Vilkovisky quantization
+Authors: Albert Schwarz
+Comments: 13 pages
+Journal-ref: Commun.Math.Phys. 155 (1993) 249-260
+\\
+  The present paper is devoted to the study of geometry of Batalin-Vilkovisky
+quantization procedure. The main mathematical objects under consideration are
+P-manifolds and SP-manifolds (supermanifolds provided with an odd symplectic
+structure and, in the case of SP-manifolds, with a volume element). The
+Batalin-Vilkovisky procedure leads to consideration of integrals of the
+superharmonic functions over Lagrangian submanifolds. The choice of Lagrangian
+submanifold can be interpreted as a choice of gauge condition; Batalin and
+Vilkovisky proved that in some sense their procedure is gauge independent. We
+prove much more general theorem of the same kind. This theorem leads to a
+conjecture that one can modify the quantization procedure in such a way as to
+avoid the use of the notion of Lagrangian submanifold. In the next paper we
+will show that this is really so at least in the semiclassical approximation.
+Namely the physical quantities can be expressed as integrals over some set of
+critical points of solution S to the master equation with the integrand
+expressed in terms of Reidemeister torsion. This leads to a simplification of
+quantization procedure and to the possibility to get rigorous results also in
+the infinite-dimensional case. The present paper contains also a compete
+classification of P-manifolds and SP-manifolds. The classification is
+interesting by itself, but in this paper it plays also a role of an important
+tool in the proof of other results.
+\\

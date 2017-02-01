@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305131
+From: Subir Sachdev <subir@cmphys.eng.yale.edu>
+Date: Tue, 25 May 1993 08:47:12 +0200 (MET DST)   (5kb)
+
+Title: Polylogarithm Identities in a Conformal Field Theory in Three Dimensions
+Author: Subir Sachdev
+Comments: LATEX, 7 pages
+Journal-ref: Phys. Lett. B309 (1993) 285-288
+\\
+  The $N=\infty$ vector $O(N)$ model is a solvable, interacting field theory in
+three dimensions ($D$). In a recent paper with A. Chubukov and J.
+Ye~\cite{self}, we have computed a universal number, $\tilde{c}$,
+characterizing the size dependence of the free energy at the
+conformally-invariant critical point of this theory. The result~\cite{self} for
+$\tilde{c}$ can be expressed in terms of polylogarithms. Here, we use
+non-trivial polylogarithm identities to show that $\tilde{c}/N = 4/5$, a
+rational number; this result is curiously parallel to recent work on
+dilogarithm identities in $D=2$ conformal theories. The amplitude of the
+stress-stress correlator of this theory, $c$ (which is the analog of the
+central charge), is determined to be $c/N=3/4$, also rational. Unitary
+conformal theories in $D=2$ always have $c = \tilde{c}$; thus such a result is
+clearly not valid in $D=3$.
+\\

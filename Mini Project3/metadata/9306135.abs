@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306135
+From: Ruud=Siebelink%TF%FYS@cc3.kuleuven.ac.be
+Date: Fri, 25 Jun 93 18:09:59 CET   (26kb)
+
+Title: Regularisation of non-local actions in two-dimensional field theories
+Authors: A. Sevrin, R. Siebelink and W. Troost
+Comments: 29 pp, LATEX, LBL-33777, UCB-PTH-93/08, KUL-TF-93/25
+Journal-ref: Nucl.Phys. B413 (1994) 185-212
+\\
+  Taking the induced action for gauge fields coupled to affine currents as an
+example, we show how loop calculations in non-local two-dimensional field
+theories can be regulated. Our regularisation method for one loop is based on
+the method of Pauli and Villars. We use it to calculate the renormalisation
+factors for the corresponding effective actions, clearing up some discrepancies
+in the literature. In particular, it will be shown explicitly that vector gauge
+transformation invariance and Haar invariance of functional integral measures
+impose different requirements, but they are related by a counterterm (which is
+local in terms of group variables). For higher loops, we use the method of
+covariant derivatives combined with Pauli-Villars to argue that the one loop
+result remains unaltered.
+\\

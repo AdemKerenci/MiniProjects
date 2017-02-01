@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411039
+From: aschieri@thsrv.lbl.gov
+Date: Sat, 5 Nov 94 02:43:24 +0100   (14kb)
+
+Title: R-Matrix Formulation of the Quantum Inhomogeneous Groups Iso_qr(N) and
+  Isp_qr(N)
+Authors: Paolo Aschieri and Leonardo Castellani
+Comments: 14 pages, latex, no figures
+Report-no: DFTT-44/94
+Journal-ref: Lett.Math.Phys. 36 (1996) 197-211
+\\
+  The quantum commutations $RTT=TTR$ and the orthogonal (symplectic) conditions
+for the inhomogeneous multiparametric $q$-groups of the $B_n,C_n,D_n$ type are
+found in terms of the $R$-matrix of $B_{n+1},C_{n+1},D_{n+1}$. A consistent
+Hopf structure on these inhomogeneous $q$-groups is constructed by means of a
+projection from $B_{n+1},C_{n+1},D_{n+1}$. Real forms are discussed: in
+particular we obtain the $q$-groups $ISO_{q,r}(n+1,n-1)$, including the quantum
+Poincar\'e group.
+\\

@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304058
+From: Kenji Ikegami <ikegami@cuphd.nd.chiba-u.ac.jp>
+Date: Thu, 15 Apr 93 17:38:53 JST   (7kb)
+
+Title: Superfield Formalism of Stochastic Quantization Method with
+  Field-Dependent Kernels
+Authors: K.Ikegami
+Comments: 11 papes(Plain TeX), CHIBA-EP-68
+\\
+  I consider a Langevin equation with field-dependent kernels and investigate
+supersymmetry of the stochastic generating functional constructed from the
+Langevin equation. Moreover I describe the stochastic generating functional in
+terms of a superfield. In the superfield formalism, it becomes clear that the
+stochastic quantization method with the field-dependent kernel is equivalent to
+the path-integral quantization method.
+\\

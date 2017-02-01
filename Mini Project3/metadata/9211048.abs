@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211048
+From: asorey <asorey@cc.unizar.es>
+Date: Wed, 11 Nov 1992 13:50:53 UTC+0100   (27kb)
+
+Title: Rigorous Analysis of Renormalization Group Pathologies in the 4-State
+  Clock Model
+Authors: M. Asorey, J.G. Esteve, R. Fernandez J. Salas
+Comments: LaTex file, 27 pages (8 figures not included), DFTUZ 92.9, FTUAM
+  92.13
+Journal-ref: Nucl.Phys. B392 (1993) 593-618
+\\
+  We perform an exact renormalization-group analysis of one-dimensional 4-state
+clock models with complex interactions. Our aim is to provide a simple explicit
+illustration of the behavior of the renormalization-group flow in a system
+exhibiting a rich phase diagram. In particular we study the flow in the
+vicinity of phase transitions with a first-order character, a matter that has
+been controversial for years. We observe that the flow is continuous and
+single-valued, even on the phase transition surface, provided that the
+renormalized Hamiltonian exist. The characteristics of such a flow are in
+agreement with the Nienhuis-Nauenberg standard scenario, and in disagreement
+with the ``discontinuity scenario'' proposed by some authors and recently
+disproved by van Enter, Fern\'andez and Sokal for a large class of models (with
+real interactions). However, there are some points in the space of interactions
+for which a renormalized Hamiltonian cannot be defined. This pathological
+behavior is similar, and in some sense complementary, to the one pointed out by
+Griffiths, Pearce and Israel for Ising models. We explicitly see that if the
+transformation is truncated so as to preserve a Hamiltonian description, the
+resulting flow becomes discontinuous and multivalued at some of these points.
+This suggests a possible explanation for the numerical results that motivated
+the ``discontinuity scenario''.
+\\

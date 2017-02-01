@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312049
+From: Andreas Honecker <UNP06B@IBM.RHRZ.UNI-BONN.DE>
+Date: Tue, 07 Dec 93 10:05:02 MEZ   (35kb)
+
+Title: A Class of W-Algebras with Infinitely Generated Classical Limit
+Authors: J. de Boer, L. Feher, A. Honecker
+Comments: 39 pages (plain TeX), ITP-SB-93-84, BONN-HE-93-49
+Journal-ref: Nucl.Phys. B420 (1994) 409-446
+\\
+  There is a relatively well understood class of deformable W-algebras,
+resulting from Drinfeld-Sokolov (DS) type reductions of Kac-Moody algebras,
+which are Poisson bracket algebras based on finitely, freely generated rings of
+differential polynomials in the classical limit. The purpose of this paper is
+to point out the existence of a second class of deformable W-algebras, which in
+the classical limit are Poisson bracket algebras carried by infinitely,
+nonfreely generated rings of differential polynomials. We present illustrative
+examples of coset constructions, orbifold projections, as well as first class
+Hamiltonian reductions of DS type W-algebras leading to reduced algebras with
+such infinitely generated classical limit. We also show in examples that the
+reduced quantum algebras are finitely generated due to quantum corrections
+arising upon normal ordering the relations obeyed by the classical generators.
+We apply invariant theory to describe the relations and to argue that classical
+cosets are infinitely, nonfreely generated in general. As a by-product, we also
+explain the origin of the previously constructed and so far unexplained
+deformable quantum W(2,4,6) and W(2,3,4,5) algebras.
+\\

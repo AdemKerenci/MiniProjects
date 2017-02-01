@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305005
+From: bonora@tsmi19.sissa.it
+Date: Mon, 03 May 1993 18:11:05 +0100   (11kb)
+Date (revised): Tue, 04 May 1993 15:20:49 +0100
+
+Title: Multi-field representations of KP hierarchies and multi-matrix models
+Authors: L.Bonora and C.S.Xiong
+Comments: 14 pages, LaTeX, SISSA 53/93/EP, ASITP 93-25
+Journal-ref: Phys.Lett. B317 (1993) 329-340
+\\
+  We discuss the integrable hierarchies that appear in multi--matrix models.
+They can be envisaged as multi--field representations of the KP hierarchy. We
+then study the possible reductions of this systems via the Dirac reduction
+method by suppressing successively one by one part of the fields. We find in
+this way new integrable hierarchies, of which we are able to write the Lax pair
+representations by means of suitable Drinfeld--Sokolov linear systems. At the
+bottom of each reduction procedure we find an $N$--th KdV hierarchy. We discuss
+in detail the case which leads to the KdV hierarchy and to the Boussinesque
+hierarchy, as well as the general case in the dispersionless limit.
+\\

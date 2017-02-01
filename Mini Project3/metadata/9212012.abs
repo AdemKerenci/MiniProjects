@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212012
+From: joshi@tauon.ph.unimelb.edu.au (Girish Joshi)
+Date: Wed, 2 Dec 92 14:17:59 +1100   (22kb)
+
+Title: A Self-Consistent Formulation of Quantum Field Theory on $S_{4}$
+Authors: B.A.Harris and G.C.Joshi
+Comments: Pages 43 (one figure available on request) , Preprint UM-91-0336
+\\
+  Recent developments in quantum gravity suggest that wormholes may influence
+the observed values of the constants of nature. The Euclidean formulation of
+quantum gravity predicts that wormholes induce a probability distribution in
+the space of possible fundamental constants. This distribution may computed by
+evaluating the functional integral about the stationary points of the action.
+In particular, the effective action on a large spherical space may lead to the
+vanishing of the cosmological constant and possibly determine the values of
+other constants of nature. The ability to perform calculations involving
+interacting quantum fields, particularly non-Abelian models, on a four-sphere
+is vital if one is to investigate this possibility. In this paper we present a
+self-consistent formulation of field theory on a four-sphere using the angular
+momentum space representation of $SO(5)$. We give a review of field theory on a
+sphere and then show how a matrix element prescription in angular momentum
+space overcomes previous limitations in calculational techniques.
+  The standard one-loop graphs of QED are given as examples.
+\\

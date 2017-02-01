@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411140
+From: Tony Giaquinto <Tony.Giaquinto@math.lsa.umich.edu>
+Date: Thu, 17 Nov 1994 18:42:14 -0500   (17kb)
+
+Title: Bialgebra actions, twists, and universal deformation formulas
+Authors: Anthony Giaquinto, J.J. Zhang
+Comments: 21 pages, AMSTEX, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We introduce a general theory of twisting algebraic structures based on
+actions of a bialgebra. These twists are closely related to algebraic
+deformations and also to the theory of quasi-triangular bialgebras. In
+particular, a deformation produced from a universal deformation formula (UDF)
+is a special case of a twist. The most familiar example of a deformation
+produced from a UDF is perhaps the "Moyal product" which (locally) is the
+canonical quantization of the algebra of functions on a symplectic manifold in
+the direction of the Poisson bracket. In this case, the derivations comprising
+the Poisson bracket mutually commute and so this quantization is essentially
+obtained by exponentiating this bracket. For more general Poisson manifolds,
+this formula is not applicable since the associated derivations may no longer
+commute. We provide here generalizations of the Moyal formula which (locally)
+give canonical quantizations of various Poisson manifolds. Specifically,
+whenever a certain central extension of a Heisenberg Lie group acts on a
+manifold, we obtain a quantization of its algebra of functions in the direction
+of a suitable Poisson bracket obtained from noncommuting derivations.
+\\

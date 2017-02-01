@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209088
+From: Mark Hindmarsh <M.B.Hindmarsh@damtp.cambridge.ac.uk>
+Date: Wed, 23 Sep 92 10:39:00 BST   (13kb)
+
+Title: Generalized Semilocal Theories and Higher Hopf Maps
+Authors: Mark Hindmarsh, Richard Holman, Thomas W.Kephart, and Tanmay
+  Vachaspati
+Comments: 15 pages, uses amssymbols.sty
+Report-no: NSF-ITP-92-93, CMU-HEP92-16, VAND-TH-92-10, DAMTP-HEP-92-61
+Journal-ref: Nucl.Phys. B404 (1993) 794-804
+\\
+  \def\mon{S^3\stackrel{S^1}{\rightarrow}S^2}
+\def\inst{S^7\stackrel{S^3}{\rightarrow}S^4}
+\def\octo{S^{15}\stackrel{S^7}{\rightarrow}S^8} In semilocal theories, the
+vacuum manifold is fibered in a non-trivial way by the action of the gauge
+group. Here we generalize the original semilocal theory (which was based on the
+Hopf bundle $\mon$) to realize the next Hopf bundle $\inst$, and its extensions
+$S^{2n+1}\stackrel{S^3}\rightarrow \H P^n$. The semilocal defects in this class
+of theories are classified by $\pi_3(S^3)$, and are interpreted as constrained
+instantons or generalized sphaleron configurations. We fail to find a field
+theoretic realization of the final Hopf bundle $\octo$, but are able to
+construct other semilocal spaces realizing Stiefel bundles over Grassmanian
+spaces.
+\\

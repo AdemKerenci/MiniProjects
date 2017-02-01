@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405035
+From: maxim@mpim-bonn.mpg.de (Maxim Kontsevich)
+Date: Thu, 5 May 1994 17:44:12 --100   (28kb)
+Date (revised): Tue, 27 Jun 1995 15:47:02 +0200
+
+Title: Enumeration of rational curves via torus actions
+Author: M. Kontsevich
+Comments: several errors in formulas are corrected
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+\\
+  This paper contains an attempt to formulate rigorously and to check
+predictions in enumerative geometry of curves following from Mirror Symmetry.
+The main tool is a new notion of stable map. We give an outline of a
+contsruction of Gromov-Witten invariants for all algebraic projective or closed
+symplectic manifolds. Mirror Symmetry in the basic example of rational curves
+on a quintic 3-folds is reduced to certain complicated but explicit identity.
+The strategy of computations can be described as follows: 1) we reduce counting
+problems to questions concerning Chern classes on spaces of curves on the
+ambient projective space, 2) using Bott's residue formula we pass to the space
+of (degenerate) curves invariant under the action of the group of diagonal
+matrices, 3) we get a sum over trees and evaluate it using the technique of
+Feynman diagrams. Our computation scheme gives ``closed'' formulas for
+generating functions in topological sigma-model for a wide class of manifolds,
+covering many Calabi-Yau and Fano varieties.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311132
+From: Pavel Etingof <etingof-pavel@MATH.YALE.EDU>
+Date: Mon, 22 Nov 1993 12:39:12 -0500   (14kb)
+
+Title: Quantum integrable systems and representations of Lie algebras
+Author: Pavel Etingof
+Comments: 17 pages, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 36 (1995) 2636-2651
+\\
+  In this paper the quantum integrals of the Hamiltonian of the quantum
+many-body problem with the interaction potential K/sinh^2(x) (Sutherland
+operator) are constructed as images of higher Casimirs of the Lie algebra gl(N)
+under a certain homomorphism from the center of U(gl(N)) to the algebra of
+differential operators in N variables. A similar construction applied to the
+affine gl(N) at the critical level k=-N defines a correspondence between higher
+Sugawara operators and quantum integrals of the Hamiltonian of the quantum
+many-body problem with the potential equal to constant times the Weierstrass
+function. This allows one to give a new proof of the Olshanetsky-Perelomov
+theorem stating that this Hamiltonian defines a completely integrable quantum
+system. We also give a new expression for eigenfunctions of the quantum
+integrals of the Sutherland operator as traces of intertwining operators
+between certain representations of gl(N).
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401112
+From: Shahn Majid <Shahn.Majid@damtp.cambridge.ac.uk>
+Date: Sun, 23 Jan 94 21:46:16 GMT   (16kb)
+
+Title: q-Euclidean space and quantum group wick rotation by twisting
+Author: Shahn Majid
+Comments: 16 pages
+Report-no: damtp/94-04
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 35 (1994) 5025-5034
+\\
+  We study the quantum matrix algebra $R_{21}x_1x_2=x_2x_1 R$ and for the
+standard $2\times 2$ case propose it for the co-ordinates of $q$-deformed
+Euclidean space. The algebra in this simplest case is isomorphic to the usual
+quantum matrices $M_q(2)$ but in a form which is naturally covariant under the
+Euclidean rotations $SU_q(2)\otimes SU_q(2)$. We also introduce a quantum Wick
+rotation that twists this system precisely into the approach to $q$-Minkowski
+space based on braided-matrices and their associated spinorial $q$-Lorentz
+group.
+\\

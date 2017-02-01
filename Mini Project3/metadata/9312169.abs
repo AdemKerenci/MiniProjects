@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312169
+From: nienhuis@phys.uva.nl (Bernard Nienhuis)
+Date: Tue, 21 Dec 1993 10:32:46 +0100   (12kb)
+
+Title: Lattice Ising model in a field: E$_8$ scattering theory
+Authors: V. V. Bazhanov, B. Nienhuis and S. O. Warnaar
+Comments: 11 pages, LaTeX
+Report-no: ITF-A-93-40
+Journal-ref: Phys.Lett. B322 (1994) 198-206
+\\
+  Zamolodchikov found an integrable field theory related to the Lie algebra
+E$_8$, which describes the scaling limit of the Ising model in a magnetic
+field. He conjectured that there also exist solvable lattice models based on
+E$_8$ in the universality class of the Ising model in a field. The dilute A$_3$
+model is a solvable lattice model with a critical point in the Ising
+universality class. The parameter by which the model can be taken away from the
+critical point acts like a magnetic field by breaking the $\Integer_2$ symmetry
+between the states. The expected direct relation of the model with E$_8$ has
+not been found hitherto. In this letter we study the thermodynamics of the
+dilute A$_3$ model and show that in the scaling limit it exhibits an
+appropriate E$_8$ structure, which naturally leads to the E$_8$ scattering
+theory for massive excitations over the ground state.
+\\

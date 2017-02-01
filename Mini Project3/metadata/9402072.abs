@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402072
+From: wbthz@cbpfsu1.cat.cbpf.br (Wolfgang Bietenholz)
+Date: Fri, 11 Feb 94 14:16:54 EST   (55kb)
+
+Title: Goldstone Bosons in a Finite Volume: The Partition Function to Three
+  Loops
+Authors: W. Bietenholz
+Comments: 59 pages, published in Helv. Phys. Acta 66(6) p.633
+Journal-ref: Helv.Phys.Acta 66 (1993) 633-691
+\\
+  A system of Goldstone bosons - stemming from a symmetry breaking $O(N) \to
+O(N-1)$ - in a finite volume at finite temperature is considered. In the
+framework of dimensional regularization, the partition function is calculated
+to 3 loops for 3 and 4 dimensions, where Polyakov's measure for the functional
+integration is applied. Although the underlying theory is the non-linear
+$\sigma $ model, the 3 loop result turns out to be renormalizable in the sense
+that all the singularities can be absorbed by the couplings occuring so far. In
+finite volume, this property is highly non trivial and confirms the method for
+the measure. We also show that the result coincides with the one obtained using
+the Faddeev- Popov measure. This is also true for the maximal generalization of
+Polyakov's measure: none of the additional invariant terms that can be added
+contributes to the dimensionally regularized system. Our phenomenological
+Lagrangian describes e.g. 2 flavor chiral QCD as well as the classical
+Heisenberg model, but there are also points of contact with the Higgs model,
+superconductors etc. Moreover the finite size corrections to the susceptibility
+might improve the inerpretation of Monte Carlo results on the lattice.
+\\

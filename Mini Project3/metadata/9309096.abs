@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309096
+From: MATONE%39867@BNLDAG.AGS.BNL.GOV
+Date: Fri, 17 Sep 1993 13:24:18 -0400 (EDT)   (8kb)
+Date (revised): Sun, 19 Sep 1993 12:34:46 -0400 (EDT)
+Date (revised): Tue, 15 Feb 1994 09:59:15 -0500 (EST)
+
+Title: Quantum Riemann surfaces, 2D gravity and the geometrical origin of
+  minimal models
+Authors: M. Matone
+Comments: DFPD/93/TH/62. Remarks on the d=1 barrier and references added
+Journal-ref: Mod.Phys.Lett. A9 (1994) 2871-2878
+\\
+  Based on a recent paper by Takhtajan, we propose a formulation of 2D quantum
+gravity whose basic object is the Liouville action on the Riemann sphere
+$\Sigma_{0,m+n}$ with both parabolic and elliptic points. The identification of
+the classical limit of the conformal Ward identity with the Fuchsian projective
+connection on $\Sigma_{0,m+n}$ implies a relation between conformal weights and
+ramification indices. This formulation works for arbitrary $d$ and admits a
+standard representation only for $d\le 1$. Furthermore, it turns out that the
+integerness of the ramification number constrains $d=1-24/(n^2-1)$ that for
+$n=2m+1$ coincides with the unitary minimal series of CFT.
+\\

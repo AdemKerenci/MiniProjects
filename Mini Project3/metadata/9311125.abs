@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311125
+From: Boris Khesin <khesin@math.toronto.edu>
+Date: Sat, 20 Nov 1993 20:30:47 -0500   (9kb)
+
+Title: Poisson-Lie group of pseudodifferential symbols and fractional KP-KdV
+  hierarchies
+Author: Boris Khesin and Ilya Zakharevich
+Comments: 7 pages, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: C.R. Acad. Sci., v. 316 (1993) Serie I, 621-626
+\\
+  The Lie algebra of pseudodifferential symbols on the circle has a nontrivial
+central extension (by the ``logarithmic'' 2-cocycle) generalizing the Virasoro
+algebra. The corresponding extended subalgebra of integral operators generates
+the Lie group of classical symbols of all real (or complex) degrees. It turns
+out that this group has a natural Poisson-Lie structure whose restriction to
+differential operators of an arbitrary integer order coincides with the second
+Adler-Gelfand-Dickey structure. Moreover, for any real (or complex) \alpha
+there exists a hierarchy of completely integrable equations on the degree
+\alpha pseudodifferential symbols, and this hierarchy for \alpha=1 coincides
+with the KP one, and for an integer \alpha=n>1$ and purely differential symbol
+gives the n-KdV-hierarchy.
+\\

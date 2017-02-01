@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305146
+From: Satoru Odake <ODAKE%JPNYITP.BITNET@pucc.Princeton.EDU>
+Date: Wed, 26 May 93 18:12:38 JST   (17kb)
+
+Title: Free Boson Realization of $U_q(\widehat{sl_N})$
+Authors: H. Awata, S. Odake and J. Shiraishi
+Comments: 24 pages, LaTeX, RIMS-924, YITP/K-1018
+Journal-ref: Commun.Math.Phys. 162 (1994) 61-84
+\\
+  We construct a realization of the quantum affine algebra
+$U_q(\widehat{sl_N})$ of an arbitrary level $k$ in terms of free boson fields.
+In the $q\!\rightarrow\! 1$ limit this realization becomes the Wakimoto
+realization of $\widehat{sl_N}$. The screening currents and the vertex
+operators(primary fields) are also constructed; the former commutes with
+$U_q(\widehat{sl_N})$ modulo total difference, and the latter creates the
+$U_q(\widehat{sl_N})$ highest weight state from the vacuum state of the boson
+Fock space.
+\\

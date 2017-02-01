@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403073
+From: berkovic@pib1.physik.uni-bonn.de
+Date: Mon, 14 Mar 1994 16:14:47 MEZ ( +0100)   (24kb)
+Date (revised): Tue, 18 Oct 1994 20:28:48 MEZ ( +0100)
+
+Title: Fermionic counting of RSOS-states and Virasoro character formulas for
+  the unitary minimal series M(\nu,\nu+1). Exact results
+Authors: A. Berkovich
+Comments: 33pp, LaTex, BONN-HE-94-04, spelling errors and typos corrected,
+  references added, to appear in Nucl. Phys. B431 (1994)
+Journal-ref: Nucl.Phys. B431 (1994) 315-348
+\\
+  The Hilbert space of an RSOS-model, introduced by Andrews, Baxter, and
+Forrester, can be viewed as a space of sequences (paths) {a_0,a_1,...,a_L},
+with a_j-integers restricted by 1<=a_j<=\nu, |a_j-a_{j+1}|=1, a_0=s, a_L=r. In
+this paper we introduce different basis which, as shown here, has the same
+dimension as that of an RSOS-model. Following McCoy et al, we call this basis
+-- fermionic (FB). Our first theorem Dim(FB)=Dim(RSOS-basis) can be succinctly
+expressed in terms of some identities for binomial coefficients. Remarkably,
+these binomial identities can be q-deformed. Here, we give a simple proof of
+these q-binomial identities in the spirit of Schur's proof of the
+Rogers-Ramanujan identities. Notably, the proof involves only the elementary
+recurrences for the q-binomial coefficients and a few creative observations.
+Finally, taking the limit L --> \infty in these q-identities, we derive an
+expression for the character formulas of the unitary minimal series
+M(\nu,\nu+1) "Bosonic Sum = Fermionic Sum". Here, Bosonic Sum denotes
+Rocha-Caridi representation (\chi_{r,s=1}^{\nu,\nu+1}(q)) and Fermionic Sum
+stands for the companion representation recently conjectured by the Stony Brook
+group.
+\\

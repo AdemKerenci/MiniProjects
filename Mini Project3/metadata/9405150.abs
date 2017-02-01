@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405150
+From: PTVD@IBM.RZ.TU-CLAUSTHAL.DE
+Date: Tue, 24 May 94 09:39:38 MET   (17kb)
+
+Title: q-difference intertwining operators for $U_q(sl(n))$: general setting
+  and the case $n=3$
+Author: V. K. Dobrev
+Comments: 23 pages
+Report-no: ASI-TPA/10/93
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Phys. A27 (1994) 4841-4858; Erratum-ibid. A27 (1994) 6633-6634
+\\
+  We construct representations $\hat\pi_{\br}$ of the quantum algebra
+$U_q(sl(n))$ labelled by $n-1$ complex numbers $r_i$ and acting in the space of
+formal power series of $n(n-1)/2$ non-commuting variables. These variables
+generate a flag manifold of the matrix quantum group $SL_q(n)$ which is dual to
+$U_q(sl(n))$. The conditions for reducibility of $\hat\pi_{\br}$ and the
+procedure for the construction of the $q$ - difference intertwining operators
+are given. The representations and $q$ - difference intertwining operators are
+given in the most explicit form for $n=3$.
+\\

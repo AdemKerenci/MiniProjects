@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401063
+From: h79317a <h79317a@kyu-cc.cc.kyushu-u.ac.jp>
+Date: Fri, 14 Jan 94 13:23:44 JST   (15kb)
+
+Title: Ordering, symbols, and finite-dimensional approximations of path
+  integrals
+Authors: T. Kashiwa, S. Sakoda, S. V. Zenkin
+Comments: 20 pages (harvmac), KYUSHU-HET-12
+Journal-ref: Prog.Theor.Phys. 92 (1994) 669-686
+\\
+  We derive general form of finite-dimensional approximations of path integrals
+for both bosonic and fermionic canonical systems in terms of symbols of
+operators determined by operator ordering. We argue that for a system with a
+given quantum Hamiltonian such approximations are independent of the type of
+symbols up to terms of $O(\epsilon)$, where $\epsilon$ is infinitesimal time
+interval determining the accuracy of the approximations. A new class of such
+approximations is found for both c-number and Grassmannian dynamical variables.
+The actions determined by the approximations are non-local and have no
+classical continuum limit except the cases of $pq$- and $qp$-ordeeing. As an
+explicit example the fermionic oscillator is considered in detail.
+\\

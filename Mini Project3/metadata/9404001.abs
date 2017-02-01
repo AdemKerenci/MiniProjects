@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404001
+From: "Genadi A Sardanashvily" <sard@theor.phys.msu.su>
+Date: Fri, 01 Apr 1994 10:44:15   (10kb)
+
+Title: Multimomentum Hamiltonian Formalism in Quantum Field Theory
+Authors: G.Sardanashvily (Department of Theoretical Physics, Moscow State
+  University, Moscow, Russia)
+Comments: LaTeX Preprint MSU-TP-94-14
+Journal-ref: Int.J.Theor.Phys. 33 (1994) 2365-2380
+\\
+  The familiar generating functionals in quantum field theory fail to be true
+measures and, so they make the sense only in the framework of the perturbation
+theory. In our approach, generating functionals are defined strictly as the
+Fourier transforms of Gaussian measures in nuclear spaces of multimomentum
+canonical variables when field momenta correspond to derivatives of fields with
+respect to all world coordinates, not only to time.
+\\

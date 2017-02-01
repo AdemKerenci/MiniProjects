@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212155
+From: "OPUS::GALPERIN" <galperin%opus.decnet@casa.pha.jhu.edu>
+Date: 29 Dec 92 12:27:00 EST   (39kb)
+
+Title: Harmonic space and quaternionic manifolds
+Authors: A. Galperin, E. Ivanov and O. Ogievetsky
+Comments: 44 pages, LATEX, JHU-TIPAC-920023, ENSLAPP-L-405-92, MPI-Ph/92-85
+Journal-ref: Ann. Phys. 230 (1994) 201-249
+\\
+  We find a principle of harmonic analyticity underlying the quaternionic
+(quaternion-K\"ahler) geometry and solve the differential constraints which
+define this geometry. To this end the original $4n$-dimensional quaternionic
+manifold is extended to a bi-harmonic space. The latter includes additional
+harmonic coordinates associated with both the tangent local $Sp(1)$ group and
+an extra rigid $SU(2)$ group rotating the complex structures. Then the
+constraints can be rewritten as integrability conditions for the existence of
+an analytic subspace in the bi-harmonic space and solved in terms of two
+unconstrained potentials on the analytic subspace. Geometrically, the
+potentials have the meaning of vielbeins associated with the harmonic
+coordinates. We also establish a one-to-one correspondence between the
+quaternionic spaces and off-shell $N=2$ supersymmetric sigma-models coupled to
+$N=2$ supergravity. The general $N=2$ sigma-model Lagrangian when written in
+the harmonic superspace is composed of the quaternionic potentials. Coordinates
+of the analytic subspace are identified with superfields describing $N=2$
+matter hypermultiplets and a compensating hypermultiplet of $N=2$ supergravity.
+As an illustration we present the potentials for the symmetric quaternionic
+spaces.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404175
+From: taylorw@marie.mit.edu (Washington Taylor)
+Date: Thu, 28 Apr 1994 14:28:23 -0400   (23kb)
+Date (revised): Tue, 3 May 1994 16:52:58 -0400
+
+Title: Counting Strings and Phase Transitions in 2D QCD
+Authors: W. Taylor
+Comments: 22 pages, preprint MIT-CTP-2297. 7 figures automatically included, 2
+  uuencoded. (The relationship between divergences in the string expansion and
+  phase transitions is more clearly explicated and references are expanded.)
+\\
+  Several string theories related to QCD in two dimensions are studied. For
+each of these theories the large $N$ free energy on a (target) sphere of area
+$A$ is calculated. By considering theories with different subsets of the
+geometrical structures involved in the full QCD${}_2$ string theory, the
+different contributions of these structures to the string free energy are
+calculated using both analytic and numerical methods. The equivalence between
+the leading terms in the $SU(N)$ and $U(N)$ free energies is simply
+demonstrated from the string formulation. It is shown that when $\Omega$-points
+are removed from the theory, the free energy is convergent for small and large
+values of $A$ but divergent in an intermediate range. Numerical results
+indicate that the free energy for the full QCD${}_2$ string fails to converge
+at the Douglas-Kazakov phase transition point. Similar results for a single
+chiral sector of the theory, such as has recently been studied by Cordes,
+Moore, and Ramgoolam, indicate that there are three distinct phases in that
+theory. These results indicate that from the point of view of the strong
+coupling phase, the phase transition in the full QCD${}_2$ string arises from
+the entropy of branch-point singularities.
+\\

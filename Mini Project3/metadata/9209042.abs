@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209042
+From: TERRY GANNON <TERRY_GANNON@carleton.ca>
+Date: Sun, 13 Sep 92 16:57 EDT   (22kb)
+
+Title: Partition Functions for Heterotic WZW Conformal Field Theories
+Authors: Terry Gannon
+Comments: 22 pages
+Journal-ref: Nucl. Phys. B402 (1993) 729
+\\
+  Thus far in the search for, and classification of, `physical' modular
+invariant partition functions $\sum N_{LR}\,\c_L\,\C_R$ the attention has been
+focused on the {\it symmetric} case where the holomorphic and anti-holomorphic
+sectors, and hence the characters $\c_L$ and $\c_R$, are associated with the
+same Kac-Moody algebras $\g_L=\g_R$ and levels $k_L=k_R$. In this paper we
+consider the more general possibility where $(\g_L,k_L)$ may not equal
+$(\g_R,k_R)$. We discuss which choices of algebras and levels may correspond to
+well-defined conformal field theories, we find the `smallest' such {\it
+heterotic} (\ie asymmetric) partition functions, and we give a method,
+generalizing the Roberts-Terao-Warner lattice method, for explicitly
+constructing many other modular invariants. We conclude the paper by proving
+that this new lattice method will succeed in generating all the heterotic
+partition functions, for all choices of algebras and levels.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412060
+From: Tchavdar Palev <Tchavdar.Palev@rug.ac.be>
+Date: Wed, 7 Dec 1994 09:13:53 +0100 (MET)   (9kb)
+Date (revised): Thu, 8 Dec 1994 17:08:04 +0100 (MET)
+Date (revised): Fri, 16 Dec 1994 11:50:29 +0100 (MET)
+
+Title: Quantization of the Lie Algebra SO(2N+1) and of the Lie Superalgebra
+  Osp(1/2N) with Preoscillator Generators
+Author: Tchavdar D. Palev
+Comments: 14 pages, tex, talk at Meeting of the NFSR (National Fund for
+  Scientific Research of Belgium) Contact Group on Mathematical Physics, Oct.
+  28, 1994, Universite Libre de Bruxelles (mistakes in eqs.(21) and (48)
+  removed)
+Report-no: TWI-94-29
+Journal-ref: J.Group Theor.Phys. 3 (1995) 1
+\\
+  The Lie algebra $so(2n+1)$ and the Lie superalgebra $osp(1/2n)$ are quantized
+in terms of $3n$ generators, called preoscillator generators. Apart from $n$
+"Cartan" elements the preoscillator generators are deformed para-Fermi
+operators in the case of $so(2n+1)$ and deformed para-Bose operators in the
+case of $osp(1/2n)$. The corresponding deformed universal enveloping algebras
+$U_q[so(2n+1)]$ and $U_q[osp(1/2n)]$ are the same as those defined in terms of
+Chevalley operators. The name "preoscillator" is to indicate that in a certain
+representation these operators reduce to the known deformed Fermi and Bose
+operators.
+\\

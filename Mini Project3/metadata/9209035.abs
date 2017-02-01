@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209035
+From: t11@nikhef.nl (Wolfgang Kalau)
+Date: Fri, 11 Sep 92 12:36:10 +0200   (18kb)
+
+Title: BRST Quantization of 2d-Yang Mills Theory with Anomalies
+Authors: Wolfgang Kalau
+Comments: 25p., NIKHEF-H/92-13
+Journal-ref: Nucl. Phys. B395 (1993) 263
+\\
+  In this paper we discuss the BRST-quantization of anomalous 2d-Yang Mills
+(YM) theory. Since we use an oscillator basis for the YM-Fock-space the anomaly
+appears already for a pure YM-system and the constraints form a Kac-Moody
+algebra with negative central charge. We also discuss the coupling of chiral
+fermions and find that the BRST-cohomology for systems with chiral fermions in
+a sufficiently large representation of the gauge group is completely equivalent
+to the cohomology of the finite dimensional gauge group. For pure YM theory or
+YM theory coupled to chiral fermions in small representations there exists an
+infinite number of inequivalent cohomology classes. This is discussed in some
+detail for the example of $SU(2)$.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410139
+From: bello@cbpfsu1.cat.cbpf.br (Jose Luis Vazquez-Bello)
+Date: Wed, 19 Oct 94 12:31:26 EST   (15kb)
+Date (revised): Thu, 20 Oct 94 13:17:04 EST
+
+Title: The BV Quantisation of Superparticles Type I and II
+Authors: J.L Vazquez-Bello
+Comments: pages: 5, Tex file. CBPF-NF-057194/CLAF. This new version corrects
+  the macro used as it was corrupted when submitted to the hepth database. No
+  changes in the body of the original paper
+\\
+  { This letter discusses the BRST cohomology of superparticles type I and II.
+It was used an extended super-space to construct $S0(9,1)$ superparticle
+actions that lead to super-wave functions whose spinor components satisfy
+$S0(9,1)$ covariant constraints. Their BRST charges were found by using BV
+methods, since the models present a large number of symmetries and only close
+on-shell. It is shown that the zero ghost-number cohomology class of both
+models reproduce the same spectrum as that of N=1 ten dimensional
+super-Yang-Mills theory. }
+\\

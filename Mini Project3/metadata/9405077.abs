@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405077
+From: "Victor Gurarie" <gurarie@puhep1.Princeton.EDU>
+Date: Wed, 11 May 94 18:25:32 -0400   (24kb)
+Date (revised): Mon, 30 May 94 20:31:43 -0400
+
+Title: Probability Density, Diagrammatic Technique, and Epsilon Expansion in
+  the Theory of Wave Turbulence
+Authors: V. Gurarie
+Comments: 26 pages, PUPT-1462
+Journal-ref: Nucl.Phys. B441 (1995) 569-594
+\\
+  We apply the methods of Field Theory to study the turbulent regimes of
+statistical systems. First we show how one can find their probability
+densities. For the case of the theory of wave turbulence with four-wave
+interaction we calculate them explicitly and study their properties. Using
+those densities we show how one can in principle calculate any correlation
+function in this theory by means of direct perturbative expansion in powers of
+the interaction. Then we give the general form of the corrections to the
+kinetic equation and develop an appropriate diagrammatic technique. This
+technique, while resembling that of $\varphi^4$ theory, has many new
+distinctive features. The role of the $\epsilon=d-4$ parameter is played here
+by the parameter $\kappa=\beta + d - \alpha - \gamma$ where $\beta$ is the
+dimension of the interaction, $d$ is the space dimension, $\alpha$ is the
+dimension of the energy spectrum and $\gamma$ is the ``classical'' wave density
+dimension. If $\kappa > 0$ then the Kolmogorov index is exact, and if $\kappa <
+0$ then we expect it to be modified by the interaction. For $\kappa$ a small
+negative number, $\alpha<1$ and a special form of the interaction we compute
+this modification explicitly with the additional assumption of the irrelevance
+of the IR divergencies which still needs to be verified.
+\\

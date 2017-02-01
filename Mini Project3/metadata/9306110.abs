@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306110
+From: Ivan Kostov <kostov@amoco.saclay.cea.fr>
+Date: 22 Jun 93 00:26:46+0200   (49kb)
+Date (revised): 25 Jun 93 12:37:51+0200
+Date (revised): Fri, 15 Oct 1993 11:23:28 +0000
+
+Title: U(N) Gauge Theory and Lattice Strings
+Authors: I.K. Kostov
+Comments: 37 pages, 11 figures not included ; An extended version explaining in
+  addition the construction of the lattice string ansatz in D >2 dimensions.
+  (Note that the title has been changed.)
+\\
+  The U(N) gauge theory on a D-dimensional lattice is reformulated as a theory
+of lattice strings (a statistical model of random surfaces). The Boltzmann
+weights of the surfaces can have both signs and are tuned so that the
+longitudinal modes of the string are elliminated. The U(\infty) gauge theory is
+described by noninteracting planar surfaces and the 1/N corrections are
+produced by surfaces with higher topology as well as by contact interactions
+due to microscopic tubes, trousers, handles, etc. We pay special attention to
+the case D=2 where the sum over surfaces can be performed explicitly, and
+demonstrate that it reproduces the known exact results for the free energy and
+Wilson loops in the continuum limit. In D=4 dimensions, our lattice string
+model reproduces the strong coupling phase of the gauge theory. The weak
+coupling phase is described by a more complicated string whose world surface
+may have windows. A possible integration measure in the space of continuous
+surfaces is suggested.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402047
+From: okumura_yoshitaka <hiromu@isc.chubu.ac.jp>
+Date: Wed, 9 Feb 1994 13:58:42 +0900   (31kb)
+
+Title: Gauge theory and Higgs mechanism based on differential geometry on
+  discrete space M4 * ZN
+Authors: Yoshitaka Okumura
+Comments: 32 pages, CHU9401
+Journal-ref: Phys.Rev. D50 (1994) 1026-1039
+\\
+  Weinberg-Salam theory and $SU(5)$ grand unified theory are reconstructed
+using the generalized differential calculus extended on the discrete space
+$M_4\times Z_{\mathop{}_{N}}$. Our starting point is the generalized gauge
+field expressed by $A(x,n)=\!\sum_{i}a^\dagger_{i}(x,n){\bf d}a_i(x,n),
+(n=1,2,\cdots N)$, where $a_i(x,n)$ is the square matrix valued function
+defined on $M_4\times Z_{\mathop{}_{N}}$ and ${\bf
+d}=d+\sum_{m=1}^{\mathop{}_{N}}d_{\chi_m}$ is generalized exterior derivative.
+We can construct the consistent algebra of $d_{\chi_m}$ which is exterior
+derivative with respect to $Z_{\mathop{}_{N}}$ and the spontaneous breakdown of
+gauge symmetry is coded in ${d_{\chi_m}}$. The unified picture of the gauge
+field and Higgs field as the generalized connection in non-commutative geometry
+is realized. Not only Yang-Mills-Higgs lagrangian but also Dirac lagrangian,
+invariant against the gauge transformation, are reproduced through the inner
+product between the differential forms. Three sheets ($Z_3)$ are necessary for
+Weinberg-Salam theory including strong interaction and $SU(5)$ Gut. Our
+formalism is applicable to more realistic model like $SO(10)$ unification
+model.
+\\

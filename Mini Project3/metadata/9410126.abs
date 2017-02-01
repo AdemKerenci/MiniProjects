@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410126
+From: Michael Fry <mpfry@maths.tcd.ie>
+Date: Tue, 18 Oct 1994 17:42:44 +0200   (22kb)
+
+Title: Fermion Determinants in Static, Inhomogeneous Magnetic Fields
+Authors: M. P. Fry
+Comments: 36 pages
+Journal-ref: Phys.Rev. D51 (1995) 810-823
+\\
+  The renormalized fermionic determinant of QED in 3 + 1 dimensions,
+$\mbox{det}_{{ren}}$, in a static, unidirectional, inhomogeneous magnetic field
+with finite flux can be calculated from the massive Euclidean Schwinger model's
+determinant, $\mbox{det}_{{Sch}}$, in the same field by integrating
+$\mbox{det}_{{Sch}}$, over the fermion's mass. Since $\mbox{det}_{{ren}}$ for
+general fields is central to QED, it is desirable to have nonperturbative
+information on this determinant, even for the restricted magnetic fields
+considered here. To this end we continue our study of the physically relevant
+determinant $\mbox{det}_{{Sch}}$. It is shown that the contribution of the
+massless Schwinger model to $\mbox{det}_{{Sch}}$ is cancelled by a contribution
+from the massive sector of QED in 1 + 1 dimensions and that zero modes are
+suppressed in $\mbox{det}_{{Sch}}$. We then calculate $\mbox{det}_{{Sch}}$
+analytically in the presence of a finite flux, cylindrical magnetic field. Its
+behaviour for large flux and small fermion mass suggests that the zero-energy
+bound states of the two-dimensional Pauli Hamiltonian are the controlling
+factor in the growth of $\ln \mbox{det}_{{Sch}}$. Evidence is presented that
+$\mbox{det}_{{Sch}}$ does not converge to the determinant of the massless
+Schwinger model in the small mass limit for finite, nonzero flux magnetic
+fields.
+\\

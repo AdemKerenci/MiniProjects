@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312006
+From: burkardt@hans.npl.washington.edu
+Date: Wed, 01 Dec 93 11:29:46 -0800   (20kb)
+
+Title: Light Front Ensemble Projector Mont Carlo
+Authors: Matthias Burkardt
+Journal-ref: Phys.Rev. D49 (1994) 5446-5457
+\\
+  A new method to perform numerical simulations of light-front Hamiltonians
+formulated on transverse lattices is introduced. The method is based on a DLCQ
+formulation for the (continuous) longitudinal directions. The hopping term in
+the transverse direction introduces couplings between fields defined on
+neighboring $1+1$-dimensional sheets. Within each sheet, the light-cone
+imaginary time evolution operator is calculated numerically with high precision
+using DLCQ. The coupling between neighboring sheets is taken into account using
+an initial value random walk algorithm based on the ensemble projector Monte
+Carlo technique and a checkerboard decomposition for the time evolution
+operator. The structure functions of $\lambda \phi^4$ theory in $2+1$
+dimensions are studied as a trial application. The calculations are performed
+with up to 64 transverse lattice sites. No Tamm-Dancoff truncations are
+necessary.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212022
+From: cnash@maths.may.ie (Charles Nash)
+Date: Thu, 3 Dec 92 13:56:47 GMT   (38kb)
+
+Title: Determinants of Laplacians, the Ray-Singer Torsion on Lens Spaces and
+  the Riemann zeta function
+Author: Charles Nash and Denjoe O' Connor
+Comments: 49 pages
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: J.Math.Phys. 36 (1995) 1462-1505; Erratum-ibid. 36 (1995) 4549
+\\
+  We obtain explicit expressions for the determinants of the Laplacians on zero
+and one forms for an infinite class of three dimensional lens spaces $L(p,q)$.
+These expressions can be combined to obtain the Ray-Singer torsion of these
+lens spaces. As a consequence we obtain an infinite class of formulae for the
+Riemann zeta function $\zeta(3)$. The value of these determinants (and the
+torsion) grows as the size of the fundamental group of the lens space increases
+and this is also computed. The triviality of the torsion for just the three
+lens spaces $L(6,1)$, $L(10,3)$ and $L(12,5)$ is also noted. (postscript
+figures available as a compressed tar file)
+\\

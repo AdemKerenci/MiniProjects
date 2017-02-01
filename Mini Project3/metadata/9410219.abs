@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410219
+From: LARSEN@MESIOA.OBSPM.FR
+Date: Fri, 28 Oct 1994 12:51:11 +0002   (14kb)
+
+Title: Semi-Classical Quantization of Circular Strings in De Sitter and Anti De
+  Sitter Spacetimes
+Authors: H.J. de Vega, A.L. Larsen and N. Sanchez
+Comments: Latex, 26 pages + 2 tables and 5 figures that can be obtained from
+  the authors on request. DEMIRM-Obs de Paris-94049
+Journal-ref: Phys.Rev. D51 (1995) 6917-6928
+\\
+  We compute the {\it exact} equation of state of circular strings in the (2+1)
+dimensional de Sitter (dS) and anti de Sitter (AdS) spacetimes, and analyze its
+properties for the different (oscillating, contracting and expanding) strings.
+The string equation of state has the perfect fluid form $P=(\gamma-1)E,$ with
+the pressure and energy expressed closely and completely in terms of elliptic
+functions, the instantaneous coefficient $\gamma$ depending on the elliptic
+modulus. We semi-classically quantize the oscillating circular strings. The
+string mass is $m=\sqrt{C}/(\pi H\alpha'),\;C$ being the Casimir operator,
+$C=-L_{\mu\nu}L^{\mu\nu},$ of the $O(3,1)$-dS [$O(2,2)$-AdS] group, and $H$ is
+the Hubble constant. We find $\alpha'm^2_{\mbox{dS}}\approx 5.9n,\;(n\in N_0),$
+and a {\it finite} number of states $N_{\mbox{dS}}\approx 0.17/(H^2\alpha')$ in
+de Sitter spacetime; $m^2_{\mbox{AdS}}\approx 4H^2n^2$ (large $n\in N_0$) and
+$N_{\mbox{AdS}}=\infty$ in anti de Sitter spacetime. The level spacing grows
+with $n$ in AdS spacetime, while is approximately constant (although larger
+than in Minkowski spacetime) in dS spacetime. The massive states in dS
+spacetime decay through tunnel effect and the semi-classical decay probability
+is computed. The semi-classical quantization of {\it exact} (circular) strings
+and the canonical quantization of generic string perturbations around the
+string center of mass strongly agree.
+\\

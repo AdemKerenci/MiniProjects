@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406167
+From: SWANSON@UConnVM.UConn.Edu
+Date: Fri, 24 Jun 94 11:43:42 EDT   (32kb)
+
+Title: Canonical Transformations and Path Integral Measures
+Authors: Mark S. Swanson
+Comments: 28 pages, LaTeX
+\\
+  This paper is a generalization of previous work on the use of classical
+canonical transformations to evaluate Hamiltonian path integrals for quantum
+mechanical systems. Relevant aspects of the Hamiltonian path integral and its
+measure are discussed and used to show that the quantum mechanical version of
+the classical transformation does not leave the measure of the path integral
+invariant, instead inducing an anomaly. The relation to operator techniques and
+ordering problems is discussed, and special attention is paid to incorporation
+of the initial and final states of the transition element into the boundary
+conditions of the problem. Classical canonical transformations are developed to
+render an arbitrary power potential cyclic. The resulting Hamiltonian is
+analyzed as a quantum system to show its relation to known quantum mechanical
+results. A perturbative argument is used to suppress ordering related terms in
+the transformed Hamiltonian in the event that the classical canonical
+transformation leads to a nonquadratic cyclic Hamiltonian. The associated
+anomalies are analyzed to yield general methods to evaluate the path integral's
+prefactor for such systems. The methods are applied to several systems,
+including linear and quadratic potentials, the velocity-dependent potential,
+and the time-dependent harmonic oscillator.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411228
+From: Gerard 't Hooft <G.tHooft@fys.ruu.nl>
+Date: Wed, 30 Nov 1994 16:46:23 +0200   (11kb)
+Date (revised): Wed, 7 Dec 1994 13:54:42 +0200
+
+Title: Lattice Regularization of Gauge Theories Without Loss of Chiral Symmetry
+Author: G. 't Hooft (Institute for Theoretical Physics, Utrecht University)
+Comments: Correction of formula in Appendix, and extra references added
+Journal-ref: Phys.Lett. B349 (1995) 491-498
+\\
+  A lattice regularization procedure for gauge theories is proposed in which
+fermions are given a special treatment such that all chiral flavor symmetries
+that are free of Adler-Bell-Jackiw anomalies are kept intact. There is no
+doubling of fermionic degrees of freedom. A price paid for this feature is that
+the number of fermionic degrees of freedom per unit cell is still infinite,
+although finiteness of the complete functional integrals can be proven (details
+are outlined in an Appendix). Therefore, although perhaps of limited usefulness
+for numerical simulations, our scheme can be applied for studying aspects such
+as analytic convergence questions, spontaneous symmetry breakdown and baryon
+number violation in non-Abelian gauge theories.
+\\

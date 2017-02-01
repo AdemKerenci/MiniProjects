@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9201076
+From: Mark Doyle <doyle@mmm.lanl.gov>
+Date: Thu, 30 Jan 92 15:57:21 EST   (40kb)
+Date (revised): Fri, 7 Feb 92 15:30:05 EST
+
+Title: Dilaton Contact Terms in the Bosonic and Heterotic Strings
+Authors: Mark Doyle (Princeton University)
+Comments: 44 pages, Figures now included. This replacement version includes the
+  7 figures as PostScript files appended to the end and the macros to insert
+  them into the text. Also some typos in intermediate formulae were corrected
+Journal-ref: Nucl.Phys. B381 (1992) 158-200
+\\
+  Dilaton contact terms in the bosonic and heterotic strings are examined
+following the recent work of Distler and Nelson on the bosonic and semirigid
+strings. In the bosonic case dilaton two-point functions on the sphere are
+calculated as a stepping stone to constructing a `good' coordinate family for
+dilaton calculations on higher genus surfaces. It is found that dilaton-dilaton
+contact terms are improperly normalized, suggesting that the interpretation of
+the dilaton as the first variation of string coupling breaks down when other
+dilatons are present. It seems likely that this can be attributed to the
+tachyon divergence found in \TCCT. For the heterotic case, it is found that
+there is no tachyon divergence and that the dilaton contact terms are properly
+normalized. Thus, a dilaton equation analogous to the one in topological
+gravity is derived and the interpretation of the dilaton as the string coupling
+constant goes through.
+\\

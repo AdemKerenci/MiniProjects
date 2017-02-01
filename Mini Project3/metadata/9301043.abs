@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301043
+From: drm@math.duke.edu (David R. Morrison)
+Date: Mon, 11 Jan 93 21:58:23 EST   (20kb)
+Date (revised): Thu, 14 Jan 93 20:27:49 EST
+
+Title: Multiple Mirror Manifolds and Topology Change in String Theory
+Authors: Paul S. Aspinwall, Brian R. Greene, and David R. Morrison
+Comments: 18 pp., (uses harvmac and epsf) (Missing reference added.)
+Report-no: IASSNS-HEP-93/4
+Journal-ref: Phys.Lett. B303 (1993) 249-259
+\\
+  We use mirror symmetry to establish the first concrete arena of spacetime
+topology change in string theory. In particular, we establish that the
+{\it quantum theories\/} based on certain nonlinear sigma models with
+topologically distinct target spaces can be smoothly connected even though
+classically a physical singularity would be encountered.  We accomplish this
+by rephrasing the description of these nonlinear sigma models in terms of their
+mirror manifold partners---a description in which the full quantum theory can
+be described exactly using lowest order geometrical methods.
+   We establish that, for the known class of mirror manifolds, the moduli space
+of the corresponding conformal field theory requires not just two but
+{\it numerous\/}  topologically distinct Calabi-Yau manifolds for its geometric
+interpretation.  A {\it single\/} family of continuously connected conformal
+theories thereby probes a host of topologically distinct geometrical spaces
+giving rise to {\it multiple mirror manifolds}.
+\\

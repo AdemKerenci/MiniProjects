@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206066
+From: "C.V.Johnson" <C.V.Johnson@southampton.ac.uk>
+Date: Wed, 17 Jun 92 9:55:41 BST   (13kb)
+
+Title: The Boundary Cosmological Constant in Stable 2D Quantum Gravity
+Authors: Clifford V. Johnson, Tim R. Morris and Peter L. White
+Comments: (Plain Tex, 11pp, 4 figures available on request) SHEP 91/92-21
+Journal-ref: Phys. Lett. B292 (1992) 283
+\\
+  We study further the r\^ole of the boundary operator $\O_B$ for macroscopic
+loop length in the stable definition of 2D quantum gravity provided by the
+$[{\tilde P},Q]=Q$ formulation. The KdV flows are supplemented by an additional
+flow with respect to the boundary cosmological constant $\sigma$. We
+numerically study these flows for the $m=1$, $2$ and $3$ models, solving for
+the string susceptibility in the presence of $\O_B$ for arbitrary coupling
+$\sigma$. The spectrum of the Hamiltonian of the loop quantum mechanics is
+continuous and bounded from below by $\sigma$. For large positive $\sigma$, the
+theory is dominated by the `universal' $m=0$ topological phase present only in
+the $[{\tilde P},Q]=Q$ formulation. For large negative $\sigma$, the
+non--perturbative physics approaches that of the $[P,Q]=1$ definition, although
+there is no path to the unstable solutions of the $[P,Q]=1$ $m$-even models.
+\\

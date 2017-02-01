@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407090
+From: khaller@main.phys.uconn.edu (Kurt Haller)
+Date: Fri, 15 Jul 94 14:41:40 EDT   (20kb)
+
+Title: Anyonic States in Chern-Simons Theory
+Authors: Kurt Haller and Edwin Lim-Lombridas (University of Connecticut)
+Comments: UCONN-92-2, RevTeX, 22 pages. A revised version of an earlier paper
+  of the same title
+Journal-ref: Phys.Rev. D50 (1994) 7519-7530
+\\
+  We discuss the canonical quantization of Chern-Simons theory in $2+1$
+dimensions, minimally coupled to a Dirac spinor field, first in the temporal
+gauge and then in the Coulomb gauge. In our temporal gauge formulation, Gauss's
+law and the gauge condition, $A_0 = 0$, are implemented by embedding the
+formulation in an appropriate physical subspace. We construct a Fock space of
+charged particle states that satisfy Gauss's law, and show that they obey
+fermion, not fractional statistics. The gauge-invariant spinor field that
+creates these charged states from the vacuum obeys the anticommutation rules
+that generally apply to spinor fields. The Hamiltonian, when described in the
+representation in which the charged fermions are the propagating particle
+excitations that obey Gauss's law, contains an interaction between charge and
+transverse current densities. We observe that the implementation of Gauss's law
+and the gauge condition does not require us to use fields with graded
+commutator algebras or particle excitations with fractional statistics. In our
+Coulomb gauge formulation, we implement Gauss's law and the gauge condition,
+$\partial_lA_l=0$, by the Dirac-Bergmann procedure. In this formulation, the
+constrained gauge fields become functionals of the spinor fields, and are not
+independent degrees of freedom. The formulation in the Coulomb gauge confirms
+the results we obtained in the temporal gauge: The ``Dirac-Bergmann''
+anticommutation rule for the charged spinor fields $\psi$ and $\psi^\dagger$
+that have both been constrained to obey Gauss's law, is precisely identical to
+the canonical spinor anticommutation rule that generates standard fermion
+statistics. And we also show that the Hamiltonians for charged particle states
+in our temporal and Coulomb gauge formulations are identical, once Gauss's law
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410096
+From: "J.W. Goodison" <J.W.Goodison@newcastle.ac.uk>
+Date: Thu, 13 Oct 1994 15:49:04 +0100 (BST)   (8kb)
+
+Title: The Canonical Partition Function for Quons
+Authors: J.W.Goodison and D.J.Toms
+Comments: 12 pages RevTex, NCL94-TP5 ( To be published in Physics Letters A )
+\\
+  We calculate the canonical partition function $Z_N$ for a system of $N$ free
+particles obeying so-called `quon' statistics where $q$ is real and satisfies
+$|q|<1$ by using simple counting arguments. We observe that this system is
+afflicted by the Gibbs paradox and that $Z_N$ is independent of $q$. We
+demonstrate that such a system of particles obeys the ideal gas law and that
+the internal energy $U$ ( and hence the specific heat capacity $C_V$ ) is
+identical to that of a system of $N$ free particles obeying Maxwell-Boltzmann
+statistics.
+\\

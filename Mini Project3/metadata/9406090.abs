@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406090
+From: "Jacques Distler" <distler@puhep1.Princeton.EDU>
+Date: Tue, 14 Jun 94 14:17:44 -0400   (33kb)
+
+Title: Singlet Couplings and (0,2) Models
+Authors: Jacques Distler and Shamit Kachru
+Comments: 22pp, harvmac+epsf, 2 figures included with uufiles, PUPT-1465
+Journal-ref: Nucl.Phys. B430 (1994) 13-30
+\\
+  We use the quantum symmetries present in string compactification on
+Landau-Ginzburg orbifolds to prove the existence of a large class of exactly
+marginal (0,2) deformations of (2,2) superconformal theories. Analogous methods
+apply to the more general (0,2) models introduced in \DK, lending further
+credence to the fact that the corresponding \LG\ models represent bona-fide
+(0,2) SCFTs. We also use the large symmetry groups which arise when the
+worldsheet superpotential is turned off to constrain the dependence of certain
+correlation functions on the untwisted moduli. This allows us to approach the
+problem of what happens when one tries to deform away from the \LG\ point. In
+particular, we find that the masses and three-point couplings of the massless
+$E_{6}$ singlets related to ${\rm H^{1}}(\ET)$ vanish at all points in the
+quintic \Ka\ moduli space. Putting these results together, and invoking some
+plausible dynamical assumptions about the corresponding linear \sm s, we show
+that one can deform these \LG\ theories to arbitrary values of the \Ka\ moduli.
+\\

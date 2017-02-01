@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310052
+From: CASSANDRO@roma1.infn.it
+Date: Fri, 8 Oct 1993 10:44:11 +0100 (WET)   (24kb)
+
+Title: Renormalization Group Approach to Interacting Crumpled Surfaces: The
+  hierarchical recursion
+Authors: M. Cassandro and P. K. Mitter
+Comments: 47 pages in simple Latex, PAR-LPTHE 9346
+Journal-ref: Nucl.Phys. B422 (1994) 634-676
+\\
+  We study the scaling limit of a model of a tethered crumpled D-dimensional
+random surface interacting through an exclusion condition with a fixed impurity
+in d-dimensional Euclidean space by the methods of Wilson's renormalization
+group. In this paper we consider a hierarchical version of the model and we
+prove rigorously the existence of the scaling limit and convergence to a
+non-Gaussian fixed point for $1 \leq D< 2$ and $\epsilon >0$ sufficiently
+small, where $\epsilon = D - (2-D) {d\over 2}$.
+\\

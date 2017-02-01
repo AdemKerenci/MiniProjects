@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301069
+From: Wei Chen <chen@physics.ubc.ca>
+Date: 17 Jan 93 22:17 -0800   (22kb)
+
+Title: Four-Fermion Theory and the Conformal Bootstrap
+Authors: Wei Chen (UBC), Yuri Makeenko (ITEP) and Gordon W Semenoff (UBC)
+Comments: 31pp, text and figures both in Latex, UBCTP 92-30
+Journal-ref: Annals Phys. 228 (1993) 341
+\\
+  We employ the conformal bootstrap to re-examine the problem of finding the
+critical behavior of four-Fermion theory at its strong coupling fixed point.
+Existence of a solution of the bootstrap equations indicates self-consistency
+of the assumption that, in space-time dimensions less than four, the
+renormalization group flow of the coupling constant of a four-Fermion
+interaction has a nontrivial fixed point which is generally out of the
+perturbative regime. We exploit the hypothesis of conformal invariance at this
+fixed point to reduce the set of the Schwinger-Dyson bootstrap equations for
+four-Fermion theory to three equations which determine the scale dimension of
+the Fermion field $\psi$, the scale dimension of the composite field
+$\bar{\psi}\psi$ and the critical value of the Yukawa coupling constant. We
+solve the equations assuming this critical value to be small. We show that this
+solution recovers the fixed point for the four-fermion interaction with
+$N$-component fermions in the limit of large $N$ at (Euclidean) dimensions $d$
+between two and four. We perform a detailed analysis of the $1/N$-expansion in
+$d=3$ and demonstrate full agreement with the conformal bootstrap. We argue
+that this is a useful starting point for more sophisticated computations of the
+critical indices.
+\\

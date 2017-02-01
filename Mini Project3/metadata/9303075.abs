@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303075
+From: Robert Lacaze <lacaze@amoco.saclay.cea.fr>
+Date: 12 Mar 93 09:52:10+0100   (56kb)
+
+Title: The free energy of the Potts model: from the continuous to the
+  first-order transition region
+Authors: T. Bhattacharya, R. Lacaze and A. Morel
+Comments: 11 pages, plain tex with 3 Postscript figures included Postscript
+  file available by anonymous ftp://amoco.saclay.cea.fr/pubs.spht/93-022.ps
+Report-no: SPht-93/022
+\\
+  We present a large $q$ expansion of the 2d $q$-states Potts model free
+energies up to order 9 in $1/\sqrt{q}$. Its analysis leads us to an ansatz
+which, in the first-order region, incorporates properties inferred from the
+known critical regime at $q=4$, and predicts, for $q>4$, the $n^{\rm th}$
+energy cumulant scales as the power $(3 n /2-2)$ of the correlation length. The
+parameter-free energy distributions reproduce accurately, without reference to
+any interface effect, the numerical data obtained in a simulation for $q=10$
+with lattices of linear dimensions up to $L=50$. The pure phase specific heats
+are predicted to be much larger, at $q\leq10$, than the values extracted from
+current finite size scaling analysis of extrema. Implications for safe
+numerical determinations of interface tensions are discussed.
+\\

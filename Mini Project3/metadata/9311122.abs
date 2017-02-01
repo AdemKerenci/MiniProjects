@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311122
+From: David Gershon <GERSHON@taunivm.tau.ac.il>
+Date: Sun, 21 Nov 93 21:38:14 IST   (25kb)
+Date (revised): Tue, 14 Dec 93 16:04:23 IST
+
+Title: Semiclassical vs. Exact Solutions of Charged Black Hole in Four
+  Dimensions and Exact O(d,d) Duality
+Author: David Gershon
+Comments: 42 pages, (typographical errors in pages 33 and 35)
+Journal-ref: Nucl.Phys. B421 (1994) 80-110
+\\
+  We derive a charged black hole solution in four dimensions described by
+$SL(2,R)\times SU(2)\times U(1)/U(1)^2$ WZW coset model. Using the algebraic
+Hamiltonian method we calculate the corresponding solution that is exact to all
+orders in ${1\over k}$. It is shown that unlike the 2D black hole, the
+singularity remains also in the exact solution, and moreover, in some range of
+the gauge parameter the space-time does not fulfil the cosmic censor
+conjecture, $i.e.$ we find a naked singularity outside the black hole. Exact
+dual models are derived as well, one of them describes a 4D space-time with a
+naked singularity. Using the algebraic Hamiltonian approach we also find the
+exact to all orders $O(d,d)$ transformation of the metric and the dilaton field
+for general WZW coset models and show the correction with respect to the
+transformations in one loop order.
+\\

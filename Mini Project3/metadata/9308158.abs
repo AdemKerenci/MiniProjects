@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308158
+From: Ivan Kostov <kostov@amoco.saclay.cea.fr>
+Date: Thu, 2 Sep 1993 17:07:30 +0000   (25kb)
+
+Title: U(N) Gauge Theory and Lattice Strings
+Authors: Ivan K. Kostov
+Comments: 26 pages, 8 figures not included, available by mail upon request,
+  T93-079 (talk at the Workshop on string theory, gauge theory and quantum
+  gravity, 28-29 April 1993, Trieste, Italy)
+Journal-ref: Nucl.Phys. B415 (1994) 29-70
+\\
+  We explain, in a slightly modified form, an old construction allowing to
+reformulate the U(N) gauge theory defined on a D-dimensional lattice as a
+theory of lattice strings (a statistical model of random surfaces). The world
+surface of the lattice string is allowed to have pointlike singularities
+(branch points) located not only at the sites of the lattice, but also on its
+links and plaquettes. The strings become noninteracting when $N\to\infty$. In
+this limit the statistical weight a world surface is given by exp[ $-$ area]
+times a product of local factors associated with the branch points. In $D=4$
+dimensions the gauge theory has a nondeconfining first order phase transition
+dividing the weak and strong coupling phase. From the point of view of the
+string theory the weak coupling phase is expected to be characterized by
+spontaneous creation of ``windows'' on the world sheet of the string.
+\\

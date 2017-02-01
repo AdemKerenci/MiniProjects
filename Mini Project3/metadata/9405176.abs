@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405176
+From: Dave Robertson <dgr@pacific.mps.ohio-state.edu>
+Date: Fri, 27 May 94 4:22:18 EDT   (26kb)
+
+Title: On the Discretized Light-Cone Quantization of Electrodynamics
+Authors: Alex C. Kalloniatis and David G. Robertson
+Comments: 26 pages (plain TeX, all macros included). MPIH-V10-1994,
+  OSU-NT-94-03
+Journal-ref: Phys.Rev. D50 (1994) 5262-5273
+\\
+  Discretized light-cone quantization of (3+1)-dimensional electrodynamics is
+discussed, with careful attention paid to the interplay between gauge choice
+and boundary conditions. In the zero longitudinal momentum sector of the theory
+a general gauge fixing is performed, and the corresponding relations that
+determine the zero modes of the gauge field are obtained. One particularly
+natural gauge choice in the zero mode sector is identified, for which the
+constraint relations are simplest and the fields may be taken to satisfy the
+usual canonical commutation relations. The constraints are solved in
+perturbation theory, and the Poincar\'e generators $P^\mu$ are constructed. The
+effect of the zero mode contributions on the one-loop fermion self-energy is
+studied.
+\\

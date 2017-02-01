@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306080
+From: anselmi@tsmi19.sissa.it
+Date: Thu, 17 Jun 1993 13:47:08 +0100   (40kb)
+Date (revised): Sat, 19 Jun 1993 09:23:36 +0100
+
+Title: Topological Sigma-Models in Four Dimensions and Triholomorphic Maps
+Authors: Damiano Anselmi and Pietro Fre'
+Comments: 43 pages, LaTeX file, SISSA/ISAS 73/93/EP. (reference [32] corrected)
+Journal-ref: Nucl.Phys. B416 (1994) 255-300
+\\
+  It is well-known that topological sigma-models in 2 dimensions constitute a
+path-integral approach to the study of holomorphic maps from a Riemann surface
+S to an almost complex manifold K, the most interesting case being that where K
+is a Kahler manifold. We show that, in the same way, topological sigma-models
+in 4 dimensions introduce a path integral approach to the study of
+triholomorphic maps q:M-->N from a 4dimensional Riemannian manifold M to an
+almost quaternionic manifold N. The most interesting cases are those where M, N
+are hyperKahler or quaternionic Kahler. BRST-cohomology translates into
+intersection theory in the moduli-space of this new class of instantonic maps,
+named by us hyperinstantons. The definition of triholomorphicity that we
+propose is expressed by the equation q_*-J_u q_* j_u = 0, u=1,2,3, where {j_u}
+is an almost quaternionic structure on M and {J_u} is an almost quaternionic
+structure on N. This is a generalization of the Cauchy-Fueter equations. For M,
+N hyperKahler, this generalization naturally arises by obtaining the
+topological sigma-model as a twisted version of the N=2 globally supersymmetric
+sigma-model. We discuss various examples of hyperinstantons, in particular on
+the torus and the K3 surface. We also analyse the coupling of the topological
+sigma-model to topological gravity. The study of
+\\

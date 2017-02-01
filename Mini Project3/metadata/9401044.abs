@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401044
+From: Josh Boorstein <boo7@bohr.uchicago.edu>
+Date: Tue, 11 Jan 94 13:28:12 CST   (13kb)
+
+Title: Symmetries and Mass Splittings in QCD$_2$ Coupled to Adjoint Fermions
+Authors: Joshua Boorstein and David Kutasov
+Comments: 16 pages + 3 figures available upon request, harvmac, EFI-93-69
+Journal-ref: Nucl.Phys. B421 (1994) 263-277
+\\
+  Two dimensional QCD coupled to fermions in the adjoint representation of the
+gauge group $SU(N)$, a useful toy model of QCD strings, is supersymmetric for a
+certain ratio of quark mass and gauge coupling constant. Here we study the
+theory in the vicinity of the supersymmetric point; in particular we exhibit
+the algebraic structure of the model and show that the mass splittings as one
+moves away from the supersymmetric point obey a universal relation of the form
+${M_i}^2(B)-{M_i}^2(F)=M_i\delta m+O(\delta m^3)$. We discuss the connection of
+this relation to string and quark model expectations and verify it numerically
+for large $N$. At least for low lying states the $O(\delta m^3)$ corrections
+are extremely small. We also discuss a natural generalization of QCD$_2$ with
+an infinite number of couplings, which preserves SUSY. This leads to a Landau
+-- Ginzburg description of the theory, and may be useful for defining a scaling
+limit in which smooth worldsheets appear.
+\\

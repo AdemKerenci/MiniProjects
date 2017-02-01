@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408141
+From: mmurray@maths.adelaide.edu.au (Michael Murray)
+Date: Fri, 26 Aug 1994 17:09:41 +0930   (17kb)
+
+Title: Mathematical remarks on the cohomology of gauge groups and anomalies
+Authors: A.L. Carey and M.K. Murray
+Comments: 13 pp. (Revised version corrected some lines longer than 80 columns -
+  content is unchanged.)
+\\
+  Anomalies can be viewed as arising from the cohomology of the Lie algebra of
+the group of gauge transformations and also from the topological cohomology of
+the group of connections modulo gauge transformations. We show how these two
+approaches are unified by the transgression map. We discuss the geometry behind
+the current commutator anomaly and the Faddeev- Mickelsson anomaly using the
+recent notion of a gerbe. Some anomalies (notably 3-cocycles) do not have such
+a geometric origin. We discuss one example and a conjecture on how these may be
+related to geometric anomalies.
+\\

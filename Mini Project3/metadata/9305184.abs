@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305184
+From: senia@alkestis.mpim-bonn.mpg.de (Semyen Markovitch Vishi)
+Date: Mon, 31 May 93 20:50:34 +0200   (98kb)
+
+Title: Generalized Ray-Singer conjecture. I. A manifold with a smooth boundary
+Author: Simeon Vishik
+Comments: 120 pages
+Subj-class: High Energy Physics - Theory; Differential Geometry
+\\
+  This paper is devoted to a proof of a generalized Ray-Singer conjecture for a
+manifold with boundary (the Dirichlet and the Neumann boundary conditions are
+independently given on each connected component of the boundary and the
+transmission boundary condition is given on the interior boundary). The
+Ray-Singer conjecture \cite{RS} claims that for a closed manifold the
+combinatorial and the analytic torsion norms on the determinant of the
+cohomology are equal. For a manifold with boundary the ratio between the
+analytic torsion and the combinatorial torsion is computed. Some new general
+properties of the Ray-Singer analytic torsion are found. The proof does~not use
+any computation of eigenvalues and its asymptotic expansions or explicit
+expressions for the analytic torsions of any special classes of manifolds.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311161
+From: enriquez@orphee.polytechnique.fr (Benjamin Enriquez)
+Date: Sun, 28 Nov 1993 15:25:28 +0100   (7kb)
+
+Title: Nilpotent action on the KdV variables and 2-dimensional Drinfeld-Sokolov
+  reduction
+Authors: B. Enriquez
+Journal-ref: Theor.Math.Phys. 98 (1994) 256-258; Teor.Mat.Fiz. 98N3 (1994)
+  375-378
+\\
+  We note that a version ``with spectral parameter'' of the Drinfeld-Sokolov
+reduction gives a natural mapping from the KdV phase space to the group of
+loops with values in $\widehat N_{+}/A, \widehat N_{+}$~: affine nilpotent and
+$A$ principal commutative (or anisotropic Cartan) subgroup~; this mapping is
+connected to the conserved densities of the hierarchy. We compute the
+Feigin-Frenkel action of $\widehat n_{+}$ (defined in terms of screening
+operators) on the conserved densities, in the $sl_2$ case.
+\\

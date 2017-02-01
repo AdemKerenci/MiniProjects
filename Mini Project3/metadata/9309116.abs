@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309116
+From: ereidell@marie.mit.edu (Evan Reidell)
+Date: Tue, 21 Sep 1993 21:30:51 -0400   (46kb)
+Date (revised): Wed, 20 Oct 1993 05:07:50 -0400
+
+Title: Reparametrization Invariance in Some Non-Local 1-D Field Theories
+Authors: Denise E. Freed
+Comments: 42 pages in Plain TeX (needs harvmac and epsf), uuencoded figures to
+  be sent using "figures" command, MIT-CTP-2241
+Journal-ref: Nucl. Phys. B424 (1994) 628
+\\
+  In this paper we consider 1-D non-local field theories with a particular
+$1/r^2$ interaction, a constant gauge field and an arbitrary scalar potential.
+We show that any such theory that is at a renormalization group fixed point
+also satisfies an infinite set of reparametrization invariance Ward identities.
+We also prove that, for special values of the gauge field, the value of the
+potential that satisfies the Ward identities to first order in the potential
+strength remains a solution to all orders in the potential strength, summed
+over all loops. These theories are of interest because they describe
+dissipative quantum mechanics with an arbitrary potential and a constant
+magnetic field. They also give solutions to open string theory in the presence
+of a uniform gauge field and an arbitrary tachyon field.
+\\

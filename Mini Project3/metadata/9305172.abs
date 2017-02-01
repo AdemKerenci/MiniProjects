@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305172
+From: percacci@tsmi19.sissa.it
+Date: Sat, 29 May 1993 10:22:17 +0100   (9kb)
+
+Title: Average Effective Potential for the Conformal Factor
+Authors: R.Floreanini and R. Percacci
+Comments: 8 pages, plain TEX, SISSA 71/93-EP
+Journal-ref: Nucl.Phys. B436 (1995) 141-162
+\\
+  In a four dimensional theory of gravity with lagrangian quadratic in
+curvature and torsion, we compute the effective action for metrics of the form
+$g_{\mu\nu}=\rho^2\delta_{\mu\nu}$, with $\rho$ constant. Using standard
+field-theoretic methods we find that one loop quantum effects produce a
+nontrivial effective potential for $\rho$. We explain this unexpected result by
+showing how our regularization procedure differs from the one that is usually
+adopted in Quantum Gravity. Using the method of the average effective
+potential, we compute the scale dependence of the v.e.v. of the conformal
+factor.
+\\

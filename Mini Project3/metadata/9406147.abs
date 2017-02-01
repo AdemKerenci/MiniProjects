@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406147
+From: chris@cara.ma.hw.ac.uk (Chris Eilbeck)
+Date: Wed, 22 Jun 1994 15:24:06 +0000   (20kb)
+
+Title: Quantum Lattice Solitons
+Authors: A.C. Scott, J.C. Eilbeck, and H. Gilh\o j
+Comments: 21 pages, 1 figure
+\\
+  The number state method is used to study soliton bands for three anharmonic
+quantum lattices: i) The discrete nonlinear Schr\"{o}dinger equation, ii) The
+Ablowitz-Ladik system, and iii) A fermionic polaron model. Each of these
+systems is assumed to have $f$-fold translational symmetry in one spatial
+dimension, where $f$ is the number of freedoms (lattice points). At the second
+quantum level $(n=2)$ we calculate exact eigenfunctions and energies of pure
+quantum states, from which we determine binding energy $(E_{\rm b})$, effective
+mass $(m^{*})$ and maximum group velocity $(V_{\rm m})$ of the soliton bands as
+functions of the anharmonicity in the limit $f \rightarrow \infty$. For
+arbitrary values of $n$ we have asymptotic expressions for $E_{\rm b}$,
+$m^{*}$, and $V_{\rm m}$ as functions of the anharmonicity in the limits of
+large and small anharmonicity. Using these expressions we discuss and describe
+wave packets of pure eigenstates that correspond to classical solitons.
+\\

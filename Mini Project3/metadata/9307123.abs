@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307123
+From: tseytlin@surya11.cern.ch (Arkady Tseytlin)
+Date: Mon, 19 Jul 93 21:45:44 +0200   (40kb)
+Date (revised): Fri, 19 Nov 93 14:01:38 +0100
+
+Title: Charged string solutions with dilaton and modulus fields
+Authors: M. Cvetic and A.A.Tseytlin
+Comments: 42 pages, 5 figures, harvmac, CERN-TH.6911/93, UPR-573-T (minor
+  corrections in Section 6)
+Journal-ref: Nucl.Phys. B416 (1994) 137-172
+\\
+  We find charged, abelian, spherically symmetric solutions (in flat
+space-time) corresponding to the effective action of $D=4$ heterotic string
+theory with scale-dependent dilaton $\p$ and modulus $\vp$ fields. We take into
+account perturbative (genus-one), moduli-dependent `threshold' corrections to
+the coupling function $f(\p,\vp)$ in the gauge field kinetic term $f(\p,\vp)
+F^2_{\m\n}$, as well as non-perturbative scalar potential $V(\p, \vp)$, e.g.
+induced by gaugino condensation in the hidden gauge sector. Stable, finite
+energy, electric solutions (corresponding to on abelian subgroup of a
+non-abelian gauge group) have the small scale region as the weak coupling
+region ($\phi\ra -\infty$) with the modulus $\vp$ slowly varying towards
+smaller values. Stable, finite energy, abelian magnetic solutions exist only
+for a specific range of threshold correction parameters. At small scales they
+correspond to the strong coupling region ($\p\ra \infty$) and the
+compactification region ($\vp\ra 0$). The non-perturbative potential $V$ plays
+a crucial role at large scales, where it fixes the asymptotic values of $\phi$
+and $\vp$ to be at the minimum of $V$.
+\\

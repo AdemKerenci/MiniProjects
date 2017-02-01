@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9203049
+From: HIROKI FUKUTAKA <FUKUTAKA%JPNRIFP.BITNET@pucc.princeton.edu>
+Date: Wed, 18 Mar 92 23:15:34 JST   (16kb)
+Date (revised): Thu, 19 Mar 92 11:49:41 JST
+
+Title: Path-Integral Measure of Linearized Gravity in Curved Spacetime
+Authors: Hiroki Fukutaka
+Comments: 25 pages
+\\
+  The path-integral measure of linearized gravity around a saddle-point
+background with the cosmological term is considered in order to study the
+conformal rotation prescription proposed by Gibbons, Hawking and Perry. It is
+also argued that the most generally used measure, i.e., the covariant
+path-integral measure, does not give us a one-loop partition function which the
+only physical variables contribute and that its path integral fails to keep the
+cancellation of contributions between the Faddeev-Popov ghosts and the
+unphysical variables of the linearized gravitational field, although it has a
+coordinate invariant measure. In de~Sitter spacetime, it is shown that the
+uncancellation factor can be understood as a nontrivial (anomalous) Jacobian
+factor under the transformation of the path-integral measure from covariant one
+to canonical one.
+\\

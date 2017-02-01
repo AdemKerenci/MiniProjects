@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312065
+From: wqwang@math.mit.edu
+Date: Wed, 8 Dec 93 22:21:46 EST   (26kb)
+
+Title: Vertex Operator Superalgebras and Their Representations
+Author: Victor G. Kac and Weiqiang Wang
+Comments: 50 pages, to appear in Contemporary Mathematics
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  After giving some definitions for vertex operator SUPERalgebras and their
+modules, we construct an associative algebra corresponding to any vertex
+operator superalgebra, such that the representations of the vertex operator
+algebra are in one-to-one correspondence with those of the corresponding
+associative algebra. A way is presented to decribe the fusion rules for the
+vertex operator superalgebras via modules of the associative algebra. The above
+are generalizations of Zhu's constructions for vertex operator algebras. Then
+we deal in detail with vertex operator superalgebras corresponding to
+Neveu-Schwarz algebras, super affine Kac-Moody algebras, and free fermions. We
+use the machinery established above to find the rationality conditions,
+classify the representations and compute the fusion rules. In the appendix, we
+present explicit formulas for singular vectors and defining relations for the
+integrable representations of super affine algebras. These formulas are not
+only crucial for the theory of the corresponding vertex operator superalgebras
+and their representations, but also of independent interest.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303042
+From: AMBJORN@nbivax.nbi.dk
+Date: 08 Mar 1993 15:37:41 +0100   (14kb)
+
+Title: 4D Quantum Gravity Coupled to Matter
+Authors: J. Ambjorn, Z. Burda, J. Jurkiewicz and C.F. Kristjansen
+Comments: 15 pages, 9 figures (available as PS-files by request). Latex
+Report-no: NBI-HE-93-3
+Journal-ref: Phys.Rev. D48 (1993) 3695-3703
+\\
+  We investigate the phase structure of four-dimensional quantum gravity
+coupled to Ising spins or Gaussian scalar fields by means of numerical
+simulations.
+  The quantum gravity part is modelled by the summation over random simplicial
+manifolds, and the matter fields are located in the center of the 4-simplices,
+which constitute the building blocks of the manifolds. We find that the
+coupling between spin and geometry is weak away from the critical point of the
+Ising model. At the critical point there is clear coupling, which qualitatively
+agrees with that of gaussian fields coupled to gravity. In the case of pure
+gravity a transition between a phase with highly connected geometry and a phase
+with very ``dilute'' geometry has been observed earlier. The nature of this
+transition seems unaltered when matter fields are included.
+  It was the hope that continuum physics could be extracted at the transition
+between the two types of geometries. The coupling to matter fields, at least in
+the form discussed in this paper, seems not to improve the scaling of the
+curvature at the transition point.
+\\

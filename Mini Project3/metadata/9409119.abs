@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409119
+From: youm@cvetic.hep.upenn.edu (Donam Youm)
+Date: Tue, 20 Sep 1994 12:23:16 -0400   (29kb)
+
+Title: Supersymmetric Dyonic Black Holes in Kaluza-Klein Theory
+Authors: Mirjam Cveti\v c and Donam Youm
+Comments: 36 pages TEX (1 Postcript figure available via anonymous ftp to
+  dept.physics.upenn.edu:/pub/UPR-623-T), UPR-623-T
+Journal-ref: Nucl.Phys. B438 (1995) 182-210; Addendum-ibid. B449 (1995) 146-148
+\\
+  We study supersymmetric, four-dimensional (4-d), Abelian charged black holes
+(BH's) arising in (4+n)-d (1 \le n \le 7) Kaluza-Klein (KK) theories. Such
+solutions, which satisfy supersymmetric Killing spinor equations (formally
+satisfied for any n) and saturate the corresponding Bogomol'nyi bounds, can be
+obtained if and only if the isometry group of the internal space is broken down
+to the U(1)_E \times U(1)_M gauge group; they correspond to dyonic BH's with
+electric Q and magnetic P charges associated with {\it different} U(1) factors.
+The internal metric of such configurations is diagonal with (n-2) internal
+radii constant, while the remaining two radii (associated with the respective
+electric and magnetic U(1) gauge fields) and the 4-d part of the metric turn
+out to be independent of n, i.e., solutions are effectively those of
+supersymmetric 4-d BH's of 6-d KK theory. For Q \ne 0 and P \ne 0, 4-d
+space-time has a null singularity, finite temperature (T_H \propto 1 /
+\sqrt{|QP|}) and zero entropy. Special cases with either Q=0 or P=0 correspond
+to the supersymmetric 4-d BH's of 5-d KK theory, first derived by Gibbons and
+Perry, which have a naked singularity and infinite temperature.
+\\

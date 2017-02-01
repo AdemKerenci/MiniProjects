@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410220
+From: Victor Aldaya <valdaya@ugr.es>
+Date: Fri, 28 Oct 1994 13:47:01 UTC+0200   (8kb)
+Date (revised): Wed, 17 May 1995 19:41:53 UTC+0200
+
+Title: Finite-Difference Equations in Relativistic Quantum Mechanics
+Authors: V. Aldaya and J. Guerrero
+Comments: 10 LaTeX pages, final version, enlarged (2 more pages)
+Report-no: UG-FT-47/94
+Journal-ref: J.Phys. A28 (1995) L137-L146
+\\
+  Relativistic Quantum Mechanics suffers from structural problems which are
+traced back to the lack of a position operator $\hat{x}$, satisfying
+$[\hat{x},\hat{p}]=i\hbar\hat{1}$ with the ordinary momentum operator
+$\hat{p}$, in the basic symmetry group -- the Poincar\'e group. In this paper
+we provide a finite-dimensional extension of the Poincar\'e group containing
+only one more (in 1+1D) generator $\hat{\pi}$, satisfying the commutation
+relation $[\hat{k},\hat{\pi}]=i\hbar\hat{1}$ with the ordinary boost generator
+$\hat{k}$. The unitary irreducible representations are calculated and the
+carrier space proves to be the set of Shapiro's wave functions. The generalized
+equations of motion constitute a simple example of exactly solvable
+finite-difference set of equations associated with infinite-order polarization
+equations.
+\\

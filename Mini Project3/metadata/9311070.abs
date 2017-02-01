@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311070
+From: bonora@tsmi19.sissa.it
+Date: Thu, 11 Nov 1993 17:48:18 +0100   (30kb)
+
+Title: The (N,M)-th KdV hierarchy and the associated W algebra
+Authors: L.Bonora and C.S.Xiong
+Comments: 40 pages, LaTeX, SISSA-171/93/EP, BONN-HE-46/93, AS-IPT-49/93
+Journal-ref: J.Math.Phys. 35 (1994) 5781-5819
+\\
+  We discuss a differential integrable hierarchy, which we call the (N, M)$--th
+KdV hierarchy, whose Lax operator is obtained by properly adding $M$
+pseudo--differential terms to the Lax operator of the N--th KdV hierarchy. This
+new hierarchy contains both the higher KdV hierarchy and multi--field
+representation of KP hierarchy as sub--systems and naturally appears in
+multi--matrix models. The N+2M-1 coordinates or fields of this hierarchy
+satisfy two algebras of compatible Poisson brackets which are {\it local} and
+{\it polynomial}. Each Poisson structure generate an extended W_{1+\infty} and
+W_\infty algebra, respectively. We call W(N, M) the generating algebra of the
+extended W_\infty algebra. This algebra, which corresponds with the second
+Poisson structure, shares many features of the usual $W_N$ algebra. We show
+that there exist M distinct reductions of the (N, M)--th KdV hierarchy, which
+are obtained by imposing suitable second class constraints. The most drastic
+reduction corresponds to the (N+M)--th KdV hierarchy. Correspondingly the W(N,
+M) algebra is reduced to the W_{N+M} algebra. We study in detail the
+dispersionless limit of this hierarchy and the relevant reductions.
+\\

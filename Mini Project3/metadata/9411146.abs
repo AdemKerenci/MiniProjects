@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411146
+From: SATHYA <GURUSWAMY@urhep.pas.rochester.edu>
+Date: Sat, 19 Nov 1994 19:50:59 -0500 (EST)   (13kb)
+
+Title: Correlation Functions of a Conformal Field Theory in Three Dimensions
+Authors: S.Guruswamy and P.Vitale
+Comments: 15 pages, Latex
+Report-no: UR-1395; ER-40685-843
+Journal-ref: Mod.Phys.Lett. A11 (1996) 1047-1059
+\\
+  We derive explicit forms of the two--point correlation functions of the
+$O(N)$ non-linear sigma model at the critical point, in the large $N$ limit, on
+various three dimensional manifolds of constant curvature. The two--point
+correlation function, $G(x, y)$, is the only $n$-point correlation function
+which survives in this limit. We analyze the short distance and long distance
+behaviour of $G(x, y)$. It is shown that $G(x, y)$ decays exponentially with
+the Riemannian distance on the spaces $R^2 \times S^1,~S^1 \times S^1 \times R,
+~S^2 \times R,~H^2 \times R$. The decay on $R^3$ is of course a power law. We
+show that the scale for the correlation length is given by the geometry of the
+space and therefore the long distance behaviour of the critical correlation
+function is not necessarily a power law even though the manifold is of infinite
+extent in all directions; this is the case of the hyperbolic space where the
+radius of curvature plays the role of a scale parameter. We also verify that
+the scalar field in this theory is a primary field with weight $\delta=-{1
+\over 2}$; we illustrate this using the example of the manifold $S^2 \times R$
+whose metric is conformally equivalent to that of $R^3-\{0\}$ up to a
+reparametrization.
+\\

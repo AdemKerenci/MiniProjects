@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312109
+From: MLEBLANC@LPS.UMONTREAL.CA
+Date: Mon, 13 Dec 1993 16:49:11 -0500 (EST)   (17kb)
+
+Title: Structure of the Effective Potential in Nonrelativistic Chern-Simons
+  Field Theory
+Authors: D. Caenepeel, F. Gingras, M. Leblanc and D.G.C. McKeon
+Comments: 24 pages, UdeM-LPN-TH-93-185, CRM-1927
+Journal-ref: Phys.Rev. D49 (1994) 5422-5430
+\\
+  We present the scalar field effective potential for nonrelativistic
+self-interacting scalar and fermion fields coupled to an Abelian Chern-Simons
+gauge field. Fermions are non-minimally coupled to the gauge field via a Pauli
+interaction. Gauss's law linearly relates the magnetic field to the matter
+field densities; hence, we also include radiative effects from the background
+gauge field. However, the scalar field effective potential is transparent to
+the presence of the background gauge field to leading order in the perturbative
+expansion. We compute the scalar field effective potential in two gauge
+families. We perform the calculation in a gauge reminiscent of the
+$R_\xi$-gauge in the limit $\xi\rightarrow 0$ and in the Coulomb family gauges.
+The scalar field effective potential is the same in both gauge-fixings and is
+independent of the gauge-fixing parameter in the Coulomb family gauge. The
+conformal symmetry is spontaneously broken except for two values of the
+coupling constant, one of which is the self-dual value. To leading order in the
+perturbative expansion, the structure of the classical potential is deeply
+distorted by radiative corrections and shows a stable minimum around the
+origin, which could be of interest when searching for vortex solutions. We
+regularize the theory with operator regularization and a cutoff to demonstrate
+that the results are independent of the regularization scheme.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401046
+From: Cobi Sonnenschein <COBI@taunivm.tau.ac.il>
+Date: Wed, 12 Jan 94 15:38:54 IST   (14kb)
+
+Title: Subtleties in QCD theory in Two Dimensions
+Authors: Y. Frishman, A. Hanany and J. Sonnenschein
+Comments: 21 pages
+Journal-ref: Nucl.Phys. B429 (1994) 75-92
+\\
+  It is shown that in a formulation of Yang-Mills theory in two dimensions in
+terms of $A=if^{-1}\pa f$, $\bar A=i\bar f\bpa\bar f^{-1}$ with $f(z,\bar z)$,
+$\bar f(z,\bar z)\in[SU(N_C)]^c$ the complexification of $SU(N_C)$ , reveals
+certain subtleties. ``Physical" massive color singlet states seem to exist.
+When coupled to $N_F$ quarks the coupling constant is renormalized in such a
+way that it vanishes for the pure Yang- Mills case. This renders the above
+states massless and unphysical. In the abelian case, on the other hand, the
+known results of the Schwinger model are reproduced with no need of such a
+renormalization.
+  The massless $QCD_2$ theory is analyzed in similar terms and peculiar massive
+states appear, with a mass of $e_c\sqrt {N_F \over 2\pi}$.
+\\

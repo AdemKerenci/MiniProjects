@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412030
+From: mccoy@insti.physics.sunysb.edu (Barry McCoy)
+Date: Sun, 4 Dec 1994 22:43:44 -0500 (EST)   (15kb)
+Date (revised): Mon, 5 Dec 1994 15:52:51 -0500 (EST)
+Date (revised): Sun, 18 Dec 1994 22:53:37 -0500 (EST)
+Date (revised): Mon, 19 Dec 1994 13:36:39 -0500 (EST)
+
+Title: Continued Fractions and Fermionic Representations for Characters of
+  M(p,p') minimal models
+Authors: Alexander Berkovich and Barry M. McCoy
+Comments: Several references, one further explicit result and several
+  discussion remarks added
+Report-no: BONN-TH-94-28 and ITPSB 94-060
+Journal-ref: Lett.Math.Phys. 37 (1996) 49-66
+\\
+  We present fermionic sum representations of the characters
+$\chi^{(p,p')}_{r,s}$ of the minimal $M(p,p')$ models for all relatively prime
+integers $p'>p$ for some allowed values of $r$ and $s$. Our starting point is
+binomial (q-binomial) identities derived from a truncation of the state
+counting equations of the XXZ spin ${1\over 2}$ chain of anisotropy
+$-\Delta=-\cos(\pi{p\over p'})$. We use the Takahashi-Suzuki method to express
+the allowed values of $r$ (and $s$) in terms of the continued fraction
+decomposition of $\{{p'\over p}\}$ (and ${p\over p'}$) where $\{x\}$ stands for
+the fractional part of $x.$ These values are, in fact, the dimensions of the
+hermitian irreducible representations of $SU_{q_{-}}(2)$ (and $SU_{q_{+}}(2)$)
+with $q_{-}=\exp (i \pi \{{p'\over p}\})$ (and $q_{+}=\exp ( i \pi {p\over
+p'})).$ We also establish the duality relation $M(p,p')\leftrightarrow
+M(p'-p,p')$ and discuss the action of the Andrews-Bailey transformation in the
+space of minimal models. Many new identities of the Rogers-Ramanujan type are
+presented.
+\\

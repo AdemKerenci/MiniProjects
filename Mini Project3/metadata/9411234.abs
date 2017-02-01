@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411234
+From: lian@math.harvard.edu (Bong Lian)
+Date: Wed, 30 Nov 94 13:27:45 EST   (30kb)
+Date (revised): Thu, 1 Dec 94 07:46:57 EST
+Date (revised): Mon, 5 Dec 94 13:01:01 EST
+
+Title: Arithmetic Properties of Mirror Map and Quantum Coupling
+Authors: Bong H. Lian and Shing-Tung Yau
+Comments: 36 pp harvmac, "b" mode; references added
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Commun.Math.Phys. 176 (1996) 163-192
+\\
+  We study some arithmetic properties of the mirror maps and the quantum Yukawa
+coupling for some 1-parameter deformations of Calabi-Yau manifolds. First we
+use the Schwarzian differential equation, which we derived previously, to
+characterize the mirror map in each case. For algebraic K3 surfaces, we solve
+the equation in terms of the $J$-function. By deriving explicit modular
+relations we prove that some K3 mirror maps are algebraic over the genus zero
+function field ${\bf Q}(J)$. This leads to a uniform proof that those mirror
+maps have integral Fourier coefficients. Regarding the maps as Riemann
+mappings, we prove that they are genus zero functions. By virtue of the
+Conway-Norton conjecture (proved by Borcherds using Frenkel-Lepowsky-Meurman's
+Moonshine module), we find that these maps are actually the reciprocals of the
+Thompson series for certain conjugacy classes in the Griess-Fischer group. This
+also gives, as an immediate consequence, a second proof that those mirror maps
+are integral. We thus conjecture a surprising connection between K3 mirror maps
+and the Thompson series. For threefolds, we construct a formal nonlinear ODE
+for the quantum coupling reduced $mod\ p$. Under the mirror hypothesis and an
+integrality assumption, we derive $mod~p$ congruences for the Fourier
+coefficients. For the quintics, we deduce (at least for $5\not{|}d$) that the
+degree $d$ instanton numbers $n_d$ are divisible by $5^3$ -- a fact first
+conjectured by Clemens.
+\\

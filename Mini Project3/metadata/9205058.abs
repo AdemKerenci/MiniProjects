@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205058
+From: A.A.Tseytlin <A.A.Tseytlin@damtp.cambridge.ac.uk>
+Date: Mon, 18 May 92 15:25:07 BST   (12kb)
+Date (revised): Fri, 22 May 92 02:22:18 BST
+
+Title: A class of finite two - dimensional sigma models and string vacua
+Authors: A.A. Tseytlin
+Comments: 15 pages [Complete revision. The main statement of the previous
+  version is generalised to the case of an arbitrary ``transverse" metric
+  satisfying sigma model renormalization group equation.]
+Report-no: DAMTP-92-26
+Journal-ref: Phys.Lett. B288 (1992) 279-285
+\\
+  We consider a two - dimensional Minkowski signature sigma model with a $2+N$
+- dimensional target space metric having a null Killing vector. It is shown
+that the model is finite to all orders of the loop expansion if the dependence
+of the ``transverse" part of the metric $\ggij (u,x)$ on the light cone
+coordinate $u$ is subject to the standard renormalization group equation of the
+$N$ - dimensional sigma model, $ {d\ggij\over du} = \gb_{ij} =R_{ij} + ... $.
+In particular, we discuss the `one - coupling' case when $\ggij(u,x)$ is a
+metric of an $N$ - dimensional symmetric space $\gij(x)$ multiplied by a
+function $f(u)$. The theory is finite if $f(u)$ is equal to the ``running"
+coupling of the symmetric space sigma model (with $u$ playing the role of the
+RG ``time"). For example, the geometry of space - time with $\gij$ being the
+metric of the $N$ - sphere is determined by the form of the $\gb$ - function of
+the $O(N+1)$ model. The ``asymptotic freedom" limit of large $u$ corresponds to
+the weak coupling limit of small $2+N$ - dimensional curvature. We prove that
+there exists a dilaton field which together with the $2+N$ - dimensional metric
+solves the sigma model Weyl invariance conditions. The resulting backgrounds
+thus represent new tree level string vacua. We also remark on possible
+connections with some $2d$ quantum gravity models.
+\\

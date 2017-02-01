@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402019
+From: hori@tkyvax.phys.s.u-tokyo.ac.jp
+Date: Fri, 4 Feb 1994 20:09:14 +0900   (113kb)
+
+Title: On Global Aspects Of Gauged Wess-Zumino-Witten Model
+Authors: Kentaro Hori
+Comments: (Thesis) 125 pages, UT-Komaba/94-3 (Latex errors are corrected)
+\\
+  This is a thesis for Rigaku-Hakushi($\simeq$ Ph. D.). It clarifies the
+geometric meaning and field theoretical consequences of the spectral flows
+acting on the space of states of the `$G/H$ coset model'. As suggested by Moore
+and Seiberg, the spectral flow is realized as the response of states to certain
+change of background gauge field together with the gauge transformation on a
+circle. Applied to the boundary circle of a disc with field insertion, such a
+realization leads to a certain relation among correlators of the gauged WZW
+model for various principal $H$-bundles. In the course of derivation, we find
+an expression of a (dressed) gauge invariant field as an integral over the flag
+manifold of $H$ and an expression of a correlator as an integral over a certain
+moduli space of holomorphic $H_{\bf
+  C}$-bundles with quasi-flag structure at the insertion point. We also find
+that the gauge transformation on the circle corresponding to the spectral flow
+determines a bijection of the set of isomorphism classes of holomorphic $H_{\bf
+C}$-bundles with quasi-flag structure of one topological type to that of
+another. As an application, it is pointed out that problems arising from the
+field identification fixed points may be resolved by taking into account of all
+principal $H$-bundles.
+\\

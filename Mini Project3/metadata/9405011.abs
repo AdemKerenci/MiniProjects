@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405011
+From: MIRONOV@nbivax.nbi.dk
+Date: Mon, 02 May 1994 22:47:59 +0200   (24kb)
+
+Title: Generalized Hirota Equations and Representation Theory. I. The case of
+  $SL(2)$ and $SL_q(2)$"
+Authors: A.Gerasimov, S.Khoroshkin, D.Lebedev, A.Mironov, A.Morozov
+Comments: 20 pages
+Report-no: ITEP-M-2/94, FIAN/TD-5/94, NBI-HE-94-27
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Int.J.Mod.Phys. A10 (1995) 2589-2614
+\\
+  This paper begins investigation of the concept of ``generalized
+$\tau$-function'', defined as a generating function of all the matrix elements
+of a group element $g \in G$ in a given highest-weight representation of a
+universal enveloping algebra ${\cal G}$. In the generic situation, the
+time-variables correspond to the elements of maximal nilpotent subalgebras
+rather than Cartanian elements. Moreover, in the case of quantum groups such
+$\tau$-``functions'' are not $c$-numbers but take their values in
+non-commutative algebras (of functions on the quantum group $G$). Despite all
+these differences from the particular case of conventional $\tau$-functions of
+integrable (KP and Toda lattice) hierarchies (which arise when $G$ is a
+Kac-Moody (1-loop) algebra of level $k=1$), these generic $\tau$-functions also
+satisfy bilinear Hirota-like equations, which can be deduced from manipulations
+with intertwining operators. The most important applications of the formalism
+should be to $k>1$ Kac-Moody and multi-loop algebras, but this paper contains
+only illustrative calculations for the simplest case of ordinary (0-loop)
+algebra $SL(2)$ and its quantum counterpart $SL_q(2)$, as well as for the
+system of fundamental representations of $SL(n)$.
+\\

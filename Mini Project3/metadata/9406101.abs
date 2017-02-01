@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406101
+From: ketov@itp.uni-hannover.de
+Date: Wed, 15 Jun 1994 15:47:29 +0200 (MEST)   (35kb)
+Date (revised): Wed, 5 Oct 1994 02:55:50 +0100 (MET)
+
+Title: Gso Projection, BRST Cohomology and Picture-Changing in N=2 String
+  Theory
+Authors: J. Bischoff, S. V. Ketov and O. Lechtenfeld
+Comments: 42 pages, LaTeX, no figures, 115 kb, ITP-UH-05/94, DESY 94-104
+  (extensive revision and expansion of earlier version)
+Journal-ref: Nucl.Phys. B438 (1995) 373-410
+\\
+  We investigate in detail the critical $N{=}2$ fermionic string with and
+without a global ${\bf Z}_2$ twist. An analysis of BRST cohomology shows that
+twisted sectors contain massless `spacetime' fermions which are {\it
+non-local\/} with respect to the standard massless boson. However, two distinct
+GSO projections exist, one (untwisted) retaining merely the usual boson and its
+spectral-flow partner, the other (twisted) yielding two fermions and one boson,
+on the massless level. The corresponding chiral BRST-invariant vertex operators
+are constructed in certain pictures, and their fusion and picture-changing are
+investigated, including the construction of inverse picture-changing operators.
+The $N{=}2$ `spacetime supersymmetry' generators are {\it null\/} operators,
+since the twisted massless states fail to interact. The untwisted three- and
+four-point functions are recalculated at tree-level.
+\\

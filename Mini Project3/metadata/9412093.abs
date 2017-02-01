@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412093
+From: Hideaki AOYAMA <aoyama@phys.h.kyoto-u.ac.jp>
+Date: Mon, 12 Dec 1994 16:43:59 +0900   (27kb)
+
+Title: Complex-time path-integral formalism for quantum tunneling
+Authors: Hideaki Aoyama and Toshiyuki Harano
+Comments: 23 pages + 8 figures, phyzzx and epsf macros (ps files attached)
+Report-no: KUCP-0075/KUNS-1311HE(TH)94/17
+Journal-ref: Nucl. Phys. B446 (1995) 315
+\\
+  The complex-time formalism is developed in the framework of the path-integral
+formalism, to be used for analysis of the quantum tunneling phenomena. We show
+that subleading complex-time saddle-points do not account for the right WKB
+result. Instead, we develop a reduction formula, which enables us to construct
+Green functions from simple components of the potential, for which saddle-point
+method is applicable. This method leads us to the valid WKB result, which
+incorporates imaginary-time instantons and bounces, as well as the real-time
+boundary conditions.
+\\

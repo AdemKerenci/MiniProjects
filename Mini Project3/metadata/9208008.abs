@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208008
+From: Shahn Majid <majid@damtp.cambridge.ac.uk>
+Date: Mon, 3 Aug 92 13:14:20 BST   (40kb)
+Date (revised): Mon, 5 Oct 92 17:20:43 BST
+
+Title: Braided Matrix Structure of the Sklyanin Algebra and of the Quantum
+  Lorentz Group
+Author: Shahn Majid
+Comments: 45 pages. Revised (= much expanded introduction)
+Report-no: DAMTP/92-10
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 156 (1993) 607-638
+\\
+  Braided groups and braided matrices are novel algebraic structures living in
+braided or quasitensor categories. As such they are a generalization of
+super-groups and super-matrices to the case of braid statistics. Here we
+construct braided group versions of the standard quantum groups $U_q(g)$. They
+have the same FRT generators $l^\pm$ but a matrix braided-coproduct $\und\Delta
+L=L\und\tens L$ where $L=l^+Sl^-$, and are self-dual. As an application, the
+degenerate Sklyanin algebra is shown to be isomorphic to the braided matrices
+$BM_q(2)$; it is a braided-commutative bialgebra in a braided category. As a
+second application, we show that the quantum double $D(\usl)$ (also known as
+the `quantum Lorentz group') is the semidirect product as an algebra of two
+copies of $\usl$, and also a semidirect product as a coalgebra if we use braid
+statistics. We find various results of this type for the doubles of general
+quantum groups and their semi-classical limits as doubles of the Lie algebras
+of Poisson Lie groups.
+\\

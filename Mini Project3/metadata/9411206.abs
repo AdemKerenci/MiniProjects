@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411206
+From: anselmi@string.harvard.edu (Damiano Anselmi)
+Date: Mon, 28 Nov 1994 15:13:41 -0500   (20kb)
+Date (revised): Tue, 29 Nov 1994 09:08:29 -0500
+
+Title: Nodes as Composite Operators in Matrix Models
+Author: Damiano Anselmi
+Comments: 22 pages, latex, 1+5 figures. 1 figure available on request
+Report-no: SISSA/ISAS 110/94/EP
+Journal-ref: Class. Quant. Grav. 12 (1995) 1135
+\\
+  Riemann surfaces with nodes can be described by introducing simple composite
+operators in matrix models. In the case of the Kontsevich model, it is
+sufficient to add the quadratic, but ``non-propagating'', term (tr[X])^2 to the
+Lagrangian. The corresponding Jenkins-Strebel differentials have pairwise
+identified simple poles. The result is in agreement with a conjecture
+formulated by Kontsevich and recently investigated by Arbarello and Cornalba
+that the set ${\cal M}_{m*,s}$ of ribbon graphs with s faces and
+$m*=(m_0,m_1,\ldots,m_j,\ldots)$ vertices of valencies
+$(1,3,\ldots,2j+1,\ldots)$ ``can be expressed in terms of Mumford-Morita
+classes'': one gets an interpretation for univalent vertices. I also address
+the possible relationship with a recently formulated theory of constrained
+topological gravity.
+\\

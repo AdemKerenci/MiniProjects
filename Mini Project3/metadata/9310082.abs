@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310082
+From: HRIGGS@BINAH.CC.BRANDEIS.EDU
+Date: Thu, 14 Oct 1993 10:42 EDT   (31kb)
+Date (revised): Thu, 14 Oct 1993 14:55 EDT
+
+Title: Integrable N = 2 Landau-Ginzburg Theories from Quotients of Fusion Rings
+Authors: Eli J. Mlawer, Harold A. Riggs, and Howard J. Schnitzer
+Comments: 34 pages, BRX-TH-348
+Journal-ref: Nucl.Phys. B418 (1994) 603-636
+\\
+  The discovery of integrable $N=2$ supersymmetric Landau-Ginzburg theories
+whose chiral rings are fusion rings suggests a close connection between fusion
+rings, the related Landau-Ginzburg superpotentials, and $N=2$ quantum
+integrability. We examine this connection by finding the natural $SO(N)_K$
+analogue of the construction that produced the superpotentials with $Sp(N)_K$
+and $SU(N)_K$ fusion rings as chiral rings. The chiral rings of the new
+superpotentials are not directly the fusion rings of any conformal field
+theory, although they are natural quotients of the tensor subring of the
+$SO(N)_K$ fusion ring.
+  The new superpotentials yield solvable (twisted $N=2$) topological field
+theories. We obtain the integer-valued correlation functions as sums of
+$SO(N)_K$ Verlinde dimensions by expressing the correlators as fusion residues.
+The $SO(2n+1)_{2k+1}$ and $SO(2k+1)_{2n+1}$ related topological Landau-Ginzburg
+theories are isomorphic, despite being defined via quite different
+superpotentials.
+\\

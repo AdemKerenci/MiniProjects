@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303047
+From: Pavel Etingof <etingof@math.harvard.edu>
+Date: Mon, 8 Mar 1993 19:37:58 -0500   (18kb)
+
+Title: Central extensions of current groups in two dimensions
+Authors: Pavel Etingof and Igor B. Frenkel
+Comments: 17 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 165 (1994) 429-444
+\\
+  In this paper we generalize some of these results for loop algebras and
+groups as well as for the Virasoro algebra to the two-dimensional case. We
+define and study a class of infinite dimensional complex Lie groups which are
+central extensions of the group of smooth maps from a two dimensional
+orientable surface without boundary to a simple complex Lie group G. These
+extensions naturally correspond to complex curves. The kernel of such an
+extension is the Jacobian of the curve. The study of the coadjoint action shows
+that its orbits are labelled by moduli of holomorphic principal G-bundles over
+the curve and can be described in the language of partial differential
+equations. In genus one it is also possible to describe the orbits as conjugacy
+classes of the twisted loop group, which leads to consideration of difference
+equations for holomorphic functions. This gives rise to a hope that the
+described groups should possess a counterpart of the rich representation theory
+that has been developed for loop groups. We also define a two-dimensional
+analogue of the Virasoro algebra associated with a complex curve. In genus one,
+a study of a complex analogue of Hill's operator yields a description of
+invariants of the coadjoint action of this Lie algebra. The answer turns out to
+be the same as in dimension one: the invariants coincide with those for the
+extended algebra of currents in sl(2).
+\\

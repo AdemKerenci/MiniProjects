@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404162
+From: UDAH101@BAY.CC.KCL.AC.UK
+Date: Tue, 26 Apr 94 19:42 BST   (15kb)
+
+Title: Covariant Quantization of the Green-Schwarz Superstring in a Calabi-Yau
+  Background
+Authors: Nathan Berkovits
+Comments: 15 pages plain Tex, KCL-TH-94-5
+Journal-ref: Nucl.Phys. B431 (1994) 258-272
+\\
+  After adding a scalar chiral boson to the usual superspace variables, the
+four-dimensional Green-Schwarz superstring is quantized in a manifestly SO(3,1)
+super-Poincar\'e covariant manner. The constraints are all first-class and form
+an N=2 superconformal algebra with $c=-3$. Since the Calabi-Yau degrees of
+freedom are described by an N=2 superconformal field theory with $c=9$, the
+combined Green-Schwarz and Calabi-Yau systems form the $c=6$ matter sector of a
+critical N=2 string.
+  Using the standard N=2 super-Virasoro ghosts, a nilpotent BRST charge is
+defined and vertex operators for the massless supermultiplets are constructed.
+Four-dimensional superstring amplitudes can be calculated with manifest SO(3,1)
+super-Poincar\'e invariance by evaluating correlation functions of these
+BRST-invariant vertex operators on N=2 super-Riemann surfaces.
+\\

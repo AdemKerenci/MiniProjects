@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310119
+From: hinrichsen@pib1.physik.uni-bonn.de
+Date: Tue, 19 Oct 1993 16:12:56 MEZ ( +0200)   (17kb)
+
+Title: On the Two-Point Correlation Function for the $U_q[SU(2)]$ Invariant
+  Spin One-Half Heisenberg Chain at Roots of Unity
+Authors: H. Hinrichsen, P. P. Martin, V. Rittenberg and M. Scheunert
+Comments: 19 pages, LaTeX, BONN-HE-93-35
+Journal-ref: Nucl.Phys. B415 (1994) 533-556
+\\
+  Using $U_q[SU(2)]$ tensor calculus we compute the two-point scalar operators
+(TPSO), their averages on the ground-state give the two-point correlation
+functions. The TPSOs are identified as elements of the Temperley-Lieb algebra
+and a recurrence relation is given for them. We have not tempted to derive the
+analytic expressions for the correlation functions in the general case but got
+some partial results. For $q=e^{i \pi/3}$, all correlation functions are
+(trivially) zero, for $q=e^{i \pi/4}$, they are related in the continuum to the
+correlation functions of left-handed and right-handed Majorana fields in the
+half plane coupled by the boundary condition. In the case $q=e^{i \pi/6}$, one
+gets the correlation functions of Mittag's and Stephen's parafermions for the
+three-state Potts model. A diagrammatic approach to compute correlation
+functions is also presented.
+\\

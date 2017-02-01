@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412148
+From: emmrich@math.berkeley.edu (Claudio Emmrich)
+Date: Fri, 16 Dec 94 10:15:57 PST   (26kb)
+
+Title: Geometry of the transport equation in multicomponent WKB approximations
+Author: C. Emmrich and A. Weinstein
+Comments: 16 pages, Latex
+Journal-ref: Commun.Math.Phys. 176 (1996) 701-712
+\\
+  Although the WKB approximation for multicomponent systems has been
+intensively studied in the literature, its geometric and global aspects are
+much less well understood than in the scalar case. In this paper we give a
+completely geometric derivation of the transport equation, without using local
+sections and without assuming complete diagonalizability of the matrix valued
+principal symbol, or triviality of its eigenbundles. The term (called ``no-name
+term'' in some previous literature) appearing in the transport equation in
+addition to the covariant derivative with respect to a natural projected
+connection will be a tensor, independent of the choice of any sections. We give
+a geometric interpretation of this tensor, involving the contraction of the
+curvature of the eigenbundle and an analog of the second fundamental form with
+the Poisson tensor in phase space. In the non-degenerate case this term may be
+rewritten in an even simpler geometric form. Finally, we discuss obstructions
+to the existence of WKB states and give a geometric description of the
+quantization condition for WKB states for a non-degenerate eigenvalue-function.
+\\

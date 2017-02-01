@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303148
+From: Shahn Majid <majid@damtp.cambridge.ac.uk>
+Date: Fri, 26 Mar 93 15:52:39 GMT   (114kb)
+
+Title: Quantum and Braided Lie Algebras
+Author: Shahn Majid
+Comments: 56 pages
+Report-no: DAMTP/93-04
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We introduce the notion of a braided Lie algebra consisting of a
+finite-dimensional vector space $\CL$ equipped with a bracket $[\ ,\
+]:\CL\tens\CL\to \CL$ and a Yang-Baxter operator $\Psi:\CL\tens\CL\to
+\CL\tens\CL$ obeying some axioms. We show that such an object has an enveloping
+braided-bialgebra $U(\CL)$. We show that every generic $R$-matrix leads to such
+a braided Lie algebra with $[\ ,\ ]$ given by structure constants $c^{IJ}{}_K$
+determined from $R$. In this case $U(\CL)=B(R)$ the braided matrices introduced
+previously. We also introduce the basic theory of these braided Lie algebras,
+including the natural right-regular action of a braided-Lie algebra $\CL$ by
+braided vector fields, the braided-Killing form and the quadratic Casimir
+associated to $\CL$. These constructions recover the relevant notions for
+usual, colour and super-Lie algebras as special cases. In addition, the
+standard quantum deformations $U_q(g)$ are understood as the enveloping
+algebras of such underlying braided Lie algebras with $[\ ,\ ]$ on $\CL\subset
+U_q(g)$ given by the quantum adjoint action.
+\\

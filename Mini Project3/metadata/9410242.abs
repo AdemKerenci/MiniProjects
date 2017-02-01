@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410242
+From: sonoda@physics.ucla.edu (Sonoda)
+Date: Mon, 31 Oct 94 18:14:41 -0800   (3kb)
+Date (revised): Tue, 1 Nov 94 11:19:23 -0800
+
+Title: A Scheme Independent Definition of $\Lambda_{\rm QCD}$
+Authors: Hidenori Sonoda
+Comments: 4 pages, harvmac
+Report-no: UCLA/94/TEP/41
+\\
+  Given a renormalization scheme of QCD, one can define a mass scale
+$\Lambda_{\rm QCD}$ in terms of the beta function. Under a change of the
+renormalization scheme, however, $\Lambda_{\rm QCD}$ changes by a
+multiplicative constant. We introduce a scheme independent $\Lambda_{\rm QCD}$
+using a connection on the space of the coupling constant.
+\\

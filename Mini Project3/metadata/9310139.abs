@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310139
+From: I02JTE@DSYIBM.DESY.DE
+Date: THU, 21 OCT 93 10:52:46 +0100   (8kb)
+
+Title: On the fundamental representation of Borcherds algebras with one
+  imaginary simple root
+Author: R. W. Gebert, J. A. Teschner
+Comments: 8 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Lett.Math.Phys. 31 (1994) 327-334
+\\
+  Borcherds algebras represent a new class of Lie algebras which have almost
+all the properties that ordinary Kac-Moody algebras have, and the only major
+difference is that these generalized Kac-Moody algebras are allowed to have
+imaginary simple roots. The simplest nontrivial examples one can think of are
+those where one adds ``by hand'' one imaginary simple root to an ordinary
+Kac-Moody algebra. We study the fundamental representation of this class of
+examples and prove that an irreducible module is given by the full tensor
+algebra over some integrable highest weight module of the underlying Kac-Moody
+algebra. We also comment on possible realizations of these Lie algebras in
+physics as symmetry algebras in quantum field theory.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303146
+From: "Mark Wexler" <wexler@puhep1.Princeton.EDU>
+Date: Thu, 25 Mar 93 20:46:10 EST   (37kb)
+
+Title: Low Temperature Expansion of Matrix Models
+Authors: Mark Wexler
+Comments: 10 pp. and 5 figures (included), TeX + harvmac, PUPT-1384
+Journal-ref: Phys.Lett. B315 (1993) 67-73
+\\
+  We show how to expand the free energy of a matrix model coupled to arbitrary
+matter in powers of the matter coupling constant. Concentrating on $\nu$
+uncoupled Ising models---which have central charge $\nu/2$---we work out the
+expansion to sixth order for $\nu$ = 1, 2, and 3. Analyzing the series by the
+ratio method, we exhibit the spin-ordering phase transition. We discuss the
+limit $\nu \rightarrow \infty$, which is especially clear in the low
+temperature expansion; we prove that in this limit the dependence of the model
+on $\nu$ becomes trivial.
+\\

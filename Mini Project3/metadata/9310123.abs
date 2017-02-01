@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310123
+From: t28@nikhef.nl (Friedemann Brandt)
+Date: Tue, 19 Oct 1993 19:59:14 +0100   (23kb)
+
+Title: Structure of BRS-Invariant Local Functionals
+Authors: Friedemann Brandt
+Comments: 20 pages, Latex, NIKHEF-H 93-21
+\\
+  For a large class of gauge theories a nilpotent BRS-operator $s$ is
+constructed and its cohomology in the space of local functionals of the
+off-shell fields is shown to be isomorphic to the cohomology of $\4s=s+d$ on
+functions $f(\4C,\PH)$ of tensor fields $\PH$ and of variables $\4C$ which are
+constructed of the ghosts and the connection forms. The result allows general
+statements about the structure of invariant classical actions and anomaly
+candidates whose BRS-variation vanishes off-shell. The assumptions under which
+the result holds are thoroughly discussed.
+\\

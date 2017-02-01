@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308071
+From: yoonbai@nms.kyunghee.ac.kr (Yoon-Bai Kim)
+Date: Mon, 16 Aug 93 15:55:21 KDT   (9kb)
+
+Title: Hamiltonian formulation of SL(3) Ur-KdV equation
+Author: B. K. Chung, K. G. Joo, and Soonkeon Nam
+Comments: 12 pages, KHTP-93-03 SNUTP-93-21
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Mod.Phys.Lett. A8 (1993) 2927-2936
+\\
+  We give a unified view of the relation between the $SL(2)$ KdV, the mKdV, and
+the Ur-KdV equations through the Fr\'{e}chet derivatives and their inverses.
+For this we introduce a new procedure of obtaining the Ur-KdV equation, where
+we require that it has no non-local operators. We extend this method to the
+$SL(3)$ KdV equation, i.e., Boussinesq(Bsq) equation and obtain the hamiltonian
+structure of Ur-Bsq equationin a simple form. In particular, we explicitly
+construct the hamiltonian operator of the Ur-Bsq system which defines the
+poisson structure of the system, through the Fr\'{e}chet derivative and its
+inverse.
+\\

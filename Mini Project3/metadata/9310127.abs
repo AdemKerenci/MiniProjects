@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310127
+From: machet@lpthe.jussieu.fr (Bruno MACHET)
+Date: Wed, 20 Oct 1993 09:37:29 +0100 (MET)   (27kb)
+
+Title: Dynamically Broken U(1) `Left' Gauge Theories in Four Dimensions
+Authors: B. Machet
+Comments: 19 pages. Latex (amssymbols, epsf), 10 postscript figures included in
+  a uuencoded compressed tar(red) file. Report PAR-LPTHE 93/50
+\\
+  We study a dynamically broken U(1) "left" gauge theory endowed with a
+composite scalar doublet (one scalar and one pseudoscalar); its Lagrangian only
+differs from that of an abelian `Standard Model' by the addition of a
+derivative coupling between a Wess-Zumino field, linked to the previous
+scalars, and the fermionic current. Yet, in the Feynman path integral, the non
+independence of the fermionic and scalar variables of integration requires the
+introduction of constraints. When the gauge symmetry is broken by the vacuum
+expectation value of the scalar field, they freeze all degrees of freedom but
+those of a massive gauge field, including a (abelian) pion. The anomaly
+disappears and the gauge current is conserved. This is shown, and
+renormalizability studied, in the `Nambu-Jona-Lasinio approximation'. Unitarity
+is demonstrated on general grounds.
+\\

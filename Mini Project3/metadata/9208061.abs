@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208061
+From: SALEUR%YALPH2.bitnet@yalevm.ycc.yale.edu
+Date: 24 Aug 1992 15:41:51 -0400 (EDT)   (34kb)
+
+Title: On an algebraic approach to higher dimensional statistical mechanics
+Author: P. Martin, Herbert Saleur
+Comments: 41 pages, 13 figures (two not included)
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Commun.Math.Phys. 158 (1993) 155-190
+\\
+  We study representations of Temperley-Lieb algebras associated with the
+transfer matrix formulation of statistical mechanics on arbitrary  lattices. We
+first discuss a new hyperfinite algebra, the Diagram algebra
+$D_{\underline{n}}(Q)$, which is a quotient of the Temperley-Lieb algebra
+appropriate for Potts models in the mean field case, and in which the algebras
+appropriate for all transverse lattice shapes $G$ appear as subalgebras. We
+give the complete structure of this subalgebra in the case ${\hat A}_n$ (Potts
+model on a cylinder). The study of the Full Temperley Lieb algebra of graph $G$
+reveals a vast number of infinite sets of inequivalent irreducible
+representations characterized by one or more (complex) parameters associated to
+topological effects such as links. We give a complete classification in the
+${\hat A}_n$ case where the only such effects are loops and twists.
+\\

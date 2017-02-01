@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206097
+From: De Jonghe Frank <FGBDA16%BLEKUL11.BITNET@pucc.princeton.edu>
+Date: Thu, 25 Jun 92 09:50:44 +0200   (10kb)
+
+Title: The regularized BRST Jacobian of pure Yang-Mills theory
+Authors: F. De Jonghe, R. Siebelink, W. Troost, S. Vandoren, P. van
+  Nieuwenhuizen and A. Van Proeyen
+Comments: 12 pages, latex, CERN-TH.6541/92, KUL-TF-92/24
+Journal-ref: Phys.Lett. B289 (1992) 354-360
+\\
+  The Jacobian for infinitesimal BRST transformations of path integrals for
+pure Yang-Mills theory, viewed as a matrix $\unity +\Delta J$ in the space of
+Yang-Mills fields and (anti)ghosts, contains off-diagonal terms. Naively, the
+trace of $\Delta J$ vanishes, being proportional to the trace of the structure
+constants. However, the consistent regulator $\cR$, constructed from a general
+method, also contains off-diagonal terms. An explicit computation demonstrates
+that the regularized Jacobian $Tr\ \Delta J\exp -\cR /M^2$ for $M^2\rightarrow
+\infty $ is the variation of a local counterterm, which we give. This is a
+direct proof at the level of path integrals that there is no BRST anomaly.
+\\

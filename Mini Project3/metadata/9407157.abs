@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407157
+From: jadczyk@PHYSF.UNI-BIELEFELD.DE
+Date: Sun, 24 Jul 1994 16:27:06 EDT   (17kb)
+Date (revised): Tue, 26 Jul 1994 10:17:12 EDT
+Date (revised): Mon, 01 Aug 1994 19:45:44 EDT
+
+Title: Particle Tracks, Events and Quantum Theory
+Author: A. Jadczyk
+Comments: 22 pages
+Journal-ref: Prog.Theor.Phys. 93 (1995) 631-646
+\\
+  The law of track formation in cloud chambers is derived from the Liouville
+equation with a simple Lindblad's type generator that describes coupling
+between a quantum particle and a classical, continuous, medium of two--state
+detectors. Piecewise deterministic random process (PDP) corresponding to the
+Liouville equation is derived. The process consists of pairs (classical
+event,quantum jump), interspersed with random periods of continuous (in
+general, non--linear) Schroedinger's--type evolution. The classical events are
+flips of the detectors -- they account for tracks. Quantum jumps are shown, in
+the simplest, homogeneous case, to be identical to those in the early
+spontaneous localization model of Ghirardi, Rimini and Weber (GRW). The methods
+and results of the present paper allow for an elementary derivation and
+numerical simulation of particle track formation and provide an additional
+perspective on GRW's proposal
+\\

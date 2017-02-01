@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302093
+From: poli@itp.ethz.ch (Nathan Poliatzky)
+Date: Fri, 19 Feb 93 16:14:03 +0100   (6kb)
+Date (revised): Mon, 22 Feb 93 09:05:06 +0100
+Date (revised): Fri, 26 Feb 93 11:01:18 +0100
+
+Title: Levinson's Theorem for Dirac Equation
+Authors: Nathan Poliatzky
+Comments: 9 pages, Preprint WIS-92/101/DEC-PH, REVTEX-file (the final argument
+  in the proof of the theorem is given in more detail)
+Journal-ref: Phys.Rev.Lett. 70 (1993) 2507-2510
+\\
+  Levinson's theorem for the Dirac equation is known in the form of a sum of
+positive and negative energy phase shifts at zero momentum related to the total
+number of bound states. In this letter we prove a stronger version of
+Levinson's theorem valid for positive and negative energy phase shifts
+separately. The surprising result is, that in general the phase shifts for each
+sign of the energy do not give the number of bound states with the same sign of
+the energy (in units of $\pi$), but instead, are related to the number of bound
+states of a certain Schr\"odinger equation, which coincides with the Dirac
+equation at zero momentum.
+\\

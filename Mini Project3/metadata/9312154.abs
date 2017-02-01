@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312154
+From: David Gershon <GERSHON@taunivm.tau.ac.il>
+Date: Fri, 17 Dec 93 19:16:11 IST   (13kb)
+
+Title: Exact O(d,d) Transformations in WZW Models
+Authors: David Gershon
+Comments: 23 pages. preprint TAUP-2129-93
+Journal-ref: Phys.Rev. D50 (1994) 6481-6489
+\\
+  Using the algebraic Hamiltonian approach, we derive the exact to all orders
+O(d,d) transformations of the metric and the dilaton field in WZW and WZW coset
+models for both compact and non-compact groups. It is shown that under the
+exact $O(d)\times O(d)$ transformation only the leading order of the inverse
+metric $G^{-1}$ is transformed. The quantity $\sqrt{G}\exp(\Phi)$ is the same
+in all the dual models and in particular is independent of k. We also show that
+the exact metric and dilaton field that correspond to G/U(1)^d WZW can be
+obtained by applying the exact O(d,d) transformations on the (ungauged) WZW, a
+result that was known to one loop order only. As an example we give the O(2,2)
+transformations in the $SL(2,R)$ WZW that transform to its dual exact models.
+These include also the exact 3D black string and the exact 2D black hole with
+an extra $U(1)$ free field.
+\\

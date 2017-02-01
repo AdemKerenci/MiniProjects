@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202008
+From: Petr Horava <horava@curie.uchicago.edu>
+Date: Mon, 3 Feb 92 16:42:30 CST   (16kb)
+
+Title: Two Dimensional String Theory and the Topological Torus
+Authors: Petr Horava
+Comments: 22 pages, no figures
+Journal-ref: Nucl.Phys. B386 (1992) 383-404
+\\
+  We analyze topological string theory on a two dimensional torus, focusing on
+symmetries in the matter sector. Even before coupling to gravity, the
+topological torus has an infinite number of point-like physical observables,
+which give rise via the BRST descent equations to an infinite symmetry algebra
+of the model. The point-like observables of ghost number zero form a
+topological ground ring, whose generators span a spacetime manifold; the
+symmetry algebra represents all (ground ring valued) diffeomorphisms of the
+spacetime. At nonzero ghost numbers, the topological ground ring is extended to
+a superring, the spacetime manifold becomes a supermanifold, and the symmetry
+algebra preserves a symplectic form on it. In a decompactified limit of
+cylindrical target topology, we find a nilpotent charge which behaves like a
+spacetime topological BRST operator. After coupling to topological gravity,
+this model might represent a topological phase of $c=1$ string theory. We also
+point out some analogies to two dimensional superstrings with the chiral GSO
+projection, and to string theory with $c=-2$.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312119
+From: Pavel Etingof <etingof@math.harvard.edu>
+Date: Tue, 14 Dec 1993 11:24:25 -0500   (13kb)
+
+Title: Critical Points of the Product of Powers of Linear Functions and
+  Families of Bases of Singular Vectors
+Author: Alexander Varchenko
+Comments: 15 pages, no figures, posted by Pavel Etingof by the author's request
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  The quasiclassical asymptotics of the Knizhnik-Zamolodchikov equation with
+values in the tensor product of sl(2)- representations are considered. The
+first term of asymptotics is an eigenvector of a system of commuting operators.
+We show that the norm of this vector with respect to the Shapovalov form is
+equal to the determinant of the matrix of second derivatives of a suitable
+function. This formula is an analog of the Gaudin and Korepin formulae for the
+norm of the Bethe vectors. We show that the eigenvectors form a basis under
+certain conditions.
+\\

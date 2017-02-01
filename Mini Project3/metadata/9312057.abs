@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312057
+From: Pavel Etingof <etingof-pavel@MATH.YALE.EDU>
+Date: Tue, 7 Dec 1993 20:09:32 -0500   (23kb)
+
+Title: Difference equations with elliptic coefficients and quantum affine
+  algebras
+Author: Pavel Etingof
+Comments: 27 pages, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+   The purpose of this paper is to introduce and study a q-analogue of the
+holonomic system of differential equations associated to the Belavin's
+classical r-matrix (elliptic r-matrix equations), or, equivalently, to define
+an elliptic deformation of the quantum Knizhnik-Zamolodchikov equations
+of Frenkel and Reshetikhin. In hep-th 9303018, it was shown that solutions of
+the elliptic r-matrix equations admit a representation as traces of products
+of intertwining operators between certain modules over affine sl(N). In this
+paper, this construction is generalized to quantum affine sl(N).
+   The main object of study in the paper is a family of meromorphic matrix
+functions of n complex variables z_1,...,z_n and three additional parameters
+p,q,s -- (modified) traces of products of intertwiners between modules over
+quantum affine sl(N). They are a new class of transcendental functions which
+can be degenerated into many interesting special functions -- hypergeometric
+and q-hypergeometric functions, elliptic and modular functions,
+transcendental functions of an elliptic curve, vector-valued modular
+forms, solutions of the Bethe ansatz equations etc.
+   The main result of the paper states that these functions satisfy two
+holonomic systems of difference equations -- the first one has shift
+parameter p and elliptic modulus s, and the second one has shift parameter
+s and elliptic modulus p.
+  The paper also contains a short proof of the quantum KZ equations.
+\\

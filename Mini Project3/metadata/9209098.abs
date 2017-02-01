@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209098
+From: Kurt Haller <KHALLER@uconnvm.uconn.edu>
+Date: Thu, 24 Sep 92 14:26:28 EST   (8kb)
+
+Title: Anyonic States in Chern-Simons Theory
+Authors: K. Haller and E. Lim-Lombridas
+Comments: 14pp
+\\
+  We discuss the canonical quantization of Chern-Simons theory in $2+1$
+dimensions, minimally coupled to a Dirac spinor field. Gauss's law and the
+gauge condition, $A_0 = 0$, are implemented by embedding the formulation in an
+appropriate physical subspace. We find two kinds of charged particle states in
+this model. One kind has a rotational anomaly in the form of arbitrary phases
+that develop in $2\pi$ rotations; the other kind rotates ``normally''---i.e.,
+charged states only change sign in $2\pi$ rotations. The rotational anomaly has
+nothing to do with the implementation of Gauss's law. It is possible to
+inadvertently produce these anomalous states in the process of implementing
+Gauss's law, but it is also possible to implement Gauss's law without producing
+rotational anomalies. Moreover, states with or without rotational anomalies
+obey ordinary Fermi statistics.
+\\

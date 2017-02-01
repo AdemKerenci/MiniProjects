@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305110
+From: leclair@lnssun1.TN.Cornell.Edu (Andre LeClair)
+Date: Fri, 21 May 93 17:32:03 EST   (36kb)
+Date (revised): Fri, 4 Jun 93 11:27:47 EDT
+Date (revised): Mon, 1 Nov 1993 10:18:53 -0500
+
+Title: Spectrum Generating Affine Lie Algebras in Massive Field Theory
+Authors: Andre LeClair
+Comments: 49 pages, CLNS 93/1220
+Journal-ref: Nucl. Phys. B415 (1994) 734
+\\
+  We present a new application of affine Lie algebras to massive quantum field
+theory in 2 dimensions, by investigating the $q\to 1$ limit of the q-deformed
+affine $\hat{sl(2)}$ symmetry of the sine-Gordon theory, this limit occuring at
+the free fermion point. We describe how radial quantization leads to a
+quasi-chiral factorization of the space of fields. The conserved charges which
+generate the affine Lie algebra split into two independent affine algebras on
+this factorized space, each with level 1 in the anti-periodic sector. The space
+of fields in the anti-periodic sector can be organized using level-$1$ highest
+weight representations, if one supplements the $\slh$ algebra with the usual
+local integrals of motion. Using the integrals of motion, a momentum space
+bosonization involving vertex operators is formulated. This leads to a new way
+of computing form-factors, as vacuum expectation values in momentum space.
+\\

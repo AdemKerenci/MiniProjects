@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301092
+From: "B. Jurco" <PTBJ@IBM.RZ.TU-CLAUSTHAL.DE>
+Date: Fri, 22 Jan 93 12:55:05 MET   (15kb)
+
+Title: More on quantum groups from the the quantization point of view
+Author: B. Jurco
+Comments: 18 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 166 (1994) 63-78
+\\
+  Star products on the classical double group of a simple Lie group and on
+corresponding symplectic grupoids are given so that the quantum double and the
+"quantized tangent bundle" are obtained in the deformation description.
+"Complex" quantum groups and bicovariant quantum Lie algebras are discused from
+this point of view. Further we discuss the quantization of the Poisson
+structure on symmetric algebra $S(g)$ leading to the quantized enveloping
+algebra $U_{h}(g)$ as an example of biquantization in the sense of Turaev.
+Description of $U_{h}(g)$ in terms of the generators of the bicovariant
+differential calculus on $F(G_q)$ is very convenient for this purpose. Finally
+we interpret in the deformation framework some well known properties of compact
+quantum groups as simple consequences of corresponding properties of classical
+compact Lie groups. An analogue of the classical Kirillov's universal character
+formula is given for the unitary irreducible representation in the compact
+case.
+\\

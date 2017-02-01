@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312207
+From: mikhak@physics.ucla.edu (Mikhak)
+Date: Wed, 29 Dec 93 13:38:38 PST   (41kb)
+
+Title: Manifestly Finite Perturbation Theory for the Short-Distance Expansion
+  of Correlation Functions in the Two Dimensional Ising Model
+Authors: B. Mikhak and A.M. Zarkesh
+Comments: 38 pages with 1 figure, UCLA/93/TEP/49
+Journal-ref: Nucl.Phys. B430 (1994) 656-682
+\\
+  In the spirit of classic works of Wilson on the renormalization group and
+operator product expansion, a new framework for the study of the theory space
+of euclidean quantum field theories has been introduced. This formalism is
+particularly useful for elucidating the structure of the short-distance
+expansions of the $n$-point functions of a renormalizable quantum field theory
+near a non-trivial fixed point. We review and apply this formalism in the study
+of the scaling limit of the two dimensional massive Ising model.
+Renormalization group analysis and operator product expansions determine all
+the non-analytic mass dependence of the short-distance expansion of the
+correlation functions. An extension of the first order variational formula to
+higher orders provides a manifestly finite scheme for the perturbative
+calculation of the operator product coefficients to any order in parameters. A
+perturbative expansion of the correlation functions follows. We implement this
+scheme for a systematic study of correlation functions involving two spin
+operators. We show how the necessary non-trivial integrals can be calculated.
+As two concrete examples we explicitly calculate the short-distance expansion
+of the spin-spin correlation function to third order and the spin-spin-energy
+density correlation function to first order in the mass. We also discuss the
+applicability of our results to perturbations near other non-trivial fixed
+points corresponding to other unitary minimal models.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304065
+From: Ed Corrigan <Edward.Corrigan@durham.ac.uk>
+Date: Fri, 16 Apr 93 10:06:41 BST   (22kb)
+
+Title: On a generalised bootstrap principle
+Authors: E. Corrigan, P.E. Dorey, R. Sasaki
+Comments: 23 pages including two figures, harvmac
+Report-no: DTP-93/19 YITP/U-93-09
+Journal-ref: Nucl.Phys. B408 (1993) 579-599
+\\
+  The S-matrices for non-simply-laced affine Toda field theories are considered
+in the context of a generalised bootstrap principle. The S-matrices, and in
+particular their poles, depend on a parameter whose range lies between the
+Coxeter numbers of dual pairs of the corresponding non-simply-laced algebras.
+It is proposed that only odd order poles in the physical strip with positive
+coefficients throughout this range should participate in the bootstrap. All
+other singularities have an explanation in principle in terms of a generalised
+Coleman-Thun mechanism. Besides the S-matrices introduced by Delius, Grisaru
+and Zanon, the missing case ($f_4^{(1)},e_6^{(2)}$), is also considered and
+provides many interesting examples of pole generation.
+\\

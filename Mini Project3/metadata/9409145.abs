@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409145
+From: Paul A Shah <P.A.Shah@damtp.cambridge.ac.uk>
+Date: Fri, 23 Sep 94 20:35:34 BST   (17kb)
+
+Title: Phase Transitions in a Vortex Gas
+Authors: P.A.Shah
+Comments: 17 pages Latex, 4 figures (available by anonymous FTP from
+  club.amtp.cam.ac.uk in the directory pub/papers/vortex.phase.transitions),
+  DAMTP/HEP 94-86
+Journal-ref: Nucl.Phys. B438 (1995) 589-606
+\\
+  It has been shown recently that the motion of solitons at couplings around a
+critical coupling can be reduced to the dynamics of particles (the zeros of the
+Higgs field) on a curved manifold with potential. The curvature gives a
+velocity dependent force, and the magnitude of the potential is proportional to
+the distance from a critical coupling. In this paper we apply this
+approximation to determining the equation of state of a gas of vortices in the
+Abelian Higgs model. We derive a virial expansion using certain known integrals
+of the metric, and the second virial coefficient is calculated, determining the
+behaviour of the gas at low densities. A formula for determining higher order
+coefficients is given. At low densities and temperatures $T \gg \l$ the
+equation of state is of the Van der Waals form $(P+b\frac{N^{2}}{A^{2}})(A-aN)
+= NT$ with $a=4\pi$ and $b=-4.89\pi\l$ where $\l$ is a measure of the distance
+from critical coupling. It is found that there is no phase transition in a low
+density type-II gas, but there is a transition in the type-I case between a
+condensed and gaseous state. We conclude with a discussion of the relation of
+our results to vortex behaviour in superconductors.
+\\

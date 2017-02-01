@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309006
+From: alanw@math.berkeley.edu (Alan Weinstein)
+Date: Wed, 1 Sep 93 17:01:46 PDT   (7kb)
+
+Title: Classical Theta Functions and Quantum Tori
+Author: Alan Weinstein
+Comments: 9 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  The Schwartz kernel of the multiplication operation on a quantum torus is
+shown to be the distributional boundary value of a classical multivariate theta
+function. The kernel satisfies a Schr\"odinger equation in which the role of
+time is played by the deformation parameter $\hbar$ and the role of the
+hamiltonian by a Poisson structure. At least in some special cases, the kernel
+can be written as a sum of products of single-variable theta functions.
+\\

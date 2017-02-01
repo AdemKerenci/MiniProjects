@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308148
+From: Shahn Majid <majid@damtp.cambridge.ac.uk>
+Date: Mon, 30 Aug 93 17:22:31 BST   (21kb)
+
+Title: On the Addition of Quantum Matrices
+Author: Shahn Majid
+Comments: 24 pages
+Report-no: DAMTP/93-37
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 35 (1994) 2617-2632
+\\
+  We introduce an addition law for the usual quantum matrices $A(R)$ by means
+of a coaddition $\underline{\Delta} t=t\otimes 1+1\otimes t$. It supplements
+the usual comultiplication $\Delta t=t\otimes t$ and together they obey a
+codistributivity condition. The coaddition does not form a usual Hopf algebra
+but a braided one. The same remarks apply for rectangular $m\times n$ quantum
+matrices. As an application, we construct left-invariant vector fields on
+$A(R)$ and other quantum spaces. They close in the form of a braided Lie
+algebra. As another application, the wave-functions in the lattice
+approximation of Kac-Moody algebras and other lattice fields can be added and
+functionally differentiated.
+\\

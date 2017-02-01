@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206049
+From: TFELB@fyvax1.fy.chalmers.se
+Date: Thu, 11 Jun 92 11:29 +0200   (6kb)
+
+Title: Explicit Solution to the N-Body Calogero Problem
+Authors: L. Brink, T.H. Hansson and M.A. Vasiliev
+Comments: 6 p., latex, USITP-92-5
+Journal-ref: Phys.Lett. B286 (1992) 109-111
+\\
+  We solve the N-body Calogero problem, \ie N particles in 1 dimension subject
+to a two-body interaction of the form $\half \sum_{i,j}[ (x_i - x_j)^2 + g/
+{(x_i - x_j)^2}]$, by constructing annihilation and creation operators of the
+form $ a_i^\mp =\frac 1 {\sqrt 2} (x _i \pm i\hat{p}_i )$, where $\hat{p}_i$ is
+a modified momentum operator obeying %!!!!!!! Heisenberg-type commutation
+relations with $x_i$, involving explicitly permutation operators. On the other
+hand, $ D_j =i\,\hat{p}_j$ can be interpreted as a covariant derivative
+corresponding to a flat connection. The relation to fractional statistics in
+1+1 dimensions and anyons in a strong magnetic field is briefly discussed.
+\\

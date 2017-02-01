@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406095
+From: MARKL@CSEARN.BITNET
+Date: Wed, 15 Jun 94 09:46:25 MET   (16kb)
+
+Title: Strongly homotopy Lie algebras
+Author: Tom Lada and Martin Markl
+Comments: 17 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  The present paper can be thought of as a continuation of the paper
+"Introduction to sh Lie algebras for physicists" by T. Lada and J. Stasheff
+(International Journal of Theoretical Physics Vol. 32, No. 7 (1993),
+1087--1103, appeared also as preprint hep-th/9209099) which provided an
+exposition of the basic ingredients of the theory of strongly homotopy Lie
+algebras sufficient for the underpinnings of the physically relevant examples.
+We demonstrate the `strong homotopy' analog of the usual relation between Lie
+and associative algebras and investigate the universal enveloping algebra
+functor emerging as the left adjoint of the symmetrization functor. We show
+that the category of homotopy associative algebras carries a natural monoidal
+structure such that the universal enveloping algebra is a unital coassociative
+cocommutative coalgebra with respect to this monoidal structure. The last
+section is concerned with the relation between homotopy modules and weak
+homotopy maps. The present paper is complementary to what currently exists in
+the literature, both physical and mathematical.
+\\

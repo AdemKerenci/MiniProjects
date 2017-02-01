@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405134
+From: wexler@hetws2.nbi.dk
+Date: Fri, 20 May 94 16:27:23 +0200   (33kb)
+Date (revised): Mon, 30 May 94 14:49:35 +0200
+
+Title: From Trees to Galaxies: The Potts Model on a Random Surface
+Authors: Mark Wexler
+Comments: 25 pp. (voodoo PostScript replaced by original LaTeX), NBI-HE-94-28
+Journal-ref: Nucl.Phys. B438 (1995) 629-648
+\\
+  The matrix model of random surfaces with c = inf. has recently been solved
+and found to be identical to a random surface coupled to a q-states Potts model
+with q = inf. The mean field-like solution exhibits a novel type of tree
+structure. The natural question is, down to which--if any--finite values of c
+and q does this behavior persist? In this work we develop, for the Potts model,
+an expansion in the fluctuations about the q = inf. mean field solution. In the
+lowest--cubic--non-trivial order in this expansion the corrections to mean
+field theory can be given a nice interpretation in terms of structures (trees
+and ``galaxies'') of spin clusters. When q drops below a finite q_c, the
+galaxies overwhelm the trees at all temperatures, thus suppressing mean field
+behavior. Thereafter the phase diagram resembles that of the Ising model, q=2.
+\\

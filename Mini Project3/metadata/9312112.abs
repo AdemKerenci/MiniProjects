@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312112
+From: huebschm@gat.univ-lille1.fr (huebschmann johannes)
+Date: Tue, 14 Dec 93 10:58:38 +0100   (17kb)
+
+Title: Symplectic and Poisson structures of certain moduli spaces
+Author: Johannes Huebschmann
+Comments: 18 pages
+Report-no: PUB. IRMA-Lille-93-33.X
+Subj-class: High Energy Physics - Theory; Symplectic Geometry
+\\
+  Symplectic and Poisson structures of certain moduli spaces/Huebschmann,J./
+Abstract: Let $\pi$ be the fundamental group of a closed surface and $G$ a Lie
+group with a biinvariant metric, not necessarily positive definite. It is shown
+that a certain construction due to A. Weinstein relying on techniques from
+equivariant cohomology may be refined so as to yield (i) a symplectic structure
+on a certain smooth manifold $\Cal M(\Cal P,G)$ containing the space
+$\roman{Hom}(\pi,G)$ of homomorphisms and, furthermore, (ii) a hamiltonian
+$G$-action on $\Cal M(\Cal P,G)$ preserving the symplectic structure, with
+momentum mapping $\mu \colon \Cal M(\Cal P,G) \to g^*$, in such a way that the
+reduced space equals the space $\roman{Rep}(\pi,G)$ of representations. Our
+approach is somewhat more general in that it also applies to twisted moduli
+spaces; in particular, it yields the {\smc Narasimhan-Seshadri} moduli spaces
+of semistable holomorphic vector bundles by {\it symplectic reduction in finite
+dimensions\/}.This implies that, when the group $G$ is compact, such a twisted
+moduli space inherits a structure of {\it stratified symplectic space\/}, and
+that the strata of these twisted moduli spaces have finite symplectic volume.
+\\

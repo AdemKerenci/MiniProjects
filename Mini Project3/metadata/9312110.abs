@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312110
+From: "Smilga Andrei V." <SMILGA@sbitp.itp.ucsb.edu>
+Date: Mon, 13 Dec 1993 16:19 PST   (16kb)
+
+Title: Instantons in Schwinger Model
+Authors: A.V.Smilga
+Comments: Santa Barbara Preprint NSF-ITP-93-151
+Journal-ref: Phys.Rev. D49 (1994) 5480-5490
+\\
+  The known calculations of the fermion condensate $<\bar{\psi}\psi>$ and the
+correlator $<\bar{\psi}\psi(x) ~\bar{\psi}\psi(0)>$ have been interpreted in
+terms of {\em localized} instanton solutions minimizing the {\em effective}
+action. Their size is of order of massive photon Compton wavelength $\mu^{-1}$.
+At high temperature, these instantons become quasistatic and present the
+2-dimensional analog of the `walls' found recently in 4-dimensional gauge
+theories. In spite of the static nature of these solutions, they should not be
+interpreted as `thermal solitons' living in Minkowski space: the mass of these
+would-be solitons does not display itself in the physical correlators. At small
+but nonzero fermion mass, the high-T partition function of $QED_2$ is saturated
+by the rarefied gas of instantons and antiinstantons with density $\propto
+m~\exp\{-S^{inst.}\}~=~m~\exp\{-\pi T/\mu\}$ to be confronted with the dense
+strongly correlated instanton-antiinstanton liquid saturating the partition
+function at $T=0$.
+\\

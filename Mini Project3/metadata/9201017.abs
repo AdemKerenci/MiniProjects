@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9201017
+From: seiberg@physics.rutgers.edu
+Date: Thu, 9 Jan 92 15:18:07 EST   (15kb)
+Date (revised): Mon, 27 Jan 92 17:20:32 EST
+
+Title: A Note on Background (In)dependence
+Authors: Nathan Seiberg and Stephen Shenker
+Comments: 16 pages
+Journal-ref: Phys.Rev. D45 (1992) 4581-4587
+\\
+  In general quantum systems there are two kinds of spacetime modes, those that
+fluctuate and those that do not. Fluctuating modes have normalizable
+wavefunctions. In the context of 2D gravity and ``non-critical'' string theory
+these are called macroscopic states. The theory is independent of the initial
+Euclidean background values of these modes. Non-fluctuating modes have
+non-normalizable wavefunctions and correspond to microscopic states. The theory
+depends on the background value of these non-fluctuating modes, at least to all
+orders in perturbation theory. They are superselection parameters and should
+not be minimized over. Such superselection parameters are well known in field
+theory. Examples in string theory include the couplings $t_k$ (including the
+cosmological constant) in the matrix models and the mass of the two-dimensional
+Euclidean black hole. We use our analysis to argue for the finiteness of the
+string perturbation expansion around these backgrounds.
+\\

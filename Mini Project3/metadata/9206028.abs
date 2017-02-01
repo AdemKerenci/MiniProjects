@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206028
+From: Xavier Vilasis Cardona <DRUIDA%EBUBECM1.BITNET@pucc.princeton.edu>
+Date: Fri, 05 Jun 92 19:13:01 BCN   (29kb)
+Date (revised): Tue, 09 Jun 92 09:39:57 BCN
+
+Title: A Cutoff Procedure and Counterterms for Differential Renormalization
+Authors: D.Z.Freedman, K.Johnson, R.Munoz-Tapia, X.Vilasis-Cardona
+Comments: 28 pages, CTP#2099-DTP/92/40-UBECMPF/92/13, 2 figures (not included).
+  (Tex problems solved and information about number of pages and figures added)
+Journal-ref: Nucl.Phys. B395 (1993) 454-496
+\\
+  Explicit divergences and counterterms do not appear in the differential
+renormalization method, but they are concealed in the neglected surface terms
+in the formal partial integration procedure used. A systematic real space
+cutoff procedure for massless $\phi^4$ theory is therefore studied in order to
+test the method and its compatibility with unitarity. Through 3-loop order, it
+is found that cutoff bare amplitudes are equal to the renormalized amplitudes
+previously obtained using the formal procedure plus singular terms which can be
+consistently cancelled by adding conventional counterterms to the Lagrangian.
+Renormalization group functions $\beta (g)$ and $\gamma (g)$ obtained in the
+cutoff theory also agree with previous results.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210005
+From: cnash@maths.may.ie (Charles Nash)
+Date: Thu, 1 Oct 92 15:36:24 +0100   (9kb)
+
+Title: Ray-Singer Torsion, Topological field theories and the Riemann zeta
+  function at s=3
+Author: Charles Nash and Denjoe O' Connor
+Comments: 10 pages
+Subj-class: High Energy Physics - Theory; Differential Geometry
+\\
+  Starting with topological field theories we investigate the Ray-Singer
+analytic torsion in three dimensions. For the lens Spaces L(p;q) an explicit
+analytic continuation of the appropriate zeta functions is contructed and
+implemented. Among the results obtained are closed formulae for the individual
+determinants involved, the large $p$ behaviour of the determinants and the
+torsion, as well as an infinite set of distinct formulae for zeta(3): the
+ordinary Riemann zeta function evaluated at s=3.
+  The torsion turns out to be trivial for the cases L(6,1), L((10,3) and
+L(12,5) and is, in general, greater than unity for large p and less than unity
+for a finite number of p and q.
+\\

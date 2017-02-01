@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206103
+From: carlip@dirac.ucdavis.edu (Steve Carlip)
+Date: Fri, 26 Jun 92 15:12:04 PDT   (15kb)
+
+Title: The Sum over Topologies in Three-Dimensional Euclidean Quantum Gravity
+Authors: Steven Carlip
+Comments: 12 pages (LaTeX), UCD-92-16
+Journal-ref: Class.Quant.Grav. 10 (1993) 207-218
+\\
+  In Hawking's Euclidean path integral approach to quantum gravity, the
+partition function is computed by summing contributions from all possible
+topologies. The behavior such a sum can be estimated in three spacetime
+dimensions in the limit of small cosmological constant. The sum over topologies
+diverges for either sign of $\Lambda$, but for dramatically different reasons:
+for $\Lambda>0$, the divergent behavior comes from the contributions of very
+low volume, topologically complex manifolds, while for $\Lambda<0$ it is a
+consequence of the existence of infinite sequences of relatively high volume
+manifolds with converging geometries. Possible implications for
+four-dimensional quantum gravity are discussed.
+\\

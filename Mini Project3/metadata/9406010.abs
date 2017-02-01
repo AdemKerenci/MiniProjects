@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406010
+From: SATHYA <GURUSWAMY@urhep.pas.rochester.edu>
+Date: Thu, 02 Jun 1994 19:30:59 -0500 (EST)   (30kb)
+Date (revised): Thu, 01 Dec 1994 18:31:21 -0500 (EST)
+
+Title: O(N) Sigma Model as a Three Dimensional Conformal Field Theory
+Authors: S.Guruswamy, S.G.Rajeev and P.Vitale
+Comments: 35 pages, TeX, (Revised version, to appear in Nucl. Phys. B--paper
+  shortened, a discussion added and other minor corrections)
+Report-no: UR-1357, ER-40685-807
+Journal-ref: Nucl.Phys. B438 (1995) 491-521
+\\
+  We study a three dimensional conformal field theory in terms of its partition
+function on arbitrary curved spaces. The large $N$ limit of the nonlinear sigma
+model at the non-trivial fixed point is shown to be an example of a conformal
+field theory, using zeta--function regularization. We compute the critical
+properties of this model in various spaces of constant curvature ($R^2 \times
+S^1$, $S^1\times S^1 \times R$, $S^2\times R$, $H^2\times R$, $S^1 \times S^1
+\times S^1$ and $S^2 \times S^1$) and we argue that what distinguishes the
+different cases is not the Riemann curvature but the conformal class of the
+metric. In the case $H^2\times R$ (constant negative curvature), the $O(N)$
+symmetry is spontaneously broken at the critical point. In the case $S^2\times
+R$ (constant positive curvature) we find that the free energy vanishes,
+consistent with conformal equivalence of this manifold to $R^3$, although the
+correlation length is finite. In the zero curvature cases, the correlation
+length is finite due to finite size effects. These results describe two
+dimensional quantum phase transitions or three dimensional classical ones.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307190
+From: feher@avzw02.physik.uni-bonn.de (Laszlo Feher)
+Date: Fri, 30 Jul 93 12:21:30 +0200   (10kb)
+Date (revised): Mon, 2 Aug 93 17:05:30 +0200
+
+Title: The vacuum preserving Lie algebra of a classical W-algebra
+Authors: L. Feher, L. O'Raifeartaigh and I. Tsutsui
+Comments: 11 pages, BONN-HE-93-25, DIAS-STP-93-13. Some typos had been removed,
+  no change in formulas
+Journal-ref: Phys.Lett. B316 (1993) 275-281
+\\
+  We simplify and generalize an argument due to Bowcock and Watts showing that
+one can associate a finite Lie algebra (the `classical vacuum preserving
+algebra') containing the M\"obius $sl(2)$ subalgebra to any classical
+$\W$-algebra. Our construction is based on a kinematical analysis of the
+Poisson brackets of quasi-primary fields. In the case of the $\W_\S^\G$-algebra
+constructed through the Drinfeld-Sokolov reduction based on an arbitrary
+$sl(2)$ subalgebra $\S$ of a simple Lie algebra $\G$, we exhibit a natural
+isomorphism between this finite Lie algebra and $\G$ whereby the M\"obius
+$sl(2)$ is identified with $\S$.
+\\

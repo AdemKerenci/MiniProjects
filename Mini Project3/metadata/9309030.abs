@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309030
+From: Martin Cederwall <tfemc@fy.chalmers.se>
+Date: Mon, 6 Sep 93 12:43:17 +0200   (24kb)
+
+Title: The Seven-sphere and its Kac-Moody Algebra
+Authors: Martin Cederwall and Christian R. Preitschopf
+Comments: 22 pages. Macropackages used: phyzzx, epsf. Three epsf figure files
+  appended
+Report-no: Goeteborg-ITP-93-34, August 1993
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 167 (1995) 373-394
+\\
+  We investigate the seven-sphere as a group-like manifold and its extension to
+a Kac-Moody-like algebra. Covariance properties and tensorial composition of
+spinors under $S^7$ are defined. The relation to Malcev algebras is
+established. The consequences for octonionic projective spaces are examined.
+Current algebras are formulated and their anomalies are derived, and shown to
+be unique (even regarding numerical coefficients) up to redefinitions of the
+currents. Nilpotency of the BRST operator is consistent with one particular
+expression in the class of (field-dependent) anomalies. A Sugawara construction
+is given.
+\\

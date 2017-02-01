@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309002
+From: Robert Marnelius <tferm@fy.chalmers.se>
+Date: Wed, 1 Sep 93 08:57:08 +0200   (20kb)
+
+Title: Proper BRST quantization of relativistic particles
+Authors: Robert Marnelius
+Comments: 37,ITP-G\"{o}teborg 93-18, latexfile
+Journal-ref: Nucl.Phys. B418 (1994) 353-378
+\\
+  Recently derived general formal solutions of a BRST quantization on inner
+product spaces of irreducible Lie group gauge theories are applied to trivial
+models and relativistic particle models for particles with spin 0, 1/2 and 1.
+In the process general quantization rules are discovered which make the formal
+solutions exact. The treatment also give evidence that the formal solutions are
+directly generalizable to theories with graded gauge symmetries. For
+relativistic particles reasonable results are obtained although there exists no
+completely Lorentz covariant quantization of the coordinate and momenta on
+inner product spaces. There are two inequivalent procedures depending on
+whether or not the time coordinate is quantized with positive or indefinite
+metric states. The latter is connected to propagators.
+\\

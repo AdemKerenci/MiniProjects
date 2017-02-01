@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212128
+From: ikegami@cuphd.nd.chiba-u.ac.jp (Kenji Ikegami)
+Date: Tue, 22 Dec 92 14:03:19 JST   (12kb)
+
+Title: Treatment of Constraints in Stochastic Quantization Method and
+  Covariantized Langevin Equation
+Authors: K. Ikegami, T. Kimura and R. Mochizuki
+Comments: 20 pages (Plain TeX), 4 figures(not included, sorry!), CHIBA-EP-57
+Journal-ref: Nucl. Phys. B395 (1993) 371
+\\
+  We study the treatment of the constraints in stochastic quantization method.
+We improve the treatment of the stochastic consistency condition proposed by
+Namiki et al. by suitably taking account of the Ito calculus. Then we obtain an
+improved Langevin equation and the Fokker-Planck equation which naturally leads
+to the correct path integral quantization of the constrained system as the
+stochastic equilibrium state. This treatment is applied to $O(N)$ non-linear
+$\sigma$ model and it is shown that singular terms appearing in the improved
+Langevin equation cancel out the $\delta^n(0)$ divergences in one loop order.
+We also ascertain that the above Langevin equation, rewritten in terms of
+independent variablesis, actually equivalent to the one in the
+general-coordinate-transformation-covariant and vielbein-rotation-invariant
+formalism.
+\\

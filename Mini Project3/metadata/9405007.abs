@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405007
+From: tsvi@shemesh.fiz.huji.ac.il (Tsvi Piran)
+Date: Mon, 2 May 94 17:28:01 +0300   (8kb)
+Date (revised): Thu, 5 May 94 10:09:08 +0300
+
+Title: The Internal Geometry of an Evaporating Black Hole
+Authors: Renaud Parentani and Tsvi Piran
+Comments: 10 pages using Latex and REVTEX macros. 1 page of 4 figures can be
+  obtained from an anonymous ftp at shemesh.fiz.huji.ac.il (revised version
+  with a minor latex correction)
+Journal-ref: Phys.Rev.Lett. 73 (1994) 2805-2808
+\\
+  We present a semi-classical model for the formation and evaporation of a four
+dimensional black hole. We solve the equations numerically and obtain solutions
+describing the entire the space-time geometry from the collapse to the end of
+the evaporation. The solutions satisfy the evaporation law: $\dot M \propto
+-M^{-2}$ which confirms dynamically that black holes do evaporate thermally. We
+find that the evaporation process is in fact the shrinking of a throat that
+connects a macroscopic interior ``universe" to the asymptotically flat
+exterior. It ends either by pinching off the throat leaving a closed universe
+and a Minkowskian exterior or by freezing up when the throat's radius
+approaches a Planck size. In either case the macroscopic inner universe is the
+region where the information lost during the evaporation process is hidden.
+\\

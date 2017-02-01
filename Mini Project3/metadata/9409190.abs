@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409190
+From: Andrei Mironov <mironov@lpi.ac.ru>
+Date: Fri, 30 Sep 94 4:45:54 MSK   (20kb)
+Date (revised): Mon, 3 Oct 94 14:45:05 MSK
+
+Title: Quantum Deformations of $\tau$-functions, Bilinear Identities and
+  Representation Theory
+Author: A.Mironov
+Comments: 20 pages, preprint FIAN/TD-12/94, LaTeX errors are fixed
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+\\
+  This paper is a brief review of recent results on the concept of
+``generalized $\tau$-function'', defined as a generating function of all the
+matrix elements in a given highest-weight representation of a universal
+enveloping algebra ${\cal G}$. Despite the differences from the particular case
+of conventional $\tau$-functions of integrable (KP and Toda lattice)
+hierarchies, these generic $\tau$-functions also satisfy bilinear Hirota-like
+equations, which can be deduced from manipulations with intertwining operators.
+The main example considered in details is the case of quantum groups, when such
+$\tau$-``functions'' are not $c$-numbers but take their values in
+non-commutative algebras (of functions on the quantum group $G$). The paper
+contains only illustrative calculations for the simplest case of the algebra
+SL(2) and its quantum counterpart $SL_q(2)$, as well as for the system of
+fundamental representations of SL(n).
+\\

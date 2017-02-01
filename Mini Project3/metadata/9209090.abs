@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209090
+From: stschr@iks.kuleuven.ac.be
+Date: Wed, 23 Sep 92 16:21:43-0100   (12kb)
+
+Title: Generalised Virasoro Constructions from Affine Inonu-Wigner Contractions
+Authors: Stany Schrans
+Comments: 11 pages, plain TeX, KUL-TF-92/37
+Journal-ref: Class.Quant.Grav. 10 (1993) L173-L181
+\\
+  We present a new method to find solutions of the Virasoro master equations
+for any affine Lie algebra $\widehat{g}$. The basic idea is to consider first
+the simplified case of an In\"on\"u-Wigner contraction $\widehat{g}_c$ of
+$\widehat{g}$ and to extend the Virasoro constructions of $\widehat{g}_c$ to
+$\widehat{g}$ by a perturbative expansion in the contraction parameter. The
+method is then applied to the orthogonal algebras, leading to fixed-level
+multi-parameter Virasoro constructions, which are the generalisations of the
+one-parameter Virasoro construction of $\widehat{su}(2)$ at level four.
+\\

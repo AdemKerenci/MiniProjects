@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409091
+From: ski@phyast.nhn.uoknor.edu (R. Kantowski)
+Date: Thu, 15 Sep 1994 21:30:33 +0600   (15kb)
+
+Title: A Measure on a Subspace of FRW Solutions and ``The Flatness Problem" of
+  Standard Cosmology
+Authors: H. T. Cho and R. Kantowski
+Comments: revtex 16 pages, 1 figure included
+Journal-ref: Phys.Rev. D50 (1994) 6144-6149
+\\
+  We use the metric on the space of gravity fields given by DeWitt to construct
+a unique kinematic measure on the space of FRW simple fluids and show that when
+the mass parameter $\Omega$ is used as a coordinate this measure is singular at
+$\Omega = 1$. This singularity, combined with the time evolution of $\Omega$,
+distorts distributions of $\Omega$ values to be concentrated in the
+neighborhood of 1 at early times. It is a distorted distribution of $\Omega$
+values that sometimes misleads the casual observer to conclude that $\Omega$
+must be exactly equal to 1.
+\\

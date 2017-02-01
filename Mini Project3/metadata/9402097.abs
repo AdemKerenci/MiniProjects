@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402097
+From: Blau Matthias <blau@ictp.trieste.it>
+Date: Wed, 16 Feb 1994 18:57:11 +0100   (43kb)
+
+Title: On Diagonalization in Map(M,G)
+Author: Matthias Blau and George Thompson
+Comments: 42 pages
+Report-no: IC/94/37
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: Commun.Math.Phys. 171 (1995) 639-660
+\\
+  Motivated by some questions in the path integral approach to (topological)
+gauge theories, we are led to address the following question: given a smooth
+map from a manifold $M$ to a compact group $G$, is it possible to smoothly
+`diagonalize' it, i.e.~conjugate it into a map to a maximal torus $T$ of $G$?
+We analyze the local and global obstructions and give a complete solution to
+the problem for regular maps. We establish that these can always be smoothly
+diagonalized locally and that the obstructions to doing this globally are
+non-trivial Weyl group and torus bundles on $M$. We show how the patching of
+local diagonalizing maps gives rise to non-trivial $T$-bundles, explain the
+relation to winding numbers of maps into $G/T$ and restrictions of the
+structure group and examine the behaviour of gauge fields under this
+diagonalization. We also discuss the complications that arise for non-regular
+maps and in the presence of non-trivial $G$-bundles. In particular, we
+establish a relation between the existence of regular sections of a non-trivial
+adjoint bundle and restrictions of the structure group of a principal
+$G$-bundle to $T$. We use these results to justify a Weyl integral formula for
+functional integrals which, as a novel feature not seen in the
+finite-dimensional case, contains a summation over all those topological
+$T$-sectors which arise as restrictions of a trivial principal $G$ bundle and
+which was used previously to solve completely Yang-Mills theory and the $G/G$
+model in two dimensions.
+\\

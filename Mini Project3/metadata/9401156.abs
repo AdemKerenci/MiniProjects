@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401156
+From: lopez%uimrl.dnet@uimrl7.mrl.uiuc.edu
+Date: Fri, 28 Jan 94 15:32:52 -0600   (40kb)
+
+Title: Chern_simons Theory of the Anisotropic Quantum Heisenberg
+  Antiferromagnet on a Square Lattice
+Authors: Ana Lopez, A.G.Rojo and Eduardo Fradkin
+Comments: 53 pages, one figure available upon request, Revtex
+\\
+  We consider the anisotropic quantum Heisenberg antiferromagnet (with
+anisotropy $\lambda$) on a square lattice using a Chern-Simons (or
+Wigner-Jordan) approach. We show that the Average Field Approximation (AFA)
+yields a phase diagram with two phases: a Ne{\`e}l state for
+$\lambda>\lambda_c$ and a flux phase for $\lambda<\lambda_c$ separated by a
+second order transition at $\lambda_c<1$. We show that this phase diagram does
+not describe the $XY$ regime of the antiferromagnet. Fluctuations around the
+AFA induce relevant operators which yield the correct phase diagram. We find an
+equivalence between the antiferromagnet and a relativistic field theory of two
+self-interacting Dirac fermions coupled to a Chern-Simons gauge field. The
+field theory has a phase diagram with the correct number of Goldstone modes in
+each regime and a phase transition at a critical coupling $\lambda^* >
+\lambda_c$. We identify this transition with the isotropic Heisenberg point. It
+has a non-vanishing Ne{\` e}l order parameter, which drops to zero
+discontinuously for $\lambda<\lambda^*$.
+\\

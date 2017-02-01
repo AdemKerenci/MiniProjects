@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405122
+From: akrol@gnumath.rutgers.edu (A.Kazarnovski-Krol)
+Date: Wed, 18 May 94 23:43:55 EDT   (5kb)
+Date (revised): Mon, 6 Mar 1995 02:15:56 -0500
+Date (revised): Thu, 9 Mar 1995 22:39:58 -0500
+Date (revised): Tue, 21 Mar 1995 22:00:15 -0500
+
+Title: Value of generalized hypergeometric function at unity
+Authors: A. Kazarnovski-Krol
+Comments: Ams-Tex error is corrected.
+\\
+  Value of generalized hypergeometric function at a special point is
+calculated. More precisely, value of certain multiple integral over vanishing
+cycle (all arguments collapse to unity) is calculated. The answer is expressed
+in terms of $\Gamma$-functions. The constant is relevant to the part of $\rho$
+in the Gindikin-Karpelevich formula for c-function of Harish-Chandra.
+Calculation is an adaptation of classical calculations of Gelfand and Naimark
+(1950) to the Heckman-Opdam hypergeometric functions in the case of root system
+of type $A_{n-1}$.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410094
+From: Karl Strobl <K.S.Strobl@damtp.cambridge.ac.uk>
+Date: Thu, 13 Oct 94 12:49:08 BST   (25kb)
+
+Title: Statistical Properties of Strings
+Authors: M. Hindmarsh and K. Strobl
+Comments: 20 pages, 8 figures (uuencoded) appended, DAMTP-94-56, SUSX-TP-94-72
+Journal-ref: Nucl.Phys. B437 (1995) 471-488
+\\
+  We investigate numerically the configurational statistics of strings. The
+algorithm models an ensemble of global $U(1)$ cosmic strings, or equivalently
+vortices in superfluid $^4$He. We use a new method which avoids the
+specification of boundary conditions on the lattice. We therefore do not have
+the artificial distinction between short and long string loops or a `second
+phase' in the string network statistics associated with strings winding around
+a toroidal lattice. Our lattice is also tetrahedral, which avoids ambiguities
+associated with the cubic lattices of previous work. We find that the
+percentage of infinite string is somewhat lower than on cubic lattices, 63\%
+instead of 80\%. We also investigate the Hagedorn transition, at which infinite
+strings percolate, controlling the string density by rendering one of the
+equilibrium states more probable. We measure the percolation threshold, the
+critical exponent associated with the divergence of a suitably defined
+susceptibility of the string loops, and that associated with the divergence of
+the correlation length.
+\\

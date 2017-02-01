@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404026
+From: Kenji Ikegami <ikegami@cuphd.nd.chiba-u.ac.jp>
+Date: Wed, 6 Apr 94 18:34:38 JST   (7kb)
+
+Title: Supersymmetry in Stochastic Quantization Method and Field-Dependent
+  Kernel
+Authors: Kenji Ikegami
+Comments: 11 pages, CHIBA-EP-70, plain TeX
+Journal-ref: Prog.Theor.Phys. 92 (1994) 205-212
+\\
+  We define a discretized Langevin equation in Stratonovich-{\it type}
+calculus. We show that a generating functional with a field-dependent kernel
+can be written in mid-point prescription only when we calculate in the
+calculus. Moreover we investigate whether supersymmetry of the stochastic
+action with field-dependent kernel exists or not.
+\\

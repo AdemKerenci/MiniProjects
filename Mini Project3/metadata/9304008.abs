@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304008
+From: poli@itp.ethz.ch (Nathan Poliatzky)
+Date: Mon, 5 Apr 93 00:03:06 +0200   (18kb)
+Date (revised): Wed, 5 May 93 08:55:35 +0200
+
+Title: Normalization of Scattering States, Scattering Phase Shifts and
+  Levinson's Theorem
+Authors: Nathan Poliatzky
+Comments: 20 pages, LaTeX, Preprint WIS-92/100/Dec-PH (an erroneous minus sign
+  in Eq. (101) removed)
+Journal-ref: Helv. Phys. Acta 66 (1993) 241-263
+\\
+  We show that the normalization integral for the Schr\"odinger and Dirac
+scattering wave functions contains, besides the usual delta-function, a term
+proportional to the derivative of the phase shift. This term is of zero measure
+with respect to the integration over momentum variables and can be discarded in
+most cases. Yet it carries the full information on phase shifts and can be used
+for computation and manipulation of quantities which depend on phase shifts. In
+this paper we prove Levinson's theorem in a most general way which assumes only
+the completeness of states. In the case of a Dirac particle we obtain a new
+result valid for positive and negative energies separately. We also make a
+generalization of known results, for the phase shifts in the asymptotic limit
+of high energies, to the case of singular potentials. As an application we
+consider certain equations, which arise in a generalized interaction picture of
+quantum electrodynamics. Using the above mentioned results for the phase shifts
+we prove that any solution of these equations, which has a finite number of
+bound states, has a total charge zero. Furthermore, we show that in these
+equations the coupling constant is not a free parameter, but rather should be
+treated as an eigenvalue and hence must have a definite numerical value.
+\\

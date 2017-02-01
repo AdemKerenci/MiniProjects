@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206007
+From: giorgio@lpthe.jussieu.fr
+Date: Tue, 2 Jun 92 12:11:46 +0200   (51kb)
+
+Title: Chern-Simons Theory as the Large Mass Limit of Topologically Massive
+  Yang-Mills Theory
+Authors: G. Giavarini, C.P. Martin, F. Ruiz Ruiz
+Comments: 64 pages without figures (10 figures), DAMTP 91-34, LPTHE 91-61,
+  NBI-HE 91-55, UGMS 91-23
+Journal-ref: Nucl.Phys. B381 (1992) 222-280
+\\
+  We study quantum Chern-Simons theory as the large mass limit of the limit
+$D\to 3$ of dimensionally regularized topologically massive Yang-Mills theory.
+This approach can also be interpreted as a BRS-invariant hybrid regularization
+of Chern-Simons theory, consisting of a higher-covariant derivative Yang-Mills
+term plus dimensional regularization. Working in the Landau gauge, we compute
+radiative corrections up to second order in perturbation theory and show that
+there is no two-loop correction to the one-loop shift $k\rightarrow k+
+c_{\scriptscriptstyle V},\,\,k$ being the bare Chern-Simons parameter. In
+passing we also prove by explicit computation that topologically massive
+Yang-Mills theory is UV finite.
+\\

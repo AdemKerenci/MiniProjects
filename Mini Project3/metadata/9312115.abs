@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312115
+From: devega@lpthe.jussieu.fr (Hector DE VEGA)
+Date: Tue, 14 Dec 93 15:16:32 +0100   (18kb)
+
+Title: Infinitely Many Strings in De Sitter Spacetime: Expanding and
+  Oscillating Elliptic Function Solutions
+Authors: H.J. de Vega, A.L. Larsen and N. S\'anchez
+Comments: 32 pages, Latex file, figures available from the authors under
+  request. LPTHE-PAR 93-56
+Journal-ref: Nucl.Phys. B427 (1994) 643-668
+\\
+  The exact general evolution of circular strings in $2+1$ dimensional de
+Sitter spacetime is described closely and completely in terms of elliptic
+functions. The evolution depends on a constant parameter $b$, related to the
+string energy, and falls into three classes depending on whether $b<1/4$
+(oscillatory motion), $b=1/4$ (degenerated, hyperbolic motion) or $b>1/4$
+(unbounded motion). The novel feature here is that one single world-sheet
+generically describes {\it infinitely many} (different and independent)
+strings. The world-sheet time $\tau$ is an infinite-valued function of the
+string physical time, each branch yields a different string. This has no
+analogue in flat spacetime. We compute the string energy $E$ as a function of
+the string proper size $S$, and analyze it for the expanding and oscillating
+strings. For expanding strings $(\dot{S}>0)$: $E\neq 0$ even at $S=0$, $E$
+decreases for small $S$ and increases $\propto\hspace*{-1mm}S$ for large $S$.
+For an oscillating string $(0\leq S\leq S_{max})$, the average energy $<E>$
+over one oscillation period is expressed as a function of $S_{max}$ as a
+complete elliptic integral of the third kind.
+\\

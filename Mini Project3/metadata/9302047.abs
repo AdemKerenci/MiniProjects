@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302047
+From: DESER@BINAH.CC.BRANDEIS.EDU
+Date: Fri, 12 Feb 1993 15:08 EDT   (10kb)
+
+Title: Geometric Classification of Conformal Anomalies in Arbitrary Dimensions
+Authors: S. Deser and A. Schwimmer
+Comments: Brandeis BRX--343, SISSA 14/93/EP
+Journal-ref: Phys.Lett. B309 (1993) 279-284
+\\
+  We give a complete geometric description of conformal anomalies in arbitrary,
+(necessarily even) dimension. They fall into two distinct classes: the first,
+based on Weyl invariants that vanish at integer dimensions, arises from finite
+-- and hence scale-free -- contributions to the effective gravitational action
+through a mechanism analogous to that of the (gauge field) chiral anomaly. Like
+the latter, it is unique and proportional to a topological term, the Euler
+density of the dimension, thereby preserving scale invariance. The
+contributions of the second class, requiring introduction of a scale through
+regularization, are correlated to all local conformal scalar polynomials
+involving powers of the Weyl tensor and its derivatives; their number increases
+rapidly with dimension. Explicit illustrations in dimensions 2, 4 and 6 are
+provided.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410164
+From: Ivan Kostov <kostov@amoco.saclay.cea.fr>
+Date: 21 Oct 94 16:19:32+0100   (13kb)
+Date (revised): 07 Nov 94 17:37:27+0100
+Date (revised): 14 Nov 94 18:44:59+0100
+
+Title: Field Theory of Open and Closed Strings with Discrete Target Space
+Authors: Ivan K. Kostov
+Comments: 15 pages, harvmac. no figures; some typos corrected and a reference
+  added
+Report-no: SPhT/94-097
+Journal-ref: Phys.Lett. B344 (1995) 135-142
+\\
+  We study a $U(N)$-invariant vector+matrix chain with the color structure of a
+lattice gauge theory with quarks and interpret it as a theory of open andclosed
+strings with target space $\Z$. The string field theory is constructed as a
+quasiclassical expansion for the Wilson loops and lines in this model. In a
+particular parametrization this is a theory of two scalar massless fields
+defined in the half-space $\{x\in \Z , \tau >0\} $. The extra dimension $\tau$
+is related to the longitudinal mode of the strings. The topology-changing
+string interactions are described by a local potential. The closed string
+interaction is nonzero only at boundary $\tau =0$ while the open string
+interaction falls exponentially with $\tau$.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405079
+From: Piotr.Podles@fuw.edu.pl
+Date: Thu, 12 May 94 14:26:42 +0200   (24kb)
+Date (revised): Fri, 3 Jun 94 13:11:46 +0200
+Date (revised): Sun, 21 Jan 96 04:31:14 +0100
+
+Title: On representation theory of quantum $SL_q(2)$ groups at roots of unity
+Authors: P. Kondratowicz and P. Podles
+Comments: 31 pages, Section 2.7 added and other minor changes
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Banach Center Publ. 40 (1997) 223-248
+\\
+  Irreducible representations of quantum groups $SL_q(2)$ (in Woronowicz'
+approach) were classified in J.Wang, B.Parshall, Memoirs AMS 439 in the~case of
+$q$ being an~odd root of unity. Here we find the~irreducible representations
+for all roots of unity (also of an~even degree), as well as describe
+"the~diagonal part" of tensor product of any two irreducible representations.
+An~example of not completely reducible representation is given. Non--existence
+of Haar functional is proved. The~corresponding representations of universal
+enveloping algebras of Jimbo and Lusztig are provided. We also recall the~case
+of general~$q$. Our computations are done in explicit way.
+\\

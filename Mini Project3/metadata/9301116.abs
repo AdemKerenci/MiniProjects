@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301116
+From: PASCAZIO@BARI.INFN.IT
+Date: Wed, 27 JAN 93 20:05 GMT   (25kb)
+
+Title: Macroscopic limit of a solvable dynamical model
+Authors: Hiromichi Nakazato and Saverio Pascazio
+Comments: 30 pages, report BA-TH/93-133
+\\
+  The interaction between an ultrarelativistic particle and a linear array made
+up of $N$ two-level systems (^^ ^^ AgBr" molecules) is studied by making use of
+a modified version of the Coleman-Hepp Hamiltonian. Energy-exchange processes
+between the particle and the molecules are properly taken into account, and the
+evolution of the total system is calculated exactly both when the array is
+initially in the ground state and in a thermal state. In the macroscopic limit
+($N \rightarrow \infty$), the system remains solvable and leads to interesting
+connections with the Jaynes-Cummings model, that describes the interaction of a
+particle with a maser. The visibility of the interference pattern produced by
+the two branch waves of the particle is computed, and the conditions under
+which the spin array in the $N \rightarrow \infty$ limit behaves as a ^^ ^^
+detector" are investigated. The behavior of the visibility yields good insights
+into the issue of quantum measurements: It is found that, in the
+thermodynamical limit, a superselection-rule space appears in the description
+of the (macroscopic) apparatus. In general, an initial thermal state of the ^^
+^^ detector" provokes a more substantial loss of quantum coherence than an
+initial ground state. It is argued that a system decoheres more as the
+temperature of the detector increases. The problem of ^^ ^^ imperfect
+measurements" is also shortly discussed.
+\\

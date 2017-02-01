@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410152
+From: dhoker@physics.ucla.edu (D'Hoker)
+Date: Thu, 20 Oct 94 14:04:26 PDT   (62kb)
+
+Title: The Box Graph In Superstring Theory
+Authors: E. D'Hoker and D. H. Phong
+Comments: Plain TeX, 67 pp. and 9 figures, Columbia/UCLA/94/TEP/39
+Journal-ref: Nucl. Phys. B440 (1995) 24
+\\
+  In theories of closed oriented superstrings, the one loop amplitude is given
+by a single diagram, with the topology of a torus. Its interpretation had
+remained obscure, because it was formally real, converged only for purely
+imaginary values of the Mandelstam variables, and had to account for the
+singularities of both the box graph and the one particle reducible graphs in
+field theories. We present in detail an analytic continuation method which
+resolves all these difficulties. It is based on a reduction to certain minimal
+amplitudes which can themselves be expressed in terms of double and single
+dispersion relations, with explicit spectral densities. The minimal amplitudes
+correspond formally to an infinite superposition of box graphs on $\phi ^3$
+like field theories, whose divergence is responsible for the poles in the
+string amplitudes. This paper is a considerable simplification and
+generalization of our earlier proposal published in Phys. Rev. Lett. 70 (1993)
+p 3692.
+\\

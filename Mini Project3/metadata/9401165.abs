@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401165
+From: Jean-Bernard Zuber <zuber@amoco.saclay.cea.fr>
+Date: 31 Jan 94 15:38:31+0100   (13kb)
+
+Title: Large Random Matrices: Eigenvalue Distribution
+Author: B. Eynard
+Comments: 18 pages
+Report-no: Saclay T93/145
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+\\
+  A recursive method is derived to calculate all eigenvalue correlation
+functions of a random hermitian matrix in the large size limit, and after
+smoothing of the short scale oscillations. The property that the two-point
+function is universal, is recovered and the three and four-point functions are
+given explicitly. One observes that higher order correlation functions are
+linear combinations of universal functions with coefficients depending on an
+increasing number of parameters of the matrix distribution.
+\\

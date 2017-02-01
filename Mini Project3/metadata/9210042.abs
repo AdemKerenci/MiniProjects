@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210042
+From: W Kim Baskerville <W.K.Baskerville@damtp.cambridge.ac.uk>
+Date: Thu, 8 Oct 92 14:56:40 BST   (22kb)
+
+Title: The Braided Heisenberg Group
+Authors: W.K.Baskerville and S.Majid
+Comments: 33 pages
+Journal-ref: J.Math.Phys. 34 (1993) 3588-3606
+\\
+  We compute the braided groups and braided matrices $B(R)$ for the solution
+$R$ of the Yang-Baxter equation associated to the quantum Heisenberg group. We
+also show that a particular extension of the quantum Heisenberg group is dual
+to the Heisenberg universal enveloping algebra $U_{q}(h)$, and use this result
+to derive an action of $U_{q}(h)$ on the braided groups. We then demonstrate
+the various covariance properties using the braided Heisenberg group as an
+explicit example. In addition, the braided Heisenberg group is found to be
+self-dual. Finally, we discuss a physical application to a system of n braided
+harmonic oscillators. An isomorphism is found between the n-fold braided and
+unbraided tensor products, and the usual `free' time evolution is shown to be
+equivalent to an action of a primitive generator of $U_{q}(h)$ on the braided
+tensor product.
+\\

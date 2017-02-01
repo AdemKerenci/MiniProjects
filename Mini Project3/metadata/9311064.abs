@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311064
+From: "KUMAR S. GUPTA" <GUPTA@URHEP.PAS.ROCHESTER.EDU>
+Date: Wed, 10 Nov 1993 16:28 EST   (23kb)
+
+Title: Yang-Mills Theory on a Cylinder Coupled to Point Particles
+Authors: K.S.Gupta, R.J.Henderson, S.G.Rajeev and O.T.Turgut
+Comments: 37 pages, UR-1327 ER-40685-777
+Journal-ref: J.Math.Phys. 35 (1994) 3845-3865
+\\
+  We study a model of quantum Yang-Mills theory with a finite number of gauge
+invariant degrees of freedom. The gauge field has only a finite number of
+degrees of freedom since we assume that space-time is a two dimensional
+cylinder. We couple the gauge field to matter, modeled by either one or two
+nonrelativistic point particles. These problems can be solved {\it without any
+gauge fixing}, by generalizing the canonical quantization methods of
+Ref.\[rajeev] to the case including matter. For this, we make use of the
+geometry of the space of connections, which has the structure of a Principal
+Fiber Bundle with an infinite dimensional fiber. We are able to reduce both
+problems to finite dimensional, exactly solvable, quantum mechanics problems.
+In the case of one particle, we find that the ground state energy will diverge
+in the limit of infinite radius of space, consistent with confinement. In the
+case of two particles, this does not happen if they can form a color singlet
+bound state (`meson').
+\\

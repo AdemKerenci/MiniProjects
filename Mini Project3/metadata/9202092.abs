@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202092
+From: phquevedo@cnedcu51.bitnet
+Date: Sat, 29 Feb 1992 14:55 N   (46kb)
+
+Title: Strings on Curved Spacetimes: Black Holes, Torsion, and Duality
+Authors: Paul Ginsparg and Fernando Quevedo
+Comments: 30 pages
+Journal-ref: Nucl.Phys. B385 (1992) 527-557
+\\
+  We present a general discussion of strings propagating on noncompact coset
+spaces $G/H$ in terms of gauged WZW models, emphasizing the role played by
+isometries in the existence of target space duality. Fixed points of the gauged
+transformations induce metric singularities and, in the case of abelian
+subgroups $H$, become horizons in a dual geometry. We also give a
+classification of models with a single timelike coordinate together with an
+explicit list for dimensions $D\leq 10$. We study in detail the class of models
+described by the cosets $SL(2,\IR)\otimes SO(1,1)^{D-2}/SO(1,1)$. For $D\geq 2$
+each coset represents two different spacetime geometries: (2D black
+hole)$\otimes \IR^{D-2}$ and (3D black string)$\otimes \IR^{D-3}$ with
+nonvanishing torsion. They are shown to be dual in such a way that the
+singularity of the former geometry (which is not due to a fixed point) is
+mapped to a regular surface (i.e.\ not even a horizon) in the latter . These
+cosets also lead to the conformal field theory description of known and new
+cosmological string models.
+\\

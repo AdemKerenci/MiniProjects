@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411058
+From: Caprasse <CAPRASSE@vm1.ulg.ac.be>
+Date: Wed, 09 Nov 94 10:38:25 +0100   (17kb)
+
+Title: Computing the BRST Operator Used in Quantization of Gauge Theories
+Authors: A. Burnel, H. Caprasse and A. Dresse
+Comments: 13 pages, plain tex with vanilla.sty included at the end of the paper
+Journal-ref: Int.J.Mod.Phys. C5 (1994) 1035-1047
+\\
+  It is shown that for a large class of non-holonomic quantum mechanical
+systems one can make the computation of BRST charge fully algorithmic. Two
+computer algebra programs written in the language of {\tt REDUCE} are
+described. They are able to realize the complex calculations needed to
+determine the charge for general nonlinear algebras. Some interesting specific
+solutions are discussed.
+\\

@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303066
+From: Pavel Etingof <etingof@math.harvard.edu>
+Date: Wed, 10 Mar 1993 09:50:26 -0500   (22kb)
+
+Title: Quantum Knizhnik-Zamolodchikov equations and holomorphic vector bundles
+Author: Pavel Etingof
+Comments: 23 pages, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  The paper introduces a new geometric interpretation of the quantum
+Knizhnik-Zamolodchikov equations introduced in 1991 by I.Frenkel and
+N.Reshetikhin. It turns out that these equations can be linked to certain
+holomorphic vector bundles on the N-th Cartesian power of an elliptic curve.
+These bundles are naturally constructed by a gluing procedure from a system of
+trigonometric quantum affine $R$-matrices. Meromorphic solutions of the quantum
+KZ equations are interpreted as sections of such a bundle. This interpretation
+is an analogue of the interpretation of solutions of the classical KZ equations
+as sections of a flat vector bundle. Matrix elements of intertwiners between
+representations of the quantum affine algebra correspond to regular
+(holomorphic) sections. The vector bundle obtained from the quantum KZ system
+is topologically nontrivial. Its topology can be completely described in terms
+of crystal bases, using the crystal limit ``q goes to 0''. In the case N=2,
+this bundle is is essentially a bundle on an elliptic curve which is shown to
+be semistable (for the case of quantum sl(2)) if the parameters take generic
+values. The proof makes use of the crystal limit ``q goes to 0''. Finally, we
+give a vector bundle interpretation of the generalized quantum KZ equations for
+arbitrary affine root systems defined recently by Cherednik.
+\\

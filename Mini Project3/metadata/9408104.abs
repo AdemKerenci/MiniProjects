@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408104
+From: aratyn@uic.edu
+Date: Thu, 18 Aug 1994 08:03:44 -0600   (21kb)
+
+Title: Affine Lie Algebraic Origin of Constrained KP Hierarchies
+Authors: H. Aratyn, J.F. Gomes and A.H. Zimerman
+Comments: 25 pgs, LaTeX, IFT-P/029/94 and UICHEP-TH/93-10
+Journal-ref: J.Math.Phys. 36 (1995) 3419-3442
+\\
+  We present an affine $sl (n+1)$ algebraic construction of the basic
+constrained KP hierarchy. This hierarchy is analyzed using two approaches,
+namely linear matrix eigenvalue problem on hermitian symmetric space and
+constrained KP Lax formulation and we show that these approaches are
+equivalent. The model is recognized to be the generalized non-linear
+Schr\"{o}dinger ($\GNLS$) hierarchy and it is used as a building block for a
+new class of constrained KP hierarchies. These constrained KP hierarchies are
+connected via similarity-B\"{a}cklund transformations and interpolate between
+$\GNLS$ and multi-boson KP-Toda hierarchies. Our construction uncovers origin
+of the Toda lattice structure behind the latter hierarchy.
+\\

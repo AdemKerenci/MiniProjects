@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209043
+From: TERRY GANNON <TERRY_GANNON@carleton.ca>
+Date: Sun, 13 Sep 92 16:58 EDT   (25kb)
+
+Title: WZW Commutants, Lattices, and Level 1 Partition Functions
+Authors: Terry Gannon
+Comments: 26 pages
+Journal-ref: Nucl. Phys. B396 (1993) 708
+\\
+  A natural first step in the classification of all `physical' modular
+invariant partition functions $\sum N_{LR}\,\c_L\,\C_R$ lies in understanding
+the commutant of the modular matrices $S$ and $T$. We begin this paper
+extending the work of Bauer and Itzykson on the commutant from the $SU(N)$ case
+they consider to the case where the underlying algebra is any semi-simple Lie
+algebra (and the levels are arbitrary). We then use this analysis to show that
+the partition functions associated with even self-dual lattices span the
+commutant. This proves that the lattice method due to Roberts and Terao, and
+Warner, will succeed in generating all partition functions. We then make some
+general remarks concerning certain properties of the coefficient matrices
+$N_{LR}$, and use those to explicitly find all level 1 partition functions
+corresponding to the algebras $B_n$, $C_n$, $D_n$, and the 5 exceptionals.
+Previously, only those associated to $A_n$ seemed to be generally known.
+\\

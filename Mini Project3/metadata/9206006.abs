@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206006
+From: sfetsos%phys2sun.usc.edu@usc.edu (Konstadinos Sfetsos)
+Date: Mon, 1 Jun 92 17:32:06 PDT   (26kb)
+
+Title: Conformally Exact Metric and Dilaton in String Theory on Curved
+  Spacetime
+Authors: I. Bars and K. Sfetsos
+Comments: USC-92/HEP-B2, 19 pages and 3 figures
+Journal-ref: Phys.Rev. D46 (1992) 4510-4519
+\\
+  Using a Hamiltonian approach to gauged WZW models, we present a general
+method for computing the conformally exact metric and dilaton, to all orders in
+the $1/k$ expansion, for any bosonic, heterotic, or type-II superstring model
+based on a coset $G/H$. We prove the following relations: (i) For type-II
+superstrings the conformally exact metric and dilaton are identical to those of
+the non-supersymmetric {\it semi-classical} bosonic model except for an overall
+renormalization of the metric obtained by $k\to k- g$. (ii) The exact
+expressions for the heterotic superstring are derived from their exact bosonic
+string counterparts by shifting the central extension $k\to 2k-h$ (but an
+overall factor $(k-g)$ remains unshifted). (iii) The combination
+$e^\Phi\sqrt{-G}$ is independent of $k$ and therefore can be computed in lowest
+order perturbation theory as required by the correct formulation of a
+conformally invariant path integral measure. The general formalism is applied
+to the coset models $SO(d-1,2)_{-k}/SO(d-1,1)_{-k}$ that are relevant for
+string theory on curved spacetime. Explicit expressions for the conformally
+exact metric and dilaton for the cases $d=2,3,4$ are given. In the
+semiclassical limit $(k\to \infty)$ our results agree with those obtained with
+the Lagrangian method up to 1-loop in perturbation theory.
+\\

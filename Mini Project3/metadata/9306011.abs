@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306011
+From: gt0109e@prism.gatech.edu (Frank Dodd Smith)
+Date: Wed, 2 Jun 1993 04:16:04 -0400 (EDT)   (13kb)
+
+Title: Sets and C^n; Quivers and A-D-E; Triality; Generalized Supersymmetry;
+  and D4-D5-E6
+Authors: F. D. T. Smith
+Comments: 1+22 pages, THEP-93-5, LaTex
+\\
+  The relation between Geisteswissenschaft and Naturwissenschaft has been
+discussed by Munster in hep-th/9305104. The plan of this paper is to begin with
+the empty set; use it to form sets and quivers (sets of points plus sets of
+arrows between pairs of points); and then use them to make complex vector
+spaces and to get the A-D-E Coxeter-Dynkin diagrams. The Dn Spin(2n) Lie
+algebras have spinor representations to describe fermions. D4 Spin(8) triality
+gives automorphisms among its vector and two half-spinor representations. D5
+Spin(10) contains both Spin(8) and the complexification of the vector
+representation of Spin(8). E6 contains both Spin(10) and the two half-spinor
+representations of Spin(10), and therefore contains the adjoint representation
+of Spin(8) and the complexifications of the vector and the two half-spinor
+representations of Spin(8). E6 is the basis for construction of a fundamental
+model of physics that is consistent with experiment (see hep-th/9302030,
+hep-ph/9301210).
+\\

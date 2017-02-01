@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411204
+From: Frank Antonuccio <antonucc@thphys.ox.ac.uk>
+Date: Mon, 28 Nov 1994 18:37:08 +0000 (GMT)   (17kb)
+
+Title: c>1 Non-Critical Strings and Large-N Matrix Field Theory
+Authors: F.Antonuccio and S.Dalley
+Comments: 9 pages LateX + 7 figures uuencoded
+Report-no: OUTP-9430P
+Journal-ref: Phys. Lett. B348 (1995) 55
+\\
+  Motivated by a possible relativistic string description of hadrons we use a
+discretised light-cone quantisation and Lanczos algorithm to investigate the
+phase structure of phi^3 matrix field theory in the large N limit. In 1+1
+dimensions we confirm the existence of Polyakov's non-critical string theory at
+the boundary between parton-like and string-like phases, finding critical
+exponents for longitudinal oscillations equal to or consistent with those given
+by a mean field argument. The excitation spectrum is finite, possibly discrete.
+We calculate light-cone structure functions and find evidence that the
+probability Q(x) of a parton in the string carrying longitudinal momentum
+fraction between x and x+dx has support on all 0<x<1, despite the average
+number of partons being infinite.
+\\

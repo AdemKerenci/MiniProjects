@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412002
+From: Hermann Nicolai <I02NIC@DSYIBM.DESY.DE>
+Date: THU, 1 DEC 94 14:11:14 +0100   (34kb)
+
+Title: Null Killing Vector Dimensional Reduction and Galilean Geometrodynamics
+Authors: B. Julia (ENS, Paris) and H. Nicolai (Hamburg University)
+Comments: LATEX, 41 pages, no figures
+Report-no: LPTENS 94/21 and DESY 94-156
+Journal-ref: Nucl.Phys. B439 (1995) 291-326
+\\
+  The solutions of Einstein's equations admitting one non-null Killing vector
+field are best studied with the projection formalism of Geroch. When the
+Killing vector is lightlike, the projection onto the orbit space still exists
+and one expects a covariant theory with degenerate contravariant metric to
+appear, its geometry is presented here. Despite the complications of
+indecomposable representations of the local Euclidean subgroup, one obtains an
+absolute time and a canonical, Galilean and so-called Newtonian, torsionless
+connection. The quasi-Maxwell field (Kaluza Klein one-form) that appears in the
+dimensional reduction is a non-separable part of this affine connection, in
+contrast to the reduction with a non-null Killing vector. One may define the
+Kaluza Klein scalar (dilaton) together with the absolute time coordinate after
+having imposed one of the equations of motion in order to prevent the emergence
+of torsion. We present a detailed analysis of the dimensional reduction using
+moving frames, we derive the complete equations of motion and propose an action
+whose variation gives rise to all but one of them. Hidden symmetries are shown
+to act on the space of solutions.
+\\

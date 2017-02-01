@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307103
+From: arnaudon@surya11.cern.ch (Daniel Arnaudon)
+Date: Thu, 15 Jul 93 18:36:30 +0200   (20kb)
+Date (revised): Fri, 11 Feb 94 14:37:10 +0100
+
+Title: Finite Chains with Quantum Affine Symmetries
+Authors: F. C. Alcaraz, D. Arnaudon, V. Rittenberg and M. Scheunert
+Comments: 31pp, Latex, CERN-TH.6935/93. To app. in Int. Jour. Mod. Phys. A.
+  (The title of the paper is changed. This is the ONLY change. Previous title
+  was: Hubbard-Like Models in the Infinite Repulsion Limit and
+  Finite-Dimensional Representations of the Affine Algebra U_q(\hat{sl(2)}). )
+Journal-ref: Int. Jour. Mod. Phys. A, Vol. 9 No. 19 (1994)
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+\\
+  We consider an extension of the (t-U) Hubbard model taking into account new
+interactions between the numbers of up and down electrons. We confine ourselves
+to a one-dimensional open chain with L sites (4^L states) and derive the
+effective Hamiltonian in the strong repulsion (large U) regime. This
+Hamiltonian acts on 3^L states. We show that the spectrum of the latter
+Hamiltonian (not the degeneracies) coincides with the spectrum of the
+anisotropic Heisenberg chain (XXZ model) in the presence of a Z field (2^L
+states). The wave functions of the 3^L-state system are obtained explicitly
+from those of the 2^L-state system, and the degeneracies can be understood in
+terms of irreducible representations of U_q(\hat{sl(2)}).
+\\

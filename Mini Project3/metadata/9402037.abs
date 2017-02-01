@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402037
+From: Shahn Majid <Shahn.Majid@damtp.cambridge.ac.uk>
+Date: Mon, 7 Feb 94 21:13:14 GMT   (63kb)
+Date (revised): Fri, 3 Jun 94 21:17:15 BST
+
+Title: Algebraic {$q$}-Integration and Fourier Theory on Quantum and Braided
+  Spaces
+Author: A. Kempf and Shahn Majid
+Comments: 50 pages. Minor changes, added 3 references
+Report-no: damtp/94-7
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 35 (1994) 6802-6837
+\\
+  We introduce an algebraic theory of integration on quantum planes and other
+braided spaces. In the one dimensional case we obtain a novel picture of the
+Jackson $q$-integral as indefinite integration on the braided group of
+functions in one variable $x$. Here $x$ is treated with braid statistics $q$
+rather than the usual bosonic or Grassmann ones. We show that the definite
+integral $\int x$ can also be evaluated algebraically as multiples of the
+integral of a $q$-Gaussian, with $x$ remaining as a bosonic scaling variable
+associated with the $q$-deformation. Further composing our algebraic
+integration with a representation then leads to ordinary numbers for the
+integral. We also use our integration to develop a full theory of $q$-Fourier
+transformation $F$. We use the braided addition $\Delta x=x\otimes 1+1\otimes
+x$ and braided-antipode $S$ to define a convolution product, and prove a
+convolution theorem. We prove also that $F^2=S$. We prove the analogous results
+on any braided group, including integration and Fourier transformation on
+quantum planes associated to general R-matrices, including $q$-Euclidean and
+$q$-Minkowski spaces.
+\\

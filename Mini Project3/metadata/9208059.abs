@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208059
+From: FIORENZO@vana.physto.se
+Date: Mon, 24 Aug 1992 15:50 +0200   (28kb)
+
+Title: Trace Anomalies from Quantum Mechanics
+Authors: Fiorenzo Bastianelli and Peter van Nieuwenhuizen
+Comments: 29 pages, harvmac macro, CERN-TH.6512/92, USITP-92-02
+Journal-ref: Nucl.Phys. B389 (1993) 53-80
+\\
+  The 1-loop anomalies of a d-dimensional quantum field theory can be computed
+by evaluating the trace of the regulated path integral jacobian matrix, as
+shown by Fujikawa. In 1983, Alvarez-Gaum\'e and Witten observed that one can
+simplify this evaluation by replacing the operators which appear in the
+regulator and in the jacobian by quantum mechanical operators with the same
+(anti)commutation relations. By rewriting this quantum mechanical trace as a
+path integral with periodic boundary conditions for a one-dimensional
+supersymmetric nonlinear sigma model, they obtained the chiral anomalies for
+spin 1/2 and 3/2 fields and selfdual antisymmetric tensors in d dimensions. In
+this article, we treat the case of trace anomalies for spin 0, 1/2 and 1 fields
+in a gravitational and Yang-Mills background. We do not introduce a
+supersymmetric sigma model, but keep the original Dirac matrices $\g^\m$ and
+internal symmetry generators $T^a$ in the path integral. As a result, we get a
+matrix-valued action. Gauge covariance of the path integral then requires a
+definition of the exponential of the action by time-ordering. We exponentiate
+the factors $\sqrt g$ in the path integral measure by using vector ghosts in
+order to exhibit the cancellation of the sigma model divergences more clearly.
+We compute the trace anomalies in d=2 and d=4.
+\\

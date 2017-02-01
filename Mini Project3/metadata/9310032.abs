@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310032
+From: HAGENSEN%EBUBECM1.BITNET@FRMOP11.CNUSC.FR
+Date: Wed, 06 Oct 93 15:47:59 BCN   (13kb)
+
+Title: Gradient Flows from an Approximation to the Exact Renormalization Group
+Authors: Peter E. Haagensen, Yuri Kubyshin, Jose I. Latorre and Enrique Moreno
+Comments: 10 pages, TeX, 3 postscript figures available upon request,
+  UB-ECM-PF-93/20
+Journal-ref: Phys. Lett. B323 (1994) 330-338
+\\
+  Through appropriate projections of an exact renormalization group equation,
+we study fixed points, critical exponents and nontrivial renormalization group
+flows in scalar field theories in $2<d<4$. The standard upper critical
+dimensions $d_k={2k\over k-1}$, $k=2,3,4,\ldots$ appear naturally encoded in
+our formalism, and for dimensions smaller but very close to $d_k$ our results
+match the $\ee$-expansion. Within the coupling constant subspace of mass and
+quartic couplings and for any $d$, we find a gradient flow with two fixed
+points determined by a positive-definite metric and a $c$-function which is
+monotonically decreasing along the flow.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406195
+From: itakura kazunori <itakura@hep1.c.u-tokyo.ac.jp>
+Date: Wed, 29 Jun 94 20:35:27 +0900   (21kb)
+
+Title: Quantum Hamiltonian Reduction of the Schwinger Model
+Authors: Kazunori Itakura and Koichi Ohta
+Comments: 23 pages, LaTeX file, UT-Komaba 94-5
+Journal-ref: Phys.Rev. D50 (1994) 4145-4156
+\\
+  We reexamine a unitary-transformation method of extracting a physical
+Hamiltonian from a gauge field theory after quantizing all degrees of freedom
+including redundant variables. We show that this {\it quantum Hamiltonian
+reduction} method suffers from crucial modifications arising from
+regularization of composite operators. We assess the effects of regularization
+in the simplest gauge field theory, the Schwinger model. Without
+regularization, the quantum reduction yields the identical Hamiltonian with the
+classically reduced one. On the other hand, with regularization incorporated,
+the resulting Hamiltonian of the quantum reduction disagrees with that of the
+classical reduction. However, we find that the discrepancy is resolved by
+redefinitions of fermion currents and that the results are again consistent
+with those of the classical reduction.
+\\

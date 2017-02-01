@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306163
+From: ogievetv@pib1.physik.uni-bonn.de
+Date: Wed, 30 Jun 1993 17:29:41 MEZ ( +0200)   (15kb)
+
+Title: The matreoshka of supersymmetric self-dual theories
+Authors: Ch. Devchand and V. Ogievetsky
+Comments: 19 pages, Bonn-HE-93-23
+Journal-ref: Nucl.Phys. B414 (1994) 763-782
+\\
+  Extended super self-dual systems have a structure reminiscent of a
+``matreoshka''. For instance, solutions for N=0 are embedded in solutions for
+N=1, which are in turn embedded in solutions for N=2, and so on. Consequences
+of this phenomenon are explored. In particular, we present an explicit
+construction of local solutions of the higher-N super self-duality equations
+starting from any N=0 self-dual solution. Our construction uses N=0 solution
+data to produce N=1 solution data, which in turn yields N=2 solution data, and
+so on; each stage introducing a dependence of the solution on sufficiently many
+additional arbitrary functions to yield the most general supersymmetric
+solution having the initial N=0 solution as the helicity +1 component. The
+problem of finding the general local solution of the $N>0$ super self-duality
+equations therefore reduces to finding the general solution of the usual (N=0)
+self-duality equations. Another consequence of the matreoshka phenomenon is the
+vanishing of many conserved currents, including the supercurrents, for super
+self-dual systems.
+\\

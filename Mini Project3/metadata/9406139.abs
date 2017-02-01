@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406139
+From: des@qcd.th.u-psud.fr (Desmond Johnston)
+Date: Tue, 21 Jun 94 16:59:10 GMT   (6kb)
+
+Title: A Remark on the Renormalization Group Equation for the Penner Model
+Authors: D. Johnston
+Comments: LaTeX, 5 pages, LPTHE-Orsay-94-59
+Journal-ref: Phys.Rev. D51 (1995) 2014-2017
+\\
+  It is possible to extract values for critical couplings and gamma_string in
+matrix models by deriving a renormalization group equation for the variation of
+the of the free energy as the size N of the matrices in the theory is varied.
+In this paper we derive a ``renormalization group equation'' for the Penner
+model by direct differentiation of the partition function and show that it
+reproduces the correct values of the critical coupling and gamma_string and is
+consistent with the logarithmic corrections present for g=0,1.
+\\

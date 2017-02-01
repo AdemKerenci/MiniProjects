@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310031
+From: h.jones@ic.ac.uk
+Date: Wed, 6 Oct 93 14:55:04 bst   (12kb)
+
+Title: Convergence of the Optimized Delta Expansion for the Connected Vacuum
+  Amplitude: Zero Dimensions
+Authors: C. M. Bender, A. Duncan and H. F. Jones
+Comments: 20 pages, LaTeX, Imperial/TP/92-93/55
+Journal-ref: Phys.Rev. D49 (1994) 4219-4225
+\\
+  Recent proofs of the convergence of the linear delta expansion in zero and in
+one dimensions have been limited to the analogue of the vacuum generating
+functional in field theory. In zero dimensions it was shown that with an
+appropriate, $N$-dependent, choice of an optimizing parameter $\l$, which is an
+important feature of the method, the sequence of approximants $Z_N$ tends to
+$Z$ with an error proportional to ${\rm e}^{-cN}$. In the present paper we
+establish the convergence of the linear delta expansion for the connected
+vacuum function $W=\ln Z$. We show that with the same choice of $\l$ the
+corresponding sequence $W_N$ tends to $W$ with an error proportional to ${\rm
+e}^{-c\sqrt N}$. The rate of convergence of the latter sequence is governed by
+the positions of the zeros of $Z_N$.
+\\

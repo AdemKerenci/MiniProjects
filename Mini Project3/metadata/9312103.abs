@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312103
+From: Pavel Etingof <etingof@math.harvard.edu>
+Date: Mon, 13 Dec 1993 12:03:04 -0500   (17kb)
+
+Title: Macdonald's polynomials and representations of quantum groups
+Author: Pavel Etingof and Alexander Kirillov Jr
+Comments: 20 pages, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  In this paper we present a formula for Macdonald's polynomials for the root
+system A(n-1) which arises from the representation theory of quantum sl(n).
+This formula expresses Macdonald's polynomials via (weighted) traces of
+intertwining operators between certain modules over quantum sl(n). We also
+describe the commutative system of Macdonald's difference operators using the
+generators of the center of the quantum universal enveloping algebra, and use
+this description to prove a trace formula for generic eigenfunctions of these
+operators. These functions are generalized q-hypergeometric functions which are
+related to solutions of the quantum Knizhnik-Zamolodchikov equations.
+\\

@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407047
+From: Pavel Etingof <etingof@math.harvard.edu>
+Date: Fri, 8 Jul 1994 20:30:33 -0400   (30kb)
+Date (revised): Sat, 9 Jul 1994 10:51:40 -0400
+Date (revised): Fri, 28 Oct 1994 10:31:58 -0400
+Date (revised): Mon, 31 Oct 1994 14:47:42 -0500
+
+Title: Spherical functions on affine Lie groups
+Author: Pavel Etingof, Igor Frenkel, and Alexander Kirillov Jr
+Comments: 30 pages. Minor misprints and errors in Def. 1.3, 2.2, formulas after
+  (2.8), and Lemma 3.9 were corrected
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We describe vector valued conjugacy equivariant functions on a group K in two
+cases -- K is a compact simple Lie group, and K is an affine Lie group.
+  We construct such functions as weighted traces of certain intertwining
+operators between representations of K. For a compact group $K$, Peter-Weyl
+theorem implies that all equivariant functions can be written as linear
+combinations of such traces. Next, we compute the radial parts of the Laplace
+operators of $K$ acting on conjugacy equivariant functions and obtain a comple-
+tely integrable quantum system with matrix coefficients, which in a special
+case coincides with the trigonometric Calogero-Sutherland-Moser multi-particle
+system. In the affine Lie group case, we prove that the space of equivariant
+functions having a fixed homogeneity degree with respect to the action of the
+center of the group is finite-dimensional and spanned by weighted traces of
+intertwining operators. This space coincides with the space of
+Wess-Zumino-Witten conformal blocks on an elliptic curve. We compute the radial
+part of the second order Laplace operator on the affine Lie group acting on
+equivariant functions, and find that it is a certain parabolic partial
+differential operator, which degenerates to the elliptic
+Calogero-Sutherland-Moser hamiltonian as the central charge tends to minus the
+dual Coxeter number (the critical level). Quantum integrals of this hamiltonian
+are obtained as radial part of the higher Sugawara operators which are central
+at the critical level.
+\\

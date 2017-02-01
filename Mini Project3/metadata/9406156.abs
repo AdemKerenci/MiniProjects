@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406156
+From: ANDREI JOHANSEN <AJOHANSEN@nbivax.nbi.dk>
+Date: Thu, 23 Jun 1994 16:35:05 +0200   (12kb)
+Date (revised): Mon, 18 Jul 1994 19:40:25 +0200
+
+Title: Realization of $W_{1+\infty}$ and Virasoro Algebras in Supersymmetric
+  Theories on Four Manifolds
+Authors: Andrei Johansen
+Comments: Latex, 13 pages, NBI-HE-94-35. Minor stylistic changes
+Journal-ref: Mod.Phys.Lett. A9 (1994) 2611-2622
+\\
+  We demonstrate that a supersymmetric theory twisted on a K\"ahler four
+manifold $M=\Sigma_1 \times \Sigma_2 ,$ where $\Sigma_{1,2}$ are 2D Riemann
+surfaces, possesses a "left-moving" conformal stress tensor on $\Sigma_1$
+($\Sigma_2$) in the BRST cohomology. The central charge of the Virasoro algebra
+has a purely geometric origin and is proportional to the Euler characteristic
+of the $\Sigma_2$ ($\Sigma_1$) surface. This structure is shown to be invariant
+under renormalization group. We also give a representation of the algebra
+$W_{1+\infty}$ in terms of a free chiral supermultiplet.
+\\

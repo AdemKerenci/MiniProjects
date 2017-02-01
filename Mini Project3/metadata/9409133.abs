@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409133
+From: el@main.phys.uconn.edu (Edwin Lombridas)
+Date: Thu, 22 Sep 94 16:31:27 EDT   (30kb)
+
+Title: Maxwell-Chern-Simons Theory in Covariant and Coulomb Gauges
+Authors: Kurt Haller and Edwin Lim-Lombridas (University of Connecticut)
+Comments: UCONN-94-6, REVTeX, 39 pages
+Journal-ref: Annals Phys. 246 (1996) 1-48; Erratum-ibid. 257 (1997) 205-206
+\\
+  We quantize Quantum Electrodynamics in $2+1$ dimensions coupled to a
+Chern-Simons (CS) term and a charged spinor field, in covariant gauges and in
+the Coulomb gauge. The resulting Maxwell-Chern-Simons (MCS) theory describes
+charged fermions interacting with each other and with topologically massive
+propagating photons. We impose Gauss's law and the gauge conditions and
+investigate their effect on the dynamics and on the statistics of $n$-particle
+states. We construct charged spinor states that obey Gauss's law and the gauge
+conditions, and transform the theory to representations in which these states
+constitute a Fock space. We demonstrate that, in these representations, the
+nonlocal interactions between charges and between charges and transverse
+currents, as well as the interactions between currents and massive propagating
+photons, are identical in the different gauges we analyze in this and in
+earlier work. We construct the generators of the Poincar\'e group, show that
+they implement the Poincar\'e algebra, and explicitly demonstrate the effect of
+rotations and Lorentz boosts on the particle states. We show that the
+imposition of Gauss's law does not produce any ``exotic'' fractional
+statistics. In the case of the covariant gauges, this demonstration makes use
+of unitary transformations that provide charged particles with the gauge fields
+required by Gauss's law, but that leave the anticommutator algebra of the
+spinor fields untransformed. In the Coulomb gauge, we show that the
+anticommutators of the spinor fields apply to the Dirac-Bergmann constraint
+surfaces, on which Gauss's law and the gauge conditions obtain. We examine MCS
+theory in the large CS coupling constant limit, and compare that limiting form
+with CS theory, in which the Maxwell kinetic energy term is not included in the
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211100
+From: drg@theory3.caltech.edu (Doron Gepner)
+Date: Mon, 23 Nov 92 15:19:10 PST   (64kb)
+Date (revised): Tue, 24 Nov 92 17:08:09 PST
+
+Title: Foundations of Rational Quantum Field Theory, I
+Authors: Doron Gepner (Caltech and the Weizmann Institute)
+Comments: 105 pages, 13 figures, phyzzx macropackage. (Restored deleted lines,
+  expurgated some typos.)
+\\
+  The connection between Rational Conformal Field Theory (RCFT), $N=2$ massive
+supersymmetric field theory, and solvable Interaction Round the Face (IRF)
+lattice models is explored here. Specifically, one identifies the fusion rings
+with the chiral rings. The theories so obtained are conjectured, and largely
+shown, to be integrable. A variety of examples and the structure of the metric
+in moduli space are given. The kink scattering theory is given by the Boltzmann
+weights of an IRF model, which is built entirely in terms of the conformal data
+of the original RCFT. This procedure produces all solvable IRF models in terms
+of projection operators of the RCFT. The soliton structure and their scattering
+amplitudes are described. A host of new rational conformal field theories are
+constructed generalizing most, if not all, of the known ones.
+\\

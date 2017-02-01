@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211135
+From: hamada@tkyvax.phys.s.u-tokyo.ac.jp (kenji hamada)
+Date: Mon, 30 Nov 92 19:26:52 +0900   (15kb)
+Date (revised): Mon, 21 Dec 92 21:12:27 +0900
+
+Title: Quantum Gravity and Black Hole Dynamics in 1+1 Dimensions
+Authors: K. Hamada and A. Tsuchiya
+Comments: phyztex, UT-Komaba 92-14. A few misleading sentences are corrected
+  and some references are added
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 4897-4914
+\\
+  We study the quantum theory of 1+1 dimensional dilaton gravity, which is an
+interesting toy model of the black hole dynamics. The functional measures are
+explicitly evaluated and the physical state conditions corresponding to the
+Hamiltonian and the momentum constraints are derived. It is pointed out that
+the constraints form the Virasoro algebra without central charge. In ADM
+formalism the measures are very ambiguous, but in our formalism they are
+explicitly defined. Then the new features which are not seen in ADM formalism
+come out. A singularity appears at $\df^2 =\kappa (>0) $, where $\kappa
+=(N-51/2)/12 $ and $ N$ is the number of matter fields. Behind the singularity
+the quantum mechanical region $\kappa > \df^2 >0 $ extends, where the sign of
+the kinetic term in the Hamiltonian constraint changes. If $\kappa <0 $, the
+singularity disappears. We discuss the quantum dynamics of black hole and then
+give a suggestion for the resolution of the information loss paradox. We also
+argue the quantization of the spherically symmetric gravitational system in 3+1
+dimensions. In appendix the differences between the other quantum dilaton
+gravities and ours are clarified and our status is stressed.
+\\

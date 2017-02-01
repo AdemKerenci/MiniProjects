@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404046
+From: senia@mpim-bonn.mpg.de (Simeon Vishik)
+Date: Thu, 7 Apr 1994 18:34:42 --100   (137kb)
+
+Title: Determinants of elliptic pseudo-differential operators
+Author: Maxim Kontsevich, Simeon Vishik
+Comments: 155 pages
+Report-no: MPI /94-30
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Determinants of invertible pseudo-differential operators (PDOs) close to
+positive self-adjoint ones are defined throughthe zeta-function regularization.
+We define a multiplicative anomaly as the ratio $\det(AB)/(\det(A)\det(B))$
+considered as a functionon pairs of elliptic PDOs. We obtained an explicit
+formula for the multiplicative anomaly in terms of symbols of operators. For a
+certain natural classof PDOs on odd-dimensional manifolds generalizing the
+class of ellipticdifferential operators, the multiplicative anomaly is
+identically $1$. For elliptic PDOs from this class a holomorphic determinant
+and a determinant for zero orders PDOs are introduced. Using various algebraic,
+analytic, and topological tools we study local and global properties of the
+multiplicative anomaly and of the determinant Lie group closely related with
+it. The Lie algebra for the determinant Lie group has a description in terms of
+symbols only. Our main discovery is that there is a {\em quadratic
+non-linearity} hidden in the definition of determinants of PDOs through
+zeta-functions. The natural explanation of this non-linearity follows from
+complex-analytic properties of a new trace functional TR on PDOs of non-integer
+orders. Using TR we easily reproduce known facts about noncommutative residues
+of PDOs and obtain several new results. In particular, we describe a structure
+of derivatives of zeta-functions at zero as of functions on logarithms of
+elliptic PDOs. We propose several definitions extending zeta-regularized
+determinants to general elliptic PDOs. For elliptic PDOs of nonzero complex
+orders we introduce a canonical determinant in its natural domain of
+definition.
+\\

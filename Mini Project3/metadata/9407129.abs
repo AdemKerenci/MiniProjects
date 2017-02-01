@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407129
+From: Charles Torre <TORRE@cc.usu.edu>
+Date: Wed, 20 Jul 1994 09:30:44 -0600 (MDT)   (25kb)
+
+Title: Natural Symmetries of the Yang-Mills Equations
+Authors: C. G. Torre
+Comments: 23 pages, plain TeX
+Journal-ref: J.Math.Phys. 36 (1995) 2113-2130
+\\
+  We define a natural generalized symmetry of the Yang-Mills equations as an
+infinitesimal transformation of the Yang-Mills field, built in a local, gauge
+invariant, and Poincar\'e invariant fashion from the Yang-Mills field strength
+and its derivatives to any order, which maps solutions of the field equations
+to other solutions. On the jet bundle of Yang-Mills connections we introduce a
+spinorial coordinate system that is adapted to the solution subspace defined by
+the Yang-Mills equations. In terms of this coordinate system the complete
+classification of natural symmetries is carried out in a straightforward
+manner. We find that all natural symmetries of the Yang-Mills equations stem
+from the gauge transformations admitted by the equations.
+\\

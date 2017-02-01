@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202006
+From: MAKEENKO@nbivax.nbi.dk
+Date: Mon, 3 Feb 1992 18:31 +0100   (11kb)
+
+Title: A Hint on the External Field Problem for Matrix Models
+Authors: L. Chekhov and Yu. Makeenko
+Comments: 12 pages
+Journal-ref: Phys.Lett. B278 (1992) 271-278
+\\
+  We reexamine the external field problem for $N\times N$ hermitian one-matrix
+models. We prove an equivalence of the models with the potentials
+$\tr{({1/over2N}X^2 + \log X - \Lambda X)}$ and $\sum_{k=1}^\infty t_k\tr{X^k}$
+providing the matrix $\Lambda$ is related to $\{t_k\}$ by $t_k=\fr 1k
+\tr{\Lambda^{-k}}-\frac N2 \delta_{k2}$. Based on this equivalence we formulate
+a method for calculating the partition function by solving the Schwinger--Dyson
+equations order by order of genus expansion. Explicit calculations of the
+partition function and of correlators of conformal operators with the puncture
+operator are presented in genus one. These results support the conjecture that
+our models are associated with the $c=1$ case in the same sense as the
+Kontsevich model describes $c=0$.
+\\

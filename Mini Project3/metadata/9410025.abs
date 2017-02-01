@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410025
+From: Vasily Tarasov <tarasov@theory.npi.msu.su>
+Date: Wed, 5 Oct 1994 15:29:00 -0400   (17kb)
+Date (revised): Wed, 7 Jun 1995 19:17:30 +0300
+
+Title: Dissipative Quantum Mechanics: The Generalization of the Canonical
+  Quantization and von Neumann Equation.
+Authors: Vasily E. Tarasov
+Comments: 23 pages, LaTex
+Report-no: IC-94-192
+\\
+  The dissipative models in string theory can have more broad range of
+application: 1) Noncritical strings are dissipative systems in the "coupling
+constant" phase space. 2) Bosonic string in the affine-metric curved space is
+dissipative system.
+    But the quantum descriptions of the dissipative systems have well known
+ambiguities. In order to solve the problems of the quantum description of
+dissipative systems we suggest to introduce an operator W in addition to usual
+(associative) operators. The suggested operator algebra does not violate
+Heisenberg algebra because we extend the canonical commutation relations by
+introducing an operator W of the nonholonomic quantities in addition to the
+usual (associative) operators of usual (holonomic) coordinate -momentum
+functions. To satisfy the generalized commutation relations the operator W must
+be nonassociative nonLieble (does not satisfied the Jacobi identity) operator.
+As the result of these properties the total time derivative of the
+multiplication and commutator of the operators does not satisfies the Leibnitz
+rule. This lead to compatibility of quantum equations of motion for dissipative
+systems and canonical commutation relations. The suggested generalization of
+the von Neumann equation is connected with classical Liouville equation for
+dissipative systems.
+\\

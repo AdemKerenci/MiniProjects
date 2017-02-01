@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310056
+From: UMEKI Makoto <umeki@tkyux.phys.s.u-tokyo.ac.jp>
+Date: Mon, 11 Oct 93 18:22:35 +0900   (50kb)
+Date (revised): Tue, 12 Oct 93 17:17:24 +0900
+
+Title: Predictions on Two-dimensional Turbulence by Conformal Field Theory
+Authors: H. Cateau, Y. Matsuo and M. Umeki
+Comments: 30 pages + 15 figures, UT-652 replaced since the incorrect use of tex
+  command
+\\
+  A generalized theory of two-dimensional isotropic turbulence is developed
+based on conformal symmetry. A number of minimal models of conformal turbulence
+are solved under an extended constraint including both the enstrophy cascade by
+Kraichnan and the discontinuity of vorticity by Saffman. There are an infinite
+number of solutions which fall into two different categories. An explicit
+relation is derived in one of the categories between the central charge of
+Virasoro algebra, the lowest anomalous dimension and the power of the energy
+spectrum. Some statistical properties such as energy spectrum, skewness,
+flatness and Casimir invariants are predicted and compared with numerical
+simulation by the pseudospectral method.
+\\

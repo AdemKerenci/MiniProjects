@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302035
+From: gervais@physique.ens.fr (GERVAIS Jean-Loup)
+Date: Tue, 9 Feb 93 18:05:11 +0100   (81kb)
+Date (revised): Wed, 10 Feb 93 10:39:00 +0100
+Date (revised): Thu, 11 Feb 93 10:03:50 +0100
+
+Title: The Quantum Group Structure of 2D Gravity and Minimal Models II: The
+  Genus-Zero Chiral Bootstrap
+Authors: E. Cremmer, Jean-Loup Gervais, J.-F. Roussel
+Comments: 56 pages, 22 figures. Technical problem only, due to the use of an
+  old version of uuencode that produces blank characters some times suppressed
+  by the mailer. Same content. 
+Report-no: LPTENS-93/02
+Journal-ref: Commun.Math.Phys. 161 (1994) 597-630
+\\
+  The F and B matrices associated with Virasoro null vectors are derived in
+closed form by making use of the operator-approach suggested by the Liouville
+theory, where the quantum-group symmetry is explicit.  It is found that the
+entries of the fusing and braiding matrices are not simply equal to
+quantum-group symbols, but involve additional coupling constants whose
+derivation is one aim of the present work. Our explicit formulae are new, to
+our knowledge, in spite of the numerous studies of this problem.  The
+relationship between the quantum-group-invariant (of IRF type) and
+quantum-group-covariant (of vertex type) chiral operator-algebras is fully
+clarified, and connected with the transition to the shadow world for
+quantum-group symbols. The corresponding 3-j-symbol dressing is shown to reduce
+to the simpler transformation of Babelon and one of the author (J.-L. G.)  in a
+suitable infinite limit defined by analytic continuation.  The above two types
+of operators are found to coincide when applied to states with Liouville
+momenta going to $\infty$ in a suitable way.  The introduction of
+quantum-group-covariant operators in the three dimensional picture gives a
+generalisation of the quantum-group version of discrete three-dimensional
+gravity that includes tetrahedra associated with 3-j symbols and universal
+R-matrix elements. Altogether the present work gives the concrete realization
+of Moore and Seiberg's scheme that describes the chiral operator-algebra of
+two-dimensional gravity and minimal models.
+\\

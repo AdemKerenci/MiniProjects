@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211003
+From: bongo%FRIHES61.BITNET@pucc.Princeton.EDU
+Date: Mon, 2 Nov 92 10:59:15 +0100   (32kb)
+
+Title: Chern-Simons States at Genus One
+Authors: Fernando Falceto and Krzysztof Gawedzki
+Comments: 33 pages, IHES/P/
+Journal-ref: Commun. Math. Phys. 159 (1994) 549-580
+\\
+  We present a rigorous analysis of the Schr\"{o}dinger picture quantization
+for the $SU(2)$ Chern-Simons theory on 3-manifold torus$\times$line, with
+insertions of Wilson lines. The quantum states, defined as gauge covariant
+holomorphic functionals of smooth $su(2)$-connections on the torus, are
+expressed by degree $2k$ theta-functions satisfying additional conditions. The
+conditions are obtained by splitting the space of semistable
+$su(2)$-connections into nine submanifolds and by analyzing the behavior of
+states at four codimension $1$ strata. We construct the
+Knizhnik-Zamolodchikov-Bernard connection allowing to compare the states for
+different complex structures of the torus and different positions of the Wilson
+lines. By letting two Wilson lines come together, we prove a recursion relation
+for the dimensions of the spaces of states which, together with the (unproven)
+absence of states for spins$\s>{_1\over^2}$level implies the Verlinde dimension
+formula.
+\\

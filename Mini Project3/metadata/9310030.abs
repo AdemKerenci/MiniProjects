@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310030
+From: arnaudon@surya11.cern.ch (Daniel Arnaudon)
+Date: Wed, 6 Oct 93 13:32:28 +0100   (7kb)
+
+Title: Polynomial Relations in the Centre of U_q(sl(N))
+Authors: Daniel Arnaudon and Michel Bauer
+Comments: 8 pages, minor TeXnical revision to allow automatic TeXing
+Report-no: CERN-TH.7025/93, ENSLAPP-A-437/93
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Letters in Math. Physics 30 (1994) 251
+\\
+  When the parameter of deformation q is a m-th root of unity, the centre of
+U_q(sl(N))$ contains, besides the usual q-deformed Casimirs, a set of new
+generators, which are basically the m-th powers of all the Cartan generators of
+U_q(sl(N)). All these central elements are however not independent. In this
+letter, generalising the well-known case of U_q(sl(2)), we explicitly write
+polynomial relations satisfied by the generators of the centre. Application to
+the parametrization of irreducible representations and to fusion rules are
+sketched.
+\\

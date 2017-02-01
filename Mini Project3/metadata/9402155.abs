@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402155
+From: eli@zeta.ecm.ub.es
+Date: Mon, 28 Feb 1994 18:33:59 +0100   (12kb)
+Date (revised): Tue, 8 Mar 1994 15:51:04 +0100
+
+Title: An Extension of the Chowla-Selberg Formula Useful in Quantizing with the
+  Wheeler-De Witt Equation
+Authors: E. Elizalde
+Comments: 14 pages (small typo errors corrected and 2page improvement of
+  physical applications), LaTeX file, UB-ECM-PF 94/7
+Journal-ref: J.Phys. A27 (1994) 3775-3786
+\\
+  The two-dimensional inhomogeneous zeta-function series (with homogeneous part
+of the most general Epstein type): \[ \sum_{m,n \in \mbox{\bf Z}}
+(am^2+bmn+cn^2+q)^{-s}, \] is analytically continued in the variable $s$ by
+using zeta-function techniques. A simple formula is obtained, which extends the
+Chowla-Selberg formula to inhomogeneous Epstein zeta-functions. The new
+expression is then applied to solve the problem of computing the determinant of
+the basic differential operator that appears in an attempt at quantizing
+gravity by using the Wheeler-De Witt equation in 2+1 dimensional spacetime with
+the torus topology.
+\\

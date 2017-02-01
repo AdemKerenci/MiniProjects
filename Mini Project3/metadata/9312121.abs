@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312121
+From: leclair@lnssun1.TN.CORNELL.EDU (Andre LeClair)
+Date: Tue, 14 Dec 1993 12:09:58 -0500   (18kb)
+
+Title: Particle-Field Duality and Form Factors from Vertex Operators
+Authors: Costas Efthimiou and Andre LeClair
+Comments: 17 pages, 2 figures, CLNS 93/???
+Journal-ref: Commun.Math.Phys. 171 (1995) 531-546
+\\
+  Using a duality between the space of particles and the space of fields, we
+show how one can compute form factors directly in the space of fields. This
+introduces the notion of vertex operators, and form factors are vacuum
+expectation values of such vertex operators in the space of fields. The vertex
+operators can be constructed explicitly in radial quantization. Furthermore,
+these vertex operators can be exactly bosonized in momentum space. We develop
+these ideas by studying the free-fermion point of the sine-Gordon theory, and
+use this scheme to compute some form-factors of some non-free fields in the
+sine-Gordon theory. This work further clarifies earlier work of one of the
+authors, and extends it to include the periodic sector.
+\\

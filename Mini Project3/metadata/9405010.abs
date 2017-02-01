@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405010
+From: widom@cats.ucsc.edu (Harold Widom)
+Date: Mon, 2 May 1994 11:02:39 -0700   (18kb)
+
+Title: Asymptotics for the Fredholm Determinant of the Sine Kernel on a Union
+  of Intervals
+Author: Harold Widom
+Comments: 24 pages
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems; Classical Analysis and ODEs
+Journal-ref: Commun.Math.Phys. 171 (1995) 159-180
+\\
+  In the bulk scaling limit of the Gaussian Unitary Ensemble of Hermitian
+matrices the probability that an interval of length $s$ contains no eigenvalues
+is the Fredholm determinant of the sine kernel $\sin(x-y)\over\pi(x-y)$ over
+this interval. A formal asymptotic expansion for the determinant as $s$ tends
+to infinity was obtained by Dyson. In this paper we replace a single interval
+of length $s$ by $sJ$ where $J$ is a union of $m$ intervals and present a proof
+of the asymptotics up to second order. The logarithmic derivative with respect
+to $s$ of the determinant equals a constant (expressible in terms of
+hyperelliptic integrals) times $s$, plus a bounded oscillatory function of $s$
+(zero of $m=1$, periodic if $m=2$, and in general expressible in terms of the
+solution of a Jacobi inversion problem), plus $o(1)$. Also determined are the
+asymptotics of the trace of the resolvent operator, which is the ratio in the
+same model of the probability that the set contains exactly one eigenvalue to
+the probability that it contains none. The proofs use ideas from orthogonal
+polynomial theory.
+\\

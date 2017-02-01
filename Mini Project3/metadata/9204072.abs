@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9204072
+From: William Nelson <wnelson@sbphy.physics.ucsb.edu>
+Date: Wed, 22 Apr 92 16:57:02 -0700   (47kb)
+Date (revised): Fri, 24 Apr 92 16:29:08 -0700
+
+Title: Quantum Emission from Two-Dimensional Black Holes
+Authors: S.B. Giddings and W.M. Nelson
+Comments: 27 pages + 4 figures ***NOTE: PREVIOUS VERSION WAS INADVERTENT
+  SUBMISSION OF OLD DRAFT OF PAPER PLEASE DISREGARD. THE AUTHORS SINCERELY
+  APOLOGIZE FOR ANY INCONVENIENCE***
+Journal-ref: Phys.Rev. D46 (1992) 2486-2496
+\\
+  We investigate Hawking radiation from two-dimensional dilatonic black holes
+using standard quantization techniques. In the background of a collapsing black
+hole solution the Bogoliubov coefficients can be exactly determined. In the
+regime after the black hole has settled down to an `equilibrium' state but
+before the backreaction becomes important these give the known result of a
+thermal distribution of Hawking radiation at temperature ${\lambda\over2\pi}$.
+The density matrix is computed in this regime and shown to be purely thermal.
+Similar techniques can be used to derive the stress tensor. The resulting
+expression agrees with the derivation based on the conformal anomaly and can be
+used to incorporate the backreaction. Corrections to the thermal density matrix
+are also examined, and it is argued that to leading order in perturbation
+theory the effect of the backreaction is to modify the Bogoliubov
+transformation, but not in a way that restores information lost to the black
+holes.
+\\

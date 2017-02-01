@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210101
+From: hamada@tkyvax.phys.s.u-tokyo.ac.jp
+Date: Mon, 19 Oct 92 19:26:41 +0900   (10kb)
+
+Title: Gravitational Collapse in 1+1 Dimensions and Quantum Gravity
+Authors: K. Hamada
+Comments: 14 pages. phyztex. UT-Komaba 92-9
+\\
+  We investigate the quantum theory of 1+1 dimensional dilaton gravity, which
+is an interesting toy model of the black hole dynamics. The functional measures
+of gravity part are explicitly evaluated and derive the Wheeler-DeWitt like
+equations as physical state conditions. In ADM formalism the measures are very
+ambiguous, but in our formalism they are explicitly defined. Then the new
+features which are not seen in ADM formalism come out. A singularity appears at
+$\df^2 =\kappa (>0) $, where $\kappa =(N-51/2)/12 $ and $ N$ is the number of
+matter fields. At the final stage of the black hole evaporation, the Liouville
+term becomes important, which just comes from the measures of the fields.
+Behind the singularity the quantum mechanical region $\kappa > \df^2 >0 $
+extends, where the sign of the kinetic term in the Wheeler-DeWitt like equation
+changes. If $\kappa <0 $, the singularity disappears. We briefly discuss the
+possibility of gravitational tunneling and the issue of the information loss.
+  (Talk given at "YITP Workshop on Theories of Quantum Fields -Beyond
+Perturbation-", Kyoto, Japan, 14-17 July 1992.
+  Some misleading arguments in the preprint UT-Komaba 92-7 entitled "Quamtum
+Theory of Dilaton Gravity in 1+1 Dimensions" are corrected. The several remarks
+on the quantization are included. The difference from the other quantum theory
+is clarified.
+\\

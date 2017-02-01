@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411112
+From: Rinat Kedem <rinat@kurims.kyoto-u.ac.jp>
+Date: Wed, 16 Nov 1994 19:12:49 +0900 (JST)   (39kb)
+Date (revised): Thu, 17 Nov 1994 11:07:27 +0900 (JST)
+Date (revised): Thu, 1 Dec 1994 12:38:06 +0900 (JST)
+
+Title: XXZ chain with a boundary
+Authors: M. Jimbo, R. Kedem, T. Kojima, H. Konno and T. Miwa
+Comments: LaTeX 38 pages, 3 figures; epsf, epic, eepic. (Minor changes in text,
+  and references added)
+Journal-ref: Nucl.Phys. B441 (1995) 437-470
+\\
+  The $\XXZ$ spin chain with a boundary magnetic field $h$ is considered, using
+the vertex operator approach to diagonalize the Hamiltonian. We find explicit
+bosonic formulas for the two vacuum vectors with zero particle content. There
+are three distinct regions when $h\geq0$, in which the structure of the vacuum
+states is different. Excited states are given by the action of vertex operators
+on the vacuum states. We derive the boundary $S$-matrix and present an integral
+formula for the correlation functions. The boundary magnetization exhibits
+boundary hysteresis. We also discuss the rational limit, the $\XXX$ model.
+\\

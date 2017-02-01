@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406048
+From: milton@phyast.nhn.uoknor.edu (Kim Milton)
+Date: Wed, 8 Jun 1994 15:47:29 +0600   (17kb)
+
+Title: Casimir effect for a $D$-dimensional sphere
+Authors: Carl M. Bender and Kimball A. Milton
+Comments: 22 pages, REVTeX, 4 uuencoded figures, OKHEP-94-05
+Journal-ref: Phys.Rev. D50 (1994) 6547-6555
+\\
+  The Casimir force on a $D$-dimensional sphere due to the confinement of a
+massless scalar field is computed as a function of $D$, where $D$ is a
+continuous variable that ranges from $-\infty$ to $\infty$. The dependence of
+the force on the dimension is obtained using a simple and straightforward
+Green's function technique. We find that the Casimir force vanishes as $D\to
++\infty$ ($D$ non-even integer) and also vanishes when $D$ is a negative even
+integer. The force has simple poles at positive even integer values of $D$.
+\\

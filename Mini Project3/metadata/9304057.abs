@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304057
+From: ocouss@ulb.ac.be (Coussaert Olivier)
+Date: Wed, 14 Apr 93 15:48:51 MET   (11kb)
+
+Title: Consistent couplings between fields with a gauge freedom and
+  deformations of the master equation
+Authors: G. Barnich and M. Henneaux
+Comments: 14 pages LaTeX file, ULB-PMIF-93/01
+Journal-ref: Phys.Lett. B311 (1993) 123-129
+\\
+  The antibracket in BRST theory is known to define a map $\rm{H^p \times H^q
+\longrightarrow H^{p+q+1}}$ associating with two equivalence classes of BRST
+invariant observables of respective ghost number p and q an equivalence class
+of BRST invariant observables of ghost number p+q+1. It is shown that this map
+is trivial in the space of all functionals, i.e., that its image contains only
+the zeroth class. However it is generically non trivial in the space of local
+functionals. Implications of this result for the problem of consistent
+interactions among fields with a gauge freedom are then drawn. It is shown that
+the obstructions to constructing such interactions lie precisely in the image
+of the antibracket map and are accordingly inexistent if one does not insist on
+locality. However consistent local interactions are severely constrained. The
+example of the Chern-Simons theory is considered. It is proved that the only
+consistent, local, Lorentz covariant interactions for the abelian models are
+exhausted by the non-abelian Chern-Simons extensions.
+\\

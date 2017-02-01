@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411171
+From: Nicholas Landsman <N.P.Landsman@damtp.cambridge.ac.uk>
+Date: Wed, 23 Nov 1994 17:34:24 +0000 (GMT)   (39kb)
+
+Title: The infinite unitary group, Howe dual pairs, and the quantization of
+  constrained systems
+Author: N.P. Landsman
+Comments: LaTeX, 43 pages
+\\
+  The irreducible unitary representations of the Banach Lie group $U_0(\H)$
+(which is the norm-closure of the inductive limit $\cup_k U(k)$) of unitary
+operators on a separable Hilbert space $\H$, which were found by Kirillov and
+Ol'shanskii, are reconstructed from quantization theory. Firstly, the coadjoint
+orbits of this group are realized as Marsden-Weinstein symplectic quotients in
+the setting of dual pairs. Secondly, these quotients are quantized on the basis
+of the author's earlier proposal to quantize a more general symplectic
+reduction procedure by means of Rieffel induction (a technique in the theory of
+operator algebras). As a warmup, the simplest such orbit, the projective
+Hilbert space, is first quantized using geometric quantization, and then again
+with Rieffel induction. Reduction and induction have to be performed with
+either $U(M)$ or $U(M,N)$. The former case is straightforward, unless the
+half-form correction to the (geometric) quantization of the unconstrained
+system is applied. The latter case, in which one induces from holomorphic
+discrete series representations, is problematic. For finite-dimensional
+$\H=\C^k$, the desired result is only obtained if one ignores half-forms, and
+induces from a representation, `half' of whose highest weight is shifted by $k$
+(relative to the naive orbit correspondence). This presumably poses a problem
+for any theory of quantizing constrained systems.
+\\

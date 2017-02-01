@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311108
+From: "Heinzl Thomas" <HEINZL@rphnw2.ngate.uni-regensburg.de>
+Date: Thu, 18 Nov 1993 18:34:30 MET-1   (27kb)
+
+Title: Light-Front Quantisation as an Initial-Boundary Value Problem
+Authors: T.Heinzl and E. Werner
+Comments: 26 pages (including figure), tex, figure in latex, TPR 93-3
+Journal-ref: Z.Phys. C62 (1994) 521-532
+\\
+  In the light front quantisation scheme initial conditions are usually
+provided on a single lightlike hyperplane. This, however, is insufficient to
+yield a unique solution of the field equations. We investigate under which
+additional conditions the problem of solving the field equations becomes well
+posed. The consequences for quantisation are studied within a Hamiltonian
+formulation by using the method of Faddeev and Jackiw for dealing with
+first-order Lagrangians. For the prototype field theory of massive scalar
+fields in 1+1 dimensions, we find that initial conditions for fixed light cone
+time {\sl and} boundary conditions in the spatial variable are sufficient to
+yield a consistent commutator algebra. Data on a second lightlike hyperplane
+are not necessary. Hamiltonian and Euler-Lagrange equations of motion become
+equivalent; the description of the dynamics remains canonical and simple. In
+this way we justify the approach of discretised light cone quantisation.
+\\

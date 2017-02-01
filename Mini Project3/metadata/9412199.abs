@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412199
+From: "Kareljan Schoutens" <schouten@puhep1.Princeton.EDU>
+Date: Thu, 22 Dec 94 21:52:37 -0500   (18kb)
+
+Title: Affine and Yangian Symmetries in $SU(2)_1$ Conformal Field Theory
+Authors: Peter Bouwknegt, Andreas W.W. Ludwig and Kareljan Schoutens
+Comments: 26 pages, LaTeX
+Report-no: USC-94/21, UCSB-TH-94, PUPT-1523
+\\
+  In these lectures, we study and compare two different formulations of
+$SU(2)$, level $k=1$, Wess-Zumino-Witten conformal field theory. The first,
+conventional, formulation employs the affine symmetry of the model; in this
+approach correlation functions are derived from the so-called
+Knizhnik-Zamolodchikov equations. The second formulation is based on an
+entirely different algebraic structure, the so-called Yangian $Y(sl_2)$. In
+this approach, the Hilbert space of the theory is obtained by repeated
+application of modes of the so-called spinon field, which has $SU(2)$ spin
+$j=\thalf$ and obeys fractional (semionic) statistics. We show how this new
+formulation, which can be generalized to many other rational conformal field
+theories, can be used to compute correlation functions and to obtain new
+expressions for the Virasoro and affine characters in the theory. [Lectures
+given at the 1994 Trieste Summer School on High Energy Physics and Cosmology,
+Trieste, July 1994.]
+\\

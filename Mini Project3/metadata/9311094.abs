@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311094
+From: emmrich@math.berkeley.edu (Claudio Emmrich)
+Date: Tue, 16 Nov 93 23:45:00 PST   (42kb)
+Date (revised): Thu, 18 Nov 93 17:50:27 PST
+
+Title: The differential geometry of Fedosov's quantization
+Author: Claudio Emmrich, Alan Weinstein
+Comments: 20 pages
+Subj-class: High Energy Physics - Theory; Differential Geometry; Quantum
+  Algebra
+\\
+  B. Fedosov has given a simple and very natural construction of a deformation
+quantization for any symplectic manifold, using a flat connection on the bundle
+of formal Weyl algebras associated to the tangent bundle of a symplectic
+manifold. The connection is obtained by affinizing, nonlinearizing, and
+iteratively flattening a given torsion free symplectic connection. In this
+paper, a classical analog of Fedosov's operations on connections is analyzed
+and shown to produce the usual exponential mapping of a linear connection on an
+ordinary manifold. A symplectic version is also analyzed. Finally, some remarks
+are made on the implications for deformation quantization of Fedosov's index
+theorem on general symplectic manifolds.
+\\

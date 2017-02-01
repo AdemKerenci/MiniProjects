@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405130
+From: Kenji HAMADA <hamada@yisun1.yukawa.kyoto-u.ac.jp>
+Date: Fri, 20 May 1994 16:03:47 +0900   (17kb)
+
+Title: Non-linear Structures in Non-critical NSR String
+Authors: Ken-ji Hamada and Hiroshi Ishikawa
+Comments: 22 pages, Latex file, YITP/U-94-16, UT-Komaba/94-12
+Journal-ref: Commun.Math.Phys. 176 (1996) 401-420
+\\
+  We investigate the Ward identities of the $\W_{\infty}$ symmetry in the
+super-Liouville theory coupled to the super-conformal matter of central charge
+${\hat c}_M = 1-2(p-q)^2 /pq$. The theory is classified into two chiralities.
+For the positive chirality, all gravitationally dressed scaling operators are
+generated from the $q-1$ gravitational primaries by acting one of the ring
+generators in the R-sector on them repeatedly. After fixing the normalizations
+of the dressed scaling operators, we find that the Ward identities are
+expressed in the form of the {\it usual} $\W_q$ algebra constraints as in the
+bosonic case: $\W^{(k+1)}_n \tau =0$, $(k=1,\cdots,q-1 ;~ n \in {\bf Z}_{\geq
+1-k})$, where the equations for even and odd $n$ come from the currents in the
+NS- and the R-sector respectively. The non-linear terms come from the anomalous
+contributions at the boundaries of moduli space. The negative chirality is
+defined by interchanging the roles of $p$ and $q$. Then we get the $\W_p $
+algebra constraints.
+\\

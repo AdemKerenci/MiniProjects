@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205074
+From: t32@nikhef.nl (Jan Willem v. Holten)
+Date: Wed, 20 May 92 14:54:28 +0200   (14kb)
+
+Title: Symmetries and Motions in Manifolds
+Author: J. W. van Holten and R. H. Rietdijk
+Comments: 19 pages. Lectures at 28th Winter School of Theoretical Physics,
+  Karpacz (Poland, 1992) by J.W. van Holten
+Subj-class: High Energy Physics - Theory; Mathematical Physics
+Journal-ref: J.Geom.Phys. 11 (1993) 559
+\\
+  In these lectures the relations between symmetries, Lie algebras, Killing
+vectors and Noether's theorem are reviewed. A generalisation of the basic ideas
+to include velocity-dependend co-ordinate transformations naturally leads to
+the concept of Killing tensors. Via their Poisson brackets these tensors
+generate an {\em a priori} infinite-dimensional Lie algebra. The nature of such
+infinite algebras is clarified using the example of flat space-time. Next the
+formalism is extended to spinning space, which in addition to the standard real
+co-ordinates is parametrized also by Grassmann-valued vector variables. The
+equations for extremal trajectories (`geodesics') of these spaces describe the
+pseudo-classical mechanics of a Dirac fermion. We apply the formalism to solve
+for the motion of a pseudo-classical electron in Schwarzschild space-time.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405167
+From: Volodimir Lyubashenko <vvl1@tower.york.ac.uk>
+Date: Thu, 26 May 1994 10:48:23 +0000   (82kb)
+Date (revised): Thu, 15 Dec 1994 17:04:00 +0000 (GMT)
+
+Title: Invariants of 3-manifolds and projective representations of mapping
+  class groups via quantum groups at roots of unity
+Author: Volodimir Lyubashenko
+Comments: 61 pages, 12 eps figures. Hennings' invariant is a particular case of
+  the described invariant; references added
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 172 (1995) 467-516
+\\
+  An example of a finite dimensional factorizable ribbon Hopf C-algebra is
+given by a quotient H=u_q(g) of the quantized universal enveloping algebra
+U_q(g) at a root of unity q of odd degree. The mapping class group M_{g,1} of a
+surface of genus g with one hole projectively acts by automorphisms in the
+H-module H^{*\otimes g}, if H^* is endowed with the coadjoint H-module
+structure. There exists a projective representation of the mapping class group
+M_{g,n} of a surface of genus g with n holes labelled by finite dimensional
+H-modules X_1,...,X_n in the vector space Hom_H(X_1\otimes...\otimes
+X_n,H^{*\otimes g}). An invariant of closed oriented 3-manifolds is
+constructed. Modifications of these constructions for a class of ribbon Hopf
+algebras satisfying weaker conditions than factorizability (including most of
+u_q(g) at roots of unity q of even degree) are described. The results are
+motivated by CFT.
+\\

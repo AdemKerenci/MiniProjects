@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406198
+From: RUBEN@PHYS.TAMU.EDU
+Date: Wed, 29 Jun 1994 12:31:01 CDT   (19kb)
+Date (revised): Tue, 06 Dec 1994 15:03:24 CST
+
+Title: Putting string/string duality to the test
+Authors: M. J. Duff and R. Minasian
+Comments: Replaced by version to appear in Nucl. Phys. B
+Report-no: CTP-TAMU-16/94
+Journal-ref: Nucl.Phys. B436 (1995) 507-528
+\\
+  After simultaneous compactification of spacetime and worldvolume on $K3$, the
+$D=10$ heterotic fivebrane with gauge group $SO(32)$ behaves like a $D=6$
+heterotic string with gauge group $SO(28) \times SU(2)$, but with Kac--Moody
+levels different from those of the fundamental string. Thus the
+string/fivebrane duality conjecture in $D=10$ gets replaced by a string/string
+duality conjecture in $D=6$. Since $D=6$ strings are better understood than
+$D=10$ fivebranes, this provides a more reliable laboratory in which to test
+the conjecture. According to string/string duality, the Green--Schwarz
+factorization of the $D=6$ spacetime anomaly polynomial $I_{8}$ into $X_4\,
+\tilde{X}_4$ means that just as $X_4$ is the $\sigma$-model anomaly polynomial
+of the fundamental string worldsheet so $\tilde{X}_4$ should be the
+corresponding polynomial of the dual string worldsheet. To test this idea we
+perform a classical dual string calculation of $\tilde{X}_4$ and find agreement
+with the quantum fundamental string result. This also provides an {\it a
+posteriori} justification for assumptions made in a previous paper on
+string/fivebrane duality. Finally we speculate on the relevance of
+string/string duality to the vacuum degeneracy problem.
+\\

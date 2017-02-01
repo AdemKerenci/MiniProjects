@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408105
+From: Alexander Laufer <alex@spock.physik.uni-konstanz.de>
+Date: Thu, 18 Aug 94 17:24:02 +0100   (14kb)
+Date (revised): Fri, 19 Aug 94 18:32:49 +0100
+Date (revised): Tue, 30 Aug 94 14:37:04 +0100
+
+Title: The Exponential Map for the Conformal Group 0(2,4)
+Authors: A.O.Barut, J.R.Zeni, A.J.Laufer
+Comments: 16pages,plain-TeX,(corrected TeX)
+Journal-ref: J.Phys. A27 (1994) 5239-5250
+\\
+  We present a general method to obtain a closed, finite formula for the
+exponential map from the Lie algebra to the Lie group, for the defining
+representation of the orthogonal groups. Our method is based on the
+Hamilton-Cayley theorem and some special properties of the generators of the
+orthogonal group, and is also independent of the metric. We present an explicit
+formula for the exponential of generators of the $SO_+(p,q)$ groups, with $p+q
+= 6$, in particular we are dealing with the conformal group $SO_+(2,4)$, which
+is homomorphic to the $SU(2,2)$ group. This result is needed in the
+generalization of U(1) gauge transformations to spin gauge transformations,
+where the exponential plays an essential role. We also present some new
+expressions for the coefficients of the secular equation of a matrix.
+\\

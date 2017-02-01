@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403031
+From: khuri@nxth04.cern.ch
+Date: Fri, 4 Mar 94 17:43:46 +0100   (12kb)
+
+Title: The Wu-Yang Ambiguity Revisited
+Authors: Daniel Z. Freedman and Ramzi R. Khuri
+Comments: 12 pages, CERN-TH.7187/94, CTP#2282 (previous version missing
+  acknowledgements)
+Journal-ref: Phys.Lett. B329 (1994) 263-270
+\\
+  Several examples are given of continuous families of SU(2) vector potentials
+$A_i^a(x)$ in 3 space dimensions which generate the same magnetic field
+$B^{ai}(x)$ (with det $B\neq 0$). These Wu-Yang families are obtained from the
+Einstein equation $R_{ij}=-2G_{ij}$ derived recently via a local map of the
+gauge field system into a spatial geometry with $2$-tensor $G_{ij}=B^a{}_i
+B^a{}_j\det B$ and connection $\Gamma_{jk}^i$ with torsion defined from gauge
+covariant derivatives of $B$.
+\\

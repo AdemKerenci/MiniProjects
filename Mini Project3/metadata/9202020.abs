@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202020
+From: RAVANINI%BOLOGNA.INFN.IT@icineca.cineca.it
+Date: Thu, 6 FEB 92 14:51 N   (10kb)
+
+Title: Thermodynamic Bethe Ansatz for G_k x G_l / G_{k+l} Coset Models
+  Perturbed by Their \phi_{1,1,Adj} Operator
+Authors: F.Ravanini
+Comments: 13pp
+Journal-ref: Phys.Lett. B282 (1992) 73-79
+\\
+  We propose a Thermodynamic Bethe Ansatz (TBA) for G_k x G_l / G_{k+l}
+conformal coset models (G any simply-laced Lie algebra) perturbed by their
+operator \phi_{1,1,Adj}. An interesting adjacency structure appears and can be
+depicted in a sort of ``product'' of Dynkin diagrams of G and A_{k+l-1}. UV and
+IR limits are computed and reproduce the expected values for the central
+charges. For k->\infty, l fixed we obtain the TBA of the G_l WZW model
+perturbed by J_a\bar{J}_a, and for k,l->\infty, k-l fixed, that of Principal
+Chiral model with WZ term at level k-l.
+\\

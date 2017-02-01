@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309117
+From: itoyama@osklns.kek.jp (Itoyama)
+Date: Wed, 22 Sep 93 15:14:49 JST   (25kb)
+
+Title: Sine-Gordon Theory with Higher Spin $N=2$ Supersymmetry and the Massless
+  Limit
+Authors: H. Itoyama and T. Oota
+Comments: 31 pages, Latex
+Report-no: OU-HET-182
+Journal-ref: Nucl. Phys. B419 (1994) 632
+\\
+  The Sine-Gordon theory at $\frac{\beta^{2}}{8\pi} = \frac{2}{(2n+3)},\; n=
+1,2,3 \cdots $ has a higher spin generalization of the $N=2$ supersymmetry with
+the central terms which arises from the affine quantum group $U_{q}( \hat{s
+\ell} (2))$. Observing that the algebraic determination of $S$ matrices $(
+\approx {\rm quantum~ integrability })$ requires the saturation of the
+generalized Bogomolny bound, we construct a variant of the Sine-Gordon theory
+at this value of the coupling in the framework of $S$ matrix theory. The
+spectrum consists of a doublet of fractionally charged solitons as well as that
+of anti-solitons in addition to the ordinary breathers. The construction
+demonstrates the existence of the theory other than the one by the truncation
+to the breathers considered by Smirnov. The allowed values for the fractional
+part of the fermion number is also determined.  The central charge in the
+massless limit is found to be $c= 1$ from the TBA calculation for nondiagonal S
+matrices.  The attendant $c=1$ conformal field theory is the gaussian model
+with ${\bf Z_{2}}$ graded chiral algebra at the radius parameter $r=
+\sqrt{2n+3}$. In the course of the calculation, we find $4n+2$ zero modes from
+the (anti-)soliton distributions.
+\\

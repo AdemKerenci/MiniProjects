@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208054
+From: Gordon Semenoff <semenoff@physics.ubc.ca>
+Date: 21 Aug 92 12:13 -0700   (30kb)
+Date (revised): 21 Aug 92 21:08 -0700
+
+Title: Continuum Limits of ``Induced QCD": Lessons of the Gaussian Model at d=1
+  and Beyond
+Authors: I.I. Kogan, A. Morozov, G.W. Semenoff and N. Weiss
+Comments: 31 pages
+Report-no: UBCTP 92-27, ITEP M7/92
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 1411-1436
+\\
+  We analyze the scalar field sector of the Kazakov--Migdal model of induced
+QCD. We present a detailed description of the simplest one dimensional
+{($d$$=$$1$)} model which supports the hypothesis of wide applicability of the
+mean--field approximation for the scalar fields and the existence of critical
+behaviour in the model when the scalar action is Gaussian. Despite the
+ocurrence of various non--trivial types of critical behaviour in the $d=1$
+model as $N\rightarrow\infty$, only the conventional large-$N$ limit is
+relevant for its {\it continuum} limit. We also give a mean--field analysis of
+the $N=2$ model in {\it any} $d$ and show that a saddle point always exists in
+the region $m^2>m_{\rm crit}^2(=d)$. In $d=1$ it exhibits critical behaviour as
+$m^2\rightarrow m_{\rm crit}^2$. However when $d$$>$$1$ there is no critical
+behaviour unless non--Gaussian terms are added to the scalar field action. We
+argue that similar behaviour should occur for any finite $N$ thus providing a
+simple explanation of a recent result of D. Gross. We show that critical
+behaviour at $d$$>$$1$ and $m^2>m^2_{\rm crit}$ can be obtained by adding a
+$logarithmic$ term to the scalar potential. This is equivalent to a local
+modification of the integration measure in the original Kazakov--Migdal model.
+Experience from previous studies of the Generalized Kontsevich Model implies
+that, unlike the inclusion of higher powers in the potential, this minor
+modification should not substantially alter the behaviour of the Gaussian
+model.
+\\

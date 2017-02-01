@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309076
+From: yzhuang@math.upenn.edu
+Date: Mon, 13 Sep 93 21:58:29 -0400   (38kb)
+Date (revised): Wed, 17 May 95 12:28:52 -0400
+
+Title: A theory of tensor products for module categories for a vertex operator
+  algebra, I
+Author: Yi-Zhi Huang and James Lepowsky
+Comments: 65 pages. To appear in Selecta Mathematica. The introduction is
+  substantially expanded, references are updated, and a few misprints are
+  corrected 
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  This is the first part in a series of papers developing a tensor product
+theory for modules for a vertex operator algebra. The goal of this theory is to
+construct a ``vertex tensor category'' structure on the category of modules for
+a suitable vertex operator algebra. The notion of vertex tensor category is
+essentially a ``complex analogue'' of the notion of symmetric tensor category,
+and in fact a vertex tensor category produces a braided tensor category in a
+natural way. The theory applies in particular to many familiar ``rational''
+vertex operator algebras, including those associated with WZNW models, minimal
+models and the moonshine module. In this paper (Part I), we introduce the
+notions of $P(z)$- and $Q(z)$-tensor product, where $P(z)$ and $Q(z)$ are two
+special elements of the moduli space of spheres with punctures and local
+coordinates, and we present the fundamental properties and constructions of
+$Q(z)$-tensor products.
+\\

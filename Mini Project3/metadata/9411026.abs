@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411026
+From: "Haret Rosu" <ROSU@ifug.ugto.mx>
+Date: 3 Nov 94 20:15:00 CST   (8kb)
+Date (revised): 11 May 95 18:20:00 CST
+
+Title: Supersymmetric time-continuous discrete random walks
+Authors: Haret C. Rosu and Marco Reyes
+Comments: replaced with published version, 2 figures available from HCR, no
+  essential changes, 11 pages of LaTex
+Report-no: IFUG-94/23
+Journal-ref: Phys. Rev. E 51, 5112 (May 1995) [BR]
+\\
+  We apply the supersymmetric procedure to one-step random walks in one
+dimension at the level of the usual master equation, extending a study
+initiated by H.R. Jauslin [Phys. Rev. A {\bf 41}, 3407 (1990)]. A discussion of
+the supersymmetric technique for this discrete case is presented by introducing
+a formal second-order discrete master derivative and its ``square root", and we
+solve completely, and in matrix form, the cases of homogeneous random walks
+(constant jumping rates). A simple generalization of Jauslin's results to two
+uncorrelated axes is also provided. There may be many applications, especially
+to bistable and multistable one-step processes.
+\\

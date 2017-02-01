@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409127
+From: francof@galileo.science.unitn.it (Franco Ferrari)
+Date: Wed, 21 Sep 94 14:18:50 +0200   (23kb)
+Date (revised): Tue, 11 Oct 94 14:21:51 +0100
+
+Title: Operator Formalism on General Algebraic Curves
+Authors: F. Ferrari and J. Sobczyk
+Comments: 34 pages of plain TeX + harvmac, With respect to the first version
+  some new references have been added and a statement in the Introduction has
+  been changed
+Report-no: Preprint UTF 333, IFT UWR 899/94
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+\\
+  The usual Laurent expansion of the analytic tensors on the complex plane is
+generalized to any closed and orientable Riemann surface represented as an
+affine algebraic curve. As an application, the operator formalism for the $b-c$
+systems is developed. The physical states are expressed by means of creation
+and annihilation operators as in the complex plane and the correlation
+functions are evaluated starting from simple normal ordering rules. The Hilbert
+space of the theory exhibits an interesting internal structure, being splitted
+into $n$ ($n$ is the number of branches of the curve) independent Hilbert
+spaces. Exploiting the operator formalism a large collection of explicit
+formulas of string theory is derived.
+\\

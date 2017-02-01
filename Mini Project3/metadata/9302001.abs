@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302001
+From: cesar gomez <iffgomez@roca.csic.es>
+Date: Mon,  1 Feb 1993 15:57:02 UTC+0100   (39kb)
+
+Title: Spin-Anisotropy Commensurable Chains: Quantum Group Symmetries and N=2
+  SUSY
+Authors: A.Berkovich, C.Gomez, G.Sierra
+Comments: IMAFF 1/93, latex, 54 pages, 4 figures
+Journal-ref: Nucl.Phys. B415 (1994) 681-733
+\\
+  In this paper we consider a class of the 2D integrable models. These models
+are higher spin XXZ chains with an extra condition of the commensurability
+between spin and anisotropy. The mathematics underlying this commensurability
+is provided by the quantum groups with deformation parameter being an Nth root
+of unity. Our discussion covers a range of topics including new integrable
+deformations, thermodynamics, conformal behaviour, S-matrices and
+magnetization. The emerging picture strongly depends on the N-parity. For the N
+even case at the commensurable point, S-matrices factorize into N=2
+supersymmetric Sine-Gordon matrix and an RSOS piece. The physics of the N odd
+case is rather different. Here, the supersymmetry does not manifest itself and
+the bootstrap hypothesis fails. Away from the commensurable point, we find an
+unusual behaviour. The magnetization of our chains depends on the sign of the
+external magnetic field.
+\\

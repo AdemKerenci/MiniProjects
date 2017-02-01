@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406041
+From: Mark A Robson <M.A.Robson@damtp.cambridge.ac.uk>
+Date: Wed, 8 Jun 1994 16:18:40 +0100   (43kb)
+
+Title: Geometric Quantization of the Phase Space of a Particle in a Yang-Mills
+  Field
+Authors: M.A. Robson
+Comments: 50 pages (LaTeX), DAMTP 94-36
+\\
+  The method of geometric quantization is applied to a particle moving on an
+arbitrary Riemannian manifold $Q$ in an external gauge field, that is a
+connection on a principal $H$-bundle $N$ over $Q$. The phase space of the
+particle is a Marsden-Weinstein reduction of $T^*N$, hence this space can also
+be considered to be the reduced phase space of a particular type of constrained
+mechanical system. An explicit map is found from a subalgebra of the classical
+observables to the corresponding quantum operators. These operators are found
+to be the generators of a representation of the semi-direct product group,
+Aut~$N\lx C^\infty_c(Q)$. A generalised Aharanov-Bohm effect is shown to be a
+natural consequence of the quantization procedure. In particular the r\^ole of
+the connection in the quantum mechanical system is made clear. The quantization
+of the Hamiltonian is also considered. Additionally, our approach allows the
+related quantization procedures proposed by Mackey and by Isham to be fully
+understood.\\
+\\

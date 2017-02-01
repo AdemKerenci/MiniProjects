@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410029
+From: Paul Montague <P.S.Montague@damtp.cambridge.ac.uk>
+Date: Wed, 5 Oct 94 17:35:07 BST   (54kb)
+
+Title: Conformal Field Theories, Representations and Lattice Constructions
+Authors: L. Dolan, P. Goddard and P. Montague
+Comments: 65 pages
+Journal-ref: Commun.Math.Phys. 179 (1996) 61-120
+\\
+  An account is given of the structure and representations of chiral bosonic
+meromorphic conformal field theories (CFT's), and, in particular, the
+conditions under which such a CFT may be extended by a representation to form a
+new theory. This general approach is illustrated by considering the untwisted
+and $Z_2$-twisted theories, $H(\Lambda)$ and $\tilde H(\Lambda)$ respectively,
+which may be constructed from a suitable even Euclidean lattice $\Lambda$.
+Similarly, one may construct lattices $\Lambda_C$ and $\tilde\Lambda_C$ by
+analogous constructions from a doubly-even binary code $C$. In the case when
+$C$ is self-dual, the corresponding lattices are also. Similarly, $H(\Lambda)$
+and $\tilde H(\Lambda)$ are self-dual if and only if $\Lambda$ is. We show that
+$H(\Lambda_C)$ has a natural ``triality'' structure, which induces an
+isomorphism $H(\tilde\Lambda_C)\equiv\tilde H(\Lambda_C)$ and also a triality
+structure on $\tilde H(\tilde\Lambda_C)$. For $C$ the Golay code,
+$\tilde\Lambda_C$ is the Leech lattice, and the triality on $\tilde
+H(\tilde\Lambda_C)$ is the symmetry which extends the natural action of (an
+extension of) Conway's group on this theory to the Monster, so setting triality
+and Frenkel, Lepowsky and Meurman's construction of the natural Monster module
+in a more general context. The results also serve to shed some light on the
+classification of self-dual CFT's. We find that of the 48 theories $H(\Lambda)$
+and $\tilde H(\Lambda)$ with central charge 24 that there are 39 distinct ones,
+and further that all 9 coincidences are accounted for by the isomorphism
+detailed above, induced by the existence of a doubly-even self-dual binary
+code.
+\\

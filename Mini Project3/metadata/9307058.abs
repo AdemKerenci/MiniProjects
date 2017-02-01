@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307058
+From: gcleaver@theory3.caltech.edu (Gerald Cleaver)
+Date: Thu, 8 Jul 93 16:26:36 PDT   (82kb)
+Date (revised): Sat, 17 Jul 93 15:01:28 PDT
+
+Title: Kac-Moody Algebras and String Theory (THESIS)
+Authors: Gerald B. Cleaver
+Comments: 109 pages, jytex, uses amysm fonts, texing instructions at beginning
+  of file ** Now includes ``\input jytex.tex'' on first line **
+\\
+  The focus of this thesis is on (1) the role of Ka\v c-Moody (KM) algebras in
+string theory and the development of techniques for systematically building
+string theory models based on higher level ($K\geq 2$) KM algebras and (2)
+fractional superstrings. In chapter two we review KM algebras and their role in
+string theory. In the next chapter, we present two results concerning the
+construction of modular invariant partition functions for conformal field
+theories built by tensoring together other conformal field theories. First we
+show how the possible modular invariants for the tensor product theory are
+constrained if the allowed modular invariants of the individual conformal field
+theory factors have been classified. We illustrate the use of these constraints
+for theories of the type $SU(2)_{K_A}xSU(2)_{K_B}$, finding all consistent
+theories for $K_A$ and $K_B$ odd. Second we show how known diagonal modular
+invariants can be used to construct inherently asymmetric invariants where the
+holomorphic and anti- holomorphic theories do not share the same chiral
+algebra. Explicit examples are given. Next, in chapter four we investigate some
+issues relating to proposed fractional superstring theories with $D_{\rm
+critical}<10$. Using the factorization approach of Gepner and Qiu, we
+systematically rederive the partition functions of the $K=4,\, 8,$ and $16$
+theories and examine their spacetime supersymmetry. Generalized GSO projection
+operators for the $K=4$ model are found. Uniqueness of the twist field,
+$\phi^{K/4}_{K/4}$, as source of spacetime fermions, is demonstrated.
+\\

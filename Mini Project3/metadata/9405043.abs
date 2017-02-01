@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405043
+From: boettche@aeg.phy.bnl.gov (Stefan Boettcher)
+Date: Fri, 6 May 94 09:05:28 EDT   (30kb)
+
+Title: Eleventh-Order Calculation of Green's Functions in the Ising Limit for
+  Arbitrary Space-Time Dimension $D$
+Authors: Carl M. Bender and Stefan Boettcher
+Comments: 13 pages, 6 figures, plain TEX, uuencoded, WUHEP-5-94
+Journal-ref: Phys.Rev. D51 (1995) 1875-1879
+\\
+  This paper extends an earlier high-temperature lattice calculation of the
+renormalized Green's functions of a $D$-dimensional Euclidean scalar quantum
+field theory in the Ising limit. The previous calculation included all graphs
+through sixth order. Here, we present the results of an eleventh-order
+calculation. The extrapolation to the continuum limit in the previous
+calculation was rather clumsy and did not appear to converge when $D>2$. Here,
+we present an improved extrapolation which gives uniformly good results for all
+real values of the dimension between $D=0$ and $D=4$. We find that the
+four-point Green's function has the value $0.620 \pm 0.007$ when $D=2$ and
+$0.98 \pm 0.01$ when $D=3$ and that the six-point Green's function has the
+value $0.96 \pm 0.03$ when $D=2$ and $1.2 \pm 0.2$ when $D=3$.
+\\

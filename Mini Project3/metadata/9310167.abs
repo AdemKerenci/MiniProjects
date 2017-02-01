@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310167
+From: ocouss@ulb.ac.be (Coussaert Olivier)
+Date: Tue, 26 Oct 93 15:07:21 MET   (12kb)
+
+Title: Perturbative Gauge Anomalies in the Hamiltonian Formalism: A
+  Cohomological Analysis
+Authors: G. Barnich
+Comments: 9 pages LatTeX file, ULB-PMIF-93/06
+Journal-ref: Mod. Phys. Lett. A9 (1994) 665-674
+\\
+  The quantum action principle of renormalisation theory is applied to the
+antibracket-antifield formalism for Hamiltonian systems. General results on the
+local BRST cohomology allow one to prove that the anomalies appear in the time
+development of the BRST charge and violate the nilpotency of this charge.
+Furthermore they are equivalent to those of the Lagrangian formalism. The
+analysis provides a completely gauge and regularisation independent proof of
+Faddeev's conjecture on the relationship between gauge anomalies and Schwinger
+terms in the context of descent equations.
+\\

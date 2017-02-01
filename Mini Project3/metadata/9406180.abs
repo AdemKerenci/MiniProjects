@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406180
+From: Jsuzuki <jsuzuki@tansei.cc.u-tokyo.ac.jp>
+Date: Tue, 28 Jun 94 14:05:39 JST   (36kb)
+
+Title: Analytic Bethe Ansatz for Fundamental Representations of Yangians
+Authors: Atsuo Kuniba and Junji Suzuki
+Comments: 46 pages, Plain Tex
+Journal-ref: Commun.Math.Phys. 173 (1995) 225-264
+\\
+  We study the analytic Bethe ansatz in solvable vertex models associated with
+the Yangian $Y(X_r)$ or its quantum affine analogue $U_q(X^{(1)}_r)$ for $X_r =
+B_r, C_r$ and $D_r$. Eigenvalue formulas are proposed for the transfer matrices
+related to all the fundamental representations of $Y(X_r)$. Under the Bethe
+ansatz equation, we explicitly prove that they are pole-free, a crucial
+property in the ansatz. Conjectures are also given on higher representation
+cases by applying the $T$-system, the transfer matrix functional relations
+proposed recently. The eigenvalues are neatly described in terms of Yangian
+analogues of the semi-standard Young tableaux.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408081
+From: "Ian Kogan" <kogan@puhep1.Princeton.EDU>
+Date: Sun, 14 Aug 94 20:30:34 -0400   (24kb)
+
+Title: A variational approach to the QCD wave functional:Dynamical mass
+  generation and confinement
+Authors: Ian I. Kogan and Alex Kovner
+Comments: 37 pages, (1 Figure available upon request), preprint LA-UR-94-2727,
+  PUPT-1492
+Journal-ref: Phys.Rev. D52 (1995) 3719-3734
+\\
+  We perform a variational calculation in the SU(N) Yang Mills theory in 3+1
+dimensions. Our trial variational states are explicitly gauge invariant, and
+reduce to simple Gaussian states in the zero coupling limit. Our main result is
+that the energy is minimized for the value of the variational parameter away
+form the perturbative value. The best variational state is therefore
+characterized by a dynamically generated mass scale $M$. This scale is related
+to the perturbative scale $\Lambda_{QCD}$ by the following relation:
+$\alpha_{QCD}(M)={\pi\over 4}{1\over N}$. Taking the one loop QCD $\beta$-
+function and $\Lambda_{QCD}=150 Mev$ we find (for N=3) the vacuum condensate
+${\alpha\over \pi}<F^2>= 0.008 Gev^4$.
+\\

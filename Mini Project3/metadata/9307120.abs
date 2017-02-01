@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307120
+From: "Mark Wexler" <wexler@puhep1.Princeton.EDU>
+Date: Mon, 19 Jul 93 17:31:29 EDT   (17kb)
+
+Title: Critical behavior of target space mean field theory
+Authors: Mark Wexler
+Comments: 12 pp., TeX + harvmac + epsf, PUPT-1412
+Journal-ref: Mod. Phys. Lett. A8 (1993) 2703-2714
+\\
+  Recently, the free energy of the target space mean field (TSMF) matrix model
+has been calculated in the low temperature phase, order-by-order in a low
+temperature expansion. The TSMF model is a matrix model whose discrete target
+space has an infinite coordination number, and whose free energy assumes a
+universal form, corresponding to baby universes joined into a tree. Here the
+free energy is summed to all orders, and expressed through a transcendental
+algebraic equation, using which we analyze the critical phenomena that occur in
+the TSMF model. There are two critical curves, at which the matter and the
+geometry become critical, and for which the critical exponents are alpha = 1/2
+and gamma_str = -1/2, respectively. There is a bicritical point where the
+curves meet, at which gamma_str = +1/3.
+\\

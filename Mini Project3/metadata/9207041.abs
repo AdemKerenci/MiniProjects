@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207041
+From: jbaez@math.mit.edu
+Date: Mon, 13 Jul 92 12:58:12 EDT   (10kb)
+
+Title: Link Invariants of Finite Type and Perturbation Theory
+Author: John C. Baez
+Comments: 11 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Lett.Math.Phys. 26 (1992) 43-52
+\\
+  The Vassiliev-Gusarov link invariants of finite type are known to be closely
+related to perturbation theory for Chern-Simons theory. In order to clarify the
+perturbative nature of such link invariants, we introduce an algebra V_infinity
+containing elements g_i satisfying the usual braid group relations and elements
+a_i satisfying g_i - g_i^{-1} = epsilon a_i, where epsilon is a formal variable
+that may be regarded as measuring the failure of g_i^2 to equal 1.
+Topologically, the elements a_i signify crossings. We show that a large class
+of link invariants of finite type are in one-to-one correspondence with
+homogeneous Markov traces on V_infinity. We sketch a possible application of
+link invariants of finite type to a manifestly diffeomorphism-invariant
+perturbation theory for quantum gravity in the loop representation.
+\\

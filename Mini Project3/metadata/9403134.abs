@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403134
+From: David Fairlie <David.Fairlie@durham.ac.uk>
+Date: Tue, 22 Mar 94 16:59:09 GMT   (5kb)
+
+Title: General solutions of the Monge-Amp\`{e}re equation in $n$-dimensional
+  space
+Author: D. B. Fairlie and A. N. Leznov
+Comments: 8 pages
+Report-no: DTP 94/3
+Subj-class: High Energy Physics - Theory; Analysis of PDEs; Exactly Solvable
+  and Integrable Systems
+\\
+  It is shown that the general solution of a homogeneous Monge-Amp\`{e}re
+equation in $n$-dimensional space is closely connected with the exactly
+(but only implicitly) integrable system
+  \frac {\partial \xi_{j}}{\partial x_0}+\sum_{k=1}^{n-1}
+\xi_{k} \frac {\partial \xi_{j}}{\partial x_{k}}=0 \label{1}
+  Using the explicit form of solution of this system it is possible to
+construct the general solution of the Monge-Amp\`{e}re equation.
+\\

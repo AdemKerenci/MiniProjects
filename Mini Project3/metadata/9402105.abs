@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402105
+From: urosevic@het.brown.edu (Branko Urosevic)
+Date: Thu, 17 Feb 94 15:45:24 EST   (8kb)
+
+Title: Off-Shell Amplitudes in Two Dimensional String Field Theory
+Authors: Branko Urosevic (Brown University)
+Comments: Brown preprint BROWN-HET-936, 11 pages (two figures available upon
+  request), uses phyzzx
+Journal-ref: Phys.Rev. D50 (1994) 4075-4078
+\\
+  In this note we present an explicit procedure for the regularization of tree
+level amplitudes involving discrete states, using open string field theory. We
+show that there is a natural correspondence between the discrete states and
+off--shell states, later acting as a regularized version of the former. A
+general off-shell state corresponds to several physical states. In order to
+obtain the well--defined $S$ matrix elements one has to choose representatives
+close but not equal to the desired values of external momenta. The procedure
+renders finite all $4$-point amplitudes with an even number of (naively)
+divergent channels even after the regularization is removed. The rest of the
+amplitudes can be defined by means of such regularization.
+\\

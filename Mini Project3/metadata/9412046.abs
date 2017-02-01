@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412046
+From: "Svozil Karl (TUVienna)" <E1360DAB@helios.edvz.univie.ac.at>
+Date: Tue, 06 Dec 94 11:34:30 MEZ   (3kb)
+
+Title: Speedup in quantum computation is associated with attenuation of
+  processing probability
+Authors: K. Svozil
+Comments: 4 pages
+\\
+  Quantum coherence allows the computation of an arbitrary number of distinct
+computational paths in parallel. Based on quantum parallelism it has been
+conjectured that exponential or even larger speedups of computations are
+possible. Here it is shown that, although in principle correct, any speedup is
+accompanied by an associated attenuation of detection rates. Thus, on the
+average, no effective speedup is obtained relative to classical
+(nondeterministic) devices.
+\\

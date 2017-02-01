@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311167
+From: saveliev@physique.ens.fr (SAVELIEV Mikhail)
+Date: Mon, 29 Nov 93 14:26:58 +0100   (31kb)
+Date (revised): Fri, 2 Sep 94 14:54:47 +0200
+
+Title: Differential Geometry of Toda Systems
+Authors: A. V. Razumov and M. V. Saveliev
+Comments: 41 pages, AMSLaTeX file
+Report-no: LPTENS-93/45
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: Commun.Anal.Geom. 2 (1994) 461-511
+\\
+  In the present paper we give a differential geometry formulation of the basic
+dynamical principle of the group--algebraic approach \cite{LeS92} --- the
+grading condition --- in terms of some holomorphic distributions on flag
+manifolds associated with the parabolic subgroups of a complex Lie group; and a
+derivation of the corresponding nonlinear integrable systems, and their general
+solutions. Moreover, the reality condition for these solutions is introduced.
+For the case of the simple Lie groups endowed with the canonical gradation,
+when the systems in question are reduced to the abelian Toda equations, we
+obtain the generalised Pl\"ucker representation for the pseudo--metrics
+specified by the K\"ahler metrics on the flag manifolds related to the maximal
+nonsemisimple parabolic subgroups; and the generalised infinitesimal Pl\"ucker
+formulas for the Ricci curvature tensors of these pseudo--metrics. In
+accordance with these formulas, the fundamental forms of the pseudo--metrics
+and the Ricci curvature tensors are expressed directly in terms of the abelian
+Toda fields, which have here the sense of K\"ahler potentials.
+\\

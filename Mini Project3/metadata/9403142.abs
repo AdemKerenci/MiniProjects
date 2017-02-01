@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403142
+From: Robert Coquereaux <coque@cptsu4.univ-mrs.fr>
+Date: Wed, 23 Mar 94 16:07:30 +0100   (17kb)
+Date (revised): Mon, 27 Mar 95 13:32:27 +0200
+
+Title: Triangular dissections, aperiodic tilings and Jones algebras
+Author: R. Coquereaux
+Comments: 14 pages. Revised version. 18 Postcript figures, a 500 kb uuencoded
+  file called images.uu available by mosaic or gopher from
+  gopher://cpt.univ-mrs.fr/11/preprints/94/fundamental-interactions/94-P.3020
+Report-no: CPT - 94 /P.3020
+Subj-class: High Energy Physics - Theory; Metric Geometry; Quantum Algebra
+Journal-ref: Adv.Appl.Math. 16 (1995) 402-424
+\\
+  The Brattelli diagram associated with a given bicolored Dynkin-Coxeter graph
+of type $A_n$ determines planar fractal sets obtained by infinite dissections
+of a given triangle. All triangles appearing in the dissection process have
+angles that are multiples of $\pi/ (n+1).$ There are usually several possible
+infinite dissections compatible with a given $n$ but a given one makes use of
+$n/2$ triangle types if $n$ is even. Jones algebra with index $[ 4 \ \cos^2{\pi
+\over n+1}]^{-1}$ (values of the discrete range) act naturally on vector spaces
+associated with those fractal sets. Triangles of a given type are always
+congruent at each step of the dissection process. In the particular case $n=4$,
+there are isometric and the whole structure lead, after proper inflation, to
+aperiodic Penrose tilings. The ``tilings'' associated with other values of the
+index are discussed and shown to be encoded by equivalence classes of infinite
+sequences (with appropriate constraints) using $n/2$ digits (if $n$ is even)
+and generalizing the Fibonacci numbers.
+\\

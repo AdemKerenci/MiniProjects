@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411239
+From: MUNCZEK@KUPHSX.PHSX.UKANS.EDU
+Date: Wed, 30 Nov 1994 14:33 CST   (9kb)
+
+Title: Dynamical Chiral Symmetry Breaking, Goldstone's Theorem and the
+  Consistency of the Schwinger--Dyson and Bethe--Salpeter Equations
+Author: H.J. Munczek
+Comments: 13 pages, LaTeX, no figures
+Report-no: KU-TH-94-10-1
+Journal-ref: Phys.Rev. D52 (1995) 4736-4740
+\\
+  A proof of Goldstone's theorem is given for the case in which global chiral
+symmetry is dynamically broken. The proof highlights a needed consistency
+between the exact Schwinger--Dyson equation for the fermion propagator and the
+exact Bethe--Salpeter equation for fermion--antifermion bound states. A
+criterion, based on the Cornwall, Jackiw and Tomboulis effective action for
+composite operators, is provided for maintaining the consistency when the
+equations are modified by approximations. For gauge theories in which partial
+conservation of the axial current (PCAC) should hold, a constraint on the
+approximations to the fermion--gauge boson vertex function is discussed, and a
+vertex model is given which satisfies both the PCAC constraint and the vector
+Ward--Takahashi identity.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308082
+From: Grosche Christian <I02GRO@DSYIBM.DESY.DE>
+Date: TUE, 17 AUG 93 17:35:30 +0200   (32kb)
+
+Title: Path Integral Discussion of Two and- Three-Dimensional $\delta$-Function
+  Perturbations
+Authors: Christian Grosche
+Comments: 32 pages, AmSTeX
+Report-no: SISSA/119/93/FM
+\\
+  The incorporation of two- and three-dimensional $\delta$-function
+perturbations into the path-integral formalism is discussed. In contrast to the
+one-dimensional case, a regularization procedure is needed due to the
+divergence of the Green-function $G^{(V)}(\vec x,\vec y;E)$, ($\vec x,\vec
+y\in\bbbr^2,\bbbr^3$) for $\vec x=\vec y$, corresponding to a potential problem
+$V(\vec x)$. The known procedure to define proper self-adjoint extensions for
+Hamiltonians with deficiency indices can be used to regularize the path
+integral, giving a perturbative approach for $\delta$-function perturbations in
+two and three dimensions in the context of path integrals. Several examples
+illustrate the formalism.
+\\

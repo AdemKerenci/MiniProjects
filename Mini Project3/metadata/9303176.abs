@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303176
+From: ctirad klimcik <PRESOV%CSPUNI12.BITNET@helios.edvz.univie.ac.at>
+Date: Wed, 31 Mar 93 16:20:34 MET   (22kb)
+
+Title: Quantum Fluctuations and Curvature Singularities in Jackiw-Teitelboim
+  Gravity
+Authors: C. Klimcik
+Comments: 32 pages, LaTeX, PRA-HEP-93/3
+Journal-ref: Phys.Rev. D48 (1993) 4693-4707
+\\
+  The Jackiw-Teitelboim gravity with the matter degrees of freedom is
+considered. The classical model is exactly solvable and its solutions describe
+non-trivial gravitational scattering of matter wave-packets. For huge amount of
+the solutions the scattering space-times are free of curvature singularities.
+However, the quantum corrections to the field equations inevitably cause the
+formation of (thunderbolt) curvature singularities, vanishing only in the limit
+$\hbar\to 0$. The singularities cut the space-time and disallow propagation to
+the future.The model is inspired by the dimensional reduction of 4-d pure
+Einstein gravity, restricted to the space-times with two commuting space-like
+Killing vectors. The matter degrees of freedom also stem from the 4-d ansatz.
+The measures for the continual integrations are judiciously chosen and one loop
+contributions (including the graviton and the dilaton ones) are evaluated. For
+the number of the matter fields $N=24$ we obtain even the exact effective
+action, applying the DDK-procedure. The effective action is nonlocal, but the
+semiclassical equations can be solved by using some theory of the Hankel
+transformations.
+\\

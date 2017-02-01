@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301051
+From: Craig Tracy <tracy@itd.ucdavis.edu>
+Date: Wed, 13 Jan 93 10:25:34 PST   (15kb)
+
+Title: Hamiltonian Structure of Equations Appearing in Random Matrices
+Author: John Harnad, Craig A. Tracy, and Harold Widom
+Comments: 18 pages, plain TeX
+Report-no: CRM--1846 (1993)
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems; Mathematical Physics
+Journal-ref: NATO ASI Series B, Vol. 314, Plenum Press, NY, 1993,pgs. 231-245,
+  ed. H. Osborn
+\\
+  The level spacing distributions in the Gaussian Unitary Ensemble, both in the
+``bulk of the spectrum,'' given by the Fredholm determinant of the operator
+with the sine kernel ${\sin \pi(x-y) \over \pi(x-y)}$ and on the ``edge of the
+spectrum,'' given by the Airy kernel ${\rm{Ai}(x) \rm{Ai}'(y) - \rm{Ai}(y)
+\rm{Ai}'(x) \over (x-y)}$, are determined by compatible systems of
+nonautonomous Hamiltonian equations. These may be viewed as special cases of
+isomonodromic deformation equations for first order $ 2\times 2 $ matrix
+differential operators with regular singularities at finite points and
+irregular ones of Riemann index 1 or 2 at $\infty$. Their Hamiltonian structure
+is explained within the classical R-matrix framework as the equations induced
+by spectral invariants on the loop algebra ${\tilde{sl}(2)}$, restricted to a
+Poisson subspace of its dual space ${\tilde{sl}^*_R(2)}$, consisting of
+elements that are rational in the loop parameter.
+\\

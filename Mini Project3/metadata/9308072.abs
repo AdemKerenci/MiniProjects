@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308072
+From: Shahn Majid <majid@damtp.cambridge.ac.uk>
+Date: Mon, 16 Aug 93 10:44:04 BST   (31kb)
+
+Title: Glueing operation for r-matrices, quantum groups and link-invariants of
+  Hecke type
+Author: Shahn Majid and Martin Markl
+Comments: 36 pages
+Report-no: DAMTP/93-20
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We introduce an associative glueing operation $\oplus_q$ on the space of
+solutions of the Quantum Yang-Baxter Equations of Hecke type. The corresponding
+glueing operations for the associated quantum groups and quantum vector spaces
+are also found. The former involves $2\times 2$ quantum matrices whose entries
+are themselves square or rectangular quantum matrices. The corresponding
+glueing operation for link-invariants is introduced and involves a state-sum
+model with Boltzmann weights determined by the link invariants to be glued. The
+standard $su(n)$ solution, its associated quantum matrix group, quantum space
+and link-invariant arise at once by repeated glueing of the one-dimensional
+case.
+\\

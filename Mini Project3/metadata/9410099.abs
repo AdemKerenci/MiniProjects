@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410099
+From: dick@guinness.ias.edu (Rainer Dick)
+Date: Thu, 13 Oct 94 19:58:46 EDT   (17kb)
+
+Title: Half-Differentials and Fermion Propagators
+Authors: Rainer Dick
+Comments: 22 pages, Latex, IASSNS-HEP-94/83
+Journal-ref: Rev.Math.Phys. 7 (1995) 689-708
+\\
+  From a geometric point of view, massless spinors in $3+1$ dimensions are
+composed of primary fields of weights $(\frac{1}{2},0)$ and $(0,\frac{1}{2})$,
+where the weights are defined with respect to diffeomorphisms of a sphere in
+momentum space. The Weyl equation thus appears as a consequence of the
+transformation behavior of local sections of half--canonical bundles under a
+change of charts. As a consequence, it is possible to impose covariant
+constraints on spinors of negative (positive) helicity in terms of
+(anti--)holomorphy conditions. Furthermore, the identification with
+half--differentials is employed to determine possible extensions of fermion
+propagators compatible with Lorentz covariance. This paper includes in
+particular the full derivation of the primary correlators needed in order to
+determine the fermion correlators.
+\\

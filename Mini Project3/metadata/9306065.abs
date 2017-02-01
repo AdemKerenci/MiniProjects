@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306065
+From: Pawel Kurzepa <kurzepa@pion.lanl.gov>
+Date: Mon, 14 Jun 93 15:39:49 -0600   (27kb)
+
+Title: Fermions from photons: Bosonization of QED in 2+1 dimensions
+Authors: A. Kovner and P. S. Kurzepa
+Comments: 30 pages, LA - UR - 93 - 2003
+Journal-ref: Int. J. Mod. Phys. A9 (1994) 4669-4700
+\\
+  We perform the complete bosonization of 2+1 dimensional QED with one
+fermionic flavor in the Hamiltonian formalism. The Fermi operators are
+explicitly constructed in terms of the vector potential and the electric field.
+We carefully specify the regularization procedure involved in the definition of
+these operators, and calculate the fermionic bilinears and the energy -
+momentum tensor. The algebra of bilinears exhibits the Schwinger terms which
+also appear in perturbation theory. The bosonic Hamiltonian is a local,
+polynomial functional of $A_i$ and $E_i$, and we check explicitly the Lorentz
+invariance of the resulting bosonic theory. Our construction is conceptually
+very similar to Mandelstam's construction in 1+1 dimensions, and is dissimilar
+from the recent bosonization attempts in 2+1 dimensions, which hinge crucially
+on the presence of a Chern - Simons term.
+\\

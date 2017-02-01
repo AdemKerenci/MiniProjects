@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211072
+From: Bong Lian <lian-bong@MATH.YALE.EDU>
+Date: Mon, 16 Nov 1992 15:05:21 -0500   (32kb)
+
+Title: New Perspectives on the BRST-algebraic Structure of String Theory
+Authors: Bong H. Lian and Gregg J. Zuckerman
+Comments: 40 pages, (2 figures available upon request), Yale-Math preprint
+Journal-ref: Commun.Math.Phys. 154 (1993) 613-646
+\\
+  Motivated by the descent equation in string theory, we give a new
+interpretation for the action of the symmetry charges on the BRST cohomology in
+terms of what we call {\em the Gerstenhaber bracket}. This bracket is
+compatible with the graded commutative product in cohomology, and hence gives
+rise to a new class of examples of what mathematicians call a {\em Gerstenhaber
+algebra}. The latter structure was first discussed in the context of Hochschild
+cohomology theory \cite{Gers1}. Off-shell in the (chiral) BRST complex, all the
+identities of a Gerstenhaber algebra hold up to homotopy. Applying our theory
+to the c=1 model, we give a precise conceptual description of the
+BRST-Gerstenhaber algebra of this model. We are led to a direct connection
+between the bracket structure here and the anti-bracket formalism in BV theory
+\cite{W2}. We then discuss the bracket in string backgrounds with both the left
+and the right movers. We suggest that the homotopy Lie algebra arising from our
+Gerstenhaber bracket is closely related to the HLA recently constructed by
+Witten-Zwiebach. Finally, we show that our constructions generalize to any
+topological conformal field theory.
+\\

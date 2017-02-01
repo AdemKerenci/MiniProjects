@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405019
+From: ykzhou@maths.mu.OZ.AU (Yu-kui-Zhou)
+Date: Wed, 4 May 1994 12:25:54 +1000   (47kb)
+
+Title: Fusion of \ade Lattice Models
+Authors: Yu-kui Zhou and Paul A. Pearce
+Comments: 41 pages
+Journal-ref: Int.J.Mod.Phys. B8 (1994) 3531-3577
+\\
+  Fusion hierarchies of \ade face models are constructed. The fused critical
+$D$, $E$ and elliptic $D$ models yield new solutions of the Yang-Baxter
+equations with bond variables on the edges of faces in addition to the spin
+variables on the corners. It is shown directly that the row transfer matrices
+of the fused models satisfy special functional equations. Intertwiners between
+the fused \ade models are constructed by fusing the cells that intertwine the
+elementary face weights. As an example, we calculate explicitly the fused
+$2\times 2$ face weights of the 3-state Potts model associated with the $D_4$
+diagram as well as the fused intertwiner cells for the $A_5$--$D_4$
+intertwiner. Remarkably, this $2\times 2$ fusion yields the face weights of
+both the Ising model and 3-state CSOS models.
+\\

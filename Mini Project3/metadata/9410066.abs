@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410066
+From: Igor G.Korepanov <korepan@math.tu-chel.ac.ru>
+Date: Mon, 10 Oct 94 20:44:06 +0400   (11kb)
+
+Title: Hidden Symmetries in the 6-Vertex Model of Statistical Physics
+Author: Igor G. Korepanov
+Comments: An English version of the author's article which recently appeared in
+  Zapiski Nauvhnyh Seminarov POMI (S-Petersburg) and is based on two older
+  papers (of 1987) mentioned in the bibliography. The author's Russian paper of
+  1986 from the bibliography will soon appear in English, too
+Journal-ref: Zap.Nauchn.Semin. 215 (1994) 163-177
+\\
+  The transfer matrix of the 6-vertex model of two-dimensional statistical
+physics commutes with many (more complicated) transfer matrices, but these
+latter, generally, do not commute between each other. The studying of their
+action in the eigenspaces of the 6-vertex model transfer matrix becomes
+possible due to a ``multiplicative property'' of the {\em vacuum curves\/} of
+$\cal L$-operators from which transfer matrices are built. This approach
+allowed, in particular, to discover for the first time the fact that the
+dimensions of abovementioned eigenspaces must be multiples of (big enough)
+degrees of the number 2.
+\\

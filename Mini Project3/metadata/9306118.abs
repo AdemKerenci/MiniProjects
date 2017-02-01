@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306118
+From: "Peter Vecsernyes" <vecser@puhep1.Princeton.EDU>
+Date: Tue, 22 Jun 93 14:54:13 EDT   (21kb)
+
+Title: On the Quantum Symmetry of the Chiral Ising Model
+Authors: Peter Vecserny\'es
+Comments: 24 pages, plain TeX, Princeton preprint PUPT-1406, June 1993
+Journal-ref: Nucl. Phys. B415 (1994) 557
+\\
+  We introduce the notion of rational Hopf algebras that we think are able to
+describe the superselection symmetries of two dimensional rational quantum
+field theories. As an example we show that a six dimensional rational Hopf
+algebra $H$ can reproduce the fusion rules, the conformal weights, the quantum
+dimensions and the representation of the modular group of the chiral Ising
+model. $H$ plays the role of the global symmetry algebra of the chiral Ising
+model in the following sense: 1) a simple field algebra $\FA$ and a
+representation $\pi$ on $\HS_\pi$ of it is given, which contains the $c=1/2$
+unitary representations of the Virasoro algebra as subrepresentations; 2) the
+embedding $U\colon H\to\BOH$ is such that the observable algebra $\pi(\OA)^-$
+is the invariant subalgebra of $\BOH$ with respect to the left adjoint action
+of $H$ and $U(H)$ is the commutant of $\pi(\OA)$; 3) there exist $H$-covariant
+primary fields in $\BOH$, which obey generalized Cuntz algebra properties and
+intertwine between the inequivalent sectors of the observables.
+\\

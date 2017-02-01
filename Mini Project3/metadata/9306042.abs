@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306042
+From: Craig Tracy <tracy@itd.ucdavis.edu>
+Date: Mon, 7 Jun 93 16:14:41 PDT   (32kb)
+Date (revised): Sat, 18 Sep 93 12:57:57 PDT
+Date (revised): Tue, 2 Feb 1999 03:25:09 GMT
+
+Title: Fredholm Determinants, Differential Equations and Matrix Models
+Authors: Craig A. Tracy and Harold Widom
+Comments: 34 pages, LaTeX using RevTeX 3.0 macros; last version changes only
+  the abstract and decreases length of typeset version
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems; Mathematical Physics
+Journal-ref: Commun.Math.Phys. 163 (1994) 33-72
+\\
+  Orthogonal polynomial random matrix models of NxN hermitian matrices lead to
+Fredholm determinants of integral operators with kernel of the form (phi(x)
+psi(y) - psi(x) phi(y))/x-y. This paper is concerned with the Fredholm
+determinants of integral operators having kernel of this form and where the
+underlying set is a union of open intervals. The emphasis is on the
+determinants thought of as functions of the end-points of these intervals. We
+show that these Fredholm determinants with kernels of the general form
+described above are expressible in terms of solutions of systems of PDE's as
+long as phi and psi satisfy a certain type of differentiation formula. There is
+also an exponential variant of this analysis which includes the circular
+ensembles of NxN unitary matrices.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409142
+From: hollow@surya11.cern.ch (Timothy Hollowood)
+Date: Fri, 23 Sep 94 11:55:12 +0200   (11kb)
+
+Title: The Exact Mass-Gap of the Supersymmetric CP^{n-1} Sigam Model
+Authors: Jonathan M. Evans and Timothy J. Hollowood
+Comments: Plain TeX (macro included), CERN-TH.7426/94, SWAT/93-94/42
+Journal-ref: Phys.Lett. B343 (1995) 198-206
+\\
+  A formula for the mass-gap of the supersymmetric $\CP^{n-1}$ sigma model ($n
+> 1$) in two dimensions is derived: $m/\Lambda_{\overline{\rm
+MS}}=\sin(\pi\Delta)/(\pi\Delta)$ where $\Delta=1/n$ and $m$ is the mass of the
+fundamental particle multiplet. This result is obtained by comparing two
+expressions for the free-energy density in the presence of a coupling to a
+conserved charge; one expression is computed from the exact S-matrix of
+K\"oberle and Kurak via the thermodynamic Bethe ansatz and the other is
+computed using conventional perturbation theory. These calculations provide a
+stringent test of the S-matrix, showing that it correctly reproduces the
+universal part of the beta-function and resolving the problem of CDD
+ambiguities.
+\\

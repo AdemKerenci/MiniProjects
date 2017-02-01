@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307046
+From: bergshoe@th.rug.nl (Eric Bergshoeff)
+Date: Wed, 7 Jul 93 10:38:55 +0200   (21kb)
+
+Title: A BRST Analysis of $W$-symmetries
+Authors: E. Bergshoeff, H.J. Boonstra, S. Panda and M. de Roo
+Comments: 32 pages, UG-4/93
+Journal-ref: Nucl. Phys. B411 (1994) 717
+\\
+  We perform a classical BRST analysis of the symmetries corresponding to a
+generic $w_N$-algebra. An essential feature of our method is that we write the
+$w_N$-algebra in a special basis such that the algebra manifestly has a
+``nested'' set of subalgebras $v_N^N \subset v_N^{N-1} \subset \dots \subset
+v_N^2 \equiv w_N$ where the subalgebra $v_N^i\ (i=2, \dots ,N)$ consists of
+generators of spin $s=\{i,i+1,\dots ,N\}$, respectively. In the new basis the
+BRST charge can be written as a ``nested'' sum of $N-1$ nilpotent BRST charges.
+In view of potential applications to (critical and/or non-critical) $W$-string
+theories we discuss the quantum extension of our results. In particular, we
+present the quantum BRST-operator for the $W_4$-algebra in the new basis. For
+both critical and non-critical $W$-strings we apply our results to discuss the
+relation with minimal models.
+\\

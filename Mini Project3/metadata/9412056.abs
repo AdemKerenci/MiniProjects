@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412056
+From: Tanya Khovanova <tanyakh@math.mit.edu>
+Date: Tue, 6 Dec 94 17:25:00 EST   (19kb)
+
+Title: On quantum group SL_q(2).
+Authors: Joseph Bernstein, Tanya Khovanova
+Comments: plain TeX, 19 pages, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun. Math. Phys. 177 (1996) 691
+\\
+   We start with the observation that the quantum group SL_q(2), described in
+terms of its algebra of functions has a quantum subgroup, which is just a usual
+Cartan group.
+   Based on this observation we develop a general method of constructing
+quantum groups with similar property. We also describe this method in the
+language of quantized universal enveloping algebras, which is another common
+method of studying quantum groups.
+   We carry our method in detail for root systems of type SL(2); as a byproduct
+we find a new series of quantum groups - metaplectic groups of SL(2)-type.
+Representations of these groups can provide interesting examples of bimodule
+categories over monoidal category of representations of SL_q(2).
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207083
+From: "Paul A. Griffin ph. (904)392-5712" <pgriffin@ufhepa.phys.ufl.edu>
+Date: Fri, 24 Jul 1992 15:26:28 EDT   (24kb)
+
+Title: Staggered fermions and chiral symmetry breaking in transverse lattice
+  regulated QED
+Authors: Paul A. Griffin
+Comments: 30 pages, UFIFT-HEP-92-19
+Journal-ref: Phys.Rev. D47 (1993) 3530-3542
+\\
+  Staggered fermions are constructed for the transverse lattice regularization
+scheme. The weak perturbation theory of transverse lattice non-compact QED is
+developed in light-cone gauge, and we argue that for fixed lattice spacing this
+theory is ultraviolet finite, order by order in perturbation theory. However,
+by calculating the anomalous scaling dimension of the link fields, we find that
+the interaction Hamiltonian becomes non-renormalizable for $g^2(a) > 4\pi$,
+where $g(a)$ is the bare (lattice) QED coupling constant. We conjecture that
+this is the critical point of the chiral symmetry breaking phase transition in
+QED. Non-perturbative chiral symmetry breaking is then studied in the strong
+coupling limit. The discrete remnant of chiral symmetry that remains on the
+lattice is spontaneously broken, and the ground state to lowest order in the
+strong coupling expansion corresponds to the classical ground state of the
+two-dimensional spin one-half Heisenberg antiferromagnet.
+\\

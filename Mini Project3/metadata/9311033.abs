@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311033
+From: a.mikovic@ic.ac.uk
+Date: Thu, 4 Nov 93 14:47:23 gmt   (14kb)
+
+Title: QCD Originated Dynamical Symmetry for Hadrons
+Authors: Djordje \v Sija\v cki
+Comments: 13 pages, Plain Tex
+\\
+  We extend previous work on the IR regime approximation of QCD in which the
+dominant contribution comes from a dressed two-gluon effective metric-like
+field $G_{\mu\nu} = g_{ab} B^{a}_{\mu} B^{b}_{\nu}$ ($g_{ab}$ a color $SU(3)$
+metric). The ensuring effective theory is represented by a
+pseudo-diffeomorphisms gauge theory. The second -quantized $G_{\mu\nu}$ field,
+together with the Lorentz generators close on the $\overline{SL}(4,R)$ algebra.
+This algebra represents a spectrum generating algebra for the set of hadron
+states of a given flavor - hadronic "manifields" transforming w.r.t.
+$\overline{SL}(4,R)$ (infinite-dimensional) unitary irreducible
+representations. The equations of motion for the effective pseudo-gravity are
+derived from a quadratic action describing Riemannian pseudo-gravity in the
+presence of shear ($\overline{SL}(4,R)$ covariant) hadronic matter currents.
+These equations yield $p^{-4}$ propagators, i.e. a linearly rising confining
+potential $H(r) \sim r$, as well as linear $J \sim m^{2}$ Regge trajectories.
+The $\overline{SL}(4,R)$ symmetry based dynamical theory for the QCD IR region
+is applied to hadron resonances. All presently known meson and baryon
+resonances are successfully accommodated and various missing states predicted.
+(Lectures presented at the Danube Workshop '93, June 1993, Belgrade,
+Yugoslavia.)
+\\

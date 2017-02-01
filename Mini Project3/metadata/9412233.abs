@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412233
+From: aslavnov@plasma1.ulb.ac.be
+Date: Thu, 29 Dec 94 17:13:48 +0900   (9kb)
+
+Title: Generalized Pauli-Villars regularization for undoubled lattice fermions
+Author: A.A. Slavnov
+Comments: 10 pages LATEX file
+Report-no: SMI-9-94
+Journal-ref: Phys.Lett. B348 (1995) 553-559
+\\
+  A manifestly gauge invariant formulation of chiral theories with fermions on
+the lattice is developed. It combines SLAC lattice derivative \cite{DWY},
+\cite{ACS}, \cite{S} and generalized Pauli-Villars regularization \cite{FS}.
+The theory is free of fermion doubling, requires only local gauge invariant
+counterterms and produces correct results when applied to exactly solvable two
+dimensional models.
+\\

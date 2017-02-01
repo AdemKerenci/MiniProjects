@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212023
+From: "Edward Hsu" <hsu@puhep1.Princeton.EDU>
+Date: Thu, 3 Dec 92 14:34:03 EST   (12kb)
+
+Title: The Gravitational Sine-Gordon Model
+Authors: Edward Hsu and David Kutasov
+Comments: 14 pages, 4 figures (not included), PUPT-1357
+Journal-ref: Nucl.Phys. B396 (1993) 693-707
+\\
+  We use matrix model results to investigate the Sine-Gordon model coupled to
+two dimensional gravity. For relevant (in the RG sense) potentials, we show
+that the $c=1$ string, which appears in the ultraviolet limit of this model,
+flows to a set of decoupled $c=0$ (pure gravity) models in the infrared. The
+torus partition sum, which was argued previously to count the number of string
+degrees of freedom and hence satisfy a new $c$ -- theorem, is shown to be a
+monotonically decreasing function of the scale (given by the quantum area of
+the world-sheet).
+\\

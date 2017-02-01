@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410144
+From: mmont@cbpfsu1.cat.cbpf.br (Marco Aurelio do Rego Monteiro)
+Date: Thu, 20 Oct 94 11:26:24 EST   (6kb)
+Date (revised): Fri, 21 Oct 94 17:13:15 EDT
+
+Title: The Quantum Algebraic Structure of the Twisted XXZ Chain
+Authors: M.R-Monteiro, I.Roditi, L.M.C.S.Rodrigues and S.Sciuto
+Comments: LateX file, 9 pages, Minor changes (including authors` names in the
+  hep-th heading)
+Report-no: CBPF-NF-054/94 and DFTT-045/94
+Journal-ref: Mod.Phys.Lett. A10 (1995) 419-424
+\\
+  We consider the Quantum Inverse Scattering Method with a new R-matrix
+depending on two parameters $q$ and $t$. We find that the underlying algebraic
+structure is the two-parameter deformed algebra $SU_{q,t}(2)$ enlarged by
+introducing an element belonging to the centre. The corresponding Hamiltonian
+describes the spin-1/2 XXZ model with twisted periodic boundary conditions.
+\\

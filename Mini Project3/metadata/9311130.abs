@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311130
+From: Michael Douglas <mrd@mike.rutgers.edu>
+Date: Mon, 22 Nov 93 12:03:45 -0500   (20kb)
+
+Title: Conformal Field Theory Techniques in Large N Yang-Mills Theory
+Authors: Michael R. Douglas
+Comments: 18 pp. (LaTeX)
+\\
+  Following some motivating comments on large N two-dimensional Yang-Mills
+theory, we discuss techniques for large N group representation theory, using
+quantum mechanics on the group manifold U(N), its equivalence to a
+quasirelativistic two-dimensional free fermion theory, and bosonization. As
+applications, we compute the free energy for two-dimensional Yang-Mills theory
+on the torus to O(1/N^2), and an interesting approximation to the leading
+answer for the sphere. We discuss the question of whether the free energy for
+the torus has R -> 1/R invariance. A substantially revised version of
+hep-th/9303159 with many new results.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412151
+From: Ramzi Khuri <rrk@hep.physics.mcgill.ca>
+Date: Fri, 16 Dec 1994 17:30:11 -0500 (EST)   (8kb)
+Date (revised): Mon, 19 Dec 1994 16:05:50 -0500 (EST)
+
+Title: Spatial Geometry and the Wu-Yang Ambiguity
+Authors: Daniel Z. Freedman and Ramzi R. Khuri
+Comments: Based on talks given by R. Khuri at PASCOS-94, Syracuse University,
+  May 1994 and at Gursey Memorial Conference I, Istanbul, June 1994, 7 pages,
+  TeX (typo in first Author's name is corrected.)
+Report-no: CERN-TH.7466/94, McGill/94-52
+\\
+  We display continuous families of SU(2) vector potentials $A_i^a(x)$ in 3
+space dimensions which generate the same magnetic field $B^{ai}(x)$ (with det
+$B\neq 0$). These Wu-Yang families are obtained from the Einstein equation
+$R_{ij}=-2G_{ij}$ derived recently via a local map of the gauge field system
+into a spatial geometry with $2$-tensor $G_{ij}=B^a{}_i B^a{}_j\det B$ and
+connection $\Gamma_{jk}^i$ with torsion defined from gauge covariant
+derivatives of $B$.
+\\

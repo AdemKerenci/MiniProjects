@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307151
+From: CERESOLE@to.infn.it
+Date: Sun, 25 Jul 1993 19:06:01 +0200 (WET-DST)   (23kb)
+Date (revised): Mon, 26 Jul 1993 16:20:09 +0200 (WET-DST)
+
+Title: Duality Group for Calabi-Yau 2-Moduli Space
+Authors: A. Ceresole, R. D'Auria and T. Regge
+Comments: 25 pages and 7 figures (1 .ps figure is now attached at end of file),
+  phyzzx, POLFIS-TH. 05/93, DFTT 34/93
+Journal-ref: Nucl.Phys. B414 (1994) 517-537
+\\
+  We present an efficient method for computing the duality group $\Gamma$ of
+the moduli space \cM for strings compactified on a Calabi-Yau manifold
+described by a two-moduli deformation of the quintic polynomial immersed in
+$\CP(4)$, $\cW={1\over5}(\iy_1^5+\cdots+\iy_5^5)-a\,\iy_4^3 \iy_5^2 -b\,
+\iy_4^2 \iy_5^3$. We show that $\Gamma$ is given by a $3$--dimensional
+representation of a central extension of $B_5$, the braid group on five
+strands.
+\\

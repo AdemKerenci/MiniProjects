@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310136
+From: falcioni@npac.syr.edu
+Date: Wed, 20 Oct 1993 18:01:43 -0400   (44kb)
+Date (revised): Tue, 28 Feb 1995 16:05:49 -0500
+
+Title: Two Ising Models Coupled to 2-Dimensional Gravity
+Author: Mark Bowick, Marco Falcioni, Geoffrey Harris and Enzo Marinari
+Comments: revised version w/ typos corrected; standard latex w/ epsf and 9
+  figures
+Report-no: appeared in Nucl. Phys. B 419 (1994) 665-684
+Journal-ref: Nucl.Phys. B419 (1994) 665-684; Erratum-ibid. B424 (1994) 690
+\\
+  To investigate the properties of $c=1$ matter coupled to $2$d{--}gravity we
+have performed large-scale simulations of two copies of the Ising Model on a
+dynamical lattice. We measure spin susceptibility and percolation critical
+exponents using finite-size scaling. We show explicitly how logarithmic
+corrections are needed for a proper comparison with theoretical exponents. We
+also exhibit correlations, mediated by gravity, between the energy and magnetic
+properties of the two Ising species. The prospects for extending this work
+beyond $c=1$ are addressed.
+\\

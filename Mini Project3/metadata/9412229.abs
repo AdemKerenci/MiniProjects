@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412229
+From: sergei@physics.rutgers.edu (Sergei Lukyanov)
+Date: Wed, 28 Dec 94 18:19:42 EST   (20kb)
+
+Title: Integrable Structure of Conformal Field Theory, Quantum KdV Theory and
+  Thermodynamic Bethe Ansatz
+Authors: V. Bazhanov, S. Lukyanov, A. Zamolodchikov
+Comments: 24 pages
+Report-no: CLNS 94/1316, RU-94-98
+Journal-ref: Commun.Math.Phys. 177 (1996) 381-398
+\\
+  We construct the quantum versions of the monodromy matrices of KdV theory.
+The traces of these quantum monodromy matrices, which will be called as ``${\bf
+T}$-operators'', act in highest weight Virasoro modules. The ${\bf
+T}$-operators depend on the spectral parameter $\lambda$ and their expansion
+around $\lambda = \infty$ generates an infinite set of commuting Hamiltonians
+of the quantum KdV system. The ${\bf T}$-operators can be viewed as the
+continuous field theory versions of the commuting transfer-matrices of
+integrable lattice theory. In particular, we show that for the values
+$c=1-3{{(2n+1)^2}\over {2n+3}} , n=1,2,3,... $of the Virasoro central charge
+the eigenvalues of the ${\bf T}$-operators satisfy a closed system of
+functional equations sufficient for determining the spectrum. For the
+ground-state eigenvalue these functional equations are equivalent to those of
+massless Thermodynamic Bethe Ansatz for the minimal conformal field theory
+${\cal M}_{2,2n+3}$; in general they provide a way to generalize the technique
+of Thermodynamic Bethe Ansatz to the excited states. We discuss a
+generalization of our approach to the cases of massive field theories obtained
+by perturbing these Conformal Field Theories with the operator $\Phi_{1,3}$.
+The relation of these ${\bf T}$-operators to the boundary states is also
+briefly described.
+\\

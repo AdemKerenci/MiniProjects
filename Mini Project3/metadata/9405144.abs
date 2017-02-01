@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405144
+From: UDAH101@BAY.CC.KCL.AC.UK
+Date: Sun, 22 May 94 15:24 BST   (8kb)
+
+Title: Embeddings for Non-Critical Superstrings
+Authors: Nathan Berkovits and Nobuyoshi Ohta
+Comments: 8 pages latex, KCL-TH-94-6 and OU-HET 189
+Journal-ref: Phys.Lett. B334 (1994) 72-78
+\\
+  It was previously shown that at critical central charge, $N$-extended
+superstrings can be embedded in $(N+1)$-extended superstrings. In other words,
+$(N=0,c=26)\to (N=1,c=15)\to (N=2,c=6)\to (N=3,c=0) \to (N=4,c=0) $. In this
+paper, we show that similar embeddings are also possible for $N$-extended
+superstrings at non-critical central charge. For any $x$, the embedding is
+$(N=0,c=26+x) \to (N=1,c=15+x) \to (N=2,c=6+x) \to (N=3,c=x) \to (N=4,c=x)$. As
+was conjectured by Vafa, the $(N=2,c=9) \to (N=3,c=3)$ embedding can be used to
+prove that $N=0$ topological strings are special vaccua of N=1 topological
+strings.
+\\

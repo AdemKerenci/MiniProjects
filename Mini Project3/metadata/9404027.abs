@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404027
+From: karas@sci.fian.msk.su (Default Account)
+Date: Wed, 06 Apr 94 14:09:48 MSK   (14kb)
+Date (revised): Tue, 19 Apr 94 15:02:55 MSK
+
+Title: An Algebraic Approach to Solving Evolution Problems in Some Nonlinear
+  Quantum Models
+Authors: Valery P. Karassiov and Andrei B. Klimov (P.N. Lebedev Physical
+  Institute)
+Comments: (11pages). LATEX
+\\
+  A new general Lie-algebraic approach is proposed to solving evolution tasks
+in some nonlinear problems of quantum physics with polynomially deformed Lie
+algebras $su_{pd}(2)$ as their dynamic symmetry algebras.
+  The method makes use of an expansion of the evolution operators by power
+series in the $su_{pd}(2)$ shift operators and a (recursive) reduction of
+finding coefficient functions to solving auxiliary exactly solvable $su(2)$
+problems with quadratic Hamiltonians.
+  PACS numbers: 03.70; 02.20; 42.50
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404005
+From: Andrei Mironov <mironov@fian.free.net>
+Date: Sat, 2 Apr 94 3:08:30 MSD   (44kb)
+
+Title: Unitary matrix integrals in the framework of Generalized Kontsevich
+  Model. I. Brezin-Gross-Witten Model
+Authors: A.Mironov, A.Morozov, G.Semenoff
+Comments: FIAN/TD-16/93, ITEP-M6/93, UBC/S-93/93 (39 pages)
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 5031-5080
+\\
+  We advocate a new approach to the study of unitary matrix models in external
+fields which emphasizes their relationship to Generalized Kontsevich Models
+(GKM) with non-polynomial potentials. For example, we show that the partition
+function of the Brezin-Gross-Witten Model (BGWM), which is defined as an
+integral over unitary $N\times N$ matrices, $\int [dU] e^{\rm{Tr}(J^\dagger U +
+JU^\dagger)}$, can also be considered as a GKM with potential ${\cal V}(X) =
+\frac{1}{X}$. Moreover, it can be interpreted as the generating functional for
+correlators in the Penner model. The strong and weak coupling phases of the
+BGWM are identified with the "character" (weak coupling) and "Kontsevich"
+(strong coupling) phases of the GKM, respectively. This sort of GKM deserves
+classification as $p=-2$ one (i.e. $c=28$ or $c=-2$) when in the Kontsevich
+phase. This approach allows us to further identify the
+Harish-Chandra-Itzykson-Zuber (IZ) integral with a peculiar GKM, which arises
+in the study of $c=1$ theory and, further, with a conventional 2-matrix model
+which is rewritten in Miwa coordinates. Inspired by the considered unitary
+matrix models, some further extensions of the GKM treatment which are inspired
+by the unitary matrix models which we have considered are also developed. In
+particular, as a by-product, a new simple method of fixing the Ward identities
+for matrix models in an external field is presented.
+\\

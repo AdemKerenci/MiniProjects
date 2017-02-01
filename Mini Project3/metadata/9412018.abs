@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412018
+From: <WIPF%CZHETH5A.BITNET@CEARN.cern.ch>
+Date: Fri, 2 Dec 94 13:37 N   (28kb)
+Date (revised): Thu, 15 Dec 94 14:14 N
+
+Title: Gauge Theories in a Bag
+Authors: A. Wipf and S. Duerr
+Comments: 40 pages, LATEX-file
+Report-no: ETH-TH/94-36 and ZU-TH 30/94
+Journal-ref: Nucl.Phys. B443 (1995) 201-232
+\\
+  We investigate multi-flavour gauge theories confined in $d\es 2n$-dimensional
+Euclidean bags. The boundary conditions for the 'quarks' break the axial
+flavour symmetry and depend on a parameter $\theta$. We determine the
+$\theta$-dependence of the fermionic correlators and determinants and find that
+a $CP$-breaking $\theta$-term is generated dynamically. As an application we
+calculate the chiral condensate in multi-flavour $QED_2$ and the abelian
+projection of $QCD_2$. In the second model a condensate is generated in the
+limit where the number of colours, $N_c$, tends to infinity. We prove that the
+condensate in $QCD_2$ decreases with increasing bag radius $R$ at least as
+$\sim R^{-1/N_cN_f}$. Finally we determine the correlators of mesonic currents
+in $QCD_2$.
+\\

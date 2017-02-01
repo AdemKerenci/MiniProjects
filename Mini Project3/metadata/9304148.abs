@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304148
+From: andy@nsfitp.itp.ucsb.edu (Andrew Strominger)
+Date: Wed, 28 Apr 93 10:33:26 PDT   (277kb)
+
+Title: Numerical Analysis of Black Hole Evaporation
+Authors: Tsvi Piran and Andrew Strominger
+Comments: 10 pages, 9 figures in separate uuencoded file
+Report-no: NSF-ITP-93-36
+Journal-ref: Phys.Rev. D48 (1993) 4729-4734
+\\
+  Black hole formation/evaporation in two-dimensional dilaton gravity can be
+described, in the limit where the number $N$ of matter fields becomes large, by
+a set of second-order partial differential equations. In this paper we solve
+these equations numerically. It is shown that, contrary to some previous
+suggestions, black holes evaporate completely a finite time after formation. A
+boundary condition is required to evolve the system beyond the naked
+singularity at the evaporation endpoint. It is argued that this may be
+naturally chosen so as to restore the system to the vacuum. The analysis also
+applies to the low-energy scattering of $S$-wave fermions by four-dimensional
+extremal, magnetic, dilatonic black holes.
+\\

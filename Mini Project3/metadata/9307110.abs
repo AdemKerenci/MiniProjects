@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307110
+From: Yaroslav P. Pugay <pugay@itp.sherna.msk.su>
+Date: Sat, 17 Jul 1993 17:29:07 +0400   (13kb)
+
+Title: Notes on $WGL_n$-Algebras and Quantum Miura Transformation
+Authors: Ya.P.Pugay
+Comments: Landau-tmp-4-93, 15 pages, Tex (vanilla.sty)
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 5023-5039
+\\
+  We start from the quantum Miura transformation [7] for the $W$-algebra
+associated with $GL(n)$ group and find an evident formula for quantum
+L-operator as well as for the action of $W_l$ currents (l=1,..,n) on elements
+of the completely degenerated n-dimensional representation. Quantum formulae
+are obtained through the deformation of the pseudodifferential symbols. This
+deformation is independent of $n$ and preserves Adler's trace. Our main
+instrument of the proof is the notation of pseudodifferential symbol with right
+action which has no counterpart in classical theory.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310154
+From: Sergei V. Kryukov <kryukov@itp.sherna.msk.su>
+Date: Fri, 22 Oct 1993 05:04:10 -0400   (1kb,I)
+Date (revised): Thu, 28 Oct 1993 01:53:21 -0400
+
+Title: Lattice W algebras and quantum groups
+Author: S. V. Kryukov, Ya. P. Pugay
+Comments: 15 pages, no figures
+Report-no: LANDAU-93-TMP-5
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We represent Feigin's construction [11] of lattice W algebras and give some
+simple results: lattice Virasoro and $W_3$ algebras. For simplest case
+$g=sl(2)$ we introduce whole $U_q(sl(2))$ quantum group on this lattice. We
+find simplest two-dimensional module as well as exchange relations and define
+lattice Virasoro algebra as algebra of invariants of $U_q(sl(2))$. Another
+generalization is connected with lattice integrals of motion as the invariants
+of quantum affine group $U_q(\hat{n}_{+})$. We show that Volkov's scheme leads
+to the system of difference equations for the function from non-commutative
+variables.Continium limit of this lattice algebras are considered.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407134
+From: skyang@ph.tsukuba.ac.jp (Sung-Kil Yang)
+Date: Thu, 21 Jul 94 09:54:46 JST   (8kb)
+
+Title: The Topological CP^1 Model and the Large-N Matrix Integral
+Authors: T. Eguchi and S.-K. Yang
+Comments: 13 pages, LaTeX, UT-684
+Journal-ref: Mod.Phys.Lett. A9 (1994) 2893-2902
+\\
+  We discuss the topological $CP^1$ model which consists of the holomorphic
+maps from Riemann surfaces onto $CP^1$. We construct a large-$N$ matrix model
+which reproduces precisely the partition function of the $CP^1$ model at all
+genera of Riemann surfaces. The action of our matrix model has the form ${\rm
+Tr}\, V(M)=-2{\rm Tr}\, M(\log M -1) +2\sum t_{n,P}{\rm Tr}\, M^n(\log M-c_n)
++\sum 1/n\cdot t_{n-1,Q}{\rm Tr}\, M^n~(c_n=\sum_1^n 1/j )$ where $M$ is an
+$N\times N$ hermitian matrix and $t_{n,P}\, (t_{n,Q}),~(n=0,1,2,\cdots)$ are
+the coupling constants of the $n$-th descendant of the puncture (K\"ahler)
+operator.
+\\

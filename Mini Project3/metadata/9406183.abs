@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406183
+From: "Georg-Juettner" <juettner@omega.physik.fu-berlin.de>
+Date: Tue, 28 Jun 1994 18:30:09 +0100 (MET DST)   (25kb)
+
+Title: Completeness of ``Good'' Bethe Ansatz Solutions of a Quantum Group
+  Invariant Heisenberg Model
+Authors: G. Juettner and M. Karowski
+Comments: LaTeX file with LaTeX figures, 24 pages, 1 PiCTeX figure
+Journal-ref: Nucl.Phys. B430 (1994) 615-632
+\\
+  The $sl_q(2)$-quantum group invariant spin 1/2 XXZ-Heisenberg model with open
+boundary conditions is investigated by means of the Bethe ansatz. As is well
+known, quantum groups for $q$ equal to a root of unity possess a finite number
+of ``good'' representations with non-zero q-dimension and ``bad'' ones with
+vanishing q-dimension.  Correspondingly, the state space of an invariant
+Heisenberg chain decomposes into ``good'' and ``bad'' states. A ``good'' state
+may be described by a path of only ``good'' representations. It is shown that
+the ``good'' states are given by all ``good'' Bethe ansatz solutions with roots
+restricted to the first periodicity strip, i.e.  only positive parity strings
+(in the language of Takahashi) are allowed. Applying Bethe's string counting
+technique completeness of the ``good'' Bethe states is proven, i.e. the same
+number of states is found as the number of all restricted path's on the
+$sl_q(2)$-Bratteli diagram. It is the first time that a ``completeness" proof
+for an anisotropic quantum invariant reduced Heisenberg model is performed.
+\\

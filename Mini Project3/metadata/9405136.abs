@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405136
+From: schnittg@physique.ens.fr (SCHNITTGER Jens)
+Date: Fri, 20 May 94 21:02:26 +0200   (53kb)
+
+Title: Continous Spins in 2D Gravity: Chiral Vertex Operators and Local Fields
+Authors: Jean-Loup Gervais and Jens Schnittger
+Comments: 36 pages, LaTex, LPTENS 93/40
+Journal-ref: Nucl.Phys. B431 (1994) 273-314
+\\
+  We construct the exponentials of the Liouville field with continuous powers
+within the operator approach. Their chiral decomposition is realized using the
+explicit Coulomb-gas operators we introduced earlier. {}From the quantum-group
+viewpoint, they are related to semi-infinite highest or lowest weight
+representations with continuous spins. The Liouville field itself is defined,
+and the canonical commutation relations verified, as well as the validity of
+the quantum Liouville field equations.
+  In a second part, both screening charges are considered. The braiding of the
+chiral components is derived and shown to agree with the ansatz of a parallel
+paper of J.-L. G. and Roussel: for continuous spins the quantum group structure
+$U_q(sl(2)) \odot U_{\qhat}(sl(2))$ is a non trivial extension of $U_q(sl(2))$
+and $U_{\qhat}(sl(2))$. We construct the corresponding generalized exponentials
+and the generalized Liouville field.
+\\

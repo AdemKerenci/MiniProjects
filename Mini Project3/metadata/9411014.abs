@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411014
+From: Kenji Hamada <hamada@theory.kek.jp>
+Date: Wed, 02 Nov 1994 20:59:34 +0900   (15kb)
+
+Title: Recursion Relations in Liouville Gravity coupled to Ising Model
+  satisfying Fusion Rules
+Author: K. Hamada
+Comments: Latex, 22 pages
+Report-no: KEK-TH-417
+Journal-ref: Phys.Rev. D51 (1995) 6959-6969
+\\
+  The recursion relations of 2D quantum gravity coupled to the Ising model
+discussed by the author previously are reexamined. We study the case in which
+the matter sector satisfies the fusion rules and only the primary operators
+inside the Kac table contribute. The theory involves unregularized divergences
+in some of correlators. We obtain the recursion relations which form a closed
+set among well-defined correlators on sphere, but they do not have a beautiful
+structure that the bosonized theory has and also give an inconsistent result
+when they include an ill-defined correlator with the divergence. We solve them
+and compute the several normalization independent ratios of the well-defined
+correlators, which agree with the matrix model results.
+\\

@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406211
+From: hli@gnumath.rutgers.edu (haisheng li)
+Date: Thu, 30 Jun 94 22:10:13 EDT   (64kb)
+
+Title: Representation theory and tensor product theory for vertex operator
+  algebras
+Author: Hai-sheng Li
+Comments: 122 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We first formulate a definition of tensor product for two modules for a
+vertex operator algebra in terms of a certain universal property and then we
+give a construction of tensor products. We prove the unital property of the
+adjoint module and the commutativity of tensor products, up to module
+isomorphism. We relate this tensor product construction with Frenkel and Zhu's
+$A(M)$-theory. We give a proof of a formula of Frenkel and Zhu for fusion
+rules. We also give the analogue of the ``Hom''-functor of classical Lie
+algebra theory for vertex operator algebra theory by introducing a notion of
+``generalized intertwining operator.'' We prove that the space of generalized
+intertwining operators from one module to another for a vertex operator algebra
+is a generalized module. From this result we derive a general form of Tsuchiya
+and Kanie's ``nuclear democracy theorem'' for any rational vertex operator
+algebra. This proves that the fusion rules obtained from our construction of
+tensor products are the same as the fusion rules obtained by using Tsuchiya and
+Kanie's method, for both WZW models and minimal models. We prove that if $V$
+satisfies certain ``finiteness'' and ``semisimplicity'' conditions, then there
+exists a unique maximal submodule inside the generalized module. Furthermore,
+we prove that this maximal submodule is isomorphic to the contragredient module
+of a certain tensor product module. This gives another construction of tensor
+product modules and this result turns out to be closely related to Huang and
+Lepowsky's construction.
+\\

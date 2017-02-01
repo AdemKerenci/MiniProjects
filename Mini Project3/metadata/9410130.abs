@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410130
+From: WILLIAMS@physics.uoguelph.ca
+Date: Tue, 18 Oct 1994 14:37:01 EDT   (35kb)
+Date (revised): Thu, 22 Dec 1994 21:07:28 EDT
+
+Title: Two-Loop Quark Self-Energy in a New Formalism: (I) Overlapping
+  Divergences
+Authors: George Leibbrandt, Jimmy Williams
+Comments: 42 pages, 1 typo fixed -- Equation 6.2
+Report-no: CERN-TH.7364/94
+Journal-ref: Nucl. Phys. B440 (1995) 573
+\\
+  A new integration technique for multi-loop Feynman integrals, called the
+matrix method, is developed and then applied to the divergent part of the
+overlapping two-loop quark self-energy function $\,i\Sigma\,$ in the light-
+cone gauge. It is shown that the coefficient of the double-pole term is
+strictly local, even off mass-shell, while the coefficient of the single-pole
+term contains local as well as nonlocal parts. On mass-shell, the single-pole
+part is local, of course. It is worth noting that the original overlapping
+self-energy integral reduces eventually to 10 covariant and 38 noncovariant-
+gauge integrals. We were able to verify explicitly that the divergent parts of
+the 10 double covariant-gauge integrals agreed precisely with those currently
+used to calculate radiative corrections in the Standard Model.
+  Our new technique is amazingly powerful, being applicable to massive and
+massless integrals alike, and capable of handling both covariant-gauge
+integrals and the more difficult noncovariant-gauge integrals. Perhaps the most
+important feature of the matrix method is the ability to execute the
+$4\omega$-dimensional momentum integrations in a single operation, exactly and
+in analytic form. The method works equally well for other axial-type gauges,
+notably the temporal gauge ($n^2>0$) and the pure axial gauge ($n^2<0$).
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302031
+From: abriko@vxcrna.cern.ch (A.Abrikosov Jr)
+Date: Tue, 9 Feb 1993 12:34:12 +0100   (17kb)
+
+Title: White Noise and Heating of Open Quantum Field Fermi Systems
+Authors: A.A.Abrikosov Jr
+Comments: 16pp, LATEX, CERN-TH.6719/92
+\\
+  I study the time evolution of the density matrices of quantum Fermi systems
+interacting with classic external Fermi fields. This interaction either changes
+the temperature of the system or it affects the density of particles. For
+relativistic Dirac fermions, variations of temperature lead to creation
+(annihilation) of particle - antiparticle pairs. The change of the density (or
+of the chemical potential) indicates the existence of the incoming (outgoing)
+flux of fermions from (to) the bath. These changes are independent for the
+different modes and in order to model the thermalization one should adjust the
+spectrum of the noise. The linear time dependences of the densities of
+particles are characteristic for all the processes.
+\\

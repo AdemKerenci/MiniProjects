@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306144
+From: g44169a@nucc.cc.nagoya-u.ac.jp (Shogo Tanimura)
+Date: Mon, 28 Jun 93 13:48:34 JST   (23kb)
+
+Title: Quantum Mechanics on Manifolds
+Authors: Shogo Tanimura
+Comments: 34 pages
+\\
+  A definition of quantum mechanics on a manifold $ M $ is proposed and a
+method to realize the definition is presented. This scheme is applicable to a
+homogeneous space $ M = G / H $. The realization is a unitary representation of
+the transformation group $ G $ on the space of vector bundle-valued functions.
+When $ H \ne \{ e \} $, there exist a number of inequivalent realizations. As
+examples, quantum mechanics on a sphere $ S^n $, a torus $ T^n $ and a
+projective space $ \RP $ are studied. In any case, it is shown that there are
+an infinite number of inequivalent realizations.
+\\

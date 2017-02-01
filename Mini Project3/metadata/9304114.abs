@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304114
+From: edwin langmann <langmann@physics.ubc.ca>
+Date: 23 Apr 93 17:18 -0700   (29kb)
+Date (revised): 23 Apr 93 17:25 -0700
+
+Title: Fermion Current Algebras and Schwinger Terms in 3+1 Dimensions
+Authors: Edwin Langmann
+Comments: 42 pages, UBC 91-32 (revised version, original Jan. 92)
+Journal-ref: Commun.Math.Phys. 162 (1994) 1-32
+\\
+  We discuss the restricted linear group in infinite dimensions modeled by the
+Schatten class of rank $2p=4$ which contains $(3+1)$-dimensional analog of the
+loop groups and is closely related to Yang-Mills theory with fermions in
+$(3+1)$-dimensions. We give an alternative to the construction of the ``highest
+weight'' representation of this group found by Mickelsson and Rajeev. Our
+approach is close to quantum field theory, with the elements of this group
+regarded as Bogoliubov transformations for fermions in an external Yang-Mills
+field. Though these cannot be unitarily implemented in the physically relevant
+representation of the fermion field algebra, we argue that they can be
+implemented by sesquilinear forms, and that there is a (regularized) product of
+forms providing an appropriate group structure. On the Lie algebra level, this
+gives an explicit, non-perturbative construction of fermion current algebras in
+$(3+1)$ space-time dimensions which explicitly shows that the ``wave function
+renormalization'' required for a consistent definition of the currents and
+their Lie bracket naturally leads to the Schwinger term identical with the
+Mickelsson-Rajeev cocycle. Though the explicit form of the Schwinger term is
+given only for the case $p=2$, our arguments apply also to the restricted
+linear groups modeled by Schatten classes of rank $2p=6,8,\ldots$ corresponding
+to current algebras in $(d+1)$- dimensions, $d=5,7,\ldots$.
+\\

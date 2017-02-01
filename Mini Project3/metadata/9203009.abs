@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9203009
+From: MAKEENKO@nbivax.nbi.dk
+Date: Wed, 4 Mar 1992 11:21 +0100   (10kb)
+Date (revised): Tue, 24 Mar 1992 09:39 +0100
+
+Title: Higher Genus Correlators from the Hermitian One-Matrix Model
+Authors: J. Ambjorn, L. Chekhov and Yu. Makeenko
+Comments: 11 pages
+Journal-ref: Phys.Lett. B282 (1992) 341-348
+\\
+  We develop an iterative algorithm for the genus expansion of the hermitian
+$N\times N$ one-matrix model ( = the Penner model in an external field). By
+introducing moments of the external field, we prove that the genus $g$
+contribution to the $m$-loop correlator depends only on $3g-2+m$ lower moments
+($3g-2$ for the partition function). We present the explicit results for the
+partition function and the one-loop correlator in genus one. We compare the
+correlators for the hermitian one-matrix model with those at zero momenta for
+$c=1$ CFT and show an agreement of the one-loop correlators for genus zero.
+\\

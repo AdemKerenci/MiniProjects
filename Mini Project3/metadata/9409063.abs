@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409063
+From: voronov@math.upenn.edu
+Date: Mon, 12 Sep 1994 10:53:11 -0400 (EDT)   (11kb)
+
+Title: Homotopy G-algebras and moduli space operad
+Authors: Murray Gerstenhaber and Alexander A. Voronov
+Comments: 12 pages, Preprint, Max-Planck-Institut in Bonn
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: Internat. Math. Research Notices (1995) 141-153
+\\
+  This paper reemphasizes the ubiquitous role of moduli spaces of algebraic
+curves in associative algebra and algebraic topology. The main results are: (1)
+the space of an operad with multiplication is a homotopy G- (i.e., homotopy
+graded Poisson) algebra; (2) the singular cochain complex is naturally an
+operad; (3) the operad of decorated moduli spaces acts naturally on the de Rham
+complex $\Omega^\bullet X$ of a K\"{a}hler manifold $X$, thereby yielding the
+most general type of homotopy G-algebra structure on $\Omega^\bullet X$. One of
+the reasons to put this operadic nonsense on the physics bulletin board is that
+we use a typical construction of supersymmetric sigma-model, the construction
+of Gromov-Witten invariants in Kontsevich's version.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312183
+From: ocouss@ulb.ac.be (Coussaert Olivier)
+Date: Thu, 23 Dec 93 16:30:59 MET   (15kb)
+
+Title: BRST structure of polynomial Poisson algebras
+Author: A. Dresse and M. Henneaux
+Comments: 16 pages
+Report-no: ULB-PMIF-93/05
+Subj-class: High Energy Physics - Theory; Symplectic Geometry
+\\
+  The BRST structure of polynomial Poisson algebras is investigated. It is
+shown that Poisson algebras provide non trivial models where the full BRST
+recursive procedure is needed. Quadratic Poisson algebras may already be of
+arbitrarily high rank. Explicit examples are provided, for which the first
+terms of the BRST generator are given. The calculations are cumbersome but
+purely algorithmic, and have been treated by means of the computer algebra
+system REDUCE. Our analysis is classical ($=$ non quantum) throughout.
+\\

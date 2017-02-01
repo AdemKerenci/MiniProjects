@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412193
+From: prem@cbpfsu1.cat.cbpf.br (Prem Prakash Srivastava)
+Date: Wed, 21 Dec 94 19:50:50 EDT   (10kb)
+
+Title: Spontaneous Symmetry Breaking Mechanism in Light-Front Quantized Field
+  Theory- (Discretized Formulation)
+Author: Prem P. Srivastava
+Comments: 10 pages, Latex. AIP Conf. Proceedings 272, ed. J. Sanford, pg. 2125;
+  contribuited to XXVI Int. Conf.on HEP, Dallas, Texas, August 1992
+Report-no: SLAC HEP database no. PPF-9222, April 1992
+\\
+  The scalar field is quantized in the discretized light-front framework
+following the {\em standard} Dirac procedure and its infinite volume limit
+taken. The background field and the nonzero mode variables do not commute for
+finite volume; they do so only in the continuum limit. A {\em non-local
+constraint} in the theory relating the two is shown to follow and we must deal
+with it along with the Hamiltonian. At the tree level the constraint leads to a
+description of the spontaneous symmetry breaking. The elimination of the
+constraint would lead to a highly involved light-front Hamiltonian in contrast
+to the one found when we ignore altogether the background field. The
+renormalized constraint equation would also account for the instability of the
+symmetric phase for large enough couping constant.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207054
+From: David Boulware <dgb@galileo.phys.washington.edu>
+Date: Wed, 15 Jul 92 9:57:32 MDT   (52kb)
+
+Title: Quantum Field Theory in Spaces with Closed Time-Like Curves
+Authors: David G. Boulware
+Comments: 48 pages
+Journal-ref: Phys.Rev. D46 (1992) 4421-4441
+\\
+  Gott spacetime has closed timelike curves, but no locally anomalous
+stress-energy. A complete orthonormal set of eigenfunctions of the wave
+operator is found in the special case of a spacetime in which the total deficit
+angle is $2\pi$. A scalar quantum field theory is constructed using these
+eigenfunctions. The resultant interacting quantum field theory is not unitary
+because the field operators can create real, on-shell, particles in the acausal
+region. These particles propagate for finite proper time accumulating an
+arbitrary phase before being annihilated at the same spacetime point as that at
+which they were created. As a result, the effective potential within the
+acausal region is complex, and probability is not conserved. The stress tensor
+of the scalar field is evaluated in the neighborhood of the Cauchy horizon; in
+the case of a sufficiently small Compton wavelength of the field, the stress
+tensor is regular and cannot prevent the formation of the Cauchy horizon.
+\\

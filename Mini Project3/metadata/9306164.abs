@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306164
+From: jmf@avzw02.physik.uni-bonn.de (Jose Miguel Figueroa-O'Farrill)
+Date: Wed, 30 Jun 93 20:17:20 +0200   (17kb)
+Date (revised): Thu, 1 Jul 93 21:58:07 +0200
+Date (revised): Sun, 4 Jul 93 22:33:45 +0200
+
+Title: Affine Algebras, $N{=}2$ Superconformal Algebras, and Gauged WZNW Models
+Authors: J.M. Figueroa-O'Farrill
+Comments: 13 pages, Plain TeX, BONN-HE-93-20. (A note added and a minor change
+  at the end of section 3)
+Journal-ref: Phys. Lett. B316 (1993) 496
+\\
+  We find a canonical $N{=}2$ superconformal algebra (SCA) in the BRST complex
+associated to any affine Lie algebra $\ghhat$ with $\gh$ semisimple. In
+contrast with the similar known results for the Virasoro, $N{=}1$
+supervirasoro, and $\W_3$ algebras, this SCA does not depend on the particular
+``matter'' representation chosen. Therefore it follows that every gauged WZNW
+model with data $(\gg\supset\gh, k)$ has an $N{=}2$ SCA with central charge
+$c=3\dim\gh$ independent of the level $k$. In particular, this associates to
+every embedding $sl(2) \subset \gg$ a one-parameter family of $c{=}9$ $N{=}2$
+supervirasoro algebras. As a by-product of the construction, one can deduce a
+new set of ``master equations'' for generalized $N{=}2$ supervirasoro
+constructions which is simpler than the one considered thus far.
+\\

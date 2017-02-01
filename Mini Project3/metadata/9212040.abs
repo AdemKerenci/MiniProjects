@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212040
+From: matsuo@wambat.math.nagoya-u.ac.jp (Atsushi Matsuo)
+Date: Sat, 5 Dec 92 23:13:22 JST   (13kb)
+Date (revised): Sun, 6 Dec 92 01:12:09 JST
+
+Title: Free field realization of $q$-deformed primary fields for
+  $U_q(\widehat{\sl}_2)$
+Authors: A. Matsuo
+Comments: 22 pages
+\\
+  The $q$-vertex operators of Frenkel and Reshetikhin are studied by means of a
+$q$-deformation of the Wakimoto module for the quantum affine algebra
+$U_q(\widehat{\sl}_2)$ at an arbitrary level $k\ne 0,-2$. A Fock module version
+of the $q$-deformed primary field of spin $j$ is introduced, as well as the
+screening operators which (anti-)commute with the action of
+$U_q(\widehat{\sl}_2)$ up to a total difference of a field. A proof of the
+intertwining property is given for the $q$-vertex operators corresponding to
+the primary fields of spin $j\notin {1 \over2}\Z_{\geq0}$, which is enough to
+treat a general case. A sample calculation of the correlation function is also
+given.
+\\

@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306096
+From: Toshiya Kawai <kawai@theory.kek.jp>
+Date: Mon, 21 Jun 93 15:19:05 JST   (17kb)
+Date (revised): Mon, 28 Jun 93 14:29:47 JST
+
+Title: Elliptic Genera and N=2 Superconformal Field Theory
+Authors: Toshiya Kawai, Yasuhiko Yamada and Sung-Kil Yang
+Comments: 24 pages, harvmac (citation corrected, reference added)
+Report-no: KEK-TH-362, KEK preprint 93-51
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl. Phys. B414 (1994) 191-212
+\\
+  Recently Witten proposed to consider elliptic genus in $N=2$ superconformal
+field theory to understand the relation between $N=2$ minimal models and
+Landau-Ginzburg theories. In this paper we first discuss the basic properties
+satisfied by elliptic genera in $N=2$ theories. These properties are confirmed
+by some fundamental class of examples. Then we introduce a generic procedure to
+compute the elliptic genera of a particular class of orbifold theories, {\it
+i.e.\/} the ones orbifoldized by $e^{2\pi iJ_0}$ in the Neveu-Schwarz sector.
+This enables us to calculate the elliptic genera for Landau-Ginzburg orbifolds.
+When the Landau-Ginzburg orbifolds allow an interpretation as target manifolds
+with $SU(N)$ holonomy we can compare the expressions with the ones obtained by
+orbifoldizing tensor products of $N=2$ minimal models. We also give sigma model
+expressions of the elliptic genera for manifolds of $SU(N)$ holonomy.
+\\

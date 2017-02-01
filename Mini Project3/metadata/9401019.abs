@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401019
+From: Robert.Budzynski@fuw.edu.pl
+Date: Thu, 6 Jan 94 17:37:31 +0100   (19kb)
+
+Title: Quantum Principal Fiber Bundles: Topological Aspects
+Authors: R. J. Budzynski and W. Kondracki
+Comments: 29 pages, LaTeX, IM PAN preprint # 517
+\\
+  We introduce the notion of locally trivial quantum principal bundles. The
+base space and total space are compact quantum spaces (unital
+$C^{\star}$-algebras), the structure group is a compact matrix quantum group.
+We prove that a quantum bundle admits sections if and only if it is trivial.
+Using a quantum version of \v{C}ech cocycles, we obtain a reconstruction
+theorem for quantum principal bundles. The classification of bundles over a
+given quantum space as a base space is reduced to the corresponding problem,
+but with an ordinary classical group playing the role of structure group. Some
+explicit examples are considered.
+\\

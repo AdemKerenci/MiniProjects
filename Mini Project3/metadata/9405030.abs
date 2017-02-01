@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405030
+From: "Gustav W. Delius" <delius@PHYSF.UNI-BIELEFELD.DE>
+Date: Wed, 04 May 1994 20:26:31 EDT   (22kb)
+Date (revised): Sun, 08 May 1994 15:58:57 EDT
+
+Title: On the Construction of Trigonometric Solutions of the Yang-Baxter
+  Equation
+Authors: Gustav W. Delius, Mark D. Gould and Yao-Zhong Zhang
+Comments: latex file, 29 pages, Universitaet Bielefeld and University of
+  Queensland preprint, BI-TP-94/13, UQMATH-94-02 (minor correction: in eq.
+  (4.63) the number 32 should be replaced by 36 and in eq. (4.64) -16 becomes
+  -18 and -10 becomes -8.)
+Journal-ref: Nucl.Phys. B432 (1994) 377-403
+\\
+  We describe the construction of trigonometric R-matrices corresponding to the
+(multiplicity-free) tensor product of any two irreducible representations of a
+quantum algebra $U_q(\G)$. Our method is a generalization of the tensor product
+graph method to the case of two different representations. It yields the
+decomposition of the R-matrix into projection operators. Many new examples of
+trigonometric R-matrices (solutions to the spectral parameter dependent
+Yang-Baxter equation) are constructed using this approach.
+\\

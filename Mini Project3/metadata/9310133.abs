@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310133
+From: albert@max.physics.sunysb.edu (Giuseppe Albertini)
+Date: Wed, 20 Oct 1993 14:45:45 -0400   (19kb)
+
+Title: Fateev-Zamolodchikov spin chain: excitation spectrum, completeness and
+  thermodynamics
+Author: Giuseppe Albertini
+Comments: 30 pages, Latex
+Report-no: SB-ITP-93-64
+Journal-ref: Int. J. Mod. Phys. A9 (1994) 4921-4948
+\\
+  The sector of zero $Z_{N}$-charge is studied for the ferromagnetic (FM) and
+antiferromagnetic (AFM) version of the $Z_{N}\times Z_{2}$ invariant
+Fateev-Zamolodchikov quantum spin chain. We conjecture that the relevant Bethe
+ansatz equations should admit, beside the usual string-like solutions,
+exceptional multiplets, and a number of non-physical solutions. Once the
+physical ones are identified, we show how to get completeness and the gapless
+excitation spectrum. The central charge is computed from the specific heat and
+found to be $c=2\frac{N-1}{N+2}$ (FM) and $c=1$ (AFM).
+\\

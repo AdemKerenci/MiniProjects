@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403013
+From: leontak@math.sunysb.edu (Leon Takhtajan)
+Date: Wed, 2 Mar 94 15:14:56 EST   (7kb)
+
+Title: Liouville Theory: Ward Identities for Generating Functional and Modular
+  Geometry
+Authors: Leon Takhtajan
+Comments: 8 pages, plain LaTex
+Journal-ref: Mod.Phys.Lett. A9 (1994) 2293-2300
+\\
+  We continue the study of quantum Liouville theory through Polyakov's
+functional integral \cite{Pol1,Pol2}, started in \cite{T1}. We derive the
+perturbation expansion for Schwinger's generating functional for connected
+multi-point correlation functions involving stress-energy tensor, give the
+``dynamical'' proof of the Virasoro symmetry of the theory and compute the
+value of the central charge, confirming previous calculation in \cite{T1}. We
+show that conformal Ward identities for these correlation functions contain
+such basic facts from K\"{a}hler geometry of moduli spaces of Riemann surfaces,
+as relation between accessory parameters for the Fuchsian uniformization,
+Liouville action and Eichler integrals, K\"{a}hler potential for the
+Weil-Petersson metric, and local index theorem. These results affirm the
+fundamental role, that universal Ward identities for the generating functional
+play in Friedan-Shenker modular geometry \cite{FS}.
+\\

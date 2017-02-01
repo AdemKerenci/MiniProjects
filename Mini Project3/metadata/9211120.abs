@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211120
+From: michael terhoeven <UNP044@IBM.rhrz.uni-bonn.de>
+Date: Wed, 25 Nov 92 10:09:20 MEZ   (7kb)
+Date (revised): Tue, 01 Dec 92 10:14:10 MEZ
+
+Title: Lift of dilogarithm to partition identities
+Authors: Michael Terhoeven
+Comments: 9 pages, preprint BONN-HE-92-36, (a few typos were corrected, also I
+  tried get rid of some of the notorious degeneracies of the type p=p'=m=r=s
+  and n=n+/-1)
+\\
+  For the whole set of dilogarithm identities found recently using the
+thermodynamic Bethe-Ansatz for the $ADET$ series of purely elastic scattering
+theories we give partition identities which involve characters of those
+conformal field theories which correspond to the UV-limits of the scattering
+theories. These partition identities in turn allow to derive the dilogarithm
+identities using modular invariance and a saddle point approximation. We
+conjecture on possible generalizations of this correspondance, namely, a lift
+from dilogarithm to partition identities.
+\\

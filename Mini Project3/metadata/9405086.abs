@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405086
+From: netah@thew02.physik.uni-bonn.de (Rolf Schimmrigk)
+Date: Fri, 13 May 94 09:09:03 +0200   (38kb)
+Date (revised): Sun, 15 May 94 21:25:02 +0200
+
+Title: Mirror Symmetry and String Vacua from a Special Class of Fano Varieties
+Authors: Rolf Schimmrigk
+Comments: 54 pp, 2 epsf figures
+Report-no: BONN-TH-94-007
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 3049-3096
+\\
+  Because of the existence of rigid Calabi--Yau manifolds, mirror symmetry
+cannot be understood as an operation on the space of manifolds with vanishing
+first Chern class. In this article I continue to investigate a particular type
+of K\"ahler manifolds with positive first Chern class which generalize
+Calabi--Yau manifolds in a natural way and which provide a framework for
+mirrors of rigid string vacua. This class is comprised of a special type of
+Fano manifolds which encode crucial information about ground states of the
+superstring. It is shown in particular that the massless spectra of
+$(2,2)$--supersymmetric vacua of central charge $\hat{c}=D_{crit}$ can be
+derived from special Fano varieties of complex dimension $(D_{crit}+2(Q-1))$,
+$Q>1$, and that in certain circumstances it is even possible to embed
+Calabi--Yau manifolds into such higher dimensional spaces. The constructions
+described here lead to new insight into the relation between exactly solvable
+models and their mean field theories on the one hand and their corresponding
+Calabi--Yau manifolds on the other. It is furthermore shown that Witten's
+formulation of the Landau--Ginzburg/Calabi--Yau relation can be applied to the
+present framework as well.
+\\

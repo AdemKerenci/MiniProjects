@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309124
+From: Petr Horava <horava@rabi.uchicago.edu>
+Date: Wed, 22 Sep 93 11:44:46 CDT   (30kb)
+
+Title: Equivariant Topological Sigma Models
+Author: Petr Horava
+Comments: 39 pages, 6 figures (available upon request); pure LaTeX file. [[The
+  paper was originally published as Prague preprint PRA-HEP-90/18 in December
+  1990. As the LaTeX file is still in demand, this is the original version with
+  just some minor changes and misprint corrections; a Note has been added to
+  update the state of the art.]]
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B418 (1994) 571-602
+\\
+  We identify and examine a generalization of topological sigma models suitable
+for coupling to topological open strings. The targets are Kahler manifolds with
+a real structure, i.e. with an involution acting as a complex conjugation,
+compatible with the Kahler metric. These models satisfy axioms of what might be
+called ``equivariant topological quantum field theory,'' generalizing the
+axioms of topological field theory as given by Atiyah. Observables of the
+equivariant topological sigma models correspond to cohomological classes in an
+equivariant cohomology theory of the targets. Their correlation functions can
+be computed, leading to intersection theory on instanton moduli spaces with a
+natural real structure. An equivariant $CP^1\times CP^1$ model is discussed in
+detail, and solved explicitly. Finally, we discuss the equivariant formulation
+of topological gravity on surfaces of unoriented open and closed string theory,
+and find a $Z_2$ anomaly explaining some problems with the formulation of
+topological open string theory.
+\\

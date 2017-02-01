@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408006
+From: Yao-Zhong Zhang <yzz@maths.uq.oz.au>
+Date: Tue, 2 Aug 94 09:47:10 EST   (22kb)
+Date (revised): Thu, 27 Oct 94 09:23:49 EST
+
+Title: On Type-I Quantum Affine Superalgebras
+Author: Gustav W. Delius, Mark D. Gould, Jon R. Links, Yao-Zhong Zhang
+Comments: 23 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Int.J.Mod.Phys. A10 (1995) 3259-3282
+\\
+  The type-I simple Lie-superalgebras are $sl(m|n)$ and $osp(2|2n)$. We study
+the quantum deformations of their untwisted affine extensions
+$U_q(sl(m|n)^{(1)})$ and $U_q(osp(2|2n)^{(1)})$. We identify additional
+relations between the simple generators (``extra $q$-Serre relations") which
+need to be imposed to properly define $\uqgh$ and $U_q(osp(2|2n)^{(1)})$. We
+present a general technique for deriving the spectral parameter dependent
+R-matrices from quantum affine superalgebras. We determine the R-matrices for
+the type-I affine superalgebra $U_q(sl(m|n)^{(1)})$ in various representations,
+thereby deriving new solutions of the spectral-dependent Yang-Baxter equation.
+In particular, because this algebra possesses one-parameter families of
+finite-dimensional irreps, we are able to construct R-matrices depending on two
+additional spectral-like parameters, providing generalizations of the
+free-fermion model.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407167
+From: "Igor Klebanov" <klebanov@puhep1.Princeton.EDU>
+Date: Mon, 25 Jul 94 16:43:37 -0400   (10kb)
+Date (revised): Tue, 2 Aug 94 17:04:38 -0400
+
+Title: Touching Random Surfaces and Liouville Gravity
+Authors: Igor R. Klebanov
+Comments: 15 pages, PUPT-1486 (last paragraph of sec. 2 revised)
+Journal-ref: Phys.Rev. D51 (1995) 1836-1841
+\\
+  Large $N$ matrix models modified by terms of the form $ g(\Tr\Phi^n)^2$
+generate random surfaces which touch at isolated points. Matrix model results
+indicate that, as $g$ is increased to a special value $g_t$, the string
+susceptibility exponent suddenly jumps from its conventional value $\gamma$ to
+${\gamma\over\gamma-1}$. We study this effect in \L\ gravity and attribute it
+to a change of the interaction term from $O e^{\alpha_+ \phi}$ for $g<g_t$ to
+$O e^{\alpha_- \phi}$ for $g=g_t$ ($\alpha_+$ and $\alpha_-$ are the two roots
+of the conformal invariance condition for the \L\ dressing of a matter operator
+$O$). Thus, the new critical behavior is explained by the unconventional branch
+of \L\ dressing in the action.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312213
+From: tdparticle@glas.apc.org (Andrei Mironov)
+Date: Fri, 31 Dec 93 17:43 MSK   (16kb)
+Date (revised): Wed, 12 Jan 94 20:08 MSK
+
+Title: On a c-number quantum $\tau$-function
+Authors: A. Mironov, A. Morozov, L. Vinet
+Comments: 12 pages, ITEP M-8/93, FIAN/TD-22/93, CRM-1934 (minor changes)
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Theor.Math.Phys. 100 (1995) 890-899; Teor.Mat.Fiz. 100 (1994)
+  119-131
+\\
+  We first review the properties of the conventional $\tau$-functions of the KP
+and Toda-lattice hierarchies. A straightforward generalization is then
+discussed. It corresponds to passing from differential to finite-difference
+equations; it does not involve however the concept of operator-valued
+$\tau$-function nor the one associated with non-Cartanian (level $k\ne1$)
+algebras. The present study could be useful to understand better $q$-free
+fields and their relation to ordinary free fields.
+\\

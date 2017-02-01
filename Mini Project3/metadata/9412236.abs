@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412236
+From: drm@math.duke.edu (David R. Morrison)
+Date: Thu, 29 Dec 94 22:31:09 EST   (86kb)
+Date (revised): Thu, 16 Feb 95 23:18:30 EST
+
+Title: Summing the Instantons: Quantum Cohomology and Mirror Symmetry in Toric
+  Varieties
+Authors: David R. Morrison and M. Ronen Plesser
+Comments: 91 pages and 3 figures, harvmac with epsf (Changes in this version:
+  one minor correction, one clarification, one new reference)
+Report-no: DUKE-TH-94-78, IASSNS-HEP-94/82
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B440 (1995) 279-354
+\\
+  We use the gauged linear sigma model introduced by Witten to calculate
+instanton expansions for correlation functions in topological sigma models with
+target space a toric variety $V$ or a Calabi--Yau hypersurface $M \subset V$.
+In the linear model the instanton moduli spaces are relatively simple objects
+and the correlators are explicitly computable; moreover, the instantons can be
+summed, leading to explicit solutions for both kinds of models. In the case of
+smooth $V$, our results reproduce and clarify an algebraic solution of the $V$
+model due to Batyrev. In addition, we find an algebraic relation determining
+the solution for $M$ in terms of that for $V$. Finally, we propose a
+modification of the linear model which computes instanton expansions about any
+limiting point in the moduli space. In the smooth case this leads to a (second)
+algebraic solution of the $M$ model. We use this description to prove some
+conjectures about mirror symmetry, including the previously conjectured
+``monomial-divisor mirror map'' of Aspinwall, Greene, and Morrison.
+\\

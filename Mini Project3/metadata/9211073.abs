@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211073
+From: gcleaver@theory3.caltech.edu (Gerald Cleaver)
+Date: Mon, 16 Nov 92 13:32:15 PST   (11kb)
+
+Title: On Modular Invariant Partition Functions for Tensor Products of
+  Conformal Field Theories
+Authors: Gerald B. Cleaver and David C. Lewellen
+Comments: 13 pages, NSF-ITP-92-148, CALT-68-1754, phyzzx
+Journal-ref: Phys.Lett. B300 (1993) 354-360
+\\
+  We give two results concerning the construction of modular invariant
+partition functions for conformal field theories constructed by tensoring
+together other conformal field theories. First we show how the possible modular
+invariants for the tensor product theory are constrained if the allowed modular
+invariants of the individual conformal field theory factors have been
+classified. We illustrate the use of these constraints for theories of the type
+$SU(2)_{K_A}\otimes SU(2)_{K_B}$, finding all consistent theories for $K_A,K_B$
+odd. Second we show how known diagonal modular invariants can be used to
+construct some inherently asymmetric ones where the holomorphic and
+anti-holomorphic theories do not share the same chiral algebra. Some explicit
+examples are given.
+\\

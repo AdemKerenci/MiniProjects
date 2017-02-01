@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208040
+From: Cobi Sonnenschein <cobi@physics.ubc.ca>
+Date: 14 Aug 92 0:55 +0100   (20kb)
+
+Title: On the twisted G/H topological models
+Authors: O. Aharony, O. Ganor, J. Sonnenschein and S. Yankielowicz
+Comments: 27 pages
+Report-no: TAUP-1990-92
+Journal-ref: Nucl.Phys. B399 (1993) 560-580
+\\
+  The twisted G/H models are constructed as twisted supersymmetric gauged WZW
+models. We analyze the case of $G=SU(N)$, $H=SU(N_1)\times ...\times
+SU(N_n)\times U(1)^r$ with $rank\ G =\ rank\ H$, and discuss possible
+generalizations. We introduce a non-abelian bosonization of the $(1,0)$ ghost
+system in the adjoint of $H$ and in G/H. By computing chiral anomalies in the
+latter picture we write the quantum action as a decoupled sum of ``matter",
+gauge and ghost sectors. The action is also derived in the unbosonized version.
+We invoke a free field parametrization and extract the space of physical states
+by computing the cohomology of $Q$ , the sum of the BRST gauge-fixing charge
+and the twisted supersymmetry charge. For a given $G$ we briefly discuss the
+relation between the various G/H models corresponding to different choices of
+$H$. The choice $H=G$ corresponds to the topological G/G theory.
+\\

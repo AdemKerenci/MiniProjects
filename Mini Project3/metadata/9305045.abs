@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305045
+From: baez@math.ucr.edu
+Date: Tue, 11 May 1993 14:35:47 -0400 (EDT)   (21kb)
+
+Title: Diffeomorphism-invariant generalized measures on the space of
+  connections modulo gauge transformations
+Author: John C. Baez
+Comments: 23 pages
+Subj-class: High Energy Physics - Theory; Functional Analysis
+\\
+  The notion of a measure on the space of connections modulo gauge
+transformations that is invariant under diffeomorphisms of the base manifold is
+important in a variety of contexts in mathematical physics and topology. At the
+formal level, an example of such a measure is given by the Chern-Simons path
+integral. Certain measures of this sort also play the role of states in quantum
+gravity in Ashtekar's formalism. These measures define link invariants, or more
+generally multiloop invariants; as noted by Witten, the Chern-Simons path
+integral gives rise to the Jones polynomial, while in quantum gravity this
+observation is the basis of the loop representation due to Rovelli and Smolin.
+Here we review recent work on making these ideas mathematically rigorous, and
+give a rigorous construction of diffeomorphism-invariant measures on the space
+of connections modulo gauge transformations generalizing the recent work of
+Ashtekar and Lewandowski. This construction proceeds by doing lattice gauge
+theory on graphs analytically embedded in the base manifold.
+\\

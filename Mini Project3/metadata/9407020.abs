@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407020
+From: Richard Szabo <szabo@physics.ubc.ca>
+Date: Mon, 4 Jul 1994 20:26:17 -0700 (PDT)   (27kb)
+
+Title: Canonical BF-type Topological Field Theory and Fractional Statistics of
+  Strings
+Authors: Mario Bergeron, Gordon W. Semenoff and Richard J. Szabo
+Comments: 30 pages, plain TeX; MITCTP#2326, UBCTP-94-004
+Journal-ref: Nucl.Phys. B437 (1995) 695-722
+\\
+  We consider BF-type topological field theory coupled to non-dynamical
+particle and string sources on spacetime manifolds of the form
+$\IR^1\times\MT$, where $\MT$ is a 3-manifold without boundary. Canonical
+quantization of the theory is carried out in the Hamiltonian formalism and
+explicit solutions of the Schr\"odinger equation are obtained. We show that the
+Hilbert space is finite dimensional and the physical states carry a
+one-dimensional projective representation of the local gauge symmetries. When
+$\MT$ is homologically non-trivial the wavefunctions in addition carry a
+multi-dimensional projective representation, in terms of the linking matrix of
+the homology cycles of $\MT$, of the discrete group of large gauge
+transformations. The wavefunctions also carry a one-dimensional representation
+of the non-trivial linking of the particle trajectories and string surfaces in
+$\MT$. This topological field theory therefore provides a phenomenological
+generalization of anyons to (3 + 1) dimensions where the holonomies
+representing fractional statistics arise from the adiabatic transport of
+particles around strings. We also discuss a duality between large gauge
+transformations and these linking operations around the homology cycles of
+$\MT$, and show that this canonical quantum field theory provides novel quantum
+representations of the cohomology of $\MT$ and its associated motion group.
+\\

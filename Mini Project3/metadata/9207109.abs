@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207109
+From: imsc!jayaram@iitm.ernet.in (T. Jayaraman)
+Date: Thu, 30 Jul 92 15:26:28 GMT   (18kb)
+
+Title: Chiral Rings and Physical States in c<1 String Theory
+Authors: S. Govindarajan, T. Jayaraman and V. John
+Comments: 20 pages, harvmac, 4 figures (drawn using LaTeX appended to the end
+  of the file), IMSc--92/30
+Journal-ref: Nucl.Phys. B402 (1993) 118-138
+\\
+  We show how the double cohomology of the String and Felder BRST charges
+naturally leads to the ring structure of $c<1$ strings. The chiral ring is a
+ring of polynomials in two variables modulo an equivalence relation of the form
+$x^p \simeq y^{p+1}$ for the (p+1,p) model. We also study the states
+corresponding to the edges of the conformal grid whose inclusion is crucial for
+the closure of the ring. We introduce candidate operators that correspond to
+the observables of the matrix models. Their existence is motivated by the
+relation of one of the screening operators of the minimal model to the zero
+momentum dilaton.
+\\

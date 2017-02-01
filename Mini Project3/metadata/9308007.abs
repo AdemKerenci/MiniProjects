@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308007
+From: Robert Marnelius <tferm@fy.chalmers.se>
+Date: Tue, 3 Aug 93 11:23:32 +0200   (10kb)
+
+Title: Gauge fixing and abelianization in simple BRST quantization
+Authors: Robert Marnelius
+Comments: 20, G\"{o}teborg ITP 93-17, latexfile
+Journal-ref: Nucl. Phys. B412 (1994) 817
+\\
+  In a previous paper \cite{Simple} it was shown that the BRST charge $Q$ for
+any gauge model with a Lie algebra symmetry may be decomposed as
+$Q=\del+\del^{\dag},\;\;\;\del^2=\del^{\dag 2}=0,\;\;\;[\del, \del^{\dag}]_+=0$
+provided dynamical Lagrange multipliers are used but without introducing other
+matter variables in $\del$ than the gauge generators in $Q$. In this paper
+further decompositions are derived but now by means of gauge fixing operators.
+As in \cite{Simple} it is shown that $\del=c^{\dag a}\phi_a$ where $c^a$ are
+new ghosts and $\phi_a$ are nonhermitian variables satisfying the gauge
+algebra. However, in distinction to \cite{Simple} also solutions of the form
+$\del=c^{\dag a}A_a$ where $A_a$ satisfy an abelian algebra is derived
+(abelianization). By means of a bigrading the BRST condition reduces to
+$\del|ph\hb=\del^{\dag}|ph\hb=0$ on inner product spaces whose general
+solutions are expressed in terms of the solutions to a proper Dirac
+quantization. Thus, the procedure provides for inner products for the solutions
+of a Dirac quantization.
+\\

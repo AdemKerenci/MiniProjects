@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307071
+From: AZADRA%USPIF%brfapesp.bitnet@UICVM.UIC.EDU
+Date: Fri, 9 Jul 1993 15:19 BSC (-0300 C)   (24kb)
+
+Title: The Algebra of Non-Local Charges in Non-Linear Sigma Models
+Authors: E. Abdalla, M.C.B. Abdalla, J.C. Brunelli, A.Zadra
+Comments: 27 pages + figures available via ftp, Plain TeX, IFUSP/P-1061
+Journal-ref: Commun.Math.Phys. 166 (1994) 379-396
+\\
+  We obtain the exact Dirac algebra obeyed by the conserved non-local charges
+in bosonic non-linear sigma models. Part of the computation is specialized for
+a symmetry group $O(N)$. As it turns out the algebra corresponds to a cubic
+deformation of the Kac-Moody algebra. The non-linear terms are computed in
+closed form. In each Dirac bracket we only find highest order terms (as
+explained in the paper), defining a saturated algebra. We generalize the
+results for the presence of a Wess-Zumino term. The algebra is very similar to
+the previous one, containing now a calculable correction of order one unit
+lower.
+\\

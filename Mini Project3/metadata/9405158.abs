@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405158
+From: Sigurd Schelstraete <Sigurd.Schelstraete@rug.ac.be>
+Date: Wed, 25 May 1994 10:40:28 +0200 (MET DST)   (8kb)
+
+Title: Large N limit of O(N) vector models
+Authors: Sigurd Schelstraete and Henri Verschelde
+Comments: 12 pages
+Journal-ref: Phys. Lett. B332 (1994) 36-43
+\\
+  Using a simple identity between various partial derivatives of the energy of
+the vector model in 0+0 dimensions, we derive explicit results for the
+coefficients of the large N expansion of the model. These coefficients are
+functions in a variable $\rho^2$, which is the expectation value of the two
+point function in the limit $N=\infty$. These functions are analytic and have
+only one (multiple) pole in $\rho^2$. We show to all orders that these
+expressions obey a given general formula. Using this formula it is possible to
+derive the double scaling limit in an alternative way. All the results obtained
+for the double scaling limit agree with earlier calculations. (to be published
+in Physics Letters B)
+\\

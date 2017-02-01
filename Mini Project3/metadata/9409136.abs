@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409136
+From: drabant@fwi.uva.nl (Bernhard Drabant )
+Date: Fri, 23 Sep 1994 09:14:40 +0200   (14kb)
+
+Title: Braided Supersymmetry and (CO-)HOMOLOGY
+Authors: Bernhard Drabant
+Comments: 15 pages, plain TEX (with input of amssym.def, amssym.tex and local
+  amstex), UVA-FWI-Report 94-18
+\\
+  Within the framework of braided or quasisymmetric monoidal categories braided
+Q-supersymmetry is investigated, where Q is a certain functorial isomorphism in
+a braided symmetric monoidal category. For an ordinary (co-)quasitriangular
+Hopf algebra (H,R) a braided monoidal category of H-(co-)modules with braiding
+induced by the R-matrix is considered. It can be shown for a specific class of
+Q-supersymmetries in this category that every braided Q-super-Hopf algebra B
+admits an ordinary Q-super-Hopf algebra structure on the cross product BxH such
+that H is a sub-Hopf algebra and B is a subalgebra in BxH. Applying this
+Q-bosonization to the quantum Koszul complex (K(q,g),d) of the quantum
+enveloping algebra Uq(g) for Lie algebras g associated with the root systems A,
+B, C and D one obtains a classical super-Hopf algebra structure on (K(q,g),d)
+where the structure maps are morphisms of modules with differentiation.
+\\

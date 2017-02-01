@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403108
+From: zynda@guinness.ias.edu (Erika Zynda)
+Date: Fri, 18 Mar 94 10:54:30 EST   (23kb)
+
+Title: Geometric and Renormalized Entropy in Conformal Field Theory
+Authors: C. Holzhey, F. Larsen and F. Wilczek
+Comments: 35 pages, 4 figures available on request to zynda@guinness.ias.edu,
+  use Phyzzx, PUPT-1454, IASSNS-HEP 93/88
+Journal-ref: Nucl.Phys. B424 (1994) 443-467
+\\
+  In statistical physics, useful notions of entropy are defined with respect to
+some coarse graining procedure over a microscopic model. Here we consider some
+special problems that arise when the microscopic model is taken to be
+relativistic quantum field theory. These problems are associated with the
+existence of an infinite number of degrees of freedom per unit volume. Because
+of these the microscopic entropy can, and typically does, diverge for sharply
+localized states. However the difference in the entropy between two such states
+is better behaved, and for most purposes it is the useful quantity to consider.
+In particular, a renormalized entropy can be defined as the entropy relative to
+the ground state. We make these remarks quantitative and precise in a simple
+model situation: the states of a conformal quantum field theory excited by a
+moving mirror. From this work, we attempt to draw some lessons concerning the
+``information problem'' in black hole physics
+\\

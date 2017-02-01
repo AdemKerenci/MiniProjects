@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304150
+From: rinat@max.physics.sunysb.edu (Rinat Kedem)
+Date: Wed, 28 Apr 1993 19:35:08 -0500 (EDT)   (24kb)
+
+Title: Virasoro Characters from Bethe Equations for the Critical Ferromagnetic
+  Three-State Potts Model
+Authors: S. Dasmahapatra, R. Kedem, B.M. McCoy and E. Melzer
+Comments: 36 pages in LaTeX, ITP-SB-93-17
+\\
+  We obtain new fermionic sum representations for the Virasoro characters of
+the confromal field theory describing the ferromagnetic three-state Potts spin
+chain. These arise from the fermionic quasi-particle excitations derived from
+the Bethe equations for the eigenvalues of the hamiltonian. In the conformal
+scaling limit, the Bethe equations provide a description of the spectrum in
+terms of one genuine quasi-particle, and two ``ghost'' excitations with a
+limited microscopic momentum range. This description is reflected in the
+structure of the character formulas, and suggests a connection with the
+integrable perturbation of dimensions (2/3,2/3)$^+$ which breaks the $S_3$
+symmetry of the conformal field theory down to $Z_2$.
+\\

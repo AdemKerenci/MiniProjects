@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304085
+From: giorgio@lpthe.jussieu.fr (Giorgio GIAVARINI)
+Date: Tue, 20 Apr 93 14:54:17 +0200   (23kb)
+
+Title: Exact Solution of the general Non Intersecting String Model
+Authors: H.J. de Vega and G. Giavarini
+Comments: 29 pages plus 2 figures appended as ps files, phyzzx, LPTHE 93/16
+Journal-ref: Nucl.Phys. B410 (1993) 550-576
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+\\
+  We present a thorough analysis of the Non Intersecting String (NIS) model and
+its exact solution. This is an integrable $q$-states vertex model describing
+configurations of non-intersecting polygons on the lattice. The exact
+eigenvalues of the transfer matrix are found by analytic Bethe Ansatz. The
+Bethe Ansatz equations thus found are shown to be equivalent to those for a
+mixed spin model involving both 1/2 and infinite spin. This indicates that the
+NIS model provides a representation of the quantum group $SU(2)_{\hat q}$
+($|\hat q|\not= 1$) corresponding to spins $s=1/2$ and $s=\infty$. The
+partition function and the excitations in the thermodynamic limit are computed.
+\\

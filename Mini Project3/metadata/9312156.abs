@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312156
+From: hsaleur@physics.usc.edu (Hubert Saleur)
+Date: Fri, 17 Dec 93 13:47:16 PST   (41kb)
+
+Title: Representations of the Virasoro algebra from lattice models
+Authors: W.M.Koo and H.Saleur
+Comments: 52 pages
+Journal-ref: Nucl.Phys. B426 (1994) 459-504
+\\
+  We investigate in details how the Virasoro algebra appears in the scaling
+limit of the simplest lattice models of XXZ or RSOS type. Our approach is
+straightforward but to our knowledge had never been tried so far. We simply
+formulate a conjecture for the lattice stress-energy tensor motivated by the
+exact derivation of lattice global Ward identities. We then check that the
+proper algebraic relations are obeyed in the scaling limit. The latter is under
+reasonable control thanks to the Bethe-ansatz solution. The results, which are
+mostly numerical for technical reasons, are remarkably precise. They are also
+corroborated by exact pieces of information from various sources, in particular
+Temperley-Lieb algebra representation theory. Most features of the Virasoro
+algebra (like central term, null vectors, metric properties...) can thus be
+observed using the lattice models. This seems of general interest for lattice
+field theory, and also more specifically for finding relations between
+conformal invariance and lattice integrability, since basis for the irreducible
+representations of the Virasoro algebra should now follow (at least in
+principle) from Bethe-ansatz computations.
+\\

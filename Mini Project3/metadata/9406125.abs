@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406125
+From: fendley@skat.usc.edu (Paul Fendley)
+Date: Sat, 18 Jun 94 09:14:18 -0700   (20kb)
+
+Title: Exact solution of a massless scalar field with a relevant boundary
+  interaction
+Authors: P. Fendley, H. Saleur and N.P. Warner
+Comments: 23 pages, USC-94-10
+Journal-ref: Nucl.Phys. B430 (1994) 577-596
+\\
+  We solve exactly the "boundary sine-Gordon" system of a massless scalar field
+\phi with a \cos[\beta\phi/2] potential at a boundary. This model has appeared
+in several contexts, including tunneling between quantum-Hall edge states and
+in dissipative quantum mechanics. For \beta^2 < 8\pi, this system exhibits a
+boundary renormalization-group flow from Neumann to Dirichlet boundary
+conditions. By taking the massless limit of the sine-Gordon model with boundary
+potential, we find the exact S matrix for particles scattering off the
+boundary. Using the thermodynamic Bethe ansatz, we calculate the boundary
+entropy along the entire flow. We show how these particles correspond to wave
+packets in the classical Klein-Gordon equation, thus giving a more precise
+explanation of scattering in a massless theory.
+\\

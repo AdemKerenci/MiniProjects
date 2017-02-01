@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402140
+From: Ambar Sengupta <sengupta@marais.math.lsu.edu>
+Date: Thu, 24 Feb 94 16:21:05 -0600   (19kb)
+
+Title: The Semiclassical Limit for $SU(2)$ and $SO(3)$ Gauge Theory on the
+  Torus
+Authors: Ambar Sengupta
+Comments: 18 pages
+Journal-ref: Commun.Math.Phys. 169 (1995) 297-314
+\\
+  We prove that for $SU(2)$ and $SO(3)$ quantum gauge theory on a torus,
+holonomy expectation values with respect to the Yang-Mills measure $d\mu_T(\o)
+=N_T^{-1}e^{-S_{YM}(\o)/T}[{\cal D}\o]$ converge, as $T\downarrow 0$, to
+integrals with respect to a symplectic volume measure $\mu_0$ on the moduli
+space of flat connections on the bundle. These moduli spaces and the symplectic
+structures are described explicitly.
+\\

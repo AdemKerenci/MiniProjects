@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307124
+From: westonr@ere.umontreal.ca (Weston Robert)
+Date: Mon, 19 Jul 93 19:50:16 -0400   (19kb)
+Date (revised): Tue, 20 Jul 93 11:26:04 -0400
+
+Title: N-point Correlation Functions of the Spin-1 XXZ Model
+Author: A. H. Bougourzi and Robert A. Weston
+Comments: 23 pages (Minor mistake in N-point fn. formula corrected)
+Report-no: CRM-1896
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Nucl.Phys. B417 (1994) 439
+\\
+  We extend the recent approach of M. Jimbo, K. Miki, T. Miwa, and A.
+Nakayashiki to derive an integral formula for the N-point correlation functions
+of arbitrary local operators of the antiferromagnetic spin-1 XXZ model. For
+this, we realize the quantum affine symmetry algebra $U_q(su(2)_2)$ of level 2
+and its corresponding type I vertex operators in terms of a deformed bosonic
+field free of a background charge, and a deformed fermionic field. Up to GSO
+type projections, the Fock space is already irreducible and therefore no BRST
+projections are involved. This means that no screening charges with their
+Jackson integrals are required. Consequently, our N-point correlation functions
+are given in terms of usual classical integrals only, just as those derived by
+Jimbo et al in the case of the spin-1/2 XXZ model through the Frenkel-Jing
+bosonization of $U_q(su(2)_1)$.
+\\

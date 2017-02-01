@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407027
+From: GUIDA@genova.infn.it
+Date: Tue, 5 Jul 1994 17:42:29 +0300 (MET-DST)   (61kb)
+
+Title: Convergence of Scaled Delta Expansion: Anharmonic Oscillator
+Authors: Riccardo Guida, Kenichi Konishi and Hiroshi Suzuki
+Comments: 37 pages (with 11 figures uuencoded at the end of the file,to be
+  stripped off), GEF-Th-7/1994
+Journal-ref: Annals Phys. 241 (1995) 152-184
+\\
+  We prove that the linear delta expansion for energy eigenvalues of the
+quantum mechanical anharmonic oscillator converges to the exact answer if the
+order dependent trial frequency $\Omega$ is chosen to scale with the order as
+$\Omega=CN^\gamma$; $1/3<\gamma<1/2$, $C>0$ as $N\rightarrow\infty$. It
+converges also for $\gamma=1/3$, if $C\geq\alpha_c g^{1/3}$, $\alpha_c\simeq
+0.570875$, where $g$ is the coupling constant in front of the operator $q^4/4$.
+The extreme case with $\gamma=1/3$, $C=\alpha_cg^{1/3}$ corresponds to the
+choice discussed earlier by Seznec and Zinn-Justin and, more recently, by
+Duncan and Jones.
+\\

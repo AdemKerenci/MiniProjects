@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310108
+From: Konno Hitoshi <hkonno@kurims.kyoto-u.ac.jp>
+Date: Mon, 18 Oct 93 19:03:53 JST   (11kb)
+
+Title: BRST Cohomology in Quantum Affine Algebra $U_q(\widehat{sl_2})$
+Authors: Hitoshi Konno
+Comments: 14 pages, RIMS-927
+Journal-ref: Mod. Phys. Lett. A9 (1994) 1253
+\\
+  Using free field representation of quantum affine algebra
+$U_q(\widehat{sl_2})$, we investigate the structure of the Fock modules over
+$U_q(\widehat{sl_2})$. The analisys is based on a $q$-analog of the BRST
+formalism given by Bernard and Felder in the affine Kac-Moody algebra $\widehat
+{sl_2}$. We give an explicit construction of the singular vectors using the
+BRST charge. By the same cohomology analysis as the classical case ($q=1$), we
+obtain the irreducible highest weight representation space as a nontrivial
+cohomology group. This enables us to calculate a trace of the $q$-vertex
+operators over this space.
+\\

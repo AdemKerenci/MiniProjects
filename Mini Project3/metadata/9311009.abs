@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311009
+From: ZWIEBACH@PIERRE.MIT.EDU
+Date: Mon, 1 Nov 1993 17:10:07 -0500 (EST)   (52kb)
+
+Title: Quantum Background Independence of Closed String Field Theory
+Authors: Ashoke Sen and Barton Zwiebach
+Comments: 60 pages, phyzzx.tex, MIT-CTP-2244
+Journal-ref: Nucl.Phys. B423 (1994) 580-630
+\\
+  We prove local background independence of the complete quantum closed string
+field theory using the recursion relations for string vertices and the
+existence of connections in CFT theory space. Indeed, with this data we
+construct an antibracket preserving map between the state spaces of two nearby
+conformal theories taking the corresponding string field measures $d\mu
+e^{2S/\hbar}$ into each other. A geometrical construction of the map is
+achieved by introducing a Batalin-Vilkovisky (BV) algebra on spaces of Riemann
+surfaces, together with a map to the BV algebra of string functionals. The
+conditions of background independence show that the field independent terms of
+the master action arise from vacuum vertices $\V_{g,0}$, and that the overall
+$\hbar$-independent normalization of the string field measure involves the
+theory space connection. Our result puts on firm ground the widely believed
+statement that string theories built from nearby conformal theories are
+different states of the same theory.
+\\

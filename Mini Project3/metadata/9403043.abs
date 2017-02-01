@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403043
+From: ramos@qmchep.DNET.NASA.GOV (Eduardo Ramos)
+Date: Mon, 7 Mar 94 11:44:22 -0500   (16kb)
+
+Title: A Comment on the Odd Flows for the Supersymmetric KdV equation
+Authors: E. Ramos
+Comments: QMW-94-4. Plain TeX (macros included)
+Journal-ref: Mod.Phys.Lett. A9 (1994) 3235-3244
+\\
+  In a recent paper Dargis and Mathieu introduced integrodifferential odd flows
+for the supersymmetric KdV equation. These flows are obtained from the nonlocal
+conservation laws associated with the fourth root of its Lax operator. In this
+note I show that only half of these flows are of the standard Lax form, while
+the remaining half provide us with hamiltonians for an SKdV-type reduction of a
+new supersymmetric hierarchy. This new hierarchy is shown to be closely related
+to the Jacobian supersymmetric KP-hierarchy of Mulase and Rabin. A detailed
+study of the algebra of additional symmetries of this new hierarchy reveals
+that it is isomorphic to the super-W_{1+\infty} algebra, thus making it a
+candidate for a possible interrelationship between superintegrability and
+two-dimensional supergravity.
+\\

@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9203041
+From: SMOLIN@suhep.phy.syr.edu
+Date: Tue, 17 Mar 1992 18:52 EST   (28kb)
+
+Title: Extremal variety as the foundation of a cosmological quantum theory
+Authors: Julian Barbour and Lee Smolin
+Comments: 32 pages, 19 Figures, not included
+\\
+  Dynamical systems of a new kind are described, which are motivated by the
+problem of constructing diffeomorphism invariant quantum theories. These are
+based on the extremization of a non-local and non-additive quantity that we
+call the variety of a system. In these systems all dynaqmical variables refer
+to relative coordinates or, more generally, describe relations between
+particles, so that they are invariant under discrete analogues of
+diffeomorphisms in which the labels of all particles are permutted arbitrarily.
+The variety is a measures of how uniquely each of the elements of the system
+can be distinguished from the others in terms of the values of these relative
+coordinates. Thus a system with extremal variety is one in which the parts are
+related to the whole in as distinct a way as possible. 
+  We study numerically several dynamical systems which are defined by setting
+the action of the system equal to its variety. We find evidence that suggests
+that such systems may serve as the basis for a new kind of pregeometry theories
+in which the geometry of low dimensional space emerges in the thermodynamic
+limit from a system which is defined without the use of any background space. 
+  The mathematical definition of variety may also provide a quantitative tool
+to study self-organizing systems, because it distinguishes highly structured,
+but asymmetric, configurations such as one finds in biological systems from
+both random configurations and highly ordered configurations.
+\\

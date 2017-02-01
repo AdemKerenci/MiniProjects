@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406196
+From: Alexeiev Anton <alexeiev@rhea.teorfys.uu.se>
+Date: Wed, 29 Jun 94 16:21:54 +0200   (9kb)
+
+Title: An involution and dynamics for the $q$-deformed quantum top
+Authors: A.Yu.Alekseev and L.D.Faddeev
+Comments: Uppsala University preprint UUITP 12/1994, 12 pages, LaTeX file
+\\
+  It is known that the involution corresponding to the compact form is
+incompatible with comultiplication for quantum groups at $|q|=1$. In this paper
+we consider the quantum algebra of functions on the deformed space $T^{*}G_{q}$
+which includes both the quantum group and the quantum universal enveloping
+algebra as subalgebras. For this extended object we construct an
+anti-involution which reduces to the compact form $*$-operation in the limit
+$q\rightarrow 1$. The algebra of functions on $T^{*}G_{q}$ endowed with the
+$*$-operation may be viewed as an algebra of observables of a quantum
+mechanical system. The most natural interpretation for such a system is a
+deformation of the quantum symmetric top. We suggest a discrete dynamics for
+this system which imitates the free motion of the top.
+\\

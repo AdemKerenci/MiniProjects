@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311095
+From: Volodimir Lyubashenko <vvl1@tower.york.ac.uk>
+Date: Wed, 17 Nov 1993 12:46:27 +0000 (GMT)   (43kb)
+Date (revised): Mon, 27 Dec 1993 17:03:54 +0000 (GMT)
+Date (revised): Mon, 26 Sep 1994 11:44:16 +0100
+
+Title: Quantum supergroups of $GL(n|m)$ type: differential forms, Koszul
+  complexes and Berezinians
+Author: Volodimir Lyubashenko and A. Sudbery
+Comments: 55 pages. The word `reconstruction' is removed from the paper
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We introduce and study the Koszul complex for a Hecke $R$-matrix. Its
+cohomologies, called the Berezinian, are used to define quantum
+superdeterminant for a Hecke $R$-matrix. Their behaviour with respect to Hecke
+sum of $R$-matrices is studied. Given a Hecke $R$-matrix in $n$-dimensional
+vector space, we construct a Hecke $R$-matrix in $2n$-dimensional vector space
+commuting with a differential. The notion of a quantum differential supergroup
+is derived. Its algebra of functions is a differential coquasitriangular Hopf
+algebra, having the usual algebra of differential forms as a quotient. Examples
+of superdeterminants related to these algebras are calculated. Several remarks
+about Woronowicz's theory are made.
+\\

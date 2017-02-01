@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212087
+From: bergv@huygens.math.uiuc.edu (Maarten Bergvelt)
+Date: Mon, 14 Dec 92 10:09:21 GMT-0600   (54kb)
+Date (revised): Tue, 15 Dec 92 14:11:02 GMT-0600
+
+Title: Partitions, Vertex Operator Constructions and Multi-component KP
+  equations
+Author: M. J. Bergvelt, A. P. E. ten Kroode
+Comments: 55 pages (repaired TeX problem, hopefully)
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Pacific J. Math. 171 (1995) 23-88
+\\
+  For every partition of a positive integer $n$ in $k$ parts and every point of
+an infinite Grassmannian we obtain a solution of the $k$ component
+differential-difference KP hierarchy and a corresponding Baker function. A
+partition of $n$ also determines a vertex operator construction of the
+fundamental representations of the infinite matrix algebra $gl_\infty$ and
+hence a $\tau$ function. We use these fundamental representations to study the
+Gauss decomposition in the infinite matrix group $Gl_\infty$ and to express the
+Baker function in terms of $\tau$-functions. The reduction to loop algebras is
+discussed.
+\\

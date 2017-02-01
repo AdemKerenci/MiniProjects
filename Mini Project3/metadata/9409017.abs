@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409017
+From: ketov@itp.uni-hannover.de
+Date: Sat, 3 Sep 1994 14:14:38 +0200 (MEST)   (15kb)
+
+Title: The BRST Charge for the $\hat{D}(2,1;\a)$ Non-Linear
+  Quasi-Superconformal Algebra
+Authors: Sergei V. Ketov
+Comments: 13 pages, LaTeX, Hannover preprint ITP-UH-12/94, September 1994
+Journal-ref: Mod.Phys.Lett. A10 (1995) 79-90
+\\
+  The quantum BRST charge for the most general, two-dimensional, non-linear,
+$N=4$ quasi-superconformal algebra $\hat{D}(1,2;\a)$, whose linearisation is
+the so-called `large' $N=4$ superconformal algebra, is constructed. The
+$\hat{D}(1,2;\a)$ algebra has $\Hat{su(2)}_{k^+}\oplus
+\Hat{su(2)}_{k^-}\oplus\Hat{u(1)}$ Ka\v{c}-Moody component, and $\a=k^-/k^+$.
+As a pre-requisite to our construction, we check the $\hat{D}(1,2;\a)$ Jacobi
+identities and construct a classical BRST charge. Then, we analyse the quantum
+BRST charge nilpotency conditions and find the only solution, $k^+=k^-=-2$. The
+$\hat{D}(1,2;1)$ algebra is actually isomorphic to the $SO(4)$-based
+Bershadsky-Knizhnik non-linear quasi-superconformal algebra. We argue about the
+existence of a new string theory with (i) the non-linearly realised $N=4$
+world-sheet supersymmetry, (ii) non-unitary matter in a $\hat{D}(1,2;\a)$
+representation of $k=-2$ and $c=-6$, and (iii) negative `critical dimension'.
+\\

@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311062
+From: tseytlin@surya11.cern.ch (Arkady Tseytlin)
+Date: Wed, 10 Nov 93 16:46:11 +0100   (27kb)
+Date (revised): Sat, 20 Nov 93 14:40:56 +0100
+
+Title: On a `universal' class of WZW-type conformal models
+Authors: A.A.Tseytlin
+Comments: 29 pages, harvmac, CERN-TH.7068/93 [Section 5 is expanded; the action
+  of two `chiral' sets of group coordinates which corresponds to the `master'
+  Hamiltonian is given in an explicit form.]
+Journal-ref: Nucl.Phys. B418 (1994) 173-194
+\\
+  We consider a class of sigma models that appears from a generalisation of the
+gauged WZW model parametrised by a constant matrix $Q$. Particular values of
+$Q$ correspond to the standard gauged WZW models, chiral gauged WZW models and
+a bosonised version of the non-abelian Thirring model. The condition of
+conformal invariance of the models (to one loop or $1/k$-order but exactly in
+$Q$) is derived and is represented as an algebraic equation on $Q$. Solving
+this equation we demonstrate explicitly the conformal invariance of the sigma
+models associated with arbitrary $G/H$ gauged and chiral gauged WZW theories as
+well as of the models that can be represented as WZW model perturbed by
+integrably marginal operators (constructed from currents of the Cartan
+subalgebra $H_c$ of $G$). The latter models can be also interpreted as $G x
+H/H$ gauged WZW models and have the corresponding target space couplings
+(metric, antisymmetric tensor and dilaton) depending on an arbitrary constant
+matrix which parametrises an embedding of the abelian subgroup $H$ (isomorphic
+to $H_c$) into $G x H$. We discuss the relation of our conformal invariance
+equation to the large $k$ form of the master equation of the affine-Virasoro
+construction. Our equation describes `reducible' versions of some `irreducible'
+solutions (cosets) of the master equation. We suggest a classically
+non-Lorentz-invariant sigma model that may correspond to other solutions of the
+master equation.
+\\

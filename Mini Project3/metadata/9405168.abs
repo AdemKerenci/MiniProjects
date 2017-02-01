@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405168
+From: Volodimir Lyubashenko <vvl1@tower.york.ac.uk>
+Date: Thu, 26 May 1994 10:51:48 +0000   (36kb)
+
+Title: Modular properties of ribbon abelian categories
+Author: Volodimir Lyubashenko
+Comments: 51 pagea
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  A category N of labeled (oriented) trivalent graphs (nets) or ribbon graphs
+is extended by new generators called fusing, braiding, twist and switch with
+relations which can be called Moore--Seiberg relations. A functor to N is
+constructed from the category Surf of oriented surfaces with labeled boundary
+and their homeomorphisms. Given an (eventually non-semisimple) k-linear abelian
+ribbon braided category C with some finiteness conditions we construct a
+functor from a central extension of N with the set of labels ObC to k-vector
+spaces. Composing the functors we get a modular functor from a central
+extension of Surf to k-vector spaces. This is a mathematical paper which
+explains how to get proofs for its hep-th companion paper, which should be read
+first. Complete proofs are not given here. (Talk at Second Gauss Simposium,
+Munich, August 1993.)
+\\

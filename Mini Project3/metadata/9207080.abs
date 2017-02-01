@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207080
+From: kimura@math.utexas.edu
+Date: Thu, 23 Jul 92 16:57:23 -0500   (37kb)
+
+Title: Generalized Classical BRST Cohomology and Reduction of Poisson Manifolds
+Authors: Takashi Kimura
+Comments: 33
+Journal-ref: Commun. Math. Phys. 151 (1993) 155
+\\
+  In this paper, we formulate a generalization of the classical BRST
+construction which applies to the case of the reduction of a poisson manifold
+by a submanifold. In the case of symplectic reduction, our procedure
+generalizes the usual classical BRST construction which only applies to
+symplectic reduction of a symplectic manifold by a coisotropic submanifold,
+\ie\ the case of reducible ``first class'' constraints. In particular, our
+procedure yields a method to deal with ``second-class'' constraints. We
+construct the BRST complex and compute its cohomology. BRST cohomology vanishes
+for negative dimension and is isomorphic as a poisson algebra to the algebra of
+smooth functions on the reduced poisson manifold in zero dimension. We then
+show that in the general case of reduction of poisson manifolds, BRST
+cohomology cannot be identified with the cohomology of vertical differential
+forms.
+\\

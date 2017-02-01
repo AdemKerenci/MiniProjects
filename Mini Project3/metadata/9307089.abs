@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307089
+From: Mike Clayton <clayton@medb.physics.utoronto.ca>
+Date: Tue, 13 Jul 1993 14:42:53 -0400   (13kb)
+
+Title: Gauge Invariance in Nonlocal Regularized QED
+Authors: Mike A. Clayton
+Comments: 24 Pages of RevTex-with 5 figures generated using Feynman.
+Report-no: UTPT-93-14
+\\
+  The existence of the invariant measure in nonlocal regularized actions is
+discussed. It is shown that the measure for nonlocally regularized QED, as
+presented in\cite{Moff-Wood}, exists to all orders, and is precisely what is
+required to maintain gauge invariance at one loop and guarantees perturbative
+unitarity. We also demonstrate how the given procedure breaks down in anomalous
+theories, and discuss its generalization to other actions.
+\\

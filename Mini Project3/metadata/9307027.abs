@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307027
+From: GRISARU@BINAH.CC.BRANDEIS.EDU
+Date: Mon, 5 Jul 1993 10:40 EDT   (39kb)
+
+Title: The WZNW Model at Two Loops
+Authors: B. de Wit, M.T. Grisaru, and P. van Nieuwenhuizen
+Comments: 40 pages, Latex, (4 postscript figures at end of file, to be split
+  off into files called diag1.ps,...,diag4.ps),THU-93/15
+Journal-ref: Nucl.Phys. B408 (1993) 299-344
+\\
+  We study perturbatively the (conformal) WZNW model. At one loop we compute
+one-particle irreducible two- and three-point current correlation functions,
+both in the conventional version and in the classically equivalent, chiral,
+nonlocal, induced version of the model. At two loops we compute the two-point
+function and find that it vanishes (modulo infrared-induced logarithms). We use
+dimensional regularization and the $R^*$ operation for removing infrared
+divergences. The outcome of the calculations is insensitive to the treatment of
+the $\varepsilon^{\m\n}$ tensor as a two-dimensional or $d$-dimensional object.
+Our results indicate that the one-particle irreducible current correlation
+functions constitute an effective action equal to the original WZNW action with
+the familiar level shift, $k\to k+\tilde h$.
+\\

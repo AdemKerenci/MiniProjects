@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305067
+From: ZACHOS@hep.anl.gov (Cosmas Zachos (708) 252 6207)
+Date: Fri, 14 May 1993 16:06:58 -0500 (CDT)   (11kb)
+Date (revised): Wed, 26 May 1993 9:57:04 -0500 (CDT)
+Date (revised): Sun, 28 Nov 1993 10:22:37 -0600 (CST)
+
+Title: Thermodynamic q-Distributions That Aren't
+Authors: S. Vokos and C. Zachos
+Comments: 7 pages, UW/PT-93-05, ANL-HEP-CP-93-39, Latex-Revtex [ Augmented list
+  of references, sound and not. ]
+Journal-ref: Mod.Phys.Lett. A9 (1994) 1-10
+\\
+  Bosonic q-oscillators commute with themselves and so their free distribution
+is Planckian. In a cavity, their emission and absorption rates may grow or
+shrink---and even diverge---but they nevertheless balance to yield the Planck
+distribution via Einstein's equilibrium method, (a careless application of
+which might produce spurious q-dependent distribution functions). This drives
+home the point that the black-body energy distribution is not a handle for
+distinguishing q-excitations from plain oscillators. A maximum cavity size is
+suggested by the inverse critical frequency of such emission/absorption rates
+at a given temperature, or a maximum temperature at a given frequency. To
+remedy fragmentation of opinion on the subject, we provide some discussion,
+context, and references.
+\\

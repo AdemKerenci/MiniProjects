@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409016
+From: MIRAMONTES@GAES.USC.ES
+Date: Sat, 3 Sep 1994 15:15:43 WST   (44kb)
+Date (revised): Wed, 30 Nov 1994 21:25:26 WST
+
+Title: W-Algebras from Soliton Equations and Heisenberg Subalgebras
+Authors: C.R. Fernandez-Pousa, M.V. Gallas, J.L. Miramontes and J. Sanchez
+  Guillen
+Comments: Improved version with more specific results concerning the class of
+  W-algebras which are defined in terms of soliton equations. 48 pages. Plain
+  TeX
+Report-no: US-FT/13-94
+Journal-ref: Annals Phys. 243 (1995) 372-419
+\\
+  We derive sufficient conditions under which the ``second''
+Hamiltonian structure of a class of generalized KdV-hierarchies defines one of
+the classical $\cal W$-algebras obtained through Drinfel'd-Sokolov Hamiltonian
+reduction. These integrable hierarchies are associated to the Heisenberg
+subalgebras of an untwisted affine Kac-Moody algebra. When the principal
+Heisenberg subalgebra is chosen, the well known connection between the
+Hamiltonian structure of the generalized Drinfel'd-Sokolov hierarchies - the
+Gel'fand-Dickey algebras - and the $\cal W$-algebras associated to the Casimir
+invariants of a Lie algebra is recovered. After carefully discussing the
+relations between the embeddings of $A_1=sl(2,{\Bbb C})$ into a simple Lie
+algebra $g$ and the elements of the Heisenberg subalgebras of $g^{(1)}$, we
+identify the class of $\cal W$-algebras that can be defined in this way. For
+$A_n$, this class only includes those associated to the embeddings labelled by
+partitions of the form $n+1= k(m) + q(1)$ and $n+1= k(m+1) + k(m) + q(1)$.
+\\

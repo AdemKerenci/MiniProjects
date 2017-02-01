@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205080
+From: Arley (See Cliff) <arley@physics.mcgill.ca>
+Date: Fri, 22 May 92 15:06:47 EDT   (17kb)
+Date (revised): Mon, 25 May 92 16:35:53 EDT
+
+Title: Canonical Transformations in Quantum Mechanics
+Authors: Arlen Anderson
+Comments: 27 pages, McGill 92-29 (revised version--several typos fixed in
+  examples)
+\\
+  Three elementary canonical transformations are shown both to have quantum
+implementations as finite transformations and to generate, classically and
+infinitesimally, the full canonical algebra. A general canonical transformation
+can, in principle, be realized quantum mechanically as a product of these
+transformations. It is found that the intertwining of two super-Hamiltonians is
+equivalent to there being a canonical transformation between them. A
+consequence is that the procedure for solving a differential equation can be
+viewed as a sequence of elementary canonical transformations trivializing the
+super-Hamiltonian associated to the equation. It is proposed that the quantum
+integrability of a system is equivalent to the existence of such a sequence.
+\\

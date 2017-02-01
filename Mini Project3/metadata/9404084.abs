@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404084
+From: KLAUS%EBUBECM1.BITNET@vm.cnuce.cnr.it
+Date: Thu, 14 Apr 94 17:24:47 BCN   (18kb)
+
+Title: Effective Lagrangian and the back-reaction problem in a self-interacting
+  $O(N)$ scalar theory in curved spacetime
+Authors: Emilio Elizalde, Klaus Kirsten, Sergei Odintsov
+Comments: 23 pages, LaTex, UB-ECM-PF 94/1
+Journal-ref: Phys.Rev. D50 (1994) 5137-5147
+\\
+  A derivation of the one-loop effective Lagrangian in the self-interacting
+$O(N)$ scalar theory, in slowly varying gravitational fields, is presented
+(using $\zeta$-regularization and heat-kernel techniques). The result is given
+in terms of the expansion in powers of the curvature tensors (up to quadratic
+terms) and their derivatives, as well as in derivatives of the background
+scalar field (up to second derivatives). The renormalization group improved
+effective Lagrangian is studied, what gives the leading-log approach of the
+whole perturbation theory. An analysis of the effective equations
+(back-reaction problem) on the static hyperbolic spacetime $\reals^2 \times
+H^2/\Gamma$ is carried out for the simplest version of the theory: $m^2=0$ and
+$N=1$. The existence of the solution $\reals^2 \times H^2/\Gamma$, induced by
+purely quantum effects, is shown.
+\\

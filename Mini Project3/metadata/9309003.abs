@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309003
+From: Robert Marnelius <tferm@fy.chalmers.se>
+Date: Wed, 1 Sep 93 08:57:41 +0200   (8kb)
+
+Title: A note on path integrals and time evolutions in BRST quantization
+Authors: Robert Marnelius
+Comments: 11,ITP-G\"{o}teborg 93-19, latexfile
+Journal-ref: Phys.Lett. B318 (1993) 92-98
+\\
+  Recent formal solutions of BRST quantization on inner product spaces within
+the operator method are shown to lead to an unexpected interpretation of the
+conventional path integral formulation. The relation between the Hamiltonians
+in the two formulations is nontrivial. For the operator method the
+correspondence requires certain quantum rules which make the formal solutions
+exact, and for the path integral the correspondence yields a precise connection
+between boundary conditions and the choice of gauge fixing.
+\\

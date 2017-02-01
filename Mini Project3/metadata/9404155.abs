@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404155
+From: rball@surya11.cern.ch (Richard Ball)
+Date: Mon, 25 Apr 94 19:16:54 +0200   (33kb)
+
+Title: Infrared and Ultraviolet Behaviour of Effective Scalar Field Theory
+Authors: R. D. Ball and R. S. Thorne
+Comments: 30 pages, no figures, TeX with harvmac, RAL-94-038, CERN-TH.7233/94
+Journal-ref: Annals Phys. 241 (1995) 337-367
+\\
+  We consider the infrared and ultraviolet behaviour of the effective quantum
+field theory of a single $Z_2$ symmetric scalar field. In a previous paper we
+proved to all orders in perturbation theory the renormalizability of massive
+effective scalar field theory using Wilson's exact renormalization group
+equation. Here we show that away from exceptional momenta the massless theory
+is similarly renormalizable, and we prove detailed bounds on Green's functions
+as arbitrary combinations of exceptional Euclidean momenta are approached. As a
+corollary we also prove Weinberg's Theorem for the massive effective theory, in
+the form of bounds on Green's functions at Euclidean momenta much greater than
+the particle mass but below the naturalness scale of the theory.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407062
+From: westonr@ERE.UMontreal.CA (Weston Robert)
+Date: Wed, 13 Jul 94 02:41:24 -0400   (69kb)
+
+Title: The Dynamical Correlation Function of the XXZ Model
+Authors: Robert A. Weston and A.H. Bougourzi
+Comments: 20 pages (LaTeX), CRM-2198
+\\
+  We perform a spectral decomposition of the dynamical correlation function of
+the spin $1/2$ XXZ model into an infinite sum of products of form factors.
+Beneath the four-particle threshold in momentum space the only non-zero
+contributions to this sum are the two-particle term and the trivial vacuum
+term. We calculate the two-particle term by making use of the integral
+expressions for form factors provided recently by the Kyoto school. We evaluate
+the necessary integrals by expanding to twelfth order in $q$. We show plots of
+$S(w,k)$, for $k=0$ and $\pi$ at various values of the anisotropy parameter,
+and for fixed anisotropy at various $k$ around $0$ and $\pi$.
+\\

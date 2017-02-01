@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412043
+From: song@het.brown.edu (Dae Yup Song)
+Date: Mon, 5 Dec 94 20:40:09 EST   (9kb)
+
+Title: S matrix of collective field theory
+Author: Dae-Yup Song
+Comments: 19 page, LaTex
+Journal-ref: Phys.Rev. D51 (1995) 5790-5796
+\\
+  By applying the Lehmann-Symanzik-Zimmermann (LSZ) reduction formalism, we
+study the S matrix of collective field theory in which fermi energy is larger
+than the height of potential. We consider the spatially symmetric and
+antisymmetric boundary conditions. The difference is that S matrices are
+proportional to momenta of external particles in antisymmetric boundary
+condition, while they are proportional to energies in symmetric boundary
+condition. To the order of $g_{st}^2$, we find simple formulas for the S matrix
+of general potential. As an application, we calculate the S matrix of a case
+which has been conjectured to describe a "naked singularity".
+\\

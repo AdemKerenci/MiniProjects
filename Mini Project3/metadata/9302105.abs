@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302105
+From: jrabin@euclid.ucsd.edu (Jeffrey Rabin)
+Date: Mon, 22 Feb 93 10:10:50 PST   (29kb)
+
+Title: Super Elliptic Curves
+Authors: Jeffrey M. Rabin
+Comments: 27 pages
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: J. Geom. and Phys. 15 (1995) 252-280
+\\
+  A detailed study is made of super elliptic curves, namely super Riemann
+surfaces of genus one considered as algebraic varieties, particularly their
+relation with their Picard groups. This is the simplest setting in which to
+study the geometric consequences of the fact that certain cohomology groups of
+super Riemann surfaces are not freely generated modules. The divisor theory of
+Rosly, Schwarz, and Voronov gives a map from a supertorus to its Picard group,
+but this map is a projection, not an isomorphism as it is for ordinary tori.
+The geometric realization of the addition law on Pic via intersections of the
+supertorus with superlines in projective space is described. The isomorphisms
+of Pic with the Jacobian and the divisor class group are verified. All possible
+isogenies, or surjective holomorphic maps between supertori, are determined and
+shown to induce homomorphisms of the Picard groups. Finally, the solutions to
+the new super Kadomtsev-Petviashvili (super KP) hierarchy of Mulase-Rabin which
+arise from super elliptic curves via the Krichever construction are exhibited.
+\\

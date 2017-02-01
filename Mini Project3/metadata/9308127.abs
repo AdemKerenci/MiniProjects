@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308127
+From: Roger Brooks <rog@ctpup.mit.edu>
+Date: Thu, 26 Aug 93 17:03:32 -0400   (15kb)
+
+Title: Twisting to Abelian BF/Chern-Simons Theories
+Authors: R. Brooks, J.-G. Demers and C. Lucchesi
+Comments: 19 pages, CTP #2237, LaTeX
+Journal-ref: Nucl.Phys. B415 (1994) 353-372
+\\
+  Starting from a $D=3$, $N=4$ supersymmetric theory for matter fields, a twist
+with a Grassmann parity change is defined which maps the theory into a gauge
+fixed, abelian $BF$ theory on curved 3-manifolds. After adding surface terms to
+this theory, the twist is seen to map the resulting supersymmetric action to
+two uncoupled copies of the gauge fixed Chern-Simons action. In addition, we
+give a map which takes the $BF$ and Chern-Simons theories into Donaldson-Witten
+TQFT's. A similar construction, but with $N=2$ supersymmetry, is given in two
+dimensions.
+\\

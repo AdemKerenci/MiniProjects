@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308150
+From: Donald Marolf <marolf@phys.psu.edu>
+Date: Mon, 30 Aug 93 14:27:41 EDT   (22kb)
+Date (revised): Fri, 18 Feb 1994 17:08:38 -0500 (EST)
+
+Title: The Generalized Peierls Bracket
+Authors: Donald Marolf
+Comments: 30 pages REVTEX, CGPG-93/8-5 (significant mistake in earlier version
+  corrected)
+Journal-ref: Annals Phys. 236 (1994) 392-412
+\\
+  We first extend the Peierls algebra of gauge invariant functions from the
+space ${\cal S}$ of classical solutions to the space ${\cal H}$ of histories
+used in path integration and some studies of decoherence. We then show that it
+may be generalized in a number of ways to act on gauge dependent functions on
+${\cal H}$. These generalizations (referred to as class I) depend on the choice
+of an ``invariance breaking term," which must be chosen carefully so that the
+gauge dependent algebra is a Lie algebra. Another class of invariance breaking
+terms is also found that leads to an algebra of gauge dependent functions, but
+only on the space ${\cal S}$ of solutions. By the proper choice of invariance
+breaking term, we can construct a generalized Peierls algebra that agrees with
+any gauge dependent algebra constructed through canonical or gauge fixing
+methods, as well as Feynman and Landau ``gauge." Thus, generalized Peierls
+algebras present a unified description of these techniques. We study the
+properties of generalized Peierls algebras and their pull backs to spaces of
+partial solutions and find that they may posses constraints similar to the
+canonical case. Such constraints are always first class, and quantization may
+proceed accordingly.
+\\

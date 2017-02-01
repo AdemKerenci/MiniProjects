@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407112
+From: ARATYN@UICWS.PHY.UIC.EDU
+Date: Mon, 18 Jul 1994 7:30:16 -0500 (CDT)   (33kb)
+Date (revised): Thu, 1 Sep 1994 11:21:55 -0500 (CDT)
+
+Title: Reduction of Toda Lattice Hierarchy to Generalized KdV Hierarchies and
+  Two-Matrix Model
+Authors: H. Aratyn, E. Nissimov, S. Pacheva and A.H. Zimerman
+Comments: 31 pgs., LaTeX, BGU-94 / 16 / June- PH, UICHEP-TH/94-7 (extended
+  version, new paragraphs and references added)
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Int.J.Mod.Phys. A10 (1995) 2537-2578
+\\
+  Toda lattice hierarchy and the associated matrix formulation of the
+$2M$-boson KP hierarchies provide a framework for the Drinfeld-Sokolov
+reduction scheme realized through Hamiltonian action within the second KP
+Poisson bracket. By working with free currents, which abelianize the second KP
+Hamiltonian structure, we are able to obtain an unified formalism for the
+reduced $SL(M+1,M-k)$-KdV hierarchies interpolating between the ordinary KP and
+KdV hierarchies. The corresponding Lax operators are given as superdeterminants
+of graded $SL (M+1,M-k)$ matrices in the diagonal gauge and we describe their
+bracket structure and field content. In particular, we provide explicit
+free-field representations of the associated $W(M,M-k)$ Poisson bracket
+algebras generalizing the familiar nonlinear $W_{M+1}$-algebra. Discrete
+B\"{a}cklund transformations for $SL(M+1,M-k)$-KdV are generated naturally from
+lattice translations in the underlying Toda-like hierarchy. As an application
+we demonstrate the equivalence of the two-matrix string model to the $SL
+(M+1,1)$-KdV hierarchy.
+\\

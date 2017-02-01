@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311155
+From: "Dr John W. Barrett" <jwb@maths.nott.ac.uk>
+Date: Thu, 25 Nov 93 16:05:45 GMT   (32kb)
+Date (revised): Mon, 7 Aug 1995 18:54:41 +0100 (BST)
+Date (revised): Tue, 8 Aug 1995 11:07:43 +0100 (BST)
+
+Title: Invariants of Piecewise-Linear 3-Manifolds
+Author: John W. Barrett and Bruce W. Westbury
+Comments: 30 pages, with postscript figures. Manuscript slightly
+  revised to version of 24 June 1994, and TeX standardised to eliminate the
+  use of non-standard macros or fonts
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Trans.Amer.Math.Soc. 348 (1996) 3997-4022
+\\
+  In this paper we develop a theory for constructing an invariant of closed
+oriented 3-manifolds, given a certain type of Hopf algebra. Examples are given
+by a quantised enveloping algebra of a semisimple Lie algebra, or by a
+semisimple involutory Hopf algebra. The invariant is defined by a state sum
+model on a triangulation. In some cases, the invariant is the partition
+function of a topological quantum field theory.
+\\

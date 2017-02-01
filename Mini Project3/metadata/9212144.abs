@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212144
+From: RBROOKS@IRENE.MIT.EDU (Roger Brooks)
+Date: Wed, 23 Dec 1992 12:16:35 -0500 (EST)   (8kb)
+
+Title: Diff(SIGMA) and Metrics from Hamiltonian-TQFT's in 2+1 Dimensions
+Authors: Roger Brooks
+Comments: 9 pages, Plain TeX, MIT-CTP#2175
+Journal-ref: Mod.Phys.Lett. A8 (1993) 2277-2284
+\\
+  The constraints of $BF$ topological gauge theories are used to construct
+Hamiltonians which are anti-commutators of the BRST and anti-BRST operators.
+Such Hamiltonians are a signature of Topological Quantum Field Theories
+(TQFT's). By construction, both classes of topological field theories share the
+same phase spaces and constraints. We find that, for 2+1 and 1+1 dimensional
+space-times foliated as $M=\Sigma\times\IR$, a homomorphism exists between the
+constraint algebras of our TQFT and those of canonical gravity. The metrics on
+the two-dimensional hypersurfaces are also obtained.
+\\

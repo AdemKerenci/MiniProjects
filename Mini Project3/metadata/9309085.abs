@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309085
+From: anselmi@tsmi19.sissa.it
+Date: Wed, 15 Sep 1993 14:36:21 +0100   (26kb)
+Date (revised): Sat, 25 Sep 1993 14:55:35 +0100
+Date (revised): Thu, 28 Oct 1993 18:31:02 +0100
+
+Title: Predictivity and Nonrenormalizability
+Authors: Damiano Anselmi
+Comments: 31 pages, LaTeX, SISSA/ISAS 147/93/EP (An alternative proof of a
+  lemma in sect. V has been added. Minor changes in some comments in
+  Introduction and sections IV and V. References added.)
+Journal-ref: Class.Quant.Grav. 11 (1994) 2181-2204
+\\
+  We consider the problem of removing the divergences in an arbitrary
+gauge-field theory (possibly nonrenormalizable). We show that this can be
+achieved by performing, order by order in the loop expansion, a redefinition of
+some parameters (possibly infinitely many) and a canonical transformation (in
+the sense of Batalin and Vilkovisky) of fields and BRS sources.
+Gauge-invariance is turned into a suitable quantum generalization of
+BRS-invariance. We define quantum observables and study their properties. We
+apply the result to renormalizable gauge-field theories that are gauge-fixed
+with a nonrenormalizable gauge-fixing and prove that their predictivity is
+retained. A corollary is that topological field theories are predictive.
+Analogies and differences with the formalisms of classical and quantum
+mechanics are pointed out.
+\\

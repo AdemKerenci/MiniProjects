@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305168
+From: JACOB@SLACVM.SLAC.Stanford.EDU
+Date: 28 May 1993 15:55 -0800 (PST)   (7kb)
+
+Title: Zero Modes in a $c = 2$ Matrix Model
+Authors: Ovid C. Jacob
+Comments: phyzxx, 14 pages, SLAC-PUB-59xx
+Journal-ref: Phys.Lett. B324 (1994) 149-159
+\\
+  Recently \REF\dk{Simon Dalley and Igor Klebanov,'Light Cone Quantization of
+the $c=2$ Matrix Model', PUPT-1333, hepth@xxx/920705} \refend Dalley and
+Klebanov proposed a light-cone quantized study of the $c=2$ matrix model, but
+which ignores $k^{+}=0$ contributions. Since the non-critical string limit of
+the matrix model involves taking the parameters $\lambda$ and $\mu$ of the
+matrix model to a critical point, zero modes of the field might be important in
+this study. The constrained light-cone quantization (CLCQ) approach of Heinzl,
+Krusche and Werner is applied . It is found that there is coupling between the
+zero mode sector and the rest of the theory, hence CLCQ should be implemented.
+\\

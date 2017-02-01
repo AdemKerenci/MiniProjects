@@ -1,0 +1,16 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209119
+From: deguchi@tkyvax.phys.s.u-tokyo.ac.jp (tetsuo deguchi)
+Date: Tue, 29 Sep 92 20:06:45 +0900   (8kb)
+
+Title: A New Algorithm for Numerical Calculation of Link Invariants
+Authors: Tetsuo Deguchi and Kyoichi Tsurusaki
+Comments: 20 pages, September 1992
+\\
+  We propose a new method for numerical calculation of link plynomials for
+knots given in 3 dimensions. We calculate derivatives of the Jones polynomial
+in a computational time proportional to $N^{\alpha}$ with respect to the system
+size $N$ . This method gives a new tool for determining topology of knotted
+closed loops in three dimensions using computers.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412159
+From: Steve Giddings <giddings@denali.physics.ucsb.edu>
+Date: Sun, 18 Dec 94 17:20:18 PST   (23kb)
+
+Title: Why Aren't Black Holes Infinitely Produced?
+Author: Steven B. Giddings
+Comments: 26 pages (harvmac l mode); also uses epsf.tex
+Report-no: UCSBTH-94-50
+Journal-ref: Phys.Rev. D51 (1995) 6860-6869
+\\
+  Unitarity and locality imply a remnant solution to the information problem,
+and also imply that Reissner-Nordstrom black holes have infinite numbers of
+internal states. Pair production of such black holes is reexamined including
+the contribution of these states. It is argued that the rate is proportional to
+the thermodynamic quantity Tr e^{-beta H}, where the trace is over the internal
+states of a black hole; this is in agreement with estimates from an effective
+field theory for black holes. This quantity, and the rate, is apparently
+infinite due to the infinite number of states. One obvious out is if the number
+of internal states of a black hole is finite.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9204103
+From: <KABAT%MITLNS.BITNET@mitvma.mit.edu>
+Date: Thu, 30 Apr 92 18:36 EST   (8kb)
+
+Title: Validity of the Eikonal Approximation
+Authors: Daniel Kabat
+Comments: 15 pages
+Journal-ref: Comments Nucl. Part. Phys. 20 (1992) 325-336
+\\
+  We summarize results on the reliability of the eikonal approximation in
+obtaining the high energy behavior of a two particle forward scattering
+amplitude. Reliability depends on the spin of the exchanged field. For scalar
+fields the eikonal fails at eighth order in perturbation theory, when it misses
+the leading behavior of the exchange-type diagrams. In a vector theory the
+eikonal gets the exchange diagrams correctly, but fails by ignoring certain
+non-exchange graphs which dominate the asymptotic behavior of the full
+amplitude. For spin--2 tensor fields the eikonal captures the leading behavior
+of each order in perturbation theory, but the sum of eikonal terms is
+subdominant to graphs neglected by the approximation. We also comment on the
+eikonal for Yang-Mills vector exchange, where the additional complexities of
+the non-abelian theory may be absorbed into Regge-type modifications of the
+gauge boson propagators.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406103
+From: sw@shire.math.columbia.edu (Siye Wu)
+Date: Wed, 15 Jun 94 15:33:33 -0400   (12kb)
+
+Title: On the Mathai-Quillen Formalism of Topological Sigma Models
+Authors: Siye Wu
+Comments: 12 pages, plain LaTeX
+Journal-ref: J.Geom.Phys. 17 (1995) 299-309
+\\
+  We present a Mathai-Quillen interpretation of topological sigma models. The
+key to the construction is a natural connection in a suitable infinite
+dimensional vector bundle over the space of maps from a Riemann surface (the
+world sheet) to an almost complex manifold (the target). We show that the
+covariant derivative of the section defined by the differential operator that
+appears in the equation for pseudo-holomorphic curves is precisely the
+linearization of the operator itself. We also discuss the Mathai-Quillen
+formalism of gauged topological sigma models.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405048
+From: ALMOS@UTAPHY.PH.UTEXAS.EDU
+Date: Sun, 08 May 1994 18:48:14 -0500 (CDT)   (67kb)
+
+Title: Supersymmetry, Path Integration, and the Atiyah-Singer Index Theorem
+Author: Ali Mostafazadeh, Uni. Texas Dissertation, 115 pages, UT-diss-1994
+\\
+  A new supersymmetric proof of the Atiyah-Singer index theorem is presented.
+The Peierls bracket quantization scheme is used to quantize the supersymmetric
+classical system corresponding to the index problem for the twisted Dirac
+operator. The problem of factor ordering is addressed and the unique quantum
+system that is relevant to the index theorem is analyzed in detail. The
+Hamiltonian operator is shown to include a scalar curvature factor,
+$\hbar^2R/8$. The path integral formulation of quantum mechanics is then used
+to obtain a formula for the index. For the first time, the path integral
+"measure" and the Feynman propagator of the system are exactly computed. The
+derivation of the index formula relies solely on the definition of a Gaussian
+superdeterminant. The two-loop analysis of the path integral is also carried
+out. The results of the loop and heat kernel expansions of the path interal are
+in complete agreement. This confirms the existence of the scalar curvature
+factor in the Schr\"odinger equation and validates the supersymmetric proof of
+the index theorem. Many other related issues are addressed. Finally, reviews of
+the index theorem and the supersymmetric quantum mechanics are presented.
+\\

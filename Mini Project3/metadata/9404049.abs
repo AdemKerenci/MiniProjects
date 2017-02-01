@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404049
+From: Uwe Ritschel <PHY350@VM.HRZ.UNI-ESSEN.DE>
+Date: Fri, 08 Apr 94 15:03:54 MEZ   (13kb)
+Date (revised): Mon, 11 Apr 94 15:59:27 MEZ
+
+Title: Stochastic Quantization of Autonomous Phi**4
+Authors: U. Ritschel
+Comments: 8 pages Latex + corrected(!) Postscript file
+\\
+  The non-perturbative autonomous renormalization of the scalar $\Phi^4$-model
+is applied in the framework of stochastic quantization. I show that this
+requires a selective, momentum-dependent renormalization of the Onsager
+coefficient $\lambda$, a direct consequence of the characteristic wavefunction
+renormalization applied. As a result, I obtain a Langevin equation for the
+renormalized constant mode of the field, which is solved numerically. It is
+demonstrated for temperature zero that, starting from specified initial
+conditions, the system relaxes to its equilibrium state, the symmetry-breaking
+vacuum of the ``static'' $\Phi^4$-theory.
+\\

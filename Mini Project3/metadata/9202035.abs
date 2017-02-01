@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202035
+From: bilal@puhep1.princeton.edu (Adel Bilal)
+Date: Tue, 11 Feb 92 12:32:39 -0500   (9kb)
+
+Title: Remarks on the BRST-cohomology for $c_M > 1$ matter coupled to
+  ``Liouville gravity"
+Authors: Adel Bilal
+Comments: 10 pages
+Journal-ref: Phys. Lett. B282 (1992) 309
+\\
+  We describe the (chiral) BRST-cohomology of matter with central charge
+$1<c_M<25$ coupled to a ``Liouville" theory, realized as a free field with a
+background charge $Q_L$ such that $c_M+c_L=26$. We consider two cases: a)
+matter is realized by one free field with an imaginary background charge, b)
+matter is realized by $D$ free fields: $c_M =D$. In case a) the cohomology
+states can be labelled by integers $r,s$ of a rotated $c_M =1$ theory, but
+hermiticity imposes $r=s$. Thus there is still a discrete set of momenta
+$p_M(r,r),\ p_L(r,r)$ such that there are non- trivial (relative) cohomology
+states at level $r^2$ with ghost-numbers 0 or 1 (for $r>0$) and ghost-numbers 0
+or $-1$ (for $r<0$). The (chiral) ground ring is isomorphic to a subring of the
+$c_M =1$ theory which is $(xy)^n,\ n=0,1,2,\ldots$, and there are {\it no}
+non-trivial currents acting on the ground ring. In case b) there is no
+non-trivial relative cohomology for non-zero ghost numbers and, for zero ghost
+number, the cohomology groups are isomorphic to a $(D-1)$-dimensional on-shell
+``transverse" Fock space. The only exceptions are at level 1 for vanishing
+matter momentum and $p_L=Q_L(1+r)$ with $r=\pm 1$, where one has one more
+ghost-number zero and a ghost-number $r$ cohomology state. All these results
+follow quite easily from the existing literature.
+\\

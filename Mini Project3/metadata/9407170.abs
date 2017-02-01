@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407170
+From: Hugo Fort <IFTE9@cc.uab.es>
+Date: Tue, 26 Jul 1994 19:30:03 GMT+0200   (11kb)
+
+Title: The Lagrangian Loop Representation of Lattice U(1) Gauge Theory
+Authors: J.M. Aroca, M.Baig and H.Fort
+Comments: 13 pp, UAB-FT-341/94
+Journal-ref: Phys.Lett. B336 (1994) 54-61
+\\
+  It is showed how the Hamiltonian lattice $loop$ $representation$ can be cast
+straightforwardly in the Lagrangian formalism. The procedure is general and
+here we present the simplest case: pure compact QED. This connection has been
+shaded by the non canonical character of the algebra of the fundamental loop
+operators. The loops represent tubes of electric flux and can be considered the
+dual objects to the Nielsen-Olesen strings supported by the Higgs broken phase.
+The lattice loop classical action corresponding to the Villain form is
+proportional to the quadratic area of the loop world sheets and thus it is
+similar to the Nambu string action. This loop action is used in a Monte Carlo
+simulation and its appealing features are discussed.
+\\

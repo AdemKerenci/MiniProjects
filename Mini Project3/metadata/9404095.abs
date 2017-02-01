@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404095
+From: Ty <CANDIELLO@padova.infn.it>
+Date: Fri, 15 Apr 1994 17:22:31 +0200 (WET-DST)   (11kb)
+Date (revised): Mon, 18 Apr 1994 14:52:24 +0200 (WET-DST)
+Date (revised): Thu, 21 Apr 1994 13:06:35 +0200 (WET-DST)
+
+Title: The supersymmetric version of the Green--Schwarz anomaly cancellation
+  mechanism
+Authors: A. Candiello and K. Lechner
+Comments: DFPD/94/TH/01, 11 pages, one reference corrected
+Journal-ref: Phys.Lett. B332 (1994) 71-76
+\\
+  The $N=1$, $D=10$ Supergravity--Super--Yang--Mills (SUGRA-SYM) theory is
+plagued by ABBJ gauge and Lorentz anomalies which are cancelled via the
+Green-Schwarz anomaly cancellation mechanism. Due to the fact that the ABBJ
+anomalies are not invariant under supersymmetry (SUSY) transformations one
+concludes that the theory is plagued also by a SUSY anomaly. For the gauge
+groups $SO(32)$ and $E_8\times E_8$ we compute this SUSY anomaly, by solving a
+coupled cohomology problem, and we show that it can be cancelled by subtracting
+from the action the known Green--Schwarz counterterm, the same which cancels
+also the ABBJ anomaly, the expected result. Finally, we argue that the
+corresponding mechanism does not apply in the dual SUGRA-SYM, related to the
+heterotic five-brane.
+\\

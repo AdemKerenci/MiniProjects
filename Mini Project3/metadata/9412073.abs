@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412073
+From: Karen Brewster <brewster@phys.psu.edu>
+Date: Thu, 8 Dec 94 13:41:47 EST   (39kb)
+Date (revised): Mon, 29 Jan 1996 11:50:44 -0500 (EST)
+
+Title: Differential Geometry on the Space of Connections via Graphs and
+  Projective Limits
+Authors: Abhay Ashtekar and Jerzy Lewandowski
+Comments: Minor corrections have been made. 54 pages, LATEX file, no figures
+Report-no: CGPG-94/12-4
+Journal-ref: J.Geom.Phys. 17 (1995) 191-230
+\\
+  In a quantum mechanical treatment of gauge theories (including general
+relativity), one is led to consider a certain completion, $\agb$, of the space
+$\ag$ of gauge equivalent connections. This space serves as the quantum
+configuration space, or, as the space of all Euclidean histories over which one
+must integrate in the quantum theory. $\agb$ is a very large space and serves
+as a ``universal home'' for measures in theories in which the Wilson loop
+observables are well-defined. In this paper, $\agb$ is considered as the
+projective limit of a projective family of compact Hausdorff manifolds,
+labelled by graphs (which can be regarded as ``floating lattices'' in the
+physics terminology). Using this characterization, differential geometry is
+developed through algebraic methods. In particular, we are able to introduce
+the following notions on $\agb$: differential forms, exterior derivatives,
+volume forms, vector fields and Lie brackets between them, divergence of a
+vector field with respect to a volume form, Laplacians and associated heat
+kernels and heat kernel measures. Thus, although $\agb$ is very large, it is
+small enough to be mathematically interesting and physically useful. A key
+feature of this approach is that it does not require a background metric. The
+geometrical framework is therefore well-suited for diffeomorphism invariant
+theories such as quantum general relativity.
+\\

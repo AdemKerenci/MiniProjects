@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9203043
+From: MARSHAKOV@huhepl.harvard.edu
+Date: Tue, 17 Mar 1992 21:56:44 -0500 (EST)   (31kb)
+
+Title: Generalized Kontsevich Model Versus Toda Hierarchy and Discrete Matrix
+  Models
+Authors: S.Kharchev, A.Marshakov, A.Mironov, A.Morozov
+Comments: 46 p
+Journal-ref: Nucl. Phys. B397 (1993) 339
+\\
+  We represent the partition function of the Generalized Kontsevich Model (GKM)
+in the form of a Toda lattice $\tau$-function and discuss various implications
+of non-vanishing "negative"- and "zero"-time variables: the appear to modify
+the original GKM action by negative-power and logarithmic contributions
+respectively. It is shown that so deformed $\tau$-function satisfies the same
+string equation as the original one. In the case of quadratic potential GKM
+turns out to describe {\it forced} Toda chain hierarchy and, thus, corresponds
+to a {\it discrete} matrix model, with the role of the matrix size played by
+the zero-time (at integer positive points). This relation allows one to discuss
+the double-scaling continuum limit entirely in terms of GKM, $i.e.$ essentially
+in terms of {\it finite}-fold integrals.
+\\

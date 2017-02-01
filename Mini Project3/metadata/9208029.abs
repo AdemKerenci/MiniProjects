@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208029
+From: anselmi@tsmi19.sissa.it
+Date: Tue, 11 Aug 1992 09:27:48 +0100   (22kb)
+
+Title: Twisted N=2 Supergravity as Topological Gravity in Four Dimensions
+Authors: Damiano Anselmi and Pietro Fre
+Comments: 38 pages
+Journal-ref: Nucl. Phys. B392 (1993) 401
+\\
+  We show that the BRST quantum version of pure D=4 N=2 supergravity can be
+topologically twisted, to yield a formulation of topological gravity in four
+dimensions. The topological BRST complex is just a rearrangement of the old
+BRST complex, that partly modifies the role of physical and ghost fields:
+indeed, the new ghost number turns out to be the sum of the old ghost number
+plus the internal U(1) charge. Furthermore, the action of N=2 supergravity is
+retrieved from topological gravity by choosing a gauge fixing that reduces the
+space of physical states to the space of gravitational instanton
+configurations, namely to self-dual spin connections. The descent equations
+relating the topological observables are explicitly exhibited and discussed.
+Ours is a first step in a programme that aims at finding the topological sector
+of matter coupled N=2 supergravity, viewed as the effective Lagrangian of type
+II superstrings and, as such, already related to 2D topological field-theories.
+As it stands the theory we discuss may prove useful in describing gravitational
+instantons moduli-spaces.
+\\

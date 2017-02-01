@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211099
+From: tdparticle@glas.apc.org (Andrei Mironov)
+Date: 24 Nov 92 00:03:51 MDT (Tue)   (18kb)
+Date (revised): Fri, 22 Nov 2002 08:56:33 GMT
+
+Title: Non-Localizability and Asymptotic Commutativity
+Authors: V. Ya. Fainberg, M. A. Soloviev
+Comments: This version is identical to the initial one whose ps and pdf files
+  were unavailable, with few corrections of misprints
+Report-no: FIAN/TD/14-92
+Journal-ref: Theor.Math.Phys. 93 (1992) 1438-1449; Teor.Mat.Fiz. 93 (1992)
+  514-528
+\\
+  The mathematical formalism commonly used in treating nonlocal highly singular
+interactions is revised. The notion of support cone is introduced which
+replaces that of support for nonlocalizable distributions. Such support cones
+are proven to exist for distributions defined on the Gelfand-Shilov spaces
+$S^\beta$, where $0<\beta <1$ . This result leads to a refinement of previous
+generalizations of the local commutativity condition to nonlocal quantum
+fields. For string propagators, a new derivation of a representation similar to
+that of K\"{a}llen-Lehmann is proposed. It is applicable to any initial and
+final string configurations and manifests exponential growth of spectral
+densities intrinsic in nonlocalizable theories.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307183
+From: Matthias R Gaberdiel <M.R.Gaberdiel@amtp.cam.ac.uk>
+Date: Thu, 29 Jul 93 16:11:51 BST   (15kb)
+
+Title: Fusion in conformal field theory as the tensor product of the symmetry
+  algebra
+Authors: M. Gaberdiel
+Comments: 21 pages, Latex, DAMTP-93-38
+Journal-ref: Int.J.Mod.Phys. A9 (1994) 4619-4636
+\\
+  Following a recent proposal of Richard Borcherds to regard fusion as the
+ring-like tensor product of modules of a {\em quantum ring}, a generalization
+of rings and vertex operators, we define fusion as a certain quotient of the
+(vector space) tensor product of representations of the symmetry algebra ${\cal
+A}$. We prove that this tensor product is associative and symmetric up to
+equivalence. We also determine explicitly the action of ${\cal A}$ on it, under
+which the central extension is preserved. \\ Having given a precise meaning to
+fusion, determining the fusion rules is now a well-posed algebraic problem,
+namely to decompose the tensor product into irreducible representations. We
+demonstrate how to solve it for the case of the WZW- and the minimal models and
+recover thereby the well-known fusion rules. \\ The action of the symmetry
+algebra on the tensor product is given in terms of a comultiplication. We
+calculate the $R$-matrix of this comultiplication and find that it is
+triangular. This seems to shed some new light on the possible r\^{o}le of the
+quantum group in conformal field theory.
+\\

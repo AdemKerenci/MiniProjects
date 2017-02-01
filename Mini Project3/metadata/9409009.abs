@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409009
+From: "Sabro Higuchi, Tokyo Inst. , <hig@th.phys.titech.ac.jp>
+Date: Fri, 02 Sep 94 22:08:52 +0900   (91kb)
+Date (revised): Thu, 15 Sep 94 00:31:48 +0900
+Date (revised): Fri, 24 Feb 1995 02:20:22 +0900
+
+Title: Renormalization group flow in one- and two-matrix models
+Authors: Saburo Higuchi, Chigak Itoi, Shinsuke Nishigaki and Norisuke Sakai
+Comments: 34 pages in LaTeX, 4 eps figures included in uufiled form, with a few
+  minor but helpful corrections
+Report-no: TIT/HEP-261, NUP-A-94-16
+Journal-ref: Nucl.Phys. B434 (1995) 283-318; Erratum-ibid. B441 (1995) 405
+\\
+  Large-$N$ renormalization group equations for one- and two-matrix models are
+derived. The exact renormalization group equation involving infinitely many
+induced interactions can be rewritten in a form that has a finite number of
+coupling constants by taking account of reparametrization identities. Despite
+the nonlinearity of the equation, the location of fixed points and the scaling
+exponents can be extracted from the equation. They agree with the spectrum of
+relevant operators in the exact solution. A linearized $\beta$-function
+approximates well the global phase structure which includes several nontrivial
+fixed points. The global renormalization group flow suggests a kind of
+$c$-theorem in two-dimensional quantum gravity.
+\\

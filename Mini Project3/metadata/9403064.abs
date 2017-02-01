@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403064
+From: Pavel Etingof <etingof@math.harvard.edu>
+Date: Thu, 10 Mar 1994 12:24:25 -0500   (10kb)
+
+Title: Center of a quantum affine algebra at the critical level
+Author: Jintai Ding and Pavel Etingof
+Comments: 10 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We construct central elements in a completion of the quantum affine algebra
+at the critical level c=-g from the universal R-matrix (g being the dual
+Coxeter number of the corresponding simple Lie algebra), using the method of
+Reshetikhin and Semenov-Tian-Shansky. This construction defines an action of
+the Grothendieck algebra of the category of finite-dimensional representations
+of the quantum affine algebra on any module over this algebra from category O
+with c=-g. We explain the connection between the central elements and transfer
+matrices in statistical mechanics. In the quasiclassical approximation this
+connection was explained by Feigin, E.Frenkel, and Reshetikhin in hep-th
+9402022, and it was mentioned that one could generalize it to the quantum case
+to get Bethe vectors for transfer matrices. Using this connection, we prove
+that the central elements
+  (for all finite dimensional representations) applied to the highest weight
+vector of a generic Verma module at the critical level generate the whole space
+of singular vectors in this module. We also compute the first term of the
+quasiclassical expansion of the central elements near q=1, and show that it
+always gives the Sugawara current with a certain coefficient.
+\\

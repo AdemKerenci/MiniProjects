@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309146
+From: Gerard Watts <G.M.T.Watts@damtp.cambridge.ac.uk>
+Date: Tue, 28 Sep 93 10:12:41 BST   (13kb)
+
+Title: Null vectors, 3-point and 4-point functions in conformal field theory
+Authors: P. Bowcock and G.M.T. Watts
+Comments: 10 pages, LaTeX 2.09, DAMTP-93-48
+Journal-ref: Theor.Math.Phys. 98 (1994) 350-356; Teor.Mat.Fiz. 98 (1994)
+  500-508
+\\
+  We consider 3-point and 4-point correlation functions in a conformal field
+theory with a W-algebra symmetry. Whereas in a theory with only Virasoro
+symmetry the three point functions of descendants fields are uniquely
+determined by the three point function of the corresponding primary fields this
+is not the case for a theory with $W_3$ algebra symmetry. The generic 3-point
+functions of W-descendant fields have a countable degree of arbitrariness. We
+find, however, that if one of the fields belongs to a representation with null
+states that this has implications for the 3-point functions. In particular if
+one of the representations is doubly-degenerate then the 3-point function is
+determined up to an overall constant. We extend our analysis to 4-point
+functions and find that if two of the W-primary fields are doubly degenerate
+then the intermediate channels are limited to a finite set and that the
+corresponding chiral blocks are determined up to an overall constant. This
+corresponds to the existence of a linear differential equation for the chiral
+blocks with two completely degenerate fields as has been found in the work of
+Bajnok~et~al.
+\\

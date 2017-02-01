@@ -1,0 +1,16 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310041
+From: BOULATOV@nbivax.nbi.dk
+Date: Thu, 07 Oct 1993 17:14:10 +0100   (8kb)
+
+Title: Wilson loop on a sphere
+Authors: D.V. Boulatov
+Comments: 10 pages, NBI-HE-93-57
+Journal-ref: Mod. Phys. Lett. A9 (1994) 365-374
+\\
+  We give the formula for a simple Wilson loop on a sphere which is valid for
+an arbitrary QCD$_2$ saddle-point $\rho(x)$: \mbox{$W(A_1,A_2)=\oint
+\frac{dx}{2\pi i} \exp(\int dy \frac{\rho(y)}{y-x}+A_2x)$}. The
+strong-coupling-phase solution is investigated.
+\\

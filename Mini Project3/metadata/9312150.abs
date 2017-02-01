@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312150
+From: lechtenf@itp.uni-hannover.de
+Date: Thu, 16 Dec 1993 22:35:54 +0100 (MET)   (39kb)
+Date (revised): Tue, 4 Oct 1994 13:18:47 +0100
+
+Title: Twisting the N=2 String
+Authors: S. V. Ketov, O. Lechtenfeld and A. J. Parkes
+Comments: 42 pages, LaTeX, no figures, 120 kb, ITP-UH-24/93, DESY 93-191
+  (abstract and introduction clarified, minor corrections added)
+Journal-ref: Phys.Rev. D51 (1995) 2872-2890
+\\
+  The most general homogeneous monodromy conditions in $N{=}2$ string theory
+are classified in terms of the conjugacy classes of the global symmetry group
+$U(1,1)\otimes{\bf Z}_2$. For classes which generate a discrete subgroup $\G$,
+the corresponding target space backgrounds ${\bf C}^{1,1}/\G$ include half
+spaces, complex orbifolds and tori. We propose a generalization of the
+intercept formula to matrix-valued twists, but find massless physical states
+only for $\Gamma{=}{\bf 1}$ (untwisted) and $\Gamma{=}{\bf Z}_2$ (\`a la Mathur
+and Mukhi), as well as for $\Gamma$ being a parabolic element of $U(1,1)$. In
+particular, the sixteen ${\bf Z}_2$-twisted sectors of the $N{=}2$ string are
+investigated, and the corresponding ground states are identified via
+bosonization and BRST cohomology. We find enough room for an extended multiplet
+of `spacetime' supersymmetry, with the number of supersymmetries being
+dependent on global `spacetime' topology. However, world-sheet locality for the
+chiral vertex operators does not permit interactions among all massless
+`spacetime' fermions.
+\\

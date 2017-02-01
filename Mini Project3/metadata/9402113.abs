@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402113
+From: "Igor Klebanov" <klebanov@puhep1.Princeton.EDU>
+Date: Fri, 18 Feb 94 14:20:14 -0500   (38kb)
+
+Title: Exact Solution of a Boundary Conformal Field Theory
+Authors: Curtis G. Callan, Igor R. Klebanov, Andreas W. W. Ludwig and Juan M.
+  Maldacena
+Comments: harvmac and epsf, 36 pages with 5 figures uuencoded at the end of
+  this file, PUPT-1450/IASSNS-HEP-94/15
+Journal-ref: Nucl.Phys. B422 (1994) 417-448
+\\
+  We study the conformal field theory of a free massless scalar field living on
+the half line with interactions introduced via a periodic potential at the
+boundary. An $SU(2)$ current algebra underlies this system and the interacting
+boundary state is given by a global $SU(2)$ rotation of the left-moving fields
+in the zero-potential (Neumann) boundary state. As the potential strength
+varies from zero to infinity, the boundary state interpolates between the
+Neumann and the Dirichlet values. The full S-matrix for scattering from the
+boundary, with arbitrary particle production, is explicitly computed. To
+maintain unitarity, it is necessary to attribute a hidden discrete ``soliton''
+degree of freedom to the boundary. The same unitarity puzzle occurs in the
+Kondo problem, and we anticipate a similar solution.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405001
+From: Jens Hoppe <HOPPE%JPNYITP.BITNET@PUCC.PRINCETON.EDU>
+Date: Mon, 02 May 94 16:58:29 JST   (12kb)
+Date (revised): Wed, 20 Jul 94 12:25:30 JST
+
+Title: Surface Motions and Fluid Dynamics
+Authors: Jens Hoppe
+Comments: 9 pages, Plain TeX, YITP/K-1069 unreadable character codes are
+  corrected
+Journal-ref: Phys.Lett. B335 (1994) 41-44
+\\
+  A certain class of surface motions, including those of a relativistic
+membrane minimizing the 3-dimensional volume swept out in Minkowski-space, is
+shown to be equivalent to 3-dimensional steady-state irrotational inviscid
+isentropic gas-dynamics. The SU($\infty $) Nahm equations turn out to
+correspond to motions where the time $t$ at which the surface moves through the
+point $\ssatop\rhup{r}$ is a harmonic function of the three space-coordinates.
+This solution also implies the linearisation of a non-trivial-looking scalar
+field theory.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312185
+From: bergshoe@th.rug.nl (Eric Bergshoeff)
+Date: Thu, 23 Dec 93 12:53:32 +0100   (26kb)
+
+Title: On the Cohomology of the Noncritical $W$-string
+Authors: E. Bergshoeff, J. de Boer, M. de Roo and T. Tjin
+Comments: 38 pages, UG-7/93, ITP-SB-93-79
+Journal-ref: Nucl.Phys. B420 (1994) 379-408
+\\
+  We investigate the cohomology structure of a general noncritical
+$W_N$-string. We do this by introducing a new basis in the Hilbert space in
+which the BRST operator splits into a ``nested'' sum of nilpotent BRST
+operators. We give explicit details for the case $N=3$. In that case the BRST
+operator $Q$ can be written as the sum of two, mutually anticommuting,
+nilpotent BRST operators: $Q=Q_0+Q_1$. We argue that if one chooses for the
+Liouville sector a $(p,q)$ $W_3$ minimal model then the cohomology of the $Q_1$
+operator is closely related to a $(p,q)$ Virasoro minimal model. In particular,
+the special case of a (4,3) unitary $W_3$ minimal model with central charge
+$c=0$ leads to a $c=1/2$ Ising model in the $Q_1$ cohomology. Despite all this,
+noncritical $W_3$ strings are not identical to noncritical Virasoro strings.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303026
+From: Alexander Gorsky <sasha@titan.teorfys.uu.se>
+Date: Thu, 4 Mar 93 21:46:57 +0100   (5kb)
+
+Title: Degenerations of Sklyanin algebra and Askey-Wilson polynomials
+Author: A. S. Gorsky, A. V. Zabrodin
+Comments: 7 pages
+Report-no: UUITP-7/93
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Phys. A26 (1993) L635-L640
+\\
+  A new trigonometric degeneration of the Sklyanin algebra is found and the
+functional realization of its representations in space of polynomials in one
+variable is studied. A further contraction gives the standard quantum algebra
+$U_{q}(sl(2))$. It is shown that the degenerate Sklyanin algebra contains a
+subalgebra isomorphic to algebra of functions on the quantum sphere
+$(SU(2)/SO(2))_{q^{1\over2}}$. The diagonalization of general quadratic form in
+its generators leads in the functional realization to the difference equation
+for Askey-Wilson polynomials.
+\\

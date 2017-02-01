@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411135
+From: Kentaro HORI <hori@tamasabro.phys.s.u-tokyo.ac.jp>
+Date: Thu, 17 Nov 1994 22:44:32 +0900   (25kb)
+Date (revised): Fri, 18 Nov 1994 13:10:18 +0900
+
+Title: Constraints For Topological Strings In $D\geq 1$
+Authors: Kentaro Hori
+Comments: 29 pages, latex, no figures
+Report-no: UT-694
+Journal-ref: Nucl.Phys. B439 (1995) 395
+\\
+  New relations of correlation functions are found in topological string
+theory; one for each second cohomology class of the target space. They are
+close cousins of the Deligne-Dijkgraaf-Witten's puncture and dilaton equations.
+When combined with the dilaton equation and the ghost number conservation, the
+equation for the first chern class of the target space gives a constraint on
+the topological sum (over genera and (multi-)degrees) of partition functions.
+For the $\CP^1$ model, it coincides with the dilatation constraint which is
+derivable in the matrix model recently introduced by Eguchi and Yang.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307165
+From: Paul A Shah <P.A.Shah@amtp.cam.ac.uk>
+Date: Tue, 27 Jul 93 14:27 BST   (16kb)
+
+Title: Thermodynamics of Vortices in the Plane
+Authors: P.A.Shah and N.S.Manton
+Comments: 17 pages, DAMTP 93-30
+Journal-ref: J.Math.Phys. 35 (1994) 1171-1184
+\\
+  The thermodynamics of vortices in the critically coupled abelian Higgs model,
+defined on the plane, are investigated by placing $N$ vortices in a region of
+the plane with periodic boundary conditions: a torus. It is noted that the
+moduli space for $N$ vortices, which is the same as that of $N$
+indistinguishable points on a torus, fibrates into a $CP_{N-1}$ bundle over the
+Jacobi manifold of the torus. The volume of the moduli space is a product of
+the area of the base of this bundle and the volume of the fibre. These two
+values are determined by considering two 2-surfaces in the bundle corresponding
+to a rigid motion of a vortex configuration, and a motion around a fixed centre
+of mass. The partition function for the vortices is proportional to the volume
+of the moduli space, and the equation of state for the vortices is $P(A-4\pi
+N)=NT$ in the thermodynamic limit, where $P$ is the pressure, $A$ the area of
+the region of the plane occupied by the vortices, and $T$ the temperature.
+There is no phase transition.
+\\

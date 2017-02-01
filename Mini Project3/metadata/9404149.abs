@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404149
+From: Ori Ganor <origa@ccsg.tau.ac.il>
+Date: Sun, 24 Apr 94 14:49:18 +0300   (52kb)
+
+Title: Folds in 2D String Theories
+Authors: O. Ganor , J. Sonnenschein and S. Yankielowicz
+Comments: 56 pages, latex, followed by epsf, 13 uuencoded epsf figures
+Report-no: TAUP-2152-94
+Journal-ref: Nucl.Phys. B427 (1994) 203-244
+\\
+  We study maps from a 2D world-sheet to a 2D target space which include folds.
+The geometry of folds is discussed and a metric on the space of folded maps is
+written down. We show that the latter is not invariant under area preserving
+diffeomorphisms of the target space. The contribution to the partition function
+of maps associated with a given fold configuration is computed. We derive a
+description of folds in terms of Feynman diagrams. A scheme to sum up the
+contributions of folds to the partition function in a special case is suggested
+and is shown to be related to the Baxter-Wu lattice model. An interpretation of
+folds as trajectories of particles in the adjoint representation of $SU(N)$
+gauge group in the large $N$ limit which interact in an unusual way with the
+gauge fields is discussed.
+\\

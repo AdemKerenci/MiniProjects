@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202056
+From: David.Fairlie@durham.ac.uk
+Date: Mon, 17 Feb 92 17:09:27 GMT   (7kb)
+
+Title: Universal Field Equations with Reparametrisation Invariance
+Authors: D.B. Fairlie and J. Govaerts
+Comments: 9pages
+Journal-ref: Phys. Lett. B281 (1992) 49-53
+\\
+  New reparametrisation invariant field equations are constructed which
+describe $d$-brane models in a space of $d+1$ dimensions. These equations, like
+the recently discovered scalar field equations in $d+1$ dimensions, are
+universal, in the sense that they can be derived from an infinity of
+inequivalent Lagrangians, but are nonetheless Lorentz (Euclidean) invariant.
+Moreover, they admit a hierarchical structure, in which they can be derived by
+a sequence of iterations from an arbitrary reparametrisation covariant
+Lagrangian, homogeneous of weight one. None of the equations of motion which
+appear in the hierarchy of iterations have derivatives of the fields higher
+than the second. The new sequence of Universal equations is related to the
+previous one by an inverse function transformation. The particular case of
+$d=2$, giving a new reparametrisation invariant string equation in 3 dimensions
+is solved.
+\\

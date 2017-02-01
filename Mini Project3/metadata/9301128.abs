@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301128
+From: selivanov@PIB1.physik.uni-bonn.de
+Date: Sat, 30 Jan 1993 19:39:42 MEZ   (13kb)
+Date (revised): Thu, 11 Feb 1993 22:00:06 MEZ
+
+Title: Geometry and Physics on $w_{\infty}$ Orbits
+Authors: K.G.Selivanov
+Comments: 19 pages, LATEX, with notation $w_N$ changed to $\bar{w}_N$, with 3
+  more references and with note added in proof
+Report-no: BONN-HE-93/06
+Journal-ref: Mod. Phys. Lett. A8 (1993) 1139
+\\
+  We apply the coadjoint orbit technique to the group of area preserving
+diffeomorphisms (APD) of a 2D manifold, particularly to the APD of the
+semi-infinite cylinder which is identified with $w_{\infty}$.  The geometrical
+action obtained is relevant to both $w$ gravity and 2D turbulence. For the
+latter we describe the hamiltonian, which appears to be given by the Schwinger
+mass term, and discuss some possible developments within our approach. Next we
+show that the set of highest weight orbits of $w_{\infty}$ splits into subsets,
+each of which consists of highest weight orbits of $\bar{w}_N$ for a given
+N. We specify the general APD geometric action to an orbit of $\bar{w}_N$ and
+describe an appropriate set of observables, thus getting an action and
+observables for $\bar{w}_N$ gravity. We compute also the Ricci form on the
+$\bar{w}_N$ orbits, what gives us the critical central charge of the
+$\bar{w}_N$ string, which appears to be the same as the one of the $W_N$
+string.
+\\

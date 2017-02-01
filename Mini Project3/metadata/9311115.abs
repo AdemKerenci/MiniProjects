@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311115
+From: arefeva@qft.mian.su (Irina Ya. Aref'eva)
+Date: Thu, 18 Nov 93 17:56:16 +0300 (MSK)   (13kb)
+
+Title: Regge Regime in QCD and Asymmetric Lattice Gauge Theory
+Authors: I.Ya. Aref'eva
+Comments: LATEX, 13 pages, SMI-15-93
+Journal-ref: Phys.Lett. B325 (1994) 171-182
+\\
+  We study the Regge regime of QCD as a special regime of lattice gauge theory
+on an asymmetric lattice. This lattice has a spacing $a_0 $ in the longitudinal
+direction and a spacing $a_t $ in the transversal direction. The limit
+$\frac{a_{0}}{a_{t}} \to 0$ corresponds to correlation functions with small
+longitudinal and large transversal coordinates, i.e. large $s$ and small $t$.
+On this lattice the longitudinal dynamics is described by the usual
+two-dimensional chiral field in finite volume and the transversal dynamics is
+emerged through an effective interaction of boundary terms of the longitudinal
+dynamics. The effective interaction depends crucially on the spectrum of the
+two-dimensional chiral field. Massless exitations produce an effective
+2-dimensional action which is different from the action recently proposed by
+H.Verlinde and E.Verlinde. Massive exitations give raise to an effective action
+located on the contour in the longitudinal plane.
+\\

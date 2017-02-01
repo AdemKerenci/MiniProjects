@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302054
+From: grosche@tsmi19.sissa.it
+Date: Sat, 13 Feb 1993 14:03:08 +0100   (17kb)
+Date (revised): Sat, 11 Sep 1993 10:58:58 +0100
+
+Title: Path Integral Solution of a Class of Explicitly Time-Dependent
+  Potentials
+Authors: Christian Grosche
+Comments: 13 pages, amstex, SISSA/2/93/FM (In the revised version some
+  improvements and corrections have been made.)
+\\
+  A specific class of explicitly time-dependent potentials is studied by means
+of path integrals. For this purpose a general formalism to treat explicitly
+time-dependent space-time transformations in path integrals is sketched. An
+explicit time-dependent model under consideration is of the form
+$V(q,t)=V[q/\zeta(t)]/\zeta^2(t)$, where $V$ is a usual potential, and
+$\zeta(t)=(at^2+2bt+c)^{1/2}$. A recent result of Dodonov et al.\ for
+calculating corresponding propagators is incorporated into the path integral
+formalism by performing a space-time transformation. Some examples illustrate
+the formalism.
+\\

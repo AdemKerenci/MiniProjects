@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411076
+From: krama@mri.mri.ernet.in ("Kalyan Rama")
+Date: Thu, 10 Nov 1994 20:05:04 +0500   (16kb)
+Date (revised): Thu, 25 May 1995 20:18:47 +0500
+
+Title: Singularities in Graviton-Dilaton System: Their Implications on the PPN
+  Parameters and the Cosmological Constant
+Author: S. Kalyana Rama
+Comments: 23 pages. Latex File, process twice. Revised version: A detailed
+  discussion on naked singularities is added in section 3; a note and some new
+  references added
+Report-no: Mehta Research Institute, Allahabad, Preprint MRI-PHY/15/94,
+  TCD-9-94; October 1994
+\\
+  Alternatives to Einstein's theory of general relativity can be distinguished
+by measuring the parametrised post Newtonian parameters. Two such parameters
+$\beta$ and $\gamma$, equal to one in Einstein theory, can be obtained from
+static spherically symmetric solutions. For the graviton-dilaton system, as in
+Brans-Dicke or low energy string theory, we find that if $\gamma \ne 1$ for a
+charge neutral point star, then there exist naked singularities. Thus, if
+$\gamma$ is measured to be different from one, then it cannot be explained by
+these theories, without implying naked singularities. We also couple a
+cosmological constant $\Lambda$ to the graviton-dilaton system, a la string
+theory. We find that static spherically symmetric solutions in low energy
+string theory, which describe the gravitational field of a point star in the
+real universe atleast upto a distance $r_* \simeq {\cal O} ({\rm pc})$, always
+lead to curvature singularities. These singularities are stable and much worse
+than the naked ones. Requiring their absence upto a distance $r_*$ implies a
+bound $| \Lambda | < 10^{- 102} (\frac{r_*}{{\rm pc}})^{- 2}$ in natural units.
+If $r_* \simeq 1 {\rm Mpc}$ then $| \Lambda | < 10^{- 114}$, and if $r_*$
+extends all the way upto the edge of the universe ($10^{28} {\rm cm}$) then $|
+\Lambda | < 10^{- 122}$ in natural units.
+\\

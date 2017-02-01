@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306027
+From: PARANJ@LPS.UMONTREAL.CA
+Date: Fri, 4 Jun 1993 11:44:02 -0400 (EDT)   (9kb)
+Date (revised): Thu, 16 Mar 1995 10:49:18 -0500 (EST)
+Date (revised): Wed, 21 Jun 1995 10:31:41 -0400 (EDT)
+
+Title: Spontaneous Symmetry Breaking and the Renormalization of the
+  Chern-Simons Term
+Authors: Avinash Khare, R. B. MacKenzie, P. K. Panigrahi, and M. B. Paranjape
+Comments: Version to be published in Phys Lett B., minor additional changes
+Report-no: UdeM-LPS-TH-93-150
+Journal-ref: Phys.Lett. B355 (1995) 236-240
+\\
+  We calculate the one-loop perturbative correction to the coefficient of the
+\cs term in non-abelian gauge theory in the presence of Higgs fields, with a
+variety of symmetry-breaking structures. In the case of a residual $U(1)$
+symmetry, radiative corrections do not change the coefficient of the \cs term.
+In the case of an unbroken non-abelian subgroup, the coefficient of the
+relevant \cs term (suitably normalized) attains an integral correction, as
+required for consistency of the quantum theory. Interestingly, this coefficient
+arises purely from the unbroken non-abelian sector in question; the orthogonal
+sector makes no contribution. This implies that the coefficient of the \cs term
+is a discontinuous function over the phase diagram of the theory.
+\\

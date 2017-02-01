@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211065
+From: devchand@theor.jinrc.dubna.su (Chand Devchand)
+Date: Wed, 11 Nov 92 19:36:57 +0300 (MSK)   (12kb)
+
+Title: Minimal deformations of the commutative algebra and the linear group
+  GL(n)
+Author: B. M. Zupnik
+Comments: 14 pages
+Report-no: NIIPF-92/01
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Theor.Math.Phys. 95 (1993) 677-685; Teor.Mat.Fiz. 95N3 (1993)
+  403-417
+\\
+  We consider the relations of generalized commutativity in the algebra of
+formal series $ M_q (x^i ) $, which conserve a tensor $ I_q $-grading and
+depend on parameters $ q(i,k) $ . We choose the $ I_q $-preserving version of
+differential calculus on $ M_q$ . A new construction of the symmetrized tensor
+product for $ M_q $-type algebras and the corresponding definition of minimally
+deformed linear group $ QGL(n) $ and Lie algebra $ qgl(n) $ are proposed. We
+study the connection of $ QGL(n) $ and $ qgl(n) $ with the special matrix
+algebra $ \mbox{Mat} (n,Q) $ containing matrices with noncommutative elements.
+A definition of the deformed determinant in the algebra $ \mbox{Mat} (n,Q) $ is
+given. The exponential parametrization in the algebra $ \mbox{Mat} (n,Q) $ is
+considered on the basis of Campbell-Hausdorf formula.
+\\

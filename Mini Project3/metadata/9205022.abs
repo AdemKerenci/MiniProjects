@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205022
+From: carlip@dirac.ucdavis.edu (Steve Carlip)
+Date: Mon, 11 May 92 13:25:08 PDT   (19kb)
+
+Title: Entropy vs. Action in the (2+1)-Dimensional Hartle-Hawking Wave Function
+Authors: Steven Carlip
+Comments: 17 pages
+Report-no: UCD-92-18
+Journal-ref: Phys.Rev. D46 (1992) 4387-4395
+\\
+  In most attempts to compute the Hartle-Hawking ``wave function of the
+universe'' in Euclidean quantum gravity, two important approximations are made:
+the path integral is evaluated in a saddle point approximation, and only the
+leading (least action) extremum is taken into account. In (2+1)-dimensional
+gravity with a negative cosmological constant, the second assumption is shown
+to lead to incorrect results: although the leading extremum gives the most
+important single contribution to the path integral, topologically inequivalent
+instantons with larger actions occur in great enough numbers to predominate.
+One can thus say that in 2+1 dimensions --- and possibly in 3+1 dimensions as
+well --- entropy dominates action in the gravitational path integral.
+\\

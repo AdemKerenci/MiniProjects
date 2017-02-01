@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408078
+From: khovanov-michael@MATH.YALE.EDU (Mikhail Khovanov)
+Date: Sat, 13 Aug 1994 13:38:13 -0400   (11kb)
+Date (revised): Tue, 30 Aug 1994 17:08:47 -0400
+
+Title: Representations of tensor categories and Dynkin diagrams
+Author: Pavel Etingof and Mikhail Khovanov
+Comments: 10 pages; errors in indexation in the Clebsch-Gordan and truncated
+  Clebsch-Gordan formulas are corrected
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  In this note we illustrate by a few examples the general principle:
+interesting algebras and representations defined over Z_+ come from category
+theory, and are best understood when their categorical origination has been
+discovered. We show that indecomposable Z_+-representations of the character
+ring of SU(2) satisfying certain conditions correspond to affine and infinite
+Dynkin diagrams with loops. We also show that irreducible Z_+-representations
+of the Verlinde algebra (the character ring of the quantum group SU(2)_q, where
+q is a root of unity), satisfying similar conditions correspond to usual
+(non-affine) Dynkin diagrams with loops. Conjecturedly, the last result is
+related to the ADE classification of conformal field theories with the chiral
+algebra \hat{sl(2)}.
+\\

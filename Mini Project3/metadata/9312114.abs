@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312114
+From: DATTANASIO@vaxpr.pr.infn.it
+Date: Tue, 14 Dec 1993 12:27:21 +0100 (WET)   (42kb)
+Date (revised): Tue, 8 Mar 1994 12:40:23 +0200 (MET)
+
+Title: Renormalization group flow for SU(2) Yang-Mills theory and gauge
+  invariance
+Authors: M. Bonini, M. D'Attanasio and G. Marchesini
+Comments: 25 pages + 4 figures appended as PostScript file, LaTeX style, UPRF
+  93-388, explanations added
+Journal-ref: Nucl.Phys. B421 (1994) 429-455
+\\
+  We study the formulation of the Wilson renormalization group (RG) method for
+a non-Abelian gauge theory. We analyze the simple case of $SU(2)$ and show that
+the local gauge symmetry can be implemented by suitable boundary conditions for
+the RG flow. Namely we require that the relevant couplings present in the
+physical effective action, \ie the coefficients of the field monomials with
+dimension not larger than four, are fixed to satisfy the Slavnov-Taylor
+identities. The full action obtained from the RG equation should then satisfy
+the same identities. This procedure is similar to the one we used in QED. In
+this way we avoid the cospicuous fine tuning problem which arises if one gives
+instead the couplings of the bare Lagrangian. To show the practical character
+of this formulation we deduce the perturbative expansion for the vertex
+functions in terms of the physical coupling $g$ at the subtraction point $\mu$
+and perform one loop calculations. In particular we analyze to this order some
+ST identities and compute the nine bare couplings. We give a schematic proof of
+perturbative renormalizability.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208006
+From: Shahn Majid <S.Majid@damtp.cambridge.ac.uk>
+Date: Mon, 3 Aug 92 12:44:53 BST   (30kb)
+
+Title: Quantum and Braided Linear Algebra
+Author: Shahn Majid
+Comments: 27 pages
+Report-no: DAMTP/92-12
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 34 (1993) 1176-1196
+\\
+  Quantum matrices $A(R)$ are known for every $R$ matrix obeying the Quantum
+Yang-Baxter Equations. It is also known that these act on `vectors' given by
+the corresponding Zamalodchikov algebra. We develop this interpretation in
+detail, distinguishing between two forms of this algebra, $V(R)$ (vectors) and
+$V^*(R)$ (covectors). $A(R)\to V(R_{21})\tens V^*(R)$ is an algebra
+homomorphism (i.e. quantum matrices are realized by the tensor product of a
+quantum vector with a quantum covector), while the inner product of a quantum
+covector with a quantum vector transforms as a scaler. We show that if $V(R)$
+and $V^*(R)$ are endowed with the necessary braid statistics $\Psi$ then their
+braided tensor-product $V(R)\und\tens V^*(R)$ is a realization of the braided
+matrices $B(R)$ introduced previously, while their inner product leads to an
+invariant quantum trace. Introducing braid statistics in this way leads to a
+fully covariant quantum (braided) linear algebra. The braided groups obtained
+from $B(R)$ act on themselves by conjugation in a way impossible for the
+quantum groups obtained from $A(R)$.
+\\

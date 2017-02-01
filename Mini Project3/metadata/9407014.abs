@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407014
+From: "Steve Gubser" <ssgubser@puhep1.Princeton.EDU>
+Date: Mon, 4 Jul 94 11:25:13 -0400   (23kb)
+Date (revised): Tue, 5 Jul 94 18:06:04 -0400
+
+Title: A modified c=1 matrix model with new critical behavior
+Authors: Steven S. Gubser and Igor R. Klebanov
+Comments: 11 pages, 2 figures (uuencoded postscript files), PUPT-1479
+Journal-ref: Phys.Lett. B340 (1994) 35-42
+\\
+  By introducing a $\int dt \, g\left(\Tr \Phi^2(t)\right)^2$ term into the
+action of the $c=1$ matrix model of two-dimensional quantum gravity, we find a
+new critical behavior for random surfaces. The planar limit of the path
+integral generates multiple spherical ``bubbles'' which touch one another at
+single points. At a special value of $g$, the sum over connected surfaces
+behaves as $\Delta^2 \log\Delta$, where $\Delta$ is the cosmological constant
+(the sum over surfaces of area $A$ goes as $A^{-3}$). For comparison, in the
+conventional $c=1$ model the sum over planar surfaces behaves as $\Delta^2/
+\log\Delta$.
+\\

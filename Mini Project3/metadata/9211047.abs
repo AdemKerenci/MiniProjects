@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211047
+From: kreuzer@surya11.cern.ch (Maximilian Kreuzer)
+Date: Wed, 11 Nov 92 13:07:30 +0100   (43kb)
+Date (revised): Fri, 20 Nov 92 18:41:31 +0100
+
+Title: All Abelian Symmetries of Landau-Ginzburg Potentials
+Authors: Maximilian Kreuzer and Harald Skarke
+Comments: 21 pages, LaTeX, CERN-TH.6705/92
+Journal-ref: Nucl.Phys. B405 (1993) 305-325
+\\
+  We present an algorithm for determining all inequivalent abelian symmetries
+of non-degenerate quasi-homogeneous polynomials and apply it to the recently
+constructed complete set of Landau--Ginzburg potentials for $N=2$
+superconformal field theories with $c=9$. A complete calculation of the
+resulting orbifolds without torsion increases the number of known spectra by
+about one third. The mirror symmetry of these spectra, however, remains at the
+same low level as for untwisted Landau--Ginzburg models. This happens in spite
+of the fact that the subclass of potentials for which the Berglund--H\"ubsch
+construction works features perfect mirror symmetry. We also make first steps
+into the space of orbifolds with $\ZZ_2$ torsions by including extra trivial
+fields.
+\\

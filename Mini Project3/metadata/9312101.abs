@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312101
+From: Pavel Etingof <etingof@math.harvard.edu>
+Date: Mon, 13 Dec 1993 11:53:13 -0500   (6kb)
+
+Title: A unified representation-theoretic approach to special functions
+Author: Pavel Etingof and Alexander Kirillov Jr
+Comments: 3 pages, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+   A representation-theoretic approach to special functions was developed
+in the 40-s and 50-s in the works of I.M.Gelfand, M.A.Naimark, N.Ya.Vilenkin,
+and their collaborators. The essence of this approach is the fact that most
+classical special functions can be obtained as suitable specializations of
+matrix elements or characters of representations of groups. Another rich
+source of special functions is the theory of Clebsch-Gordan coefficients
+which describes the geometric juxtaposition of irreducible components inside
+the tensor product of two representations. Finally, in recent works on
+representations of (quantum) affine Lie algebras it was shown that matrix
+elements of intertwining operators between certain representations of these
+algebras are interesting special functions -- (q-)hypergeometric
+functions and their generalizations.
+   In this paper we suggest a general method of getting special functions
+from representation theory which unifies the three methods mentioned
+above and allows one to define and study many new special functions.
+We illustrate this method by a number of examples -- Macdonald's polynomials,
+eigenfunctions of the Sutherland operator, Lame functions.
+\\

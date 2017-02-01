@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406208
+From: Sato Masatoshi <msato@gauge.scphys.kyoto-u.ac.jp>
+Date: Fri, 01 Jul 94 00:50:39 +0900   (31kb)
+
+Title: "Topological" Formulation of Effective Vortex Strings
+Authors: Masatoshi Sato and Shigeaki Yahikozawa
+Comments: 31page, LaTeX, 8 uuencoded epsf figures, KUNS-1269
+Journal-ref: Nucl.Phys. B436 (1995) 100-128
+\\
+  We present a ``topological'' formulation of arbitrarily shaped vortex strings
+in four dimensional field theory. By using a large Higgs mass expansion, we
+then evaluate the effective action of the closed Abrikosov-Nielsen-Olesen
+vortex string. It is shown that the effective action contains the Nambu-Goto
+term and an extrinsic curvature squared term with negative sign. We next
+evaluate the topological $\FtF$ term and find that it becomes the sum of an
+ordinary self-intersection number and Polyakov's self-intersection number of
+the world sheet swept by the vortex string. These self-intersection numbers are
+related to the self-linking number and the total twist number, respectively.
+Furthermore, the $\FtF$ term turns out to be the difference between the sum of
+the writhing numbers and the linking numbers of the vortex strings at the
+initial time and the one at the final time. When the vortex string is coupled
+to fermions, the chiral fermion number of the vortex string becomes the
+writhing number (modulo $\bZ$) through the chiral anomaly. Our formulation is
+also applied to ``global'' vortex strings in a model with a broken global
+$U(1)$ symmetry.
+\\

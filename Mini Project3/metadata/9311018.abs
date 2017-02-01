@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311018
+From: Annemarie Blobel <ablobel@x4u.desy.de>
+Date: Wed, 3 Nov 1993 09:00:37 +0100 (MET)   (14kb)
+
+Title: Large Sum-over-histories representation for the causal Green function of
+  free scalar field theory
+Authors: Oliver Rudolph
+Comments: 14 pages, latex, DESY 93-145
+Journal-ref: Phys.Rev. D51 (1995) 1818-1830
+\\
+  A set of Green functions ${\cal G}_{\alpha}(x-y), \alpha \in [0, 2 \pi [$,
+for free scalar field theory is introduced, varying between the Hadamard Green
+function $\Delta_1(x-y) \equiv \linebreak[2] \lsta{0} \hspace{-0.1cm} \{
+\varphi(x), \varphi(y) \} \hspace{-0.1cm} \rsta{0}$ and the causal Green
+function ${\cal G}_{\pi}(x-y) = i \Delta(x-y) \equiv [\varphi(x), \varphi(y)]$.
+For every $\alpha \in [0, 2 \pi [$ a path-integral representation for ${\cal
+G}_{\alpha}$ is obtained both in the configuration space and in the phase space
+of the classical relativistic particle. Especially setting $\alpha = \pi$ a
+sum-over-histories representation for the causal Green function is obtained.
+Furthermore using BRST theory an alternative path-integral representation for
+${\cal G}_{\alpha}$ is presented. From these path integral representations the
+composition laws for the ${\cal G}_{\alpha}$'s are derived using a modified
+path decomposition expansion.
+\\

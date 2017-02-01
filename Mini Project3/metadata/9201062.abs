@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9201062
+From: "A. Stern" <ASTERN@ua1vm.ua.edu>
+Date: Tue, 28 Jan 92 15:53:53 CST   (13kb)
+
+Title: Poisson bracket algebra for chiral group elements in the WZNW model
+Authors: G. Bimonte, P. Salomonson, A. Simoni, A. Stern
+Comments: 21 pages
+Journal-ref: Int. J. Mod. Phys. A7 (1992) 6159
+\\
+  We examine the Wess-Zumino-Novikov-Witten (WZNW) model on a circle and
+compute the Poisson bracket algebra for left and right moving chiral group
+elements. Our computations apply for arbitrary groups and boundary conditions,
+the latter being characterized by the monodromy matrix. Unlike in previous
+treatments, they do not require specifying a particular parametrization of the
+group valued fields in terms of angles spanning the group. We do however find
+it necessary to make a gauge choice, as the chiral group elements are not gauge
+invariant observables. (On the other hand, the quadratic form of the Poisson
+brackets may be defined independent of a gauge fixing.) Gauge invariant
+observables can be formed from the monodromy matrix and these observables are
+seen to commute in the quantum theory. 
+\\

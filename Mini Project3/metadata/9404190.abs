@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404190
+From: evansjm@surya11.cern.ch (Jonathan Evans)
+Date: Sat, 30 Apr 94 19:18:52 +0200   (20kb)
+
+Title: Supersymmetry algebras and Lorentz invariance for d=10 Super Yang-Mills
+Authors: Jonathan M. Evans
+Comments: 11 pages, plain tex (macros included), CERN-TH.7231/94
+Journal-ref: Phys.Lett. B334 (1994) 105-112
+\\
+  We consider ways in which conventional supersymmetry can be embedded in the
+set of more general fermionic transformations proposed recently [\Ref{B}] as a
+framework in which to study $d=10$ super Yang-Mills. Solutions are exhibited
+which involve closed algebras of various numbers of supersymmetries together
+with their invariance groups: nine supersymmetries with $\GT {\times}\SO (1,1)$
+invariance; eight supersymmetries with $\SO (7){\times}\SO (1,1)$ invariance;
+four supersymmetries with $\SO (3,1){\times}\U (3)$ invariance. We recover in
+this manner all previously known ways of adding finite numbers of bosonic
+auxiliary fields so as to partially close the $d=10$ superalgebra. A crucial
+feature of these solutions is that the auxiliary fields transform non-trivially
+under the residual Lorentz symmetry, even though they are originally introduced
+as Lorentz scalars.
+\\

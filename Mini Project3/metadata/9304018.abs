@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304018
+From: Kondo <kondo@tansei.cc.u-tokyo.ac.jp>
+Date: Tue, 6 Apr 93 20:22:49 JST   (20kb)
+
+Title: Finite-Temperature and -Density QED: Schwinger-Dyson Equation in the
+  Real-Time Formalism
+Authors: K.-I. Kondo and K. Yoshida
+Comments: 28 pages+15 figures (figures: not included, available upon request)
+Report-no: CHIBA-EP-67
+Journal-ref: Int. J. Mod. Phys. A10 (1995) 199-232
+\\
+  Based on the real-time formalism, especially, on Thermo Field Dynamics, we
+derive the Schwinger-Dyson gap equation for the fermion propagator in QED and
+Four-Fermion model at finite-temperature and -density. We discuss some
+advantage of the real-time formalism in solving the self-consistent gap
+equation, in comparison with the ordinary imaginary-time formalism. Once we
+specify the vertex function, we can write down the SD equation with only
+continuous variables without performing the discrete sum over Matsubara
+frequencies which cannot be performed in advance without further approximation
+in the imaginary-time formalism. By solving the SD equation obtained in this
+way, we find the chiral-symmetry restoring transition at finite-temperature and
+present the associated phase diagram of strong coupling QED.
+  In solving the SD equation, we consider two approximations:
+instantaneous-exchange and $p_0$-independent ones. The former has a direct
+correspondence in the imaginary time formalism, while the latter is a new
+approximation beyond the former, since the latter is able to incorporate new
+thermal effects which has been overlooked in the ordinary imaginary-time
+solution. However both approximations are shown to give qualitatively the same
+results on the finite-temperature phase transition.
+\\

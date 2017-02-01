@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307010
+From: Hugh Osborn <H.Osborn@damtp.cambridge.ac.uk>
+Date: Fri, 2 Jul 93 09:16 BST   (41kb)
+Date (revised): Wed, 4 Aug 93 15:17 BST
+
+Title: Implications of Conformal Invariance in Field Theories for General
+  Dimensions
+Authors: H. Osborn and A. Petkos
+Comments: 46 pages (plain TeX with use of AMS fonts), DAMTP/93-31 (minor
+  corrections and additions)
+Journal-ref: Annals Phys. 231 (1994) 311-362
+\\
+  The requirements of conformal invariance for two and three point functions
+for general dimension $d$ on flat space are investigated. A compact group
+theoretic construction of the three point function for arbitrary spin fields is
+presented and it is applied to various cases involving conserved vector
+operators and the energy momentum tensor. The restrictions arising from the
+associated conservation equations are investigated. It is shown that there are,
+for general $d$, three linearly independent conformal invariant forms for the
+three point function of the energy momentum tensor, although for $d=3$ there
+are two and for $d=2$ only one. The form of the three point function is also
+demonstrated to simplify considerably when all three points lie on a straight
+line. Using this the coefficients of the conformal invariant point functions
+are calculated for free scalar and fermion theories in general dimensions and
+for abelian vector fields when $d=4$. Ward identities relating three and two
+point functions are also discussed. This requires careful analysis of the
+singularities in the short distance expansion and the method of differential
+regularisation is found convenient. For $d=4$ the coefficients appearing in the
+energy momentum tensor three point function are related to the coefficients of
+the two possible terms in the trace anomaly for a conformal theory on a curved
+space background.
+\\

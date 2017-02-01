@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303054
+From: tseytlin@surya11.cern.ch (Arkady Tseytlin)
+Date: Tue, 9 Mar 93 23:19:37 +0100   (24kb)
+
+Title: Two-dimensional conformal sigma models and exact string solutions
+Authors: A.A. Tseytlin
+Comments: 20 pages, harvmac, CERN-TH.6820/93
+Journal-ref: in: From superstrings to supergravity, Proc. of26th Eloisatron
+  Workshop From superstrings to supergravity, Erice 5-12 Dec.1992, ed. by M.
+  Duff, S. Ferrara and R. Khuri, World Scientific, 1994, p.3
+\\
+  We discuss two classes of exact (in $\a'$) string solutions described by
+conformal sigma models. They can be viewed as two possibilities of constructing
+a conformal model out of the non-conformal one based on the metric of a
+$D$-dimensional homogeneous $G/H$ space. The first possibility is to introduce
+two extra dimensions (one space-like and one time-like) and to impose the null
+Killing symmetry condition on the resulting $2+D$ dimensional metric. In the
+case when the ``transverse" model is $n=2$ supersymmetric and the $G/H$ space
+is K\"ahler-Einstein the resulting metric-dilaton background can be found
+explicitly. The second possibility - which is realised in the sigma models
+corresponding to $G/H$ conformal theories - is to deform the metric,
+introducing at the same time a non-trivial dilaton and antisymmetric tensor
+backgrounds. The expressions for the metric and dilaton in this case are
+derived using the operator approach in which one identifies the equations for
+marginal operators of conformal theory with the linearised (near a background)
+expressions for the `$\b$-functions'. Equivalent results are then reproduced in
+the direct field-theoretical approach based on computing first the effective
+action of the $G/H$ gauged WZW model and then solving for the $2d$ gauge field.
+Both the bosonic and the supersymmetric cases are discussed. ( To be published
+in the Proceedings of the 26 Workshop ``From Superstrings to Supergravity",
+Erice, 5-12 December,1992.)
+\\

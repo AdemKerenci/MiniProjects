@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412050
+From: Chris Fewster <C.J.Fewster@damtp.cambridge.ac.uk>
+Date: Tue, 6 Dec 94 16:09:19 GMT   (24kb)
+
+Title: Generalised Point Interactions for the Radial Schrodinger Equation via
+  Unitary Dilations
+Author: C.J. Fewster
+Comments: 25 pages, latex, no figures
+Report-no: DAMTP-R94/11
+Journal-ref: J.Phys. A28 (1995) 1107-1128
+\\
+  We present an inverse scattering construction of generalised point
+interactions (GPI) -- point-like objects with non-trivial scattering behaviour.
+The construction is developed for single centre $S$-wave GPI models with
+rational $S$-matrices, and starts from an integral transform suggested by the
+scattering data. The theory of unitary dilations is then applied to construct a
+unitary mapping between Pontryagin spaces which extend the usual position and
+momentum Hilbert spaces. The GPI Hamiltonian is defined as a multiplication
+operator on the momentum Pontryagin space and its free parameters are fixed by
+a physical locality requirement. We determine the spectral properties and
+domain of the Hamiltonian in general, and construct the resolvent and M{\o}ller
+wave operators thus verifying that the Hamiltonian exhibits the required
+scattering behaviour. The physical Hilbert space is identified. The
+construction is illustrated by GPI models representing the effective range
+approximation. For negative effective range we recover a known class of GPI
+models, whilst the positive effective range models appear to be new. We discuss
+the interpretation of these models, along with possible extensions to our
+construction.
+\\

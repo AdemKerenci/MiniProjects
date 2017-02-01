@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304106
+From: TERRY GANNON <TERRY_GANNON@carleton.ca>
+Date: Thu, 22 Apr 93 18:05 EDT   (20kb)
+
+Title: The Low Level Modular Invariant Partition Functions of Rank-Two Algebras
+Authors: Terry Gannon and Q. Ho-Kim
+Comments: 20 pp, plain tex
+Journal-ref: Int. J. Mod. Phys. A9 (1994) 2667-2686
+\\
+  Using the self-dual lattice method, we make a systematic search for modular
+invariant partition functions of the affine algebras $g\*{(1)}$ of $g=A_2$,
+$A_1+A_1$, $G_2$, and $C_2$. Unlike previous computer searches, this method is
+necessarily complete. We succeed in finding all physical invariants for $A_2$
+at levels $\le 32$, for $G_2$ at levels $\le 31$, for $C_2$ at levels $\le 26$,
+and for $A_1+A_1$ at levels $k_1=k_2\le 21$. This work thus completes a recent
+$A_2$ classification proof, where the levels $k=3,5,6,9,12,15,21$ had been left
+out. We also compute the dimension of the (Weyl-folded) commutant for these
+algebras and levels.
+\\

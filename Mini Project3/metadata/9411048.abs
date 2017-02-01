@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411048
+From: lerche@nxth04.cern.ch
+Date: Mon, 7 Nov 94 20:34:35 +0100   (27kb)
+Date (revised): Tue, 8 Nov 94 16:17:52 +0100
+Date (revised): Tue, 29 Nov 94 14:09:04 +0100
+
+Title: Simple Singularities and N=2 Supersymmetric Yang-Mills Theory
+Authors: A. Klemm, W. Lerche, S. Theisen and S. Yankielowicz
+Comments: 13p, harvmac/lanlmac with hyperlinks 1 uuencoded PostScript figure
+  appended (Some inconsistencies and typos were corrected, we also dropped our
+  conjectures for the monodromies at strong coupling, of which we know now that
+  they are different.)
+Report-no: CERN-TH.7495/94, LMU-TPW 94/16
+Journal-ref: Phys.Lett. B344 (1995) 169-175
+\\
+  We present a first step towards generalizing the work of Seiberg and Witten
+on N=2 supersymmetric Yang-Mills theory to arbitrary gauge groups.
+Specifically, we propose a particular sequence of hyperelliptic genus $n-1$
+Riemann surfaces to underly the quantum moduli space of $SU(n)$ N=2
+supersymmetric gauge theory. These curves have an obvious generalization to
+arbitrary simply laced gauge groups, which involves the A-D-E type simple
+singularities. To support our proposal, we argue that the monodromy in the
+semiclassical regime is correctly reproduced. We also give some remarks on a
+possible relation to string theory.
+\\

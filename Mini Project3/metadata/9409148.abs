@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409148
+From: fivel@umdhep.umd.edu
+Date: Sun, 25 Sep 1994 00:35:55 EST   (9kb)
+
+Title: The Lattice Dynamics of Completely Entangled States and its Application
+  to Communication Schemes
+Authors: Daniel I. Fivel
+Comments: 10 pages, Latex, 27.5K
+\\
+  (Presented at conference on Fundamental Problems in Physics - UMBC - June
+1994) It is shown that among the orthogonal sets of EPR (completely entangled)
+states there is a unique basis (up to equivalence) that is a also a perfectly
+resolved set of coherent states with respect to a pair of complementary
+observables. This basis defines a lattice phase space in which quadratic
+Hamiltonians constructed from the observables induce site-to-site hopping at
+discrete time intervals. When recently suggested communication
+schemes\cite{BENa} are adapted to the lattice they are greatly enhanced,
+because the finite Heisenberg group structure allows dynamic generation of
+signal sequences using the quadratic Hamiltonians. We anticipate the
+possibility of interferometry by determining the relative phases between
+successive signals produced by the simplest Hamiltonians of this type, and we
+show that they exhibit a remarkable pattern determined by the number-theoretic
+Legendre symbol.
+\\

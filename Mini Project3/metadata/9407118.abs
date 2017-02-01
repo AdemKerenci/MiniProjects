@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407118
+From: linde@physics.stanford.edu
+Date: Tue, 19 Jul 94 21:26:49 -0800   (63kb)
+Date (revised): Fri, 29 Jul 94 23:12:52 -0800
+Date (revised): Thu, 17 Nov 94 20:18:48 -0800
+
+Title: Topology, Entropy and Witten Index of Dilaton Black Holes
+Authors: G.W. Gibbons and R.E. Kallosh
+Comments: 51 pages, 4 figures, LaTeX. Considerably extended version. New
+  sections include discussion of the Witten index, topology of the moduli
+  space, black hole sigma model, and black hole fission with huge energy
+  release
+Report-no: NI94003 and SU-ITP-94-9
+Journal-ref: Phys.Rev. D51 (1995) 2839-2862
+\\
+  We have found that for extreme dilaton black holes an inner boundary must be
+introduced in addition to the outer boundary to give an integer value to the
+Euler number. The resulting manifolds have (if one identifies imaginary time)
+topology $S^1 \times R \times S^2 $ and Euler number $\chi = 0$ in contrast to
+the non-extreme case with $\chi=2$. The entropy of extreme $U(1)$ dilaton black
+holes is already known to be zero. We include a review of some recent ideas due
+to Hawking on the Reissner-Nordstr\"om case. By regarding all extreme black
+holes as having an inner boundary, we conclude that the entropy of {\sl all}
+extreme black holes, including $[U(1)]^2$ black holes, vanishes. We discuss the
+relevance of this to the vanishing of quantum corrections and the idea that the
+functional integral for extreme holes gives a Witten Index. We have studied
+also the topology of ``moduli space'' of multi black holes. The quantum
+mechanics on black hole moduli spaces is expected to be supersymmetric despite
+the fact that they are not HyperK\"ahler since the corresponding geometry has
+torsion unlike the BPS monopole case. Finally, we describe the possibility of
+extreme black hole fission for states with an energy gap. The energy released,
+as a proportion of the initial rest mass, during the decay of an
+electro-magnetic black hole is 300 times greater than that released by the
+fission of an ${}^{235} U$ nucleus.
+\\

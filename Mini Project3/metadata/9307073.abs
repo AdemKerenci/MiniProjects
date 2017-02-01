@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307073
+From: Cobi Sonnenschein <COBI@taunivm.tau.ac.il>
+Date: Fri, 09 Jul 93 23:21:04 IST   (16kb)
+
+Title: Do we need the $W^{(n>3)}$ constraints to solve the $(1,q)$ models
+  coupled to 2D gravity?
+Authors: Y.Lavi and J.Sonnenschein
+Comments: 26 pages
+Journal-ref: Nucl. Phys. B414 (1994) 329
+\\
+  We prove that all the correlation functions in the $(1,q)$ models are
+calculable using only the Virasoro and the $W^{(3)}$ constraints. This result
+is based on the invariance of correlators with respect to an interchange of the
+order of the operators they contain.
+  In terms of the topological recursion relations, it means that only two and
+three contacts and the corresponding degenerations of the underlying surfaces
+are relevant. An algorithm to compute correlators for any $q$ and at any genus
+is presented and demonstrated through some examples. On route to these results,
+some interesting polynomial identities, which are generalizations of Abel's
+identity, were discovered. }
+\\

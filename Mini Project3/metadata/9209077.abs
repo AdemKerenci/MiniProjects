@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209077
+From: turbiner@vxcrna.cern.ch
+Date: Tue, 22 Sep 92 15:34:04 +0200   (10kb)
+
+Title: On polynomial solutions of differential equations
+Author: A.Turbiner
+Comments: 12pp
+Report-no: CPT-91/P.2628
+Subj-class: High Energy Physics - Theory; Algebraic Geometry; Functional
+  Analysis
+Journal-ref: J.Math.Phys. 33 (1992) 3989-3993
+\\
+  A general method of obtaining linear differential equations having polynomial
+solutions is proposed. The method is based on an equivalence of the spectral
+problem for an element of the universal enveloping algebra of some Lie algebra
+in the "projectivized" representation possessing an invariant subspace and the
+spectral problem for a certain linear differential operator with variable
+coefficients. It is shown in general that polynomial solutions of partial
+differential equations occur; in the case of Lie superalgebras there are
+polynomial solutions of some matrix differential equations, quantum algebras
+give rise to polynomial solutions of finite--difference equations.
+Particularly, known classical orthogonal polynomials will appear when
+considering $SL(2,{\bf R})$ acting on ${\bf RP_1}$. As examples, some
+polynomials connected to projectivized representations of $sl_2 ({\bf R})$,
+$sl_2 ({\bf R})_q$, $osp(2,2)$ and $so_3$ are briefly discussed.
+\\

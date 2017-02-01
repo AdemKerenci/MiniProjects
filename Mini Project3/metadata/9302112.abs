@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302112
+From: "Malte Henkel +41 (22) 702 6393" <HENKEL@sc2a.unige.ch>
+Date: Tue, 23 Feb 1993 17:24:21 +0100   (44kb)
+
+Title: Reaction-Diffusion Processes, Critical Dynamics and Quantum Chains
+Authors: Francisco C. Alcaraz, Michel Droz, Malte Henkel and Vladimir
+  Rittenberg
+Comments: Latex 52 pages (2 figures appended at the end), UGVA-DPT 1992/12-799
+Journal-ref: Ann. Phys. 230 (1994) 250-302
+\\
+  The master equation describing non-equilibrium one-dimensional problems like
+diffusion limited reactions or critical dynamics of classical spin systems can
+be written as a Schr\"odinger equation in which the wave function is the
+probability distribution and the Hamiltonian is that of a quantum chain with
+nearest neighbor interactions. Since many one-dimensional quantum chains are
+integrable, this opens a new field of applications. At the same time physical
+intuition and probabilistic methods bring new insight into the understanding of
+the properties of quantum chains. A simple example is the asymmetric diffusion
+of several species of particles which leads naturally to Hecke algebras and
+$q$-deformed quantum groups. Many other examples are given. Several relevant
+technical aspects like critical exponents, correlation functions and
+finite-size scaling are also discussed in detail.
+\\

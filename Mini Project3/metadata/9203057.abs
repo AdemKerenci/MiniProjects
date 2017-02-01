@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9203057
+From: visser@kiwi.wustl.edu (Matt Visser)
+Date: Fri, 20 Mar 92 12:05:19 CST   (13kb)
+Date (revised): Tue, 23 Jun 92 11:43:06 GMT-0600
+
+Title: Dirty blackholes: Thermodynamics and horizon structure
+Authors: Matt Visser
+Comments: [minor revisions] 22 pages, RevTeX
+Report-no: WashU--HEP--92/71
+Journal-ref: Phys.Rev. D46 (1992) 2445-2451
+\\
+  Considerable interest has recently been expressed in (static spherically
+symmetric) blackholes in interaction with various classical matter fields (such
+as electromagnetic fields, dilaton fields, axion fields, Abelian Higgs fields,
+non--Abelian gauge fields, {\sl etc}). A common feature of these investigations
+that has not previously been remarked upon is that the Hawking temperature of
+such systems appears to be suppressed relative to that of a vacuum blackhole of
+equal horizon area. That is: $k T_H \leq \hbar/(4\pi r_H) \equiv
+\hbar/\sqrt{4\pi A_H}$. This paper will argue that this suppression is generic.
+Specifically, it will be shown that
+ \[ k T_H = {\hbar\over4\pi r_H} \; e^{-\phi(r_H)} \;
+               \left( 1 - 8\pi G \; \rho_H \; r_H^2 \right). \]
+ Here $\phi(r_H)$ is an integral quantity, depending on the distribution of
+matter, that is guaranteed to be positive if the Weak Energy Condition is
+satisfied. Several examples of this behaviour will be discussed.
+Generalizations of this behaviour to non--symmetric non--static blackholes
+are conjectured.
+\\

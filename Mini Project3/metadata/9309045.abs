@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309045
+From: HAGENSEN%EBUBECM1.BITNET@FRMOP11.CNUSC.FR
+Date: Wed, 08 Sep 93 19:43:17 BCN   (20kb)
+
+Title: The Hidden Spatial Geometry of Non-Abelian Gauge Theories
+Authors: D.Z. Freedman, P.E. Haagensen, K. Johnson and J.I. Latorre
+Comments: 19 pages, TeX, CTP #2238
+\\
+  The Gauss law constraint in the Hamiltonian form of the $SU(2)$ gauge theory
+of gluons is satisfied by any functional of the gauge invariant tensor variable
+$\phi^{ij} = B^{ia} B^{ja}$. Arguments are given that the tensor $G_{ij} =
+(\phi^{-1})_{ij}\,\det B$ is a more appropriate variable. When the Hamiltonian
+is expressed in terms of $\phi$ or $G$, the quantity $\Gamma^i_{jk}$ appears.
+The gauge field Bianchi and Ricci identities yield a set of partial
+differential equations for $\Gamma$ in terms of $G$. One can show that $\Gamma$
+is a metric-compatible connection for $G$ with torsion, and that the curvature
+tensor of $\Gamma$ is that of an Einstein space. A curious 3-dimensional
+spatial geometry thus underlies the gauge-invariant configuration space of the
+theory, although the Hamiltonian is not invariant under spatial coordinate
+transformations. Spatial derivative terms in the energy density are singular
+when $\det G=\det B=0$. These singularities are the analogue of the centrifugal
+barrier of quantum mechanics, and physical wave-functionals are forced to
+vanish in a certain manner near $\det B=0$. It is argued that such barriers are
+an inevitable result of the projection on the gauge-invariant subspace of the
+Hilbert space, and that the barriers are a conspicuous way in which non-abelian
+gauge theories differ from scalar field theories.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405174
+From: Damiano Anselmi <anselmi@tsmi19.sissa.it>
+Date: Thu, 26 May 1994 14:59:08 +0200   (11kb)
+Date (revised): Wed, 22 Jun 1994 13:06:36 +0200
+
+Title: Constrained Topological Field Theory
+Authors: Damiano Anselmi, Pietro Fre', Luciano Girardello and Paolo Soriani
+Comments: LaTeX file, 11 pages, SISSA/ISAS 67/94/EP, IFUM 469/FT [one reference
+  corrected]
+Journal-ref: Phys.Lett. B335 (1994) 416-422
+\\
+  We derive a model of constrained topological gravity, a theory recently
+introduced by us through the twist of N=2 Liouville theory, starting from the
+general BRST algebra and imposing the moduli space constraint as a gauge
+fixing. To do this, it is necessary to introduce a formalism that allows a
+careful treatment of the global and the local degrees of freedom of the fields.
+Surprisingly, the moduli space constraint arises from the simplest and most
+natural gauge-fermion ({\sl antighost} $\times$ {\sl Lagrange multiplier}),
+confirming the previous results. The simplified technical set-up provides a
+deeper understanding for constrained topological gravity and a convenient
+framework for future investigations, like the matter coupling and the analysis
+of the effects of the constraint on the holomorphic anomaly.
+\\

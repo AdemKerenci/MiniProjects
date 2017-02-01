@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310195
+From: Chris Korthals-Altes <altes@cptsu4.univ-mrs.fr>
+Date: Fri, 29 Oct 93 19:07:20 +0100   (62kb)
+
+Title: Constrained effective potential in hot QCD
+Authors: C.P.Korthals
+Comments: Altes,39 pages, CPT/P2991
+Journal-ref: Nucl.Phys. B420 (1994) 637-668
+\\
+  Constrained effective potentials in hot gauge theory give the probability
+that a configuration p of the order parameter (Polyakov loop) occurs. They are
+important in the analysis of surface effects and bubble formation in the
+plasma. The vector potential appears non-linearly in the loop; in weak coupling
+the linear term gives rise to the traditional free energy graphs. But the
+non-linear terms generate insertions of the constrained modes into the free
+energy graphs, through renormalisations of the Polyakov loop. These insertions
+are gauge dependent and are necessary to cancel the gauge dependence of the
+free energy graphs. The latter is shown, through the BRST identities, to have
+again the form of constrained mode insertions. It also follows, that absolute
+minima of the potential are at the centergroup values of the loop. We evaluate
+the two-loop contributions for SU(N) gauge theories, with and without quarks,
+for the full domain of the N-1 variables.
+\\

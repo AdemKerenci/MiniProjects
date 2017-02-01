@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202074
+From: Jean-Bernard Zuber <zuber@poseidon.saclay.cea.fr>
+Date: 21 Feb 92 13:02:15+0100   (17kb)
+
+Title: A Model of Three-Dimensional Lattice Gravity
+Authors: D. Boulatov
+Comments: 20 pages
+Journal-ref: Mod.Phys.Lett. A7 (1992) 1629-1646
+\\
+  A model is proposed which generates all oriented $3d$ simplicial complexes
+weighted with an invariant associated with a topological lattice gauge theory.
+When the gauge group is $SU_q(2)$, $q^n=1,$ it is the Turaev-Viro invariant and
+the model may be regarded as a non-perturbative definition of $3d$ simplicial
+quantum gravity. If one takes a finite abelian group $G$, the corresponding
+invariant gives the rank of the first cohomology group of a complex
+\nolinebreak $C$: $I_G(C) = rank(H^1(C,G))$, which means a topological
+expansion in the Betti number $b^1$. In general, it is a theory of the
+Dijkgraaf-Witten type, $i.e.$ determined completely by the fundamental group of
+a manifold.
+\\

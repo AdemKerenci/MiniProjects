@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206114
+From: melzer@max.physics.sunysb.edu (Ezer Melzer)
+Date: 30 Jun 1992 23:11:52 -0400 (EDT)   (48kb)
+Date (revised): 01 Jul 1992 21:24:55 -0400 (EDT)
+
+Title: Sine-Gordon =/= Massive Thirring, and Related Heresies
+Authors: Timothy R. Klassen and Ezer Melzer
+Comments: 50 pages (harvmac unreduced), CLNS-92/1149, ITP-SB-92-36
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 4131-4174
+\\
+  By viewing the Sine-Gordon and massive Thirring models as perturbed conformal
+field theories one sees that they are different (the difference being
+observable, for instance, in finite-volume energy levels). The UV limit of the
+former (SGM) is a gaussian model, that of the latter (MTM) a so-called {\it
+fermionic} gaussian model, the compactification radius of the boson underlying
+both theories depending on the SG/MT coupling. (These two families of conformal
+field theories are related by a ``twist''.) Corresponding SG and MT models
+contain a subset of fields with identical correlation functions, but each model
+also has fields the other one does not, e.g. the fermion fields of MTM are not
+contained in SGM, and the {\it bosonic} soliton fields of SGM are not in MTM.
+Our results imply, in particular, that the SGM at the so-called ``free-Dirac
+point'' $\beta^2 = 4\pi$ is actually a theory of two interacting bosons with
+diagonal S-matrix $S=-1$, and that for arbitrary couplings the overall sign of
+the accepted SG S-matrix in the soliton sector should be reversed. More
+generally, we draw attention to the existence of new classes of quantum field
+theories, analogs of the (perturbed) fermionic gaussian models, whose partition
+functions are invariant only under a subgroup of the modular group. One such
+class comprises ``fermionic versions'' of the Virasoro minimal models.
+\\

@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310147
+From: Robert Coquereaux <coque@cptsu4.univ-mrs.fr>
+Date: Fri, 22 Oct 93 08:58:41 +0100   (21kb)
+
+Title: Currents on Grassmann algebras
+Authors: R. Coquereaux, E. Ragoucy
+Comments: 20 pages, CPT-93/P.2935 and ENSLAPP-440/93
+Journal-ref: J. Geom. Phys. 15 (1995) 333-352
+\\
+  We define currents on a Grassmann algebra $Gr(N)$ with $N$ generators as
+distributions on its exterior algebra (using the symmetric wedge product). We
+interpret the currents in terms of ${\Z}_2$-graded Hochschild cohomology and
+closed currents in terms of cyclic cocycles (they are particular multilinear
+forms on $Gr(N)$). An explicit construction of the vector space of closed
+currents of degree $p$ on $Gr(N)$ is given by using Berezin integration.
+\\

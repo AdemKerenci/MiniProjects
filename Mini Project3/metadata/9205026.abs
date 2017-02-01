@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205026
+From: vipul@guinness.ias.edu (Vipul Periwal)
+Date: Tue, 12 May 92 11:27:56 EDT   (11kb)
+
+Title: Lorentz invariance of effective strings
+Authors: J.D. Cohn and Vipul Periwal
+Comments: 9 pages
+Report-no: iassns-hep-92-18/fermilab-92/126-T
+Journal-ref: Nucl.Phys. B395 (1993) 119-128
+\\
+  Starting from a Poincar\'e invariant field theory of a real scalar field with
+interactions governed by a double-well potential in 2+1 dimensions, the Lorentz
+representation induced on the collective coordinates describing low-energy
+excitations about an effective string background is derived. In this
+representation, Lorentz transformations are given in terms of an infinite
+series, in powers of derivatives along the worldsheet. Transformations that act
+on the direction transverse to the string worldsheet involve a universal
+dimension $-1$ term. As a consequence, Lorentz invariance holds in this theory
+of long effective strings due to cancellations in the action between irrelevant
+terms and the dimension two term that describes free massless scalar fields in
+two dimensions. (in plain tex, no macropackages necessary)
+\\

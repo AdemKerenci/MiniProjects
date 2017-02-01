@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412038
+From: dong@math.UCSC.EDU (Chongying Dong)
+Date: Mon, 5 Dec 94 11:19:29 PST   (28kb)
+
+Title: Induced modules for vertex operator algebras
+Authors: Chongying Dong and Zongzhu Lin
+Comments: 30 pages, latex
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  For a vertex operator algebra $V$ and a vertex operator subalgebra $V'$ which
+is invarinant under an automorphism $g$ of $V$ of finite order, we introduce a
+$g$-twisted induction functor from the category of $g$-twisted $V'$-modules to
+the category of $g$-twisted $V$-modules. This functor satisfies the Frobenius
+reciprocity and transitivity. The results are illustrated with $V$ being simple
+or with $V'$ being $g$-rational.
+\\

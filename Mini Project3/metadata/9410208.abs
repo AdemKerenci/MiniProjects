@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410208
+From: etingof@math.harvard.edu (Pavel Etingof)
+Date: Thu, 27 Oct 94 11:29:01 EDT   (12kb)
+
+Title: On spectral theory of quantum vertex operators
+Author: Pavel Etingof
+Comments: 14 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  In this note we prove the Davies-Foda-Jimbo-Miwa-Nakayashiki conjecture on
+the asymptotics of the composition of n quantum vertex operators for the
+quantum affine algebra U_q(\hat sl_2), as n goes to infinity. For this purpose
+we define and study the leading eigenvalue and eigenvector of the product of
+two components of the quantum vertex operator. This eigenvector and the
+corresponding eigenvalue were recently computed by M.Jimbo. The results of his
+computation are given in Section 4.
+\\

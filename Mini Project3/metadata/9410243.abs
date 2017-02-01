@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410243
+From: Paul A. Griffin <pgriffin@phys.ufl.edu>
+Date: Mon, 31 Oct 1994 21:21:17 -0500   (8kb)
+
+Title: Light Front Hamiltonian for Transverse Lattice QCD
+Authors: Paul A. Griffin
+Comments: 7 pages LaTeX, Univ. Florida preprint UFIFT-HEP-94-15
+\\
+  A calculational framework for determining masses of low lying hadrons using
+light front quantization is discussed. The method is based upon four
+theoretical tools: discrete light cone quantization, which has been very
+successful in 1+1 dimensional models, a projector Monte Carlo method to extract
+low lying state data with 2 additional transverse dimensions, the transverse
+spatial lattice Hamiltonian of QCD, and exact form factors of the SU(3) x SU(3)
+1+1 dimensional non-linear sigma model (NLSM). How these tools are to be put
+together to provide a description of hadrons is the main topic of this lecture.
+I also focus on the NLSM form factors, which are given new physical relevance
+via this picture of QCD. (Based on a lecture given at the ``Theory of Hadrons
+and Light-front QCD'' workshop in Zakopane, Poland, August 1994.)
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310144
+From: Blau Matthias <blau@ictp.trieste.it>
+Date: Thu, 21 Oct 1993 21:38:10 +0100   (56kb)
+
+Title: Lectures on 2d Gauge Theories: Topological Aspects and Path Integral
+  Techniques
+Authors: Matthias Blau and George Thompson
+Comments: 70 A4 pages, LaTex, IC/93/356
+\\
+  These are lecture notes of lectures presented at the 1993 Trieste Summer
+School, dealing with two classes of two-dimensional field theories,
+(topological) Yang-Mills theory and the G/G gauged WZW model. The aim of these
+lectures is to exhibit and extract the topological information contained in
+these theories, and to present a technique (a Weyl integral formula for path
+integrals) which allows one to calculate directly their partition function and
+topological correlation functions on arbitrary closed surfaces. Topics dealt
+with are (among others): solution of Yang-Mills theory on arbitrary surfaces;
+calculation of intersection numbers of moduli spaces of flat connections;
+coupling of Yang-Mills theory to coadjoint orbits and intersection numbers of
+moduli spaces of parabolic bundles; derivation of the Verlinde formula from the
+G/G model; derivation of the shift k to k+h in the G/G model via the index of
+the twisted Dolbeault complex.
+\\

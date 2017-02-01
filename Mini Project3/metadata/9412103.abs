@@ -1,0 +1,37 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412103
+From: MATPITKANEN@phcu.helsinki.fi
+Date: Mon, 12 Dec 1994 15:07:56 +0200 (EET)   (16kb)
+Date (revised): Wed, 21 Dec 1994 18:31:40 +0200 (EET)
+Date (revised): Tue, 07 Feb 1995 10:18:31 +0200 (EET)
+
+Title: p-Adic Field Theory limit of TGD is free of UV divergences
+Authors: Matti Pitk\"anen
+Comments: 22 pages,latex. Reason for revision:correction in the definition of
+  fermion propagator
+\\
+  The p-adic description of Higgs mechanism in TGD framework provides excellent
+predictions for elementary particle and hadrons masses (hep-th@xxx.lanl.gov
+9410058-62). The gauge group of TGD is just the gauge group of the standard
+model so that it makes sense to study the p-adic counterpart of the standard
+model as a candidate for low energy effective theory. Momentum eigen states can
+be constructed purely number theoretically and the infrared cutoff implied by
+the finite size of the convergence cube of p-adic square root function leads to
+momentum discretization. Discretization solves ultraviolet problems: the number
+of momentum states associated with a fixed value of the propagator expression
+in the loop is integer and has p-adic norm not larger than one so that the
+contribution of momentum squared with p-adic norm $p^{k}$ converges as
+$p^{-2k-2}$ for boson loop. The existence of the action exponential forces
+number theoretically the decomposition into free and interacting parts. The
+free part is of order $O(p^0)$ and must vanish (and does so by equations of
+motion) and interaction part is at most of order $O(\sqrt{p})$ p-adically.
+p-Adic coupling constants are of form $g\sqrt{p}$: their real counterparts are
+obtained by canonical identification between p-adic and real numbers. The
+discretized version of Feynmann rules of real theory should give S-matrix
+elements but Feynmann rules guarantee unitarity in formal sense only. The
+unexpected result is the upper bound $L_p=L_0/\sqrt{p}$ ($L_0\sim
+10^4\sqrt{G}$) for the size of p-adic convergence cube from the cancellation of
+infrared divergences so that p-adic field theory doesn't make sense above
+length scale $L_p$.
+\\

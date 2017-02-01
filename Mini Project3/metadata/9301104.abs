@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301104
+From: harnad@MATHCN.UMontreal.CA (Harnad John)
+Date: Mon, 25 Jan 1993 17:40:57 -0500 (EST)   (11kb)
+Date (revised): Thu, 28 Jan 1993 00:12:34 -0500 (EST)
+
+Title: Moment Maps to Loop Algebras, Classical R-Matrix and Integrable Systems
+Authors: J.Harnad and M.-A. Wisse
+Comments: preprint CRM-1854 (1993), 12 pgs, AMSTeX. (To appear in proc. of the
+  NSERC-CAP Workshop on Quantum Groups, Integrable Models and Statistical
+  Systems, Kingston, Canada, July 13-17 1992.)
+Journal-ref: in: "Quantum Groups Integrable Models and Statistical Systems",
+  World Scientific, Singapore (1993), ed. J. Letourneux and L. Vinet
+\\
+  A class of Poisson embeddings of reduced, finite dimensional symplectic
+vector spaces into the dual space $\Lg_R^*$ of a loop algebra, with Lie Poisson
+structure determined by the classical split $R$--matrix $R=P_+ - P_-$ is
+introduced. These may be viewed as equivariant moment maps inducing natural
+Hamiltonian actions of the ``dual'' group $\LG_R = \LGp \times \LGm$ of a loop
+group $\LG$ on the symplectic space. The $R$--matrix version of the
+Adler-Kostant-Symes theorem is used to induce commuting flows determined by
+isospectral equations of Lax type. The compatibility conditions determine
+finite dimensional classes of solutions to integrable systems of PDE's, which
+can be integrated using the standard Liouville-Arnold approach. This involves
+an appropriately chosen ``spectral Darboux'' (canonical) coordinate system in
+which there is a complete separation of variables. As an example, the method is
+applied to the determination of finite dimensional quasi-periodic solutions of
+the sine-Gordon equation.
+\\

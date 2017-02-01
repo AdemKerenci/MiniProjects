@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9204004
+From: GILSON@mitlns.mit.edu
+Date: Thu, 2 Apr 1992 14:58:17 EST   (38kb)
+
+Title: Conformal Symmetry and Differential Regularization of the Three-Gluon
+  Vertex
+Authors: Daniel Z. Freedman, Gianluca Grignani, Nuria Rius and Kenneth Johnson
+Comments: 65 pages
+Journal-ref: Annals Phys. 218 (1992) 75-120
+\\
+  The conformal symmetry of the QCD Lagrangian for massless quarks is broken
+both by renormalization effects and the gauge fixing procedure. Renormalized
+primitive divergent amplitudes have the property that their form away from the
+overall coincident point singularity is fully determined by the bare
+Lagrangian, and scale dependence is restricted to $\delta$-functions at the
+singularity. If gauge fixing could be ignored, one would expect these
+amplitudes to be conformal invariant for non-coincident points. We find that
+the one-loop three-gluon vertex function $\Gamma_{\mu\nu\rho}(x,y,z)$ is
+conformal invariant in this sense, if calculated in the background field
+formalism using the Feynman gauge for internal gluons. It is not yet clear why
+the expected breaking due to gauge fixing is absent. The conformal property
+implies that the gluon, ghost and quark loop contributions to
+$\Gamma_{\mu\nu\rho}$ are each purely numerical combinations of two universal
+conformal tensors $D_{\mu\nu\rho}(x,y,z)$ and $C_{\mu\nu\rho}(x,y,z)$ whose
+explicit form is given in the text. Only $D_{\mu\nu\rho}$ has an ultraviolet
+divergence, although $C_{\mu\nu\rho}$ requires a careful definition to resolve
+the expected ambiguity of a formally linearly divergent quantity.
+Regularization is straightforward and leads to a renormalized vertex function
+which satisfies the required Ward identity, and from which the beta-function is
+easily obtained. Exact conformal invariance is broken in higher-loop orders,
+but we outline a speculative scenario in which the perturbative structure of
+the vertex function is determined from a conformal invariant primitive core by
+interplay of the renormalization group equation and Ward identities.
+\\

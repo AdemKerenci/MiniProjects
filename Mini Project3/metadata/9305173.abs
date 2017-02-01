@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305173
+From: <jmourao%ptifm.BITNET@FRMOP11.CNUSC.FR>
+Date: Sat, 29 May 1993 10:13:47.61 GMT   (26kb)
+
+Title: Chen Integrals, Generalized Loops and Loop Calculus
+Authors: J. N. Tavares
+Comments: 43p., Latex, DF/IST 5.93
+Journal-ref: Int. J. Mod. Phys. A9 (1994) 4511-4548
+\\
+  We use Chen iterated line integrals to construct a topological algebra ${\cal
+A}_p$ of separating functions on the {\it Group of Loops} ${\bf L}{\cal M}_p$.
+${\cal A}_p$ has an Hopf algebra structure which allows the construction of a
+group structure on its spectrum. We call this topological group, the group of
+generalized loops $\widetilde {{\bf L}{\cal M}_p}$.
+  Then we develope a {\it Loop Calculus}, based on the {\it Endpoint} and {\it
+Area Derivative Operators}, providing a rigorous mathematical treatment of
+early heuristic ideas of Gambini, Trias and also Mandelstam, Makeenko and
+Migdal. Finally we define a natural action of the "pointed" diffeomorphism
+group $Diff_p({\cal M})$ on $ \widetilde {{\bf L}{\cal M}_p}$, and consider a
+{\it Variational Derivative} which allows the construction of homotopy
+invariants.
+  This formalism is useful to construct a mathematical theory of {\it Loop
+Representation} of Gauge Theories and Quantum Gravity. Figures available by
+request.
+\\

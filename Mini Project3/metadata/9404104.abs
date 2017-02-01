@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404104
+From: moroz@ipncls.in2p3.fr
+Date: Mon, 18 Apr 94 11:13:25 +0200   (10kb)
+Date (revised): Thu, 5 May 94 20:53:54 +0200
+
+Title: Single-Particle Density of States for the Aharonov-Bohm Potential and
+  Instability of Matter with Anomalous Magnetic Moment in 2+1 Dimensions
+Authors: Alexander MOROZ
+Comments: (sign change in Eq.'s (30-31), 2 references added) 11pp. plain latex,
+  IPNO/TH 94-20
+\\
+  In the nonrelativistic case we find that whenever the relation $mc^2/e^2
+<X(\al,g_m)$ is satisfied, where $\al$ is a flux in the units of the flux
+quantum, $g_m$ is magnetic moment, and $X(\al,g_m)$ is some function that is
+nonzero only for $g_m>2$ (note that $g_m=2.00232$ for the electron), then the
+matter is unstable against formation of the flux $\al$. The result persists
+down to $g_m=2$ provided the Aharonov-Bohm potential is supplemented with a
+short range attractive potential. We also show that whenever a bound state is
+present in the spectrum it is always accompanied by a resonance with the energy
+proportional to the absolute value of the binding energy. is considered.
+  For the Klein-Gordon equation with the Pauli coupling which exists in (2+1)
+dimensions without any reference to a spin the matter is again unstable for
+$g_m>2$. The results are obtained by calculating the change of the density of
+states induced by the Aharonov-Bohm potential. The Krein-Friedel formula for
+this long-ranged potential is shown to be valid when supplemented with zeta
+function regularization. PACS : 03.65.Bz, 03-70.+k, 03-80.+r, 05.30.Fk
+\\

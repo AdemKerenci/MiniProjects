@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410064
+From: Vadim Zeitlin <zeitlin@lpi.ac.ru>
+Date: Mon, 10 Oct 1994 17:58:51 +0400   (6kb)
+
+Title: QED$_{2+1}$ with Nonzero Fermion Density and Quantum Hall Effect
+Authors: Vadim Zeitlin
+Comments: 8 pages, LaTeX; FIAN/TD/94-09
+Journal-ref: Phys. Lett. B352 (1995) 422
+\\
+  A general expression for the conductivity in the QED$_{2+1}$ with nonzero
+fermion density in the uniform magnetic field is derived. It is shown that the
+conductivity is entirely determined by the Chern-Simons coefficient:
+$\sigma_{ij}=\varepsilon_{ij}~{\cal C}$ and is a step-function of the chemical
+potential and the magnetic field.
+\\

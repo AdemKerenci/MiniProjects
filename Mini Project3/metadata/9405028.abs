@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405028
+From: HAGENSEN%EBUBECM1.BITNET@vm.cnuce.cnr.it
+Date: Wed, 04 May 94 19:03:57 BCN   (22kb)
+Date (revised): Thu, 19 May 94 12:29:15 BCN
+Date (revised): Wed, 29 Jun 94 18:13:14 BCN
+
+Title: Spatial Geometry of the Electric Field Representation of Non-Abelian
+  Gauge Theories
+Authors: M. Bauer, D.Z. Freedman, P.E. Haagensen
+Comments: 16pp., REVTeX, CERN-TH.7238/94 (Some revision on Secs.3 and 5; one
+  reference added)
+Journal-ref: Nucl.Phys. B428 (1994) 147-168
+\\
+  A unitary transformation $\Ps [E]=\exp (i\O [E]/g) F[E]$ is used to simplify
+the Gauss law constraint of non-abelian gauge theories in the electric field
+representation. This leads to an unexpected geometrization because
+$\o^a_i\equiv -\d\O [E]/\d E^{ai}$ transforms as a (composite) connection. The
+geometric information in $\o^a_i$ is transferred to a gauge invariant spatial
+connection $\G^i_{jk}$ and torsion by a suitable choice of basis vectors for
+the adjoint representation which are constructed from the electric field
+$E^{ai}$. A metric is also constructed from $E^{ai}$. For gauge group $SU(2)$,
+the spatial geometry is the standard Riemannian geometry of a 3-manifold, and
+for $SU(3)$ it is a metric preserving geometry with both conventional and
+unconventional torsion. The transformed Hamiltonian is local. For a broad class
+of physical states, it can be expressed entirely in terms of spatial geometric,
+gauge invariant variables.
+\\

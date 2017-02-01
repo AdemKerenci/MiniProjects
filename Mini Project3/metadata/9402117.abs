@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402117
+From: cjkim@phya.snu.ac.kr (Kim Chanju)
+Date: Mon, 21 Feb 94 21:09:10 KST   (34kb)
+Date (revised): Tue, 22 Feb 94 13:12:33 KST
+Date (revised): Tue, 21 Mar 1995 23:41:13 +0900 (GMT+0900)
+
+Title: A Renormalization Group Flow Approach to Decoupling and Irrelevant
+  Operators
+Authors: Chanju Kim
+Comments: 26 pages, LaTeX, 1 figure Revised version to appear in Annals of
+  Physics (Title was changed. Renormalization conditions on heavy fields were
+  changed to physical ones.)
+Report-no: SNUTP-94-20
+Journal-ref: Ann. Phys. 243 (1995) 117
+\\
+  Using Wilson-Polchinski renormalization group equations, we give a simple new
+proof of decoupling in a $\phi^4$-type scalar field theory involving two real
+scalar fields (one is heavy with mass $M$ and the other light). Then, to all
+orders in perturbation theory, it is shown that effects of virtual heavy
+particles up to the order $1/M^{2N_0}$ can be systematically incorporated into
+light-particle theory via effective local vertices of canonical dimension at
+most $4+2N_0$. The couplings for vertices of dimension $4+2N$ are of order
+$1/M^{2N}$ and are systematically calculable. All this is achieved through
+intuitive dimensional arguments without resorting to complicated graphical
+arguments or convergence theorems.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9204094
+From: fendley@bucrf17.bu.edu (Paul Fendley)
+Date: Tue, 28 Apr 92 22:21:18 -0400   (30kb)
+
+Title: N=2 Supersymmetry, Painleve III and Exact Scaling Functions in 2D
+  Polymers
+Authors: P. Fendley and H. Saleur
+Comments: 20 pages (with 2 figures included)
+Journal-ref: Nucl.Phys. B388 (1992) 609-626
+\\
+  We discuss in this paper various aspects of the off-critical $O(n)$ model in
+two dimensions. We find the ground-state energy conjectured by Zamolodchikov
+for the unitary minimal models, and extend the result to some non-unitary
+minimal cases. We apply our results to the discussion of scaling functions for
+polymers on a cylinder. We show, using the underlying N=2 supersymmetry, that
+the scaling function for one non-contractible polymer loop around the cylinder
+is simply related to the solution of the Painleve III differential equation. We
+also find the ground-state energy for a single polymer on the cylinder. We
+check these results by numerically simulating the polymer system. We also
+analyze numerically the flow to the dense polymer phase. We find there
+surprising results, with a $c_{\hbox{eff}}$ function that is not monotonous and
+seems to have a roaming behavior, getting very close to the values 81/70 and
+7/10 between its UV and IR values of 1.
+\\

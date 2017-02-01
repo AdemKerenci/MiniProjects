@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408064
+From: mrpenkava@ucdavis.edu (Michael Penkava)
+Date: Wed, 10 Aug 94 15:35:07 PDT   (26kb)
+Date (revised): Tue, 31 Oct 1995 14:59:17 -0800
+
+Title: $A_\infty$ Algebras and the Cohomology of Moduli Spaces
+Author: Michael Penkava and Albert Schwarz
+Comments: 17 pages, 3 figures. Final version as published, fixes
+  problems in texing earlier version. Revised to eliminate appendices. Uses
+  boxedeps.tex for figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We introduce the notion of cyclic cohomology of an A-infinity algebra and
+show that the deformations of an A-infinity algebra which preserve an invariant
+inner product are classified by this cohomology. We use this result to
+construct some cycles on the moduli space of algebraic curves. The paper also
+contains a review of some well known notions and results about Hochschild and
+cyclic cohomology of associative algebras, A-infinity algebras, and deformation
+theory of algebras, and includes a discussion of the homology of the graph
+complex of metric ribbon graphs which is associated to the moduli space of
+Riemann surfaces with marked points.
+\\

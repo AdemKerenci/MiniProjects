@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212083
+From: BOYAN@vms.cis.pitt.edu
+Date: Sun, 13 Dec 1992 14:00 EST   (24kb)
+
+Title: Phase Transitions out of Equilibrium: domain formation and growth
+Authors: D. Boyanovsky,D.-S. Lee and A. Singh
+Comments: 37 pages 7 figures (not included), REVTEX, PITT-92-07
+Journal-ref: Phys.Rev. D48 (1993) 800-815
+\\
+  We study the dynamics of phase transitions out of equilibrium in weakly
+coupled scalar field theories. We consider the case in which there is a rapid
+supercooling from an initial symmetric phase in thermal equilibrium at
+temperature $T_i>T_c$ to a final state at low temperature $T_f \approx 0$. In
+particular we study the formation and growth of correlated domains out of
+equilibrium. It is shown that the dynamics of the process of domain formation
+and growth (spinodal decomposition) cannot be studied in perturbation theory,
+and a non-perturbative self-consistent Hartree approximation is used to study
+the long time evolution. We find in weakly coupled theories that the size of
+domains grow at long times as $\xi_D(t) \approx \sqrt{t\xi(0)}$. For very
+weakly coupled theories, their final size is several times the zero temperature
+correlation length. For strongly coupled theories the final size of the domains
+is comparable to the zero temperature correlation length and the transition
+proceeds faster.
+\\

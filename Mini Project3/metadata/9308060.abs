@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308060
+From: sklyanin@lpthe.jussieu.fr
+Date: Thu, 12 Aug 93 19:09:58 +0200   (10kb)
+
+Title: Dynamical $r$-matrices for the Elliptic Calogero-Moser Model
+Authors: E.K.Sklyanin
+Comments: 11p, LATEX file, LPTHE-93-42
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Alg.Anal. 6 (1994) 227-237; St.Petersburg Math.J. 6 (1995) 397-406
+\\
+  For the integrable $N$-particle Calogero-Moser system with elliptic potential
+it is shown that the Lax operator found by Krichever possesses a classical
+$r$-matrix structure. The $r$-matrix is a natural generalisation of the matrix
+found recently by Avan and Talon (hep-th/9210128) for the trigonometric
+potential. The $r$-matrix depends on the spectral parameter and only half of
+the dynamical variables (particles' coordinates). It satisfies a generalized
+Yang-Baxter equation involving another dynamical matrix.
+\\

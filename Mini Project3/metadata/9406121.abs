@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406121
+From: Richard Szabo <szabo@physics.ubc.ca>
+Date: Fri, 17 Jun 1994 17:26:40 -0700 (PDT)   (15kb)
+
+Title: Equivariant Localization, Spin Systems and Topological Quantum Theory on
+  Riemann Surfaces
+Authors: Gordon W. Semenoff and Richard J. Szabo
+Comments: 15 pages, Plain TeX; UBCTP-94-005
+Journal-ref: Mod.Phys.Lett. A9 (1994) 2705-2718
+\\
+  We study equivariant localization formulas for phase space path integrals
+when the phase space is a multiply connected compact Riemann surface. We
+consider the Hamiltonian systems to which the localization formulas are
+applicable and show that the localized partition function for such systems is a
+topological invariant which represents the non-trivial homology classes of the
+phase space. We explicitly construct the coherent states in the canonical
+quantum theory and show that the Hilbert space is finite dimensional with the
+wavefunctions carrying a projective representation of the discrete homology
+group of the phase space. The corresponding coherent state path integral then
+describes the quantum dynamics of a novel spin system given by the quantization
+of a non-symmetric coadjoint Lie group orbit. We also briefly discuss the
+geometric structure of these quantum systems.
+\\

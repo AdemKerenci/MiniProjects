@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405116
+From: khesin-boris@MATH.YALE.EDU ("Boris A. Khesin")
+Date: Wed, 18 May 1994 13:51:11 -0400   (22kb)
+Date (revised): Tue, 31 May 1994 16:19:27 -0400
+
+Title: Universal Drinfeld-Sokolov Reduction and Matrices of Complex Size
+Author: Boris Khesin and Feodor Malikov
+Comments: 29 pages, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 175 (1996) 113-134
+\\
+  We construct affinization of the algebra $gl_{\lambda}$ of ``complex size''
+matrices, that contains the algebras $\hat{gl_n}$ for integral values of the
+parameter. The Drinfeld--Sokolov Hamiltonian reduction of the algebra
+$\hat{gl_{\lambda}}$ results in the quadratic Gelfand--Dickey structure on the
+Poisson--Lie group of all pseudodifferential operators of fractional order.
+This construction is extended to the simultaneous deformation of orthogonal and
+simplectic algebras that produces self-adjoint operators, and it has a
+counterpart for the Toda lattices with fractional number of particles.
+\\

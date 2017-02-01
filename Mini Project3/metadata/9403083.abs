@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403083
+From: Michael Soloviev <soloviev@fian.free.net>
+Date: Tue, 15 Mar 1994 18:58:58 +0300   (13kb)
+
+Title: Towards a Generalized Distribution Formalism for Gauge Quantum Fields
+Authors: M.A.Soloviev
+Comments: 12 p., Department of Theoretical Physics, P.N.Lebedev Physical
+  Institute, Leninsky prosp. 53, Moscow 117924, Russia
+Journal-ref: Lett. Math. Phys. 33 (1995) 49-59
+\\
+  We prove that the distributions defined on the Gelfand-Shilov spaces, and
+hence more singular than hyperfunctions, retain the angular localizability
+property. Specifically, they have uniquely determined support cones. This
+result enables one to develop a distribution-theoretic techniques suitable for
+the consistent treatment of quantum fields with arbitrarily singular
+ultraviolet and infrared behavior. The proofs covering the most general case
+are based on the use of the theory of plurisubharmonic functions and
+Hormander's estimates.
+\\

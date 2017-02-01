@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312133
+From: KASHAEV@phcu.helsinki.fi
+Date: 15 Dec 1993 16:14:17 +0200   (10kb)
+
+Title: Generalized Bethe Ansatz Equations for Hofstadter Problem
+Authors: L.D. Faddeev and R.M. Kashaev
+Comments: 12 pages, plain TeX, report HU-TFT-93-63
+Journal-ref: Commun.Math.Phys. 169 (1995) 181-192
+\\
+  The problem of diagonalization of the quantum mechanical Hamiltonian,
+governing dynamics of an electron on a two-dimensional triangular or square
+lattice in external uniform magnetic field, applied perpendicularly to the
+lattice plane, the flux through lattice cell, divided by the elementary quantum
+flux, being rational number, is reduced to generalized Bethe ansatz like
+equations on high genus algebraic curve. Our formulae for the trigonometric
+case, where genus of the curve vanishes, contain as a particular case recent
+result of Wiegmann and Zabrodin.
+\\

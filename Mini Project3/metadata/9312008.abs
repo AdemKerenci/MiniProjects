@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312008
+From: zapletal@risc4.physik.fu-berlin.de (Arnd-Zapletal)
+Date: Thu, 2 Dec 1993 12:51:54 +0100 (MET)   (21kb)
+
+Title: Quantum Group Invariant Integrable n-State Vertex Models with Periodic
+  Boundary Conditions
+Author: M. Karowski and A. Zapletal
+Comments: 19 pages
+Report-no: SFB 288 preprint
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Nucl.Phys. B419 (1994) 567-588
+\\
+  An $U_q(sl(n))$ invariant transfer matrix with periodic boundary conditions
+is analysed by means of the algebraic nested Bethe ansatz for the case of $q$
+being a root of unity. The transfer matrix corresponds to a 2-dimensional
+vertex model on a torus with topological interaction w.r.t. the 3-dimensional
+interior of the torus. By means of finite size analysis we find the central
+charge of the corresponding Virasoro algebra as $c=(n-1)
+\left[1-n(n+1)/(r(r-1))\right] $.
+\\

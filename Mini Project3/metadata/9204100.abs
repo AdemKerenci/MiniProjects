@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9204100
+From: warner@faraday.usc.edu (Nicholas Philip Warner)
+Date: Wed, 29 Apr 92 15:35:26 PDT   (27kb)
+
+Title: Lattice Analogues of $N=2$ Superconformal Models via Quantum Group
+  Truncation
+Authors: Z. Maassarani, D. Nemeschansky and N.P. Warner
+Comments: 25 pages and 2 figures
+Journal-ref: Nucl. Phys. B393 (1993) 523
+\\
+  We obtain lattice models whose continuum limits correspond to $N=2$
+superconformal coset models. This is done by taking the well known vertex model
+whose continuum limit is the $G \times G/G$ conformal field theory, and
+twisting the transfer matrix and modifying the quantum group truncation. We
+find that the natural order parameters of the new models are precisely the
+chiral primary fields. The integrable perturbations of the conformal field
+theory limit also have natural counterparts in the lattice formulation, and
+these can be incorporated into an affine quantum group structure. The
+topological, twisted $N=2$ superconformal models also have lattice analogues,
+and these emerge as an intermediate part of our analysis.
+\\

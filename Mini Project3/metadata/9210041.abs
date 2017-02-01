@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210041
+From: Cobi Sonnenschein <COBI@TAUNIVM.TAU.AC.IL>
+Date: Thu, 08 Oct 92 15:33:27 IST   (15kb)
+
+Title: Physical States in Topological Coset Models
+Authors: J. Sonnenschein
+Comments: 17 pages
+\\
+  Recent results about topological coset models are summarized. The action of a
+topological ${G\over H}$ coset model ($rank\ H = rank\ G$) is written down as a
+sum of ``decoupled" matter, gauge and ghost sectors.
+  The physical states are in the cohomology of a BRST-like operator that
+relates these secotrs. The cohomology on a free field Fock space as well as on
+an irreducible representation of the ``matter" Kac-Moody algebra are extracted.
+We compare the results with those of $(p,q)$ minimal models coupled to gravity
+and with $(p,q)$ $W_N$ strings for the case of $A_1^{(1)}$ at level $k={p\over
+q}-2$ and $A_1^{(N-1)}$ at level $k={p\over q}-N$ respectively.
+\\

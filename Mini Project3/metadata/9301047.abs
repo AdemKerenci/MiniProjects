@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301047
+From: sfetsos@phys2sun.usc.edu (Konstadinos Sfetsos)
+Date: Tue, 12 Jan 93 20:11:43 PST   (16kb)
+Date (revised): Wed, 13 Jan 93 18:24:24 PST
+Date (revised): Thu, 21 Jan 93 19:19:03 PST
+
+Title: Exact Effective Action and Spacetime Geometry in Gauged WZW Models
+Authors: I. Bars and K. Sfetsos
+Comments: 20 pages, harvmac, USC-93/HEP-B1, (The exact general expression for
+  the dilaton is added in Sec.5)
+Journal-ref: Phys.Rev. D48 (1993) 844-852
+\\
+  We present an effective quantum action for the gauged WZW model
+$G_{-k}/H_{-k}$. It is conjectured that it is valid to all orders of the
+central extension $(-k)$ on the basis that it reproduces the exact spacetime
+geometry of the zero modes that was previously derived in the algebraic
+Hamiltonian formalism. Besides the metric and dilaton, the new results that
+follow from this approach include the exact axion field and the solution of the
+geodesics in the exact geometry. It is found that the axion field is generally
+non-zero at higher orders of $1/k$ even if it vanishes at large $k$. We work
+out the details in two specific coset models, one non-abelian, i.e.
+$SO(2,2)/SO(2,1)$ and one abelian, i.e $SL(2,\IR)\otimes
+SO(1,1)^{d-2}/SO(1,1)$. The simplest case $SL(2,\IR)/\IR$ corresponds to a
+limit.
+\\

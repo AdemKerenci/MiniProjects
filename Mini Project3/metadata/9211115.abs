@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211115
+From: P.E.Dorey@newton.cam.ac.uk
+Date: Tue, 24 Nov 92 21:03 GMT   (46kb)
+
+Title: Generalising the staircase models
+Authors: Patrick Dorey and Francesco Ravanini
+Comments: 19 pages (and two figures), preprint CERN-TH.6739/92 NI92009
+  DFUB-92-21
+Journal-ref: Nucl.Phys. B406 (1993) 708-726
+\\
+  Systems of integral equations are proposed which generalise those previously
+encountered in connection with the so-called staircase models. Under the
+assumption that these equations describe the finite-size effects of
+relativistic field theories via the Thermodynamic Bethe Ansatz, analytical and
+numerical evidence is given for the existence of a variety of new roaming
+renormalisation group trajectories. For each positive integer $k$ and
+$s=0,\dots, k-1$, there is a one-parameter family of trajectories, passing
+close by the coset conformal field theories $G^{(k)}\times
+G^{(nk+s)}/G^{((n+1)k+s)}$ before finally flowing to a massive theory for
+$s=0$, or to another coset model for $s \neq 0$.
+\\

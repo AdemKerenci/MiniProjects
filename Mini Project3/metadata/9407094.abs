@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407094
+From: moulton@math.duke.edu (Vincent L. Moulton)
+Date: Fri, 15 Jul 94 17:04:45 EDT   (33kb)
+
+Title: Vector Braids
+Author: Vincent Moulton
+Comments: 39 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  In this paper we define a new family of groups which generalize the {\it
+classical braid groups on} $\C $. We denote this family by $\{B_n^m\}_{n \ge
+m+1}$ where $n,m \in \N$. The family $\{ B_n^1 \}_{n \in \N}$ is the set of
+classical braid groups on $n$ strings. The group $B_n^m$ is the set of motions
+of $n$ unordered points in $\C^m$, so that at any time during the motion, each
+$m+1$ of the points span the whole of $\C^m$ as an affine space. There is a map
+from $B_n^m$ to the symmetric group on $n$ letters. We let $P_n^m$ denote the
+kernel of this map. In this paper we are mainly interested in understanding
+$P_n^2$. We give a presentation of a group $PL_n$ which maps surjectively onto
+$P_n^2$. We also show the surjection $PL_n \to P_n^2$ induces an isomorphism on
+first and second integral homology and conjecture that it is an isomorphism. We
+then find an infinitesimal presentation of the group $P_n^2$. Finally, we also
+consider the analagous groups where points lie in $\P^m$ instead of $\C^m$.
+These groups generalize of the classical braid groups on the sphere.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210154
+From: Alex Kovner <kovner@pion.lanl.gov>
+Date: Thu, 29 Oct 92 14:07:39 -0700   (18kb)
+
+Title: New Look at QED$_4$: the Photon as a Goldstone Boson and the Topological
+  Interpretation of Electric Charge
+Authors: A. Kovner and B. Rosenstein
+Comments: 24 pages, latex. 3 figures available on request. LA-UR-92-3478
+Journal-ref: Phys.Rev. D49 (1994) 5571-5581
+\\
+  We develop the dual picture for Quantum Electrodynamics in 3+1 dimensions. It
+is shown that the photon is massless in the Coulomb phase due to spontaneous
+breaking of the magnetic symmetry group. The generators of this group are the
+magnetic fluxes through any infinite surface $\Phi_S$. The order parameter for
+this symmetry breaking is the operator $V(C)$ which creates an infinitely long
+magnetic vortex. We show that although the order parameter is a stringlike
+rather than a local operator, the Goldstone theorem is applicable if $<V(C)>\ne
+0$. If the system is properly regularized in the infrared, we find $<V(C)>\ne
+0$ in the Coulomb phase and $V(C)=0$ in the Higgs phase. The Higgs - Coulomb
+phase transition is therefore understood as condensation of magnetic vortices.
+The electric charge in terms of $V(C)$ is topological and is equal to the
+winding number of the mapping from a circle at spatial infinity into the
+manifold of possible vacuum expectation values of a magnetic vortex in a given
+direction. Since the vortex operator takes values in $S^1$ and
+$\Pi_1(S^1)={\cal Z}$, the electric charge is quantized topologically.
+\\

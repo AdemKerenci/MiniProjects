@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403059
+From: kozyrev@mph.mian.su (Sergey V. Kozyrev)
+Date: Wed, 9 Mar 94 13:56:25 -0500 (EST)   (10kb)
+
+Title: The Stable Representation of the algebra of functions on the quantum
+  group $SU_{q}(2)$
+Authors: S.V.Kozyrev
+\\
+  An operation of a coproduct of representations of a bialgebra is defined. The
+coproduct operation for representations of the Hopf algebra of functions on the
+quantum group $SU_{q}(2)$ is investigated. A notion of a stable representation
+$\Pi$ is introdused. This means that the representation $\Pi$ is invariant
+under coproduct by arbitrary representation. Algebra of functions on the
+quantum group $SU_{q}(2)$ in the representation $\Pi$ is a factor of a type
+II$_{\infty}$. Formula for the trace in the representation $\Pi$ is given . The
+invariant integral of Woronovich on $SU_{q}(2)$ will take the form $\int f d\mu
+= tr(f cc^{*})$.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405154
+From: Michael Martin Nieto 505-667-6127 <mmn@pion.lanl.gov>
+Date: Tue, 24 May 94 12:47:45 -0600   (9kb)
+Date (revised): Thu, 26 May 94 23:26:21 -0600
+
+Title: Quantum Bound States with Zero Binding Energy
+Authors: Jamil Daboul and Michael Martin Nieto
+Comments: 11 pages, 4 figures which can be generated from Mathematica commands
+  given at the end of the file. Latex, REVISED--Fig. 4 Mathematica command
+  improved and corrected
+Report-no: Los Alamos preprint LA-UR-94-1374
+Journal-ref: Phys.Lett. A190 (1994) 9
+\\
+  After reviewing the general properties of zero-energy quantum states, we give
+the explicit solutions of the \seq with $E=0$ for the class of potentials
+$V=-|\gamma|/r^{\nu}$, where $-\infty < \nu < \infty$. For $\nu > 2$, these
+solutions are normalizable and correspond to bound states, if the angular
+momentum quantum number $l>0$. [These states are normalizable, even for $l=0$,
+if we increase the space dimension, $D$, beyond 4; i.e. for $D>4$.] For $\nu
+<-2$ the above solutions, although unbound, are normalizable. This is true even
+though the corresponding potentials are repulsive for all $r$. We discuss the
+physics of these unusual effects.
+\\

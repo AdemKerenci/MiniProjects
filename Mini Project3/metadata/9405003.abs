@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405003
+From: dotsenko@lpthe.jussieu.fr (Vladimir DOTSENKO)
+Date: Mon, 2 May 1994 12:38:50 +0200 (MET DST)   (8kb)
+
+Title: Spin--spin critical point correlation functions for the 2D random bond
+  Ising and Potts models
+Authors: Vladimir Dotsenko, Marco Picco and Pierre Pujol
+Comments: 10pp, latex, PAR--LPTHE 94/17
+Journal-ref: Phys.Lett. B347 (1995) 113-119
+\\
+  We compute the combined two and three loop order correction to the spin-spin
+correlation functions for the 2D Ising and q-states Potts model with random
+bonds at the critical point. The procedure employed is the renormalisation
+group approach for the perturbation series around the conformal field theories
+representing the pure models. We obtain corrections for the correlations
+functions which produce crossover in the amplitude but don't change the
+critical exponent in the case of the Ising model and which produce a shift in
+the critical exponent, due to randomness, in the case of the Potts model.
+Comparison with numerical data is discussed briefly.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304032
+From: BIMONTE@SUHEP.PHY.SYR.EDU
+Date: Thu, 8 Apr 1993 14:38 EST   (32kb)
+
+Title: Current Algebra and Conformal Field Theory on a Figure Eight
+Authors: A.P.Balachandran, G.Bimonte, K.S.Gupta, G.Marmo, P.Salomonson,
+  A.Simoni, A.Stern
+Comments: 39 pages; Latex with 1 figure included in encapsulated postscript
+  format. psbox.tex required
+Report-no: SU-4240-528
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 5641
+\\
+  We examine the dynamics of a free massless scalar field on a figure eight
+network. Upon requiring the scalar field to have a well defined value at the
+junction of the network, it is seen that the conserved currents of the theory
+satisfy Kirchhoff's law, that is that the current flowing into the junction
+equals the current flowing out. We obtain the corresponding current algebra and
+show that, unlike on a circle, the left- and right-moving currents on the
+figure eight do not in general commute in quantum theory. Since a free scalar
+field theory on a one dimensional spatial manifold exhibits conformal symmetry,
+it is natural to ask whether an analogous symmetry can be defined for the
+figure eight. We find that, unlike in the case of a manifold, the action plus
+boundary conditions for the network are not invariant under separate conformal
+transformations associated with left- and right-movers. Instead, the system is,
+at best, invariant under only a single set of transformations. Its conserved
+current is also found to satisfy Kirchhoff's law at the junction. We obtain the
+associated conserved charges, and show that they generate a Virasoro algebra.
+Its conformal anomaly (central charge) is computed for special values of the
+parameters characterizing the network.
+\\

@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212108
+From: Philippe Di Francesco <philippe@amoco.saclay.cea.fr>
+Date: 17 Dec 92 17:27:38+0100   (19kb)
+
+Title: A Generating Function for Fatgraphs
+Authors: P. Di Francesco and C. Itzykson
+Comments: 24 pages, uses harvmac macro, 1 figure not included, Saclay preprint
+  SPhT/92-162
+Journal-ref: Annales Poincare Phys.Theor. 59 (1993) 117-140
+\\
+  We study a generating function for the sum over fatgraphs with specified
+valences of vertices and faces, inversely weighted by the order of their
+symmetry group. A compact expression is found for general (i.e. non necessarily
+connected) fatgraphs. This expression admits a matrix integral representation
+which enables to perform semi--classical computations, leading in particular to
+a closed formula corresponding to (genus zero, connected) trees.
+\\

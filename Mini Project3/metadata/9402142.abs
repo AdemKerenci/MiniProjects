@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402142
+From: biru@imsc.ernet.in (B Basu-mallick)
+Date: Fri, 25 Feb 94 12:06:40+050   (17kb)
+
+Title: Realisations of $GL_{p,q}(2)$ quantum group and its coloured extension
+  through a novel Hopf algebra with five generators
+Author: B. Basu-Mallick
+Comments: 24 pages
+Report-no: IMSc imsc-94/07
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  A novel Hopf algebra $ ( {\tilde G}_{r,s} )$, depending on two deformation
+parameters and five generators, has been constructed. This $ {\tilde G}_{r,s}$
+Hopf algebra might be considered as some quantisation of classical $GL(2)
+\otimes GL(1) $ group, which contains the standard $GL_q(2)$ quantum group
+(with $ q=r^{-1} $) as a Hopf subalgebra. However, we interestingly observe
+that the two parameter deformed $GL_{p,q}(2)$ quantum group can also be
+realised through the generators of this $ {\tilde G}_{r,s}$ algebra, provided
+the sets of deformation parameters $p,~q$ and $r,~s$ are related to each other
+in a particular fashion. Subsequently we construct the invariant noncommutative
+planes associated with $ {\tilde G}_{r,s}$ algebra and show how the two well
+known Manin planes corresponding to $GL_{p,q}(2)$ quantum group can easily be
+reproduced through such construction. Finally we consider the `coloured'
+extension of $GL_{p,q}(2)$ quantum group as well as corresponding Manin planes
+and explore their intimate connection with the `coloured' extension of
+${\tilde G}_{r,s}$ Hopf structure.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409013
+From: ridgway@cuphyf.phys.columbia.edu (Alex Ridgway)
+Date: Fri, 2 Sep 1994 16:36:34 -0400   (19kb)
+
+Title: Instabilities of Magnetically Charged Black Holes
+Authors: S. Alexander Ridgway and Erick J. Weinberg
+Comments: 19 pages + 2 figures, CU-TP-651
+Journal-ref: Phys.Rev. D51 (1995) 638-646
+\\
+  The stability of the magnetically charged Reissner-Nordstrom black hole
+solution is investigated in the context of a theory with massive charged vector
+mesons. By exploiting the spherical symmetry of the problem, the linear
+perturbations about the Reissner-Nordstrom solution can be decomposed into
+modes of definite angular momentum $J$. For each value of $J$, unstable modes
+appear if the horizon radius is less than a critical value that depends on the
+vector meson gyromagnetic ratio $g$ and the monopole magnetic charge $q/e$. It
+is shown that such a critical radius exists (except in the anomalous case
+$q={1\over 2}$ with $0 \le g \le 2$), provided only that the vector meson mass
+is not too close to the Planck mass. The value of the critical radius is
+determined numerically for a number of values of $J$. The instabilities found
+here imply the existence of stable solutions with nonzero vector fields
+(``hair'') outside the horizon; unless $q=1$ and $g>0$, these will not be
+spherically symmetric.
+\\

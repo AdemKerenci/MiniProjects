@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307038
+From: WITTEN@sns.ias.edu
+Date: 06 Jul 1993 11:36:39 -0400 (EDT)   (28kb)
+Date (revised): 09 Jul 1993 16:10:07 -0400 (EDT)
+
+Title: Computing the Complete Massless Spectrum of a Landau-Ginzburg Orbifold
+Authors: Shamit Kachru and Edward Witten
+Comments: 34 pp, reference added
+Report-no: IASSNS-HEP-93/40, PUPT-1397
+Journal-ref: Nucl.Phys. B407 (1993) 637-666
+\\
+  We develop techniques to compute the complete the massless spectrum in
+heterotic string compactification on N=2 supersymmetric Landau-Ginzburg
+orbifolds. This includes not just the familiar charged fields, but also the
+gauge singlets. The number of gauge singlets can vary in the moduli space of a
+given compactification and can differ from what it would be in the large radius
+limit of the corresponding Calabi-Yau. Comparison with exactly soluble Gepner
+models provides a confirmation of our results at Gepner points. Our methods
+carry over straightforwardly to $(0,2)$ Landau-Ginzburg models.
+\\

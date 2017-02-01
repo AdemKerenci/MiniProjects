@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306155
+From: vadim@fwi.uva.nl (Vadim Kuznetsov )
+Date: Tue, 29 Jun 1993 11:05:56 +0200   (13kb)
+
+Title: Linear $r$-matrix algebra for classical separable systems
+Author: J. C. Eilbeck, V. Z. Enol'skii, Vadim B. Kuznetsov and A. V. Tsiganov
+Comments: 15 pages
+Report-no: University of Amsterdam Math 93-11
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: J.Phys. A27 (1994) 567-578
+\\
+  We consider a hierarchy of the natural type Hamiltonian systems of $n$
+degrees of freedom with polynomial potentials separable in general ellipsoidal
+and general paraboloidal coordinates. We give a Lax representation in terms of
+$2\times 2$ matrices for the whole hierarchy and construct the associated
+linear $r$-matrix algebra with the $r$-matrix dependent on the dynamical
+variables. A Yang-Baxter equation of dynamical type is proposed. Using the
+method of variable separation we provide the integration of the systems in
+classical mechanics conctructing the separation equations and, hence, the
+explicit form of action variables. The quantisation problem is discussed with
+the help of the separation variables.
+\\

@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208066
+From: Tetsuji Miwa <miwa@kurims.kyoto-u.ac.jp>
+Date: Thu, 27 Aug 92 10:39:03 JST   (34kb)
+
+Title: Quantum affine symmetry in vertex models
+Authors: Makoto Idzumi, Kenji Iohara, Michio Jimbo, Tetsuji Miwa, Toshiki
+  Nakashima and Tetsuji Tokihiro
+Comments: 29 pages
+Report-no: RIMS-892
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 1479-1511
+\\
+  We study the higher spin anologs of the six vertex model on the basis of its
+symmetry under the quantum affine algebra $U_q(\slth)$. Using the method
+developed recently for the XXZ spin chain, we formulate the space of states,
+transfer matrix, vacuum, creation/annihilation operators of particles, and
+local operators, purely in the language of representation theory. We find that,
+regardless of the level of the representation involved, the particles have spin
+$1/2$, and that the $n$-particle space has an RSOS-type structure rather than a
+simple tensor product of the $1$-particle space. This agrees with the picture
+proposed earlier by Reshetikhin.
+\\

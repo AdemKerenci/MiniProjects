@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406190
+From: Yi-Zhi Huang <yzhuang@math.rutgers.edu>
+Date: Tue, 28 Jun 94 22:38:52 -0400   (23kb)
+Date (revised): Fri, 1 Jul 94 11:17:21 -0400
+Date (revised): Sat, 2 Jul 94 13:28:22 -0400
+Date (revised): Fri, 8 Jul 94 00:32:32 -0400
+Date (revised): Sat, 30 Jul 94 18:54:20 -0400
+Date (revised): Thu, 11 Aug 94 21:00:39 -0400
+Date (revised): Wed, 14 Jun 1995 23:02:55 -0400
+
+Title: A nonmeromorphic extension of the moonshine module vertex operator
+  algebra
+Author: Yi-Zhi Huang
+Comments: 26 pages. Final version to appear in the Proceedings
+  of the Moonshine, the Monster, and related topics, Summer Research
+  Conference, Mount Holyoke, 1994, Contemporary Mathematics
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We describe a natural structure of an abelian intertwining algebra (in the
+sense of Dong and Lepowsky) on the direct sum of the untwisted vertex operator
+algebra constructed {}from the Leech lattice and its (unique) irreducible
+twisted module. When restricting ourselves to the moonshine module, we obtain a
+new and conceptual proof that the moonshine module has a natural structure of a
+vertex operator algebra. This abelian intertwining algebra also contains an
+irreducible twisted module for the moonshine module with respect to the obvious
+involution. In addition, it contains a vertex operator superalgebra and a
+twisted module for this vertex operator superalgebra with respect to the
+involution which is the identity on the even subspace and is $-1$ on the odd
+subspace. It also gives the superconformal structures observed by Dixon,
+Ginsparg and Harvey.
+\\

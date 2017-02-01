@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311001
+From: Grosche Christian <I02GRO@DSYIBM.DESY.DE>
+Date: MON,  1 NOV 93 11:39:10 +0100   (59kb)
+Date (revised): WED, 3 NOV 93 13:50:56 +0100
+
+Title: Path Integration and Separation of Variables in Spaces of Constant
+  Curvature in Two and Three Dimensions
+Authors: Christian Grosche
+Comments: 70 pages, AmSTeX, DESY 93 - 141 (mailer corrupted file, and truncated
+  it)
+Journal-ref: Fortsch.Phys. 42 (1994) 509-584
+\\
+  In this paper path integration in two- and three-dimensional spaces of
+constant curvature is discussed: i.e.\ the flat spaces $\bbbr^2$ and $\bbbr^3$,
+the two- and three-dimensional sphere and the two- and three dimensional
+pseudosphere. The Laplace operator in these spaces admits separation of
+variables in various coordinate systems. In all these coordinate systems the
+path integral formulation will be stated, however in most of them an explicit
+solution in terms of the spectral expansion can be given only on a formal
+level. What can be stated in all cases, are the propagator and the
+corresponding Green function, respectively, depending on the invariant distance
+which is a coordinate independent quantity. This property gives rise to
+numerous identities connecting the corresponding path integral representations
+and propagators in various coordinate systems with each other.
+\\

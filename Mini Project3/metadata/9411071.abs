@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411071
+From: J.vandeLeur <j.vandeleur@math.utwente.nl>
+Date: Thu, 10 Nov 1994 10:56:55 +0100   (10kb)
+
+Title: The $[n_1,n_2,\ldots,n_s]$--th reduced KP hierarchy and $W_{1+\infty}$
+  constraints
+Author: Johan van de Leur
+Comments: 13 pages of amstex
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Theor.Math.Phys. 104 (1995) 783-792; Teor.Mat.Fiz. 104 (1995)
+  32-42
+\\
+  To every partition $n=n_1+n_2+\cdots+n_s$ one can associate a vertex operator
+realization of the Lie algebras $a_{\infty}$ and $\hat{gl}_n$. Using this
+construction we obtain reductions of the $s$--component KP hierarchy,
+reductions which are related to these partitions. In this way we obtain matrix
+KdV type equations. We show that the following two constraints on a KP
+$\tau$--function are equivalent (1) $\tau$ is a $\tau$--function of the
+$[n_1,n_2,\ldots,n_s]$--th reduced KP hierarchy which satisfies string
+equation, $L_{-1}\tau=0$, (2) $\tau$ satisfies the vacuum constraints of the
+$W_{1+\infty}$ algebra. Talk given at the V International Conference on
+Mathematical Physics, String Theory and Quantum Gravity at Alushta, June 10-20
+1994
+\\

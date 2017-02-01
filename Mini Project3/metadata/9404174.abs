@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404174
+From: Martin Harris <harris@thphys.ox.ac.uk>
+Date: Thu, 28 Apr 94 16:06:45 BST   (42kb)
+
+Title: Multiple Ising Spins Coupled to 2d Quantum Gravity
+Authors: M.G. Harris and J.F. Wheater
+Comments: 29 pages, Latex, OUTP 9407P
+Journal-ref: Nucl.Phys. B427 (1994) 111-138
+\\
+  We study a model in which p independent Ising spins are coupled to 2d quantum
+gravity (in the form of dynamical planar phi-cubed graphs). Consideration is
+given to the p tends to infinity limit in which the partition function becomes
+dominated by certain graphs; we identify most of these graphs. A truncated
+model is solved exactly providing information about the behaviour of the full
+model in the limit of small beta. Finally, we derive a bound for the critical
+value of the coupling constant, beta_c and examine the magnetization transition
+in the limit p tends to zero.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9201013
+From: LOSSEV@nbivax.nbi.dk
+Date: Wed, 8 Jan 1992 20:09 +0100 (NBI, Copenhagen)   (46kb)
+
+Title: Towards unified theory of $2d$ gravity
+Authors: S.Kharchev, A.Marshakov, A.Mironov, A.Morozov and A.Zabrodin
+Comments: 67 pages (October 1991)
+Journal-ref: Nucl.Phys. B380 (1992) 181-240
+\\
+  We introduce a new 1-matrix model with arbitrary potential and the
+matrix-valued background field. Its partition function is a $\tau$-function of
+KP-hierarchy, subjected to a kind of ${\cal L}_{-1}$-constraint. Moreover,
+partition function behaves smoothly in the limit of infinitely large matrices.
+If the potential is equal to $X^{K+1}$, this partition function becomes a
+$\tau$-function of $K$-reduced KP-hierarchy, obeying a set of ${\cal W}
+_K$-algebra constraints identical to those conjectured in \cite{FKN91} for
+double-scaling continuum limit of $(K-1)$-matrix model. In the case of $K=2$
+the statement reduces to the early established \cite{MMM91b} relation between
+Kontsevich model and the ordinary $2d$ quantum gravity . Kontsevich model with
+generic potential may be considered as interpolation between all the models of
+$2d$ quantum gravity with $c<1$ preserving the property of integrability and
+the analogue of string equation.
+\\

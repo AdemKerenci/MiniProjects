@@ -1,0 +1,41 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307167
+From: C.Kobdaj@qmw.ac.uk (C.Kobdaj)
+Date: Tue, 27 Jul 93 18:35:46 BST   (88kb)
+Date (revised): Wed, 4 Aug 93 22:21:10 BST
+Date (revised): Fri, 6 Aug 93 18:12:57 BST
+
+Title: Towards a statistical mechanics of nonabelian vortices
+Authors: C.Kobdaj and S.Thomas
+Comments: 40 pages in a4 LaTeX including 2 tables and 5 uuencoded Postscript
+  figures, QMW-93/15.( The 6th figure, due to its size, is available by
+  directly request from C.Kobdaj@qmw.ac.uk. Some typos are corrected and the
+  choice of choosing $\r_c$ has been argued.)
+Journal-ref: Nucl.Phys. B413 (1994) 689-722
+\\
+  A study is presented of classical field configurations describing nonabelian
+vortices in two spatial dimensions, when a global \( SO(3) \) symmetry is
+spontaneously broken to a discrete group \( \IK \) isomorphic to the group of
+integers mod 4. The vortices in this model are characterized by the nonabelian
+fundamental group \(\pi_1 (SO(3)/{\IK}) \), which is isomorphic to the group of
+quaternions. We present an ansatz describing isolated vortices and prove that
+it is stable to perturbations. Kinematic constraints are derived which imply
+that at a finite temperature, only two species of vortices are stable to decay,
+due to `dissociation'. The latter process is the nonabelian analogue of the
+instability of charge \(|q| >1 \) abelian vortices to dissociation into those
+with charge \(|q| = 1\). The energy of configurations containing at maximum two
+vortex-antivortex pairs, is then computed. When the pairs are all of the same
+type, we find the usual Coulombic interaction energy as in the abelian case.
+When they are different, one finds novel interactions which are a departure
+from Coulomb like behavior. Therefore one can compute the grand canonical
+partition function (GCPF) for thermal pair creation of nonabelian vortices, in
+the approximation where the fugacities for vortices of each type are small. It
+is found that the vortex fugacities depend on a real continuous parameter \(
+a\) which characterize the degeneracy of the vacuum. Depending on the relative
+sizes of these fugacities, the vortex gas will be dominated by one of either of
+the two types mentioned above. In these regimes, we expect the standard
+Kosterlitz-Thouless phase transitions to occur, as in systems of abelian
+vortices in 2-dimensions. Between these two regimes, the gas contains pairs of
+both types, so nonabelian effects will be important.
+\\

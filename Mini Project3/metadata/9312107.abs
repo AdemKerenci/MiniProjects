@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312107
+From: David A. Lowe <lowe@tpau.physics.ucsb.edu>
+Date: Mon, 13 Dec 93 11:40:04 -0800   (10kb)
+Date (revised): Tue, 28 Dec 93 09:34:05 -0800
+Date (revised): Wed, 26 Jan 94 10:46:06 -0800
+
+Title: Causal Properties of Free String Field Theory
+Authors: D.A. Lowe
+Comments: 11 pages (harvmac), UCSBTH-93-39. (Some comments changed.)
+Journal-ref: Phys.Lett. B326 (1994) 223-230
+\\
+  This paper examines the causal structure of the commutator of two string
+fields, in free light-cone string field theory. By treating the commutator as a
+distribution on infinite dimensional loop space, it is shown that the
+commutator vanishes when $\int d\ss (\delta X(\ss))^2 <0$. Of more direct
+physical interest is the commutator of finite mass fields, obtained by smearing
+the string fields with appropriate wave functions. This is shown to vanish at
+spacelike separations, reproducing the usual point particle field theory
+result. The implications of this for the information spreading mechanism
+proposed by Susskind to solve the black hole information problem are discussed.
+Finally, it is verified that the above conclusions also hold for the
+superstring.
+\\

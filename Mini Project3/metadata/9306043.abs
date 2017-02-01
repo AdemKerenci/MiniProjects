@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306043
+From: Yuri Makeenko <MAKEENKO@nbivax.nbi.dk>
+Date: 08 Jun 1993 08:36:38 +0200   (12kb)
+
+Title: Some Remarks About the Two-Matrix Penner Model and the Kazakov-Migdal
+  Model
+Authors: Yu. Makeenko
+Comments: Latex, 13 pages, NBI-HE-93-28
+Journal-ref: Phys. Lett. B314 (1993) 197-205
+\\
+  I consider the Hermitean two-matrix model with a logarithmic potential which
+is associated in the one-matrix case with the Penner model. Using loop
+equations I find an explicit solution of the model at large N (or in the
+spherical approximation) and demonstrate that it solves the corresponding
+Riemann-Hilbert problem. I construct the potential of the Kazakov-Migdal model
+on a D-dimensional lattice, which turns out to be a sum of two logarithms as
+well, whose large-N solution is given by the same formulas. In the "naive"
+continuum limit this potential recovers in D<4 dimensions the standard scalar
+theory with quartic self-interaction. I exploit the solution to calculate
+explicitly the pair correlator of gauge fields in the Kazakov-Migdal model with
+the logarithmic potential.
+\\

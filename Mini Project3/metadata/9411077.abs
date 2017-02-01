@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411077
+From: Karl-Henning Rehren <rehren@x4u2.desy.de>
+Date: Thu, 10 Nov 1994 15:42:43 +0100 (MET)   (32kb)
+Date (revised): Wed, 14 Dec 1994 11:15:59 +0100 (MET)
+
+Title: Nets of Subfactors
+Authors: R.Longo, K.-H.Rehren
+Comments: Plain TeX, 32 pages. Several unnecessarily restrictive assumptions
+  have been relaxed. Proposition 4.10. has been reformulated in a more natural
+  way. Sect. 3 has been rearranged and a too general statement has been
+  adjusted. Some further minor changes
+Report-no: DESY 94-205
+Journal-ref: Rev.Math.Phys. 7 (1995) 567-598
+\\
+  A subtheory of a quantum field theory specifies von~Neumann subalgebras
+$\aa(\oo)$ (the `observables' in the space-time region $\oo$) of the
+von~Neumann algebras $\bb(\oo)$ (the `fields' localized in $\oo$). Every local
+algebra being a (type $\III_1$) factor, the inclusion $\aa(\oo) \subset
+\bb(\oo)$ is a subfactor. The assignment of these local subfactors to the
+space-time regions is called a `net of subfactors'. The theory of subfactors is
+applied to such nets. In order to characterize the `relative position' of the
+subtheory, and in particular to control the restriction and induction of
+superselection sectors, the canonical endomorphism is studied. The crucial
+observation is this: the canonical endomorphism of a local subfactor extends to
+an endomorphism of the field net, which in turn restricts to a localized
+endomorphism of the observable net. The method allows to characterize, and
+reconstruct, local extensions $\bb$ of a given theory $\aa$ in terms of the
+observables. Various non-trivial examples are given.
+\\

@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302083
+From: tseytlin@surya11.cern.ch (Arkady Tseytlin)
+Date: Thu, 18 Feb 93 23:39:27 +0100   (43kb)
+Date (revised): Thu, 25 Feb 93 23:12:21 +0100
+Date (revised): Fri, 30 Apr 93 12:26:44 +0200
+
+Title: Conformal sigma models corresponding to gauged Wess-Zumino-Witten
+  theories
+Authors: A.A. Tseytlin
+Comments: 56 pages, harvmac (b), CERN-TH.6804/93 (minor changes in sects.
+  2,4,6)
+Journal-ref: Nucl.Phys. B411 (1994) 509-558
+\\
+  We develop a field-theoretical approach to determination of the background
+target space fields corresponding to general $G/H$ coset conformal theories
+described by gauged WZW models. The basic idea is to identify the effective
+action of a gauged WZW theory with the effective action of a sigma model. The
+derivation of the quantum effective action in the gauged WZW theory is
+presented in detail, both in the bosonic and in the supersymmetric cases. We
+explain why and how one can truncate the effective action by omitting most of
+the non-local terms (thus providing a justification for some previous
+suggestions). The resulting metric, dilaton and the antisymmetric tensor are
+non-trivial functions of $1/k$ (or $\alpha'$) and represent a large class of
+conformal sigma models. The exact expressions for the fields in the
+sypersymmetric case are equal to the leading order (`semiclassical') bosonic
+expressions (with no shift of $k$). An explicit form in which we find the sigma
+model couplings makes it possible to prove that the metric and the dilaton are
+equivalent to the fields which are obtained in the operator approach, i.e. by
+identifying the $L_0$-operator of the conformal theory with a Klein-Gordon
+operator in a background. The metric can be considered as a `deformation' of an
+invariant metric on the coset space $G/H$ and the dilaton can be in general
+represented in terms of the logarithm of the ratio of the determinants of the
+`deformed' and `round' metrics.
+\\

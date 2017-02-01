@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306010
+From: Hidetoshi Awata <awata@ps1.yukawa.kyoto-u.ac.jp>
+Date: Wed, 02 Jun 1993 14:58:08 +0900   (9kb)
+Date (revised): Thu, 10 Jun 1993 21:39:53 +0900
+
+Title: Heisenberg realization for U_q(sln) on the flag manifold
+Authors: H. Awata, M. Noumi and S. Odake
+Comments: 10 pages, YITP/K-1016, plain TEX (some mistakes corrected and a
+  reference added)
+Journal-ref: Lett.Math.Phys. 30 (1993) 35-44
+\\
+  We give the Heisenberg realization for the quantum algebra $U_q(sl_n)$, which
+is written by the $q$-difference operator on the flag manifold. We construct it
+from the action of $U_q(sl_n)$ on the $q$-symmetric algebra $A_q(Mat_n)$ by the
+Borel-Weil like approach. Our realization is applicable to the construction of
+the free field realization for the $U_q(\widehat{sl_n})$ [AOS].
+\\

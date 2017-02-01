@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205059
+From: Ivan Kostov <kostov@amoco.saclay.cea.fr>
+Date: 18 May 92 16:51:28+0200   (29kb)
+
+Title: Loop Gas Model for Open Strings
+Authors: V. Kazakov and I. Kostov
+Report-no: SPhT/92-049
+Journal-ref: Nucl.Phys. B386 (1992) 520-557
+\\
+  The open string with one-dimensional target space is formulated in terms of
+an SOS, or loop gas, model on a random surface. We solve an integral equation
+for the loop amplitude with Dirichlet and Neumann boundary conditions imposed
+on different pieces of its boundary. The result is used to calculate the mean
+values of order and disorder operators, to construct the string propagator and
+find its spectrum of excitations. The latter is not sensible neither to the
+string tension $\L$ nor to the mass $\mu$ of the ``quarks'' at the ends of the
+string. As in the case of closed strings, the SOS formulation allows to
+construct a Feynman diagram technique for the string interaction amplitudes.
+\\

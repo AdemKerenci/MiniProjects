@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406060
+From: Vitaly Tarasov <tarasov@tftxb.helsinki.fi>
+Date: Thu, 9 Jun 1994 17:46:44 +0300   (32kb)
+Date (revised): Fri, 22 Jul 1994 12:48:25 +0300
+Date (revised): Thu, 24 Nov 1994 18:14:40 +0200
+Date (revised): Fri, 24 May 1996 12:48:48 +0300
+
+Title: Asymptotic Solutions to the Quantized Knizhnik-Zamolodchikov Equation
+  and Bethe Vectors
+Authors: Vitaly Tarasov, Alexander Varchenko
+Comments: 30 pages.  Minor misprints are corrected
+Report-no: HU-TFT-94-21, UTMS 94-21
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Asymptotic solutions to the quantized Knizhnik-Zamolodchikov equation
+associated with $\frak{gl}_{N+1}$ are constructed. The leading term of an
+asymptotic solution is the Bethe vector -- an eigenvector of the
+transfer-matrix of a quantum spin chain model. We show that the norm of the
+Bethe vector is equal to the product of the Hessian of a suitable function and
+an explicitly written rational function. This formula is an analogue of the
+Gaudin-Korepin formula for the norm of the Bethe vector. It is shown that,
+generically, the Bethe vectors form a base for the $\frak{gl}_2$ case.
+\\

@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301065
+From: arefeva@qft.mian.su (Irina Ya. Aref'eva)
+Date: Tue, 16 Jan 1993 05:24:20 GMT   (10kb)
+
+Title: A Simple Model Inducing QCD
+Authors: I.Ya. Aref'eva
+Comments: LaTex, 10 pages
+Journal-ref: Phys.Lett. B308 (1993) 347-354
+\\
+  A simple lattice model inducing a gauge theory is considered. The model
+describes an interaction of a gauge field to an $N\times N$ complex matrix
+scalar field transforming as a field in the fundamental representation. In
+contrast to the Kazakov-Migdal model the model contains only the linear
+interaction between scalar and gauge lattice fields. This model does not suffer
+from extra local U(1) symmetries. In an approximation of a translation
+invariant master field the large N limit of the model is investigated. At large
+N the gauge fields can be integrated out yielding an effective theory
+describing an interaction of eigenvalues of the master field. The reduced model
+exhibits phase transitions at the points $\beta_{\bar {cr}}$ and $\beta
+_{\underline{cr}}$ and the region $(\beta_{\bar{cr}}, \beta_{\underline{cr}})$
+separates the strong and weak regions of the model. To study the behaviour of
+the model at large $N$ in more systematic way the quenched momentum
+prescription with constraints for treating the large N limit of gauge theories
+is used. With the help of the technique of orthogonal polynomials nonlinear
+equations describing the large N limit of the reduced model {\it with
+quenching} are presented.
+\\

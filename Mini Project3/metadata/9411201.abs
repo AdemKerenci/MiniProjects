@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411201
+From: taichi@eken.phys.nagoya-u.ac.jp (Taichi Itoh)
+Date: Mon, 28 Nov 1994 22:30:58 +0900   (26kb)
+Date (revised): Tue, 29 Nov 1994 17:04:45 +0900
+
+Title: Thirring Model as a Gauge Theory
+Authors: Taichi Itoh, Yoonbai Kim, Masaki Sugiura, and Koichi Yamawaki
+Comments: 33 pages
+Report-no: DPNU-94-52
+Journal-ref: Prog.Theor.Phys. 93 (1995) 417-440
+\\
+  We reformulate the Thirring model in $D$ $(2 \le D < 4)$ dimensions as a
+gauge theory by introducing $U(1)$ hidden local symmetry (HLS) and study the
+dynamical mass generation of the fermion through the Schwinger-Dyson (SD)
+equation. By virtue of such a gauge symmetry we can greatly simplify the
+analysis of the SD equation by taking the most appropriate gauge (``nonlocal
+gauge'') for the HLS.
+  In the case of even-number of (2-component) fermions, we find the dynamical
+fermion mass generation as the second order phase transition at certain fermion
+number, which breaks the chiral symmetry but preserves the parity in (2+1)
+dimensions ($D=3$). In the infinite four-fermion coupling (massless gauge
+boson) limit in (2+1) dimensions, the result coincides with that of the
+(2+1)-dimensional QED, with the critical number of the 4-component fermion
+being $N_{\rm cr} = \frac{128}{3\pi^{2}}$. As to the case of odd-number
+(2-component) fermion in (2+1) dimensions, the regularization ambiguity on the
+induced Chern-Simons term may be resolved by specifying the regularization so
+as to preserve the HLS.
+  Our method also applies to the (1+1) dimensions, the result being consistent
+with the exact solution. The bosonization mechanism in (1+1) dimensional
+Thirring model is also reproduced in the context of dual-transformed theory for
+the HLS.
+\\

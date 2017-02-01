@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407028
+From: STEELET@sask.usask.ca
+Date: Tue, 05 Jul 1994 13:27:37 -0600 (CST)   (17kb)
+
+Title: The Nielsen Identities for the Two-Point Functions of QED and QCD
+Authors: J.C. Breckenridge, M.J. Lavelle and T.G. Steele
+Comments: 25 pages, plain TeX, 4 figures available upon request, MZ-TH/94-09
+Journal-ref: Z.Phys. C65 (1995) 155-164
+\\
+  We consider the Nielsen identities for the two-point functions of full QCD
+and QED in the class of Lorentz gauges. For pedagogical reasons the identities
+are first derived in QED to demonstrate the gauge independence of the photon
+self-energy, and of the electron mass shell. In QCD we derive the general
+identity and hence the identities for the quark, gluon and ghost propagators.
+The explicit contributions to the gluon and ghost identities are calculated to
+one-loop order, and then we show that the quark identity requires that in
+on-shell schemes the quark mass renormalisation must be gauge independent.
+Furthermore, we obtain formal solutions for the gluon self-energy and ghost
+propagator in terms of the gauge dependence of other, independent Green
+functions.
+\\

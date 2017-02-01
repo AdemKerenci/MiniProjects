@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402092
+From: Masayuki Matsuzaki <matsuza@fukuoka-edu.ac.jp>
+Date: Wed, 16 Feb 94 19:42:31 +0900   (21kb)
+
+Title: Two-dimensional SU(N) Gauge Theory on the Light Cone
+Authors: Takanori Sugihara, Masayuki Matsuzaki, and Masanobu Yahiro
+Comments: 34 pages, plain TeX, figures not included, available via conventional
+  mail
+Journal-ref: Phys.Rev. D50 (1994) 5274-5288
+\\
+  Two-dimensional SU($N$) gauge theory is accurately analyzed with the
+light-front Tamm-Dancoff approximation, both numerically and analytically. The
+light-front Einstein-Schr\"odinger equation for mesonic mass reduces to the 't
+Hooft equation in the large $N$ limit, $g^2N$ fixed, where $g$ is the coupling
+constant. Hadronic masses are numerically obtained in the region of $m^2 \ll
+g^2N$, where $m$ is the bare quark (q) mass. The lightest mesonic and baryonic
+states are almost in valence. The second lightest mesonic state is highly
+relativistic in the sense that it has a large 4-body ($ {\rm qq} \bar{\rm q}
+\bar{\rm q} $) component in addition to the valence (${\rm q} \bar{\rm q}$)
+one. In the strong coupling limit our results are consistent with the
+prediction of the bosonization for ratios of the lightest and second lightest
+mesonic masses to the lightest baryonic one. Analytic solutions to the lightest
+hadronic masses are obtained, with a reasonable approximation, as
+$\sqrt{2Cm}(1-1/N^2)^{1/4}$ in the mesonic case and
+$\sqrt{CmN(N-1)}(1-1/N^2)^{1/4}$ in the baryonic case, where
+$C=(g^2N\pi/6)^{1/2}$. The solutions well reproduce the numerical ones. The
+$N$- and $m$-dependences of the hadronic masses are explicitly shown by the
+analytical solutions.
+\\

@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403052
+From: "Gendi Pang (Gast Fuchssteiner)" <pang@uni-paderborn.de>
+Date: Tue, 8 Mar 1994 15:30:16 +0100   (11kb)
+
+Title: A time-discretized version of the Calogero-Moser model
+Authors: Frank W. Nijhoff and Gen-Di Pang (Universitaet-GH Paderborn)
+Comments: 12 pages. LaTeX, Stylefile `equations.sty' appended at the end
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+\\
+  We introduce an integrable time-discretized version of the classical
+Calogero-Moser model, which goes to the original model in a continuum limit.
+This discrete model is obtained from pole solutions of a discretized version of
+the Kadomtsev-Petviashvili equation, leading to a finite-dimensional symplectic
+mapping. Lax pair, symplectic structure and sufficient set of invariants of the
+discrete Calogero-Moser model are constructed. The classical $r$-matrix is the
+same as for the continuum model.
+\\

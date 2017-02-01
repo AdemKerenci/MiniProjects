@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402030
+From: MARTELLINI%VAXMI@icil64.cilea.it
+Date: Fri, 4 Feb 1994 19:59:44 MET-DST   (8kb)
+Date (revised): Sat, 12 Feb 1994 21:43:03 MET-DST
+Date (revised): Sun, 20 Feb 1994 14:00:50 MET-DST
+
+Title: Moduli Spaces of Curves with Homology Chains and c=1 Matrix Models
+Authors: A.S.Cattaneo, A.Gamba and M.Martellini
+Comments: IFUM 459/FT (LaTeX, 9 pages; a few misprints have been corrected and
+  the introduction has been slightly modified)
+Journal-ref: Phys.Lett. B327 (1994) 221-225
+\\
+  We show that introducing a periodic time coordinate in the models of
+Penner-Kontsevich type generalizes the corresponding constructions to the case
+of the moduli space ${\cal S}_{gn}^k$ of curves $C$ with homology chains
+$\gamma\in H_1(C,\zet_k)$. We make a minimal extension of the resulting models
+by adding a kinetic term, and we get a new matrix model which realizes a simple
+dynamics of $\zet_k$-chains on surfaces. This gives a representation of $c=1$
+matter coupled to two-dimensional quantum gravity with the target space being a
+circle of finite radius, as studied by Gross and Klebanov.
+\\

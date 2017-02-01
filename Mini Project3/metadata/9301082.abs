@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301082
+From: JUNLIU@SCS.SLAC.STANFORD.EDU
+Date: Tue, 19 Jan 1993 14:29 PDT   (5kb)
+Date (revised): Tue, 26 Jan 1993 11:29 PDT
+
+Title: Evolution of Pure States into Mixed States
+Author: Jun Liu
+Comments: 6 pages
+Report-no: SU-ITP-93-1
+\\
+  In the formulation of Banks, Peskin and Susskind, we show that one can
+construct evolution equations for the quantum mechanical density matrix $\rho$
+with operators which do not commute with hamiltonian which evolve pure states
+into mixed states, preserve the normalization and positivity of $\rho$ and
+conserve energy. Furthermore, it seems to be different from a quantum
+mechanical system with random sources.
+\\

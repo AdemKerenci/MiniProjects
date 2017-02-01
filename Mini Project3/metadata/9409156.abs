@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409156
+From: Clive Wells <C.G.Wells@damtp.cam.ac.uk>
+Date: Mon, 26 Sep 94 16:16:57 BST   (19kb)
+Date (revised): Wed, 8 Mar 95 23:20:37 GMT
+Date (revised): Sat, 9 Sep 95 19:23:12 BST
+
+Title: Unitarity of Quantum Theory and Closed Time-Like Curves
+Author: C.J. Fewster and C.G. Wells
+Comments: 13 pages, LaTeX. Final revised paper to be published in Phys Rev D.
+  Some changes are made to expand our discussion of Anderson's Proposal for
+  restoring unitarity
+Report-no: DAMTP-R94/35
+Journal-ref: Phys.Rev. D52 (1995) 5773-5782
+\\
+  Interacting quantum fields on spacetimes containing regions of closed
+timelike curves (CTCs) are subject to a non-unitary evolution $X$. Recently, a
+prescription has been proposed, which restores unitarity of the evolution by
+modifying the inner product on the final Hilbert space. We give a rigorous
+description of this proposal and note an operational problem which arises when
+one considers the composition of two or more non-unitary evolutions. We propose
+an alternative method by which unitarity of the evolution may be regained, by
+extending $X$ to a unitary evolution on a larger (possibly indefinite) inner
+product space. The proposal removes the ambiguity noted by Jacobson in
+assigning expectation values to observables localised in regions spacelike
+separated from the CTC region. We comment on the physical significance of the
+possible indefiniteness of the inner product introduced in our proposal.
+\\

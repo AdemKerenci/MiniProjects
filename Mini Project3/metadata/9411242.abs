@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411242
+From: gene@insti.physics.sunysb.edu (Eugene Tyurin)
+Date: Wed, 30 Nov 94 22:36 EST   (11kb)
+Date (revised): Thu, 1 Dec 94 18:37 EST
+
+Title: On Conformal Properties of the Dualized Sigma-Models
+Author: Eugene Tyurin
+Comments: 12 pages, LaTeX 2e with fleqn.sty (removed the Stony Brook emblem
+  which was causing problems)
+Report-no: ITP-SB-94-58
+Journal-ref: Phys. Lett. B348 (1995) 386
+\\
+  We have calculated the first-order beta-functions for a sigma-model ( with
+dilaton) dualized with respect to an arbitrary Lie group that acts without
+isotropy. We find that non-abelian duality preserves conformal invariance for
+semi-simple groups, but in general there is an extra contribution to the
+beta-function proportional to the trace of the structure constants, which
+cannot be absorbed into an additional dilaton shift. Two particular examples, a
+Bianchi V cosmological background and the G \otimes G WZW model, are discussed.
+\\

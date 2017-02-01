@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310074
+From: gitman@uspif.if.usp.br
+Date: Wed, 13 Oct 1993 16:01:42 GMT-03:00   (17kb)
+
+Title: Path Integrals over Velocities in Quantum Mechanics
+Authors: D.M.Gitman and Sh.M. Shvartsman (Institute of Physics University of
+  S\~ao Paulo, Brasil; Dept. of Physics, Case Western Reserve University,
+  Cleveland, USA)
+Comments: 26 pages, Preprint IFUSP/P-1079 October 1993
+\\
+  Representations of propagators by means of path integrals over velocities are
+discussed both in nonrelativistic and relativistic quantum mechanics. It is
+shown that all the propagators can only be expressed through bosonic path
+integrals over velocities of space-time coordinates. In the representations the
+integration over velocities is not restricted by any boundary conditions;
+matrices, which have to be inverted in course of doing Gaussian integrals, do
+not contain any derivatives in time, and spinor and isospinor structures of the
+propagators are given explicitly. One can define universal Gaussian and
+quasi-Gaussian integrals over velocities and rules of handling them. Such a
+technique allows one effectively calculate propagators in external fields.
+Thus, Klein-Gordon propagator is found in a constant homogeneous
+electromagnetic field and its combination with a plane wave field.
+\\

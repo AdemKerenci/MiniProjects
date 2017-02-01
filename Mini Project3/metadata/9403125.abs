@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403125
+From: "Ali Yegulalp" <yegulalp@puhep1.Princeton.EDU>
+Date: Mon, 21 Mar 94 15:04:06 -0500   (10kb)
+
+Title: Fermions Coupled to a Conformal Boundary: A Generalization of the
+  Monopole-Fermion System
+Authors: Ali Yegulalp
+Comments: 11 pages (TEX + harvmac), PUPT-1445
+Journal-ref: Phys.Lett. B328 (1994) 379-386
+\\
+  We study a class of models in which $N$ flavors of massless fermions on the
+half line are coupled by an arbitrary orthogonal matrix to $N$ rotors living on
+the boundary. Integrating out the rotors, we find the exact partition function
+and Green's functions. We demonstrate that the coupling matrix must satisfy a
+certain rationality constraint, so there is an infinite, discrete set of
+possible coupling matrices. For one particular choice of the coupling matrix,
+this model reproduces the low-energy dynamics of fermions scattering from a
+magnetic monopole. A quick survey of the Green's functions shows that the
+S-matrix is nonunitary. This nonunitarity is present in previous results for
+the monopole-fermion system, although it appears not to have been noted. We
+indicate how unitarity may be restored by expanding the Fock space to include
+new states that are unavoidably introduced by the boundary interaction.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9203076
+From: holl@dionysos.thphys.ox.ac.uk
+Date: Mon, 30 Mar 92 10:48:33 BST   (36kb)
+
+Title: Quantizing SL(N) Solitons and the Hecke Alegbra
+Authors: T.J. Hollowood
+Comments: 35 pages
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 947-982
+\\
+  The problem of quantizing a class of two-dimensional integrable quantum field
+theories is considered. The classical equations of the theory are the complex
+$sl(n)$ affine Toda equations which admit soliton solutions with real masses.
+The classical scattering theory of the solitons is developed using Hirota's
+solution techniques. A form for the soliton $S$-matrix is proposed based on the
+constraints of $S$-matrix theory, integrability and the requirement that the
+semi-classical limit is consistent with the semi-classical WKB quantization of
+the classical scattering theory. The proposed $S$-matrix is an intertwiner of
+the quantum group associated to $sl(n)$, where the deformation parameter is a
+function of the coupling constant. It is further shown that the $S$-matrix
+describes a non-unitary theory, which reflects the fact that the classical
+Hamiltonian is complex. The spectrum of the theory is found to consist of the
+basic solitons, scalar states (or breathers) and excited (or `breathing')
+solitons. It is also noted that the construction of the $S$-matrix is valid for
+any representation of the Hecke algebra, allowing the definition of restricted
+$S$-matrices, in which case the theory is unitary.
+\\

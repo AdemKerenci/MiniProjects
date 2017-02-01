@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304081
+From: carlip@nsfitp.itp.ucsb.edu (Steven Carlip)
+Date: Mon, 19 Apr 93 12:14:54 PDT   (13kb)
+
+Title: Chern-Simons States and Topologically Massive Gauge Theories
+Authors: M. Asorey, S. Carlip, and F. Falceto
+Comments: 11 pages
+Report-no: UCD-93-7 and DFTUZ 93.5
+Journal-ref: Phys.Lett. B312 (1993) 477-485
+\\
+  In an abelian topologically massive gauge theory, any eigenstate of
+the Hamiltonian can be decomposed into a factor describing massive
+propagating gauge bosons and a Chern-Simons wave function describing
+a set of nonpropagating ``topological'' excitations.  The energy
+depends only on the propagating modes, and energy eigenstates thus
+occur with a degeneracy that can be parametrized by the Hilbert
+space of the pure Chern-Simons theory.  We show that for a
+{\em nonabelian} topologically massive gauge theory, this degeneracy
+is lifted: although the Gauss law constraint can be solved with
+a similar factorization, the Hamiltonian couples the propagating  and
+nonpropagating (topological) modes.
+\\

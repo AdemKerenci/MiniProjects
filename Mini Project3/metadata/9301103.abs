@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301103
+From: "Poul H. Damgaard" <PHDAMG@crnvma.cern.ch>
+Date: Mon, 25 Jan 93 23:05:56 SET   (31kb)
+
+Title: Origin of Antifields in the Batalin-Vilkovisky Lagrangian Formalism
+Authors: J. Alfaro and P.H. Damgaard
+Comments: 36 pages, LaTeX, CERN--TH-6788/93
+Journal-ref: Nucl.Phys. B404 (1993) 751-793
+\\
+  The antifields of the Batalin-Vilkovisky Lagrangian quantization are standard
+antighosts of certain collective fields. These collective fields ensure that
+Schwinger-Dyson equations are satisfied as a consequence of the gauge symmetry
+algebra. The associated antibracket and its canonical structure appear
+naturally if one integrates out the corresponding ghost fields. An analogous
+Master Equation for the action involving these ghosts follows from the
+requirement that the path integral gives rise to the correct Schwinger-Dyson
+equations.
+\\

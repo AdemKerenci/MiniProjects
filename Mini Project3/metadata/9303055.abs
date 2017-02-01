@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303055
+From: narayana@physics.rutgers.edu (Rajamani Narayanan)
+Date: Tue, 9 Mar 93 17:05:01 EST   (6kb)
+
+Title: The Hausdorff dimension of random walks and the correlation length
+  critical exponent in Euclidean field theory
+Authors: Joe Kiskis, Rajamani Narayanan, Pavlos Vranas
+Comments: 11 pages (plain TeX)
+Report-no: UCD-93-06, RU-93-09, FSU-SCRI-93-37
+\\
+  We study the random walk representation of the two-point function in
+statistical mechanics models near the critical point. Using standard scaling
+arguments we show that the critical exponent $\nu$ describing the vanishing of
+the physical mass at the critical point is equal to $\nu_\theta/ d_w$. $d_w$ is
+the Hausdorff dimension of the walk. $\nu_\theta$ is the exponent describing
+the vanishing of the energy per unit length of the walk at the critical point.
+For the case of O(N) models, we show that $\nu_\theta=\varphi$, where $\varphi$
+is the crossover exponent known in the context of field theory. This implies
+that the Hausdorff dimension of the walk is $\varphi/\nu$ for O(N) models.
+\\

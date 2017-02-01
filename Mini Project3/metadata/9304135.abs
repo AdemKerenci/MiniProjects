@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304135
+From: billo@tsmi19.sissa.it
+Date: Tue, 27 Apr 1993 16:57:27 +0100   (49kb)
+
+Title: ALE manifolds and Conformal Field Theory
+Authors: D. Anselmi, M. Bill\'o, P. Fr\'e, L. Girardello, A. Zaffaroni
+Comments: 48 pages, Latex, SISSA/44/92/EP, IFUM/443/FT
+Journal-ref: Int.J.Mod.Phys. A9 (1994) 3007-3058
+\\
+  We address the problem of constructing the family of (4,4) theories
+associated with the sigma-model on a parametrized family ${\cal M}_{\zeta}$ of
+Asymptotically Locally Euclidean (ALE) manifolds. We rely on the ADE
+classification of these manifolds and on their construction as HyperK\"ahler
+quotients, due to Kronheimer.
+  So doing we are able to define the family of (4,4) theories corresponding to
+a ${\cal M}_{\zeta}$ family of ALE manifolds as the deformation of a solvable
+orbifold ${\bf C}^2 \, / \, \Gamma$ conformal field-theory, $\Gamma$ being a
+Kleinian group. We discuss the relation among the algebraic structure
+underlying the topological and metric properties of self-dual 4-manifolds and
+the algebraic properties of non-rational (4,4)-theories admitting an infinite
+spectrum of primary fields. In particular, we identify the Hirzebruch signature
+$\tau$ with the dimension of the local polynomial ring ${\cal R}=\o {{\bf
+C}[x,y,z]}{\partial W}$ associated with the ADE singularity, with the number of
+non-trivial conjugacy classes in the corresponding Kleinian group and with the
+number of short representations of the (4,4)-theory minus four.
+\\

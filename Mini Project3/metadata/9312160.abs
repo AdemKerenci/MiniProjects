@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312160
+From: Serguei Shabanov <shabanov@amoco.saclay.cea.fr>
+Date: 20 Dec 93 12:02:39+0100   (42kb)
+
+Title: 2D Yang-Mills Theories, Gauge Orbit Space and The Path Integral
+  Quantization
+Authors: Sergey V.Shabanov
+Comments: 39 pages (LaTeX), report T93/139
+Journal-ref: Commun.Theor.Phys. 4 (1995) 1-38
+\\
+  The role of a physical phase space structure in a classical and quantum
+dynamics of gauge theories is emphasized. In particular, the gauge orbit space
+of Yang-Mills theories on a cylindrical spacetime (space is compactified to a
+circle) is shown to be the Weyl cell for a semisimple compact gauge group,
+while the physical phase space coincides with the quotient $\R^{2r}/W_A$, $r$ a
+rank of a gauge group, $W_A$ the affine Weyl group. The transition amplitude
+between two points of the gauge orbit space (between two Wilson loops) is
+represented via a Hamiltonian path integral over the physical phase space and
+explicitly calculated. The path integral formula appears to be modified by
+including trajectories reflected from the boundary of the physical
+configuration space (of the Weyl cell) into the sum over pathes. The Gribov
+problem of gauge fixing ambiguities is considered and its solution is proposed
+in the framework of the path integral modified. Artifacts of gauge fixing are
+qualitatively analyzedwith a simple mechanical example. A relation between a
+gauge-invariant description and a gauge fixing procedure is established.
+\\

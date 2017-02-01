@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206090
+From: Philippe Di Francesco <philippe@poseidon.saclay.cea.fr>
+Date: 24 Jun 92 13:18:03+0200   (24kb)
+
+Title: Polynomial averages in the Kontsevich model
+Author: P. Di Francesco, C. Itzykson, J.-B. Zuber
+Comments: 30 pages
+Report-no: SPhT 92/073
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Commun.Math.Phys. 151 (1993) 193-219
+\\
+  We obtain in closed form averages of polynomials, taken over hermitian
+matrices with the Gaussian measure involved in the Kontsevich integral, and
+prove a conjecture of Witten enabling one to express analogous averages with
+the full (cubic potential) measure, as derivatives of the partition function
+with respect to traces of inverse odd powers of the external argument. The
+proofs are based on elementary algebraic identities involving a new set of
+invariant polynomials of the linear group, closely related to the general Schur
+functions.
+\\

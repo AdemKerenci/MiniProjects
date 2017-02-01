@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303058
+From: Alexander Sevrin <alex@asterix.lbl.gov>
+Date: Tue, 9 Mar 93 17:22:49 -0800   (13kb)
+
+Title: Quantum gauging from classical gauging of nonlinear algebras
+Authors: A. Sevrin and P. van Nieuwenhuizen
+Comments: 16 pages, LaTeX, ITP-SB-92-67, LBL-33339, UCB-PTH-92/43
+Journal-ref: Phys.Rev. D48 (1993) 1768-1773
+\\
+  We extend the theory of the gauging of classical quadratically nonlinear
+algebras without a central charge but with a coset structure, to the quantum
+level. Inserting the minimal anomalies into the classical transformation rules
+of the currents introduces further quantum corrections to the classical
+transformation rules of the gauge fields and currents which additively
+renormalize the structure constants. The corresponding Ward identities are the
+c -> infinity limit of the full quantum Ward identities, and reveal that the c
+-> infinity limit of the quantum gauge algebra closes on fields and currents.
+Two examples are given.
+\\

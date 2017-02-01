@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412237
+From: Schwiebert <cbs@kurims.kyoto-u.ac.jp>
+Date: Fri, 30 Dec 94 19:52:56 JST   (11kb)
+Date (revised): Fri, 6 Jan 95 16:21:38 JST
+Date (revised): Tue, 17 Jan 95 22:48:08 JST
+
+Title: Generalized Quantum Inverse Scattering
+Author: C. Schwiebert
+Comments: Consistency conditions for the braided coproduct added, minor text
+  changes; 13 pages, TeX (with phyzzx macros)
+Report-no: RIMS 1003
+\\
+  A generalization of the quantum inverse scattering method is proposed
+replacing the quantum group $RLL$ commutation relations of Lax operators by
+reflection equation type $RLRL$ commutation relations. Under some natural
+assumptions the most general algebra of this type allowing to construct the
+neccessary integrals of motion is found. It serves to describe Lax operators
+with completely non-ultralocal commutation relations. An example of this new
+formalism is an integrable model on monodromies of flat connections on a
+Riemann surface which is related to the XXZ quantum spin chain.
+\\

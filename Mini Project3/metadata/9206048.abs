@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206048
+From: sfetsos%phys2sun.usc.edu@usc.edu (Konstadinos Sfetsos)
+Date: Wed, 10 Jun 92 16:25:28 PDT   (15kb)
+
+Title: Conformally Exact Results for SL(2,R)\times SO(1,1)^{d-2}/SO(1,1) Coset
+  Models
+Authors: Konstadinos Sfetsos
+Comments: USC-92/HEP-S1, 21 pages
+Journal-ref: Nucl.Phys. B389 (1993) 424-444
+\\
+  Using the conformal invariance of the $SL(2,R)\otimes SO(1,1)^{d-2}/SO(1,1)$
+coset models we calculate the conformally exact metric and dilaton, to all
+orders in the $1/k$ expansion. We consider both vector and axial gauging. We
+find that these cosets represent two different space--time geometries: ($2d$
+black hole)$\otimes \IR^{d-2}$ for the vector gauging and ($3d$ black
+string)$\otimes \IR^{d-3}$ for the axial one. In particular for $d=3$ and for
+the axial gauging one obtains the exact metric and dilaton of the charged black
+string model introduced by Horne and Horowitz. If the value of $k$ is finite we
+find two curvature singularities which degenerate to one in the semi--classical
+$k\to \infty$ limit. We also calculate the reflection and transmission
+coefficients for the scattering of a tachyon wave and using the Bogoliubov
+transformation we find the Hawking temperature.
+\\

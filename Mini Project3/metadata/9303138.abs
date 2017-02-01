@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303138
+From: Yuri Makeenko <MAKEENKO@nbivax.nbi.dk>
+Date: 25 Mar 1993 08:14:22 +0100   (11kb)
+Date (revised): 26 Mar 1993 09:06:20 +0100
+Date (revised): 27 Apr 1993 07:08:44 +0200
+
+Title: An Exact Solution of Induced Large-N Lattice Gauge Theory at Strong
+  Coupling
+Authors: Yu. Makeenko
+Comments: Latex (3 Latex figures), 13pp, ITEP-YM-2-93 [minor revising]
+\\
+  I show that the strong coupling solution of the Kazakov--Migdal model with a
+general interaction potential $V(\Phi)$ in $D$ dimensions coincides at large
+$N$ with that of the hermitean one-matrix model with the potential
+$\tilde{V}(\Phi)$: $$ (2D-1)\tilde{V}'= (D-1)V'+ D\sqrt{(V')^2+4(1-2D)\Phi^2},
+$$ whose solution is known. The proof is given for an even potential
+$V(\Phi)=V(-\Phi)$ by solving loop equations.
+\\

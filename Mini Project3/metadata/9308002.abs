@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308002
+From: Sylvie Zaffanella <zaf@amoco.saclay.cea.fr>
+Date: Mon, 2 Aug 1993 04:27:34 +0000   (14kb)
+
+Title: Phase space structure and the path integral for gauge theories on a
+  cylinder
+Authors: Sergey V. Shabanov
+Comments: Saclay-T93/078
+Journal-ref: Phys.Lett. B318 (1993) 323-330
+\\
+  The physical phase space of gauge field theories on a cylindrical spacetime
+with an arbitrary compact simple gauge group is shown to be the quotient $ {\bf
+R}^{2r}/W_A, $ $ r $ a rank of the gauge group, $ W_A $ the affine Weyl group.
+The PI formula resulting from Dirac's operator method contains a symmetrization
+with respect to $ W_A $ rather than the integration domain reduction. It gives
+a natural solution to Gribov's problem. Some features of fermion quantum
+dynamics caused by the nontrivial phase space geometry are briefly discussed.
+\\

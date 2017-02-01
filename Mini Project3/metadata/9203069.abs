@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9203069
+From: SALEUR%YALPH2.BITNET@yalevm.ycc.yale.edu
+Date: Wed, 25 Mar 1992 11:28 EDT   (35kb)
+
+Title: S and T matrices for the super $U(1,1)$ WZW model. Application to
+  surgery and 3-manifold invariants based on the Alexander Conway polynomial
+Authors: Lev Rozansky, Herbert Saleur
+Comments: 43 pages + 37 figures (not included)
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Nucl.Phys. B389 (1993) 365
+\\
+  We carry on the study of the Alexander Conway invariant from the
+quantum field  theory point of view started in \cite{RS91}.
+  We first discuss in details $S$ and $T$ matrices for the $U(1,1)$ super
+WZW model and obtain, for the level $k$ an integer, new finite dimensional
+representations of the modular group. These have the remarkable property
+that some of the $S$ matrix elements are infinite. Moreover, typical
+and  atypical representations as well as indecomposable blocks are mixed:
+truncation to maximally atypical representations, as advocated  in some recent
+papers, is not consistent.
+  The main topological application of this work is the computation of Alexander
+invariants for 3-manifolds and for links in 3-manifolds. Invariants of
+3-manifolds seem to depend trivially on the level $k$, but still contain
+interesting topological information. For Seifert manifolds for instance,
+they  coincide with the order  of the first homology group. Examples of
+invariants of links in 3-manifolds are given. They exhibit interesting
+arithmetic properties.
+\\

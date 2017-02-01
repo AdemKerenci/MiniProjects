@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9409165
+From: Annemarie Blobel <ablobel@x4u2.desy.de>
+Date: Tue, 27 Sep 1994 17:30:06 +0100 (MET)   (32kb)
+
+Title: Characterizing Invariants for Local Extensions of Current Algebras
+Authors: K.-H.Rehren, Ya.S.Stanev, I.T.Todorov
+Comments: LaTeX-file, 26 pages, no figures
+Report-no: Vienna preprint ESI 132 (1994), DESY 94-164
+Journal-ref: Commun.Math.Phys. 174 (1995) 605-634
+\\
+  Pairs $\aa \subset \bb$ of local quantum field theories are studied, where
+$\aa$ is a chiral conformal \qft and $\bb$ is a local extension, either chiral
+or two-dimensional. The local correlation functions of fields from $\bb$ have
+an expansion with respect to $\aa$ into \cfb s, which are non-local in general.
+Two methods of computing characteristic invariant ratios of structure constants
+in these expansions are compared: $(a)$ by constructing the monodromy \rep of
+the braid group in the space of solutions of the Knizhnik-Zamolodchikov
+differential equation, and $(b)$ by an analysis of the local subfactors
+associated with the extension with methods from operator algebra (Jones theory)
+and algebraic quantum field theory. Both approaches apply also to the reverse
+problem: the characterization and (in principle) classification of local
+extensions of a given theory.
+\\

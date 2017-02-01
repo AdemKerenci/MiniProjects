@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301114
+From: BONINI@VAXPR.CINECA.IT
+Date: Wed, 27 JAN 93 15:59 GMT   (19kb)
+
+Title: Perturbative renormalization and infrared finiteness in the Wilson
+  renormalization group: the massless scalar case
+Authors: M. Bonini, M. D'Attanasio and G. Marchesini
+Comments: Latex file, 21 pages and 6 figures (included), Parma Univ. preprint
+  UPRF-92-360
+Journal-ref: Nucl.Phys. B409 (1993) 441-464
+\\
+  A new proof of perturbative renormalizability and infrared finiteness for a
+scalar massless theory is obtained from a formulation of renormalized field
+theory based on the Wilson renormalization group. The loop expansion of the
+renormalized Green functions is deduced from the Polchinski equation of
+renormalization group. The resulting Feynman graphs are organized in such a way
+that the loop momenta are ordered. It is then possible to analyse their
+ultraviolet and infrared behaviours by iterative methods. The necessary
+subtractions and the corresponding counterterms are automatically generated in
+the process of fixing the physical conditions for the ``relevant'' vertices at
+the normalization point. The proof of perturbative renormalizability and
+infrared finiteness is simply based on dimensional arguments and does not
+require the usual analysis of topological properties of Feynman graphs.
+\\

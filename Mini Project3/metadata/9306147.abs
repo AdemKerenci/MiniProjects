@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306147
+From: Toine=Van=Proeyen%TF%FYS@cc3.kuleuven.ac.be
+Date: Mon, 28 Jun 93 14:23:54 CET   (44kb)
+
+Title: Simplifications in Lagrangian BV quantization exemplified by the
+  anomalies of chiral $W_3$ gravity
+Authors: S. Vandoren and A. Van Proeyen
+Comments: 45 pages
+Journal-ref: Nucl.Phys. B411 (1994) 257-306
+\\
+  The Batalin--Vilkovisky (BV) formalism is a useful framework to study gauge
+theories. We summarize a simple procedure to find a a gauge--fixed action in
+this language and a way to obtain one--loop anomalies. Calculations involving
+the antifields can be greatly simplified by using a theorem on the antibracket
+cohomology. The latter is based on properties of a `Koszul--Tate differential',
+namely its acyclicity and nilpotency. We present a new proof for this
+acyclicity, respecting locality and covariance of the theory. This theorem then
+implies that consistent higher ghost terms in various expressions exist, and it
+avoids tedious calculations.
+  This is illustrated in chiral $W_3$ gravity.  We compute the one--loop
+anomaly without terms of negative ghost number. Then the mentioned theorem and
+the consistency condition imply that the full anomaly is determined up to local
+counterterms. Finally we show how to implement background charges into the BV
+language in order to cancel the anomaly with the appropriate
+counterterms. Again we use the theorem to simplify the calculations, which
+agree with previous results.
+\\

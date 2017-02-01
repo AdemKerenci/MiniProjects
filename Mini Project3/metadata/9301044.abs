@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301044
+From: ghoshal%theory%tifrvax.BITNET@CEARN.cern.ch
+Date: Tue, 12 Jan 93 22:01:23 IST   (18kb)
+
+Title: Kinetic theory in curved space: a first quantised approach
+Authors: Samir D. Mathur
+Comments: 23 pages, Plain TeX and Harvmac
+\\
+  We study the real time formalism of non-equilibrium many-body theory, in a
+first quantised language. We argue that on quantising the relativistic scalar
+particle in spacetime with Minkowski signature, we should study both
+propagations $e^{i(p^2-m^2)\tilde \lambda}$ and $e^{-i(p^2-m^2)\tilde \lambda}$
+on the particle world line. The path integral needs regulation at the mass
+shell $p^2=m^2$. If we regulate the two propagations independently we get the
+Feynman propagator in the vacuum, and its complex conjugate. But if the
+regulation mixes the two propagations then we get the matrix propagator
+appropriate to perturbation theory in a particle flux. This formalism unifies
+the special cases of thermal fluxes in flat space and the fluxes `created' by
+Cosmological expansion, and also gives covariance under change of particle
+definition in curved space. We comment briefly on the proposed application to
+closed strings, where we argue that coherent fields and `exponential of
+quadratic' particle fluxes must {\it both} be used to define the background for
+perturbation theory.
+\\

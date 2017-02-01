@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307155
+From: ocouss@ulb.ac.be (Coussaert Olivier)
+Date: Mon, 26 Jul 93 13:06:23 MDT   (10kb)
+
+Title: Consistent Interactions between Gauge Fields and Local BRST Cohomology :
+  The Example of Yang-Mills Models
+Authors: G. Barnich, M. Henneaux and R. Tatar
+Comments: 6 pages in LaTeX, ULB-PMIF/9304
+Journal-ref: Int. J. Mod. Phys. D3 (1994) 139
+\\
+  Recent results on the cohomological reformulation of the problem of
+consistent interactions between gauge fields are illustrated in the case of the
+Yang-Mills models. By evaluating the local BRST cohomology through descent
+equation techniques, it is shown (i) that there is a unique local, Poincar\'e
+invariant cubic vertex for free gauge vector fields which preserves the number
+of gauge symmetries to first order in the coupling constant; and (ii) that
+consistency to second order in the coupling constant requires the structure
+constants appearing in the cubic vertex to fulfill the Jacobi identity. The
+known uniqueness of the Yang-Mills coupling is therefore rederived through
+cohomological arguments.
+\\

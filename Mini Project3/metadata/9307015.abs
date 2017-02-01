@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307015
+From: RZUCCHINI@BOLOGNA.INFN.IT
+Date: Fri,  2 JUL 93 13:30 GMT   (40kb)
+Date (revised): Mon, 5 JUL 93 17:55 GMT
+
+Title: Deformation Theory of Holomorphic Vector Bundles, Extended Conformal
+  Symmetry and Extensions of 2D Gravity
+Authors: Roberto Zucchini
+Comments: 49 pages, plain TeX. A number of misprints have been corrected
+Journal-ref: Class. Quant. Grav. 11 (1994) 1697
+\\
+  Developing on the ideas of R. Stora and coworkers, a formulation of two
+dimensional field theory endowed with extended conformal symmetry is given,
+which is based on deformation theory of holomorphic and Hermitian spaces. The
+geometric background consists of a vector bundle $E$ over a closed surface
+$\Sigma$ endowed with a holomorphic structure and a Hermitian structure
+subordinated to it. The symmetry group is the semidirect product of the
+automorphism group ${\rm Aut}(E)$ of $E$ and the extended Weyl group ${\rm
+Weyl}(E)$ of $E$ and acts on the holomorphic and Hermitian structures. The
+extended Weyl anomaly can be shifted into an automorphism chirally split
+anomaly by adding to the action a local counterterm, as in ordinary conformal
+field theory. The dependence on the scale of the metric on the fiber of $E$ is
+encoded in the Donaldson action, a vector bundle generalization of the
+Liouville action. The Weyl and automorphism anomaly split into two
+contributions corresponding respectively to the determinant and
+projectivization of $E$. The determinant part induces an effective ordinary
+Weyl or diffeomorphism anomaly and the induced central charge can be computed.
+\\

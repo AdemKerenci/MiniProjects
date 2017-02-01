@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401143
+From: kownacki@qcd.th.u-psud.fr (kownacki)
+Date: Fri, 28 Jan 94 10:38:52 GMT   (11kb)
+
+Title: Grand-Canonical Ensemble of Random Surfaces with Four Species of Ising
+  Spins
+Authors: J.-P. Kownacki and A. Krzywicki
+Comments: LaTeX, 11 pages + 1 postscript figure appended, preprint LPTHE-Orsay
+  94/11
+Journal-ref: Phys.Rev. D50 (1994) 5329-5332
+\\
+  The grand-canonical ensemble of dynamically triangulated surfaces coupled to
+four species of Ising spins (c=2) is simulated on a computer. The effective
+string susceptibility exponent for lattices with up to 1000 vertices is found
+to be $\gamma = - 0.195(58)$. A specific scenario for $c > 1$ models is
+conjectured.
+\\

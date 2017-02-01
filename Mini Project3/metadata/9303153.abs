@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303153
+From: poly@dxcern.cern.ch (Alexios Polychronakos)
+Date: Sat, 27 Mar 1993 16:29:11 +0100   (12kb)
+
+Title: Equivalence of Two Dimensional QCD and the $c=1$ Matrix Model
+Authors: Joseph A. Minahan and Alexios P. Polychronakos
+Comments: 15 pages, CERN-TH 6843/93, UVA-HET-93-02
+Journal-ref: Phys.Lett. B312 (1993) 155-165
+\\
+  We consider two dimensional QCD with the spatial dimension compactified to a
+circle. We show that the states in the theory consist of interacting strings
+that wind around the circle and derive the Hamiltonian for this theory in the
+large $N$ limit, complete with interactions. Mapping the winding states into
+momentum states, we express this Hamiltonian in terms of a continuous field.
+For a $U(N)$ gauge group with a background source of Wilson loops, we recover
+the collective field Hamiltonian found by Das and Jevicki for the $c=1$ matrix
+model, except the spatial coordinate is on a circle. We then proceed to show
+that two dimensional QCD with a $U(N)$ gauge group can be reduced to a one-
+dimensional unitary matrix model and is hence equivalent to a theory of $N$
+free nonrelativistic fermions on a circle. A similar result is true for the
+group $SU(N)$, but the fermions must be modded out by the center of mass
+coordinate.
+\\

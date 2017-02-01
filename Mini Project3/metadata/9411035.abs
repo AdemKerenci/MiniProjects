@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411035
+From: alexush%PLUNLO51.BITNET@vm.cnuce.cnr.it
+Date: Fri, 04 Nov 1994 15:04:50 +0100   (25kb)
+
+Title: Generalized Gaudin Models and Riccatians
+Author: A. G. Ushveridze
+Report-no: KFT UL 4/94
+Comments: LaTeX, 37 pages
+\\
+  The systems of differential equations whose solutions coincide with Bethe
+ansatz solutions of generalized Gaudin models are constructed. These equations
+we call the {\it generalized spectral Riccati equations}, because the simplest
+equation of this class has a standard Riccatian form. The general form of these
+equations is $R_{n_i}[z_1(\lambda),\ldots, z_r(\lambda)] = c_{n_i}(\lambda), \
+i=1,\ldots, r$, where $R_{n_i}$ denote some homogeneous polynomials of degrees
+$n_i$ constructed from functional variables $z_i(\lambda)$ and their
+derivatives. It is assumed that $\deg \partial^k z_i(\lambda) = k+1$. The
+problem is to find all functions $z_i(\lambda)$ and $c_{n_i}(\lambda)$
+satisfying the above equations under $2r$ additional constraints $P \
+z_i(\lambda)=F_i(\lambda)$ and $(1-P) \ c_{n_i}(\lambda)=0$, where $P$ is a
+projector from the space of all rational functions onto the space of rational
+functions having their singularities at {\it a priori} given points. It turns
+out that this problem has solutions only for very special polynomials $R_{n_i}$
+called {\it Riccatians}. There exist a one-to-one correspondence between
+systems of Riccatians and simple Lie algebras. Functions $c_{n_i}(\lambda)$
+satisfying the system of equations constructed from Riccatians of the type
+${\cal L}_r$ exactly coincide with eigenvalues of the Gaudin spectral problem
+associated with algebra ${\cal L}_r$. This result suggests that the generalized
+Gaudin models admit a total separation of variables.
+\\

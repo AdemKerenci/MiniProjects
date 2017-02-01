@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412031
+From: donin@bimacs.cs.biu.ac.il (Donin Joseph)
+Date: Sun, 4 Dec 1994 16:30:45 +0200   (13kb)
+
+Title: Quantum symmetric spaces
+Authors: J. Donin and S. Shnider
+Comments: 16 pp, LaTeX
+Report-no: BI-94-11
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J. Pure Appl. Algebra 100 (1995) 103
+\\
+  Let $G$ be a semisimple Lie group, ${\frak g}$ its Lie algebra. For any
+symmetric space $M$ over $G$ we construct a new (deformed) multiplication in
+the space $A$ of smooth functions on $M$. This multiplication is invariant
+under the action of the Drinfeld--Jimbo quantum group $U_h{\frak g}$ and is
+commutative with respect to an involutive operator $\tilde{S}: A\otimes A \to
+A\otimes A$. Such a multiplication is unique. Let $M$ be a k\"{a}hlerian
+symmetric space with the canonical Poisson structure. Then we construct a
+$U_h{\frak g}$-invariant multiplication in $A$ which depends on two parameters
+and is a quantization of that structure.
+\\

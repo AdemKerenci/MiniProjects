@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412106
+From: Alexander Belopolsky <belopols@ctpa02.mit.edu>
+Date: Mon, 12 Dec 1994 13:48:14 -0500   (207kb)
+
+Title: Effective Tachyonic Potential in Closed String Field Theory
+Authors: Alexander Belopolsky (MIT)
+Comments: 41 pages, LaTeX + psfig macro package, 15 uuencoded tar-compressed
+  postscript figures included
+Report-no: MIT-CTP 2388
+Journal-ref: Nucl. Phys. B448 (1995) 245
+\\
+  We calculate the effective tachyonic potential in closed string field theory
+up to the quartic term in the tree approximation. This involves an elementary
+four-tachyon vertex and a sum over the infinite number of Feynman graphs with
+an intermediate massive state. We show that both the elementary term and the
+sum can be evaluated as integrals of some measure over different regions in the
+moduli space of four-punctured spheres. We show that both elementary and
+effective coupling give negative contributions to the quartic term in the
+tachyon potential. Numerical calculations show that the fourth order term is
+big enough to destroy a local minimum which exists in the third order
+approximation.
+\\

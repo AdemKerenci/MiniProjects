@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402066
+From: SMILGA@physics.spa.umn.edu
+Date: Thu, 10 Feb 1994 17:30:30 CST   (39kb)
+Date (revised): Fri, 18 Mar 1994 12:32:39 CST
+
+Title: Instantons and fermion condensate in adjoint QCD_2
+Authors: A.V.Smilga
+Comments: TPI-MINN-94/6-T. 37 p., 3 fig. Fig.3 and discussion around it are
+  rectified. Bibliography updated
+Journal-ref: Phys.Rev. D49 (1994) 6836-6848
+\\
+  We show that $QCD_2$ with adjoint fermions involves instantons due to
+nontrivial $\pi_1[SU(N)/Z_N]~=~Z_N$. At high temperatures, quasiclassical
+approximation works and the action and the form of effective (with account of
+quantum corrections) instanton solution can be evaluated. Instanton presents a
+localized configuration with the size $\propto g^{-1}$. At $N=2$, it involves
+exactly 2 zero fermion modes and gives rise to fermion condensate
+$<\bar{\lambda}^a \lambda^a>_T$ which falls off $\propto \exp\{-\pi^{3/2}
+T/g\}$ at high $T$ but remains finite.
+  At low temperatures, both instanton and bosonization arguments also exhibit
+the appearance of fermion condensate $<\bar{\lambda}^a \lambda^a>_{T=0} ~\sim
+~g$. For $N>2$, the situation is paradoxical. There are $2(N-1)$ fermion zero
+modes in the instanton background which implies the absence of the condensate
+in the massless limit. From the other hand, bosonization arguments suggest the
+appearance of the condensate for any $N$. Possible ways to resolve this paradox
+(which occurs also in some 4-dim gauge theories) are discussed.
+\\

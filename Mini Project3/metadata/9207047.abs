@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207047
+From: app@cuphyf.phys.columbia.edu (Alexios Polychronakos)
+Date: Tue, 14 Jul 92 11:14:14 EDT   (9kb)
+
+Title: Schrodinger Equation for Particle with Friction
+Authors: Alexios P. Polychronakos and Rodanthy Tzani
+Comments: 11 pages
+Journal-ref: Phys. Lett. B302 (1993) 255-260
+\\
+  A new quantum mechanical wave equation describing a particle with frictional
+forces is derived. It depends on a parameter $\alpha$ whose range is determined
+by the coefficient of friction $\gamma$, that is, $0 \leq \alpha \leq \gamma$.
+For one extreme value of this parameter, $\alpha = 0$, we recover Kostin's
+equation. For the other extreme value, $\alpha = \gamma$, we obtain an equation
+in which friction manifests in "magnetic" type terms. It further exhibits
+breakdown of translational invariance, manifesting through a symmetry breaking
+parameter $\beta$, as well as localized stationary states in the absence of
+external potentials. Other physical properties of this new class of equations
+are also discussed.
+\\

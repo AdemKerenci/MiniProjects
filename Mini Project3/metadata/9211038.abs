@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211038
+From: Emmanuel Guitter <guitter@amoco.saclay.cea.fr>
+Date: 09 Nov 92 16:56:23+0100   (89kb)
+
+Title: Renormalization Theory for Interacting Crumpled Manifolds
+Authors: F. David, B. Duplantier and E. Guitter
+Comments: 126 pages (+ 24 figures not included available upon request),
+  harvmac, SPhT/92/124
+Journal-ref: Nucl.Phys. B394 (1993) 555-664
+\\
+  We consider a continuous model of D-dimensional elastic (polymerized)
+manifold fluctuating in d-dimensional Euclidean space, interacting with a
+single impurity via an attractive or repulsive delta-potential (but without
+self-avoidance interactions). Except for D=1 (the polymer case), this model
+cannot be mapped onto a local field theory. We show that the use of intrinsic
+distance geometry allows for a rigorous construction of the high-temperature
+perturbative expansion and for analytic continuation in the manifold dimension
+D. We study the renormalization properties of the model for 0<D<2, and show
+that for d<d* where d*=2D/(2-D) is the upper critical dimension, the
+perturbative expansion is UV finite, while UV divergences occur as poles at
+d=d*. The standard proof of perturbative renormalizability for local field
+theories (the BPH theorem) does not apply to this model. We prove perturbative
+renormalizability to all orders by constructing a subtraction operator based on
+a generalization of the Zimmermann forests formalism, and which makes the
+theory finite at d=d*. This subtraction operation corresponds to a
+renormalization of the coupling constant of the model (strength of the
+interaction with the impurity). The existence of a Wilson function, of an
+epsilon-expansion around the critical dimension, of scaling laws for d<d* in
+the repulsive case, and of non-trivial critical exponents of the delocalization
+transition for d>d* in the attractive case is thus established. To our
+knowledge, this provides the first proof of renormalizability for a model of
+extended objects, and should be applicable to the study of self-avoidance
+interactions for random manifolds.
+\\

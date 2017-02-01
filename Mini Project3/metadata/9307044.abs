@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307044
+From: yu@bnlls1.nsls.bnl.gov (Li-hua Yu)
+Date: Tue, 6 Jul 93 17:37:05 -0400   (8kb)
+Date (revised): Wed, 14 Jul 93 15:28:10 -0400
+Date (revised): Fri, 6 Aug 93 17:21:50 -0400
+
+Title: Wave Function Evolution of a Dissipative System
+Authors: Li Hua Yu, Chang-Pu Sun
+Comments: 10 pages, BNL-49275
+\\
+  For a dissipative system with Ohmic friction, we obtain a simple and exact
+solution for the wave function of the system plus the bath. It is described by
+the direct product in two independent Hilbert space. One of them is described
+by an effective Hamiltonian, the other represents the effect of the bath, i.e.,
+the Brownian motion, thus clarifying the structure of the wave function of the
+system whose energy is dissipated by its interaction with the bath. No path
+integral technology is needed in this treatment. The derivation of the
+Weisskopf-Wigner line width theory follows easily.
+\\

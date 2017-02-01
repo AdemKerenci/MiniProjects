@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405121
+From: frenkel@math.harvard.edu (Edward Frenkel)
+Date: Wed, 18 May 94 19:30:01 EDT   (23kb)
+Date (revised): Mon, 3 Oct 94 20:28:06 EDT
+
+Title: W_{1+\infty} and W(gl_N) with central charge N
+Authors: E. Frenkel, V. Kac, A. Radul and W. Wang
+Comments: 29 pages, Latex, uses file amssym.def (a few remarks added, typos
+  corrected)
+Journal-ref: Commun.Math.Phys. 170 (1995) 337-358
+\\
+  We study representations of the central extension of the Lie algebra of
+differential operators on the circle, the W-infinity algebra. We obtain
+complete and specialized character formulas for a large class of
+representations, which we call primitive; these include all quasi-finite
+irreducible unitary representations. We show that any primitive representation
+with central charge N has a canonical structure of an irreducible
+representation of the W-algebra W(gl_N) with the same central charge and that
+all irreducible representations of W(gl_N) with central charge N arise in this
+way. We also establish a duality between "integral" modules of W(gl_N) and
+finite-dimensional irreducible modules of gl_N, and conjecture their fusion
+rules.
+\\

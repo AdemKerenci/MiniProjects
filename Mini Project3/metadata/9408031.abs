@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408031
+From: Leonardo Castellani <castella@toxn42.to.infn.it>
+Date: Fri, 5 Aug 94 12:30:06 +0100   (30kb)
+
+Title: Inhomogeneous quantum groups IGL_{q,r}(N): Universal enveloping algebra
+  and differential calculus
+Author: P. Aschieri and L. Castellani
+Comments: 38 pages
+Report-no: DFTT-9/94
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 1019-1056
+\\
+       A  review of the multiparametric linear quantum group
+GL_qr(N), its real forms, its dual algebra U(gl_qr(N)) and its
+bicovariant differential calculus is given in the
+first part of the paper.
+      We then construct the (multiparametric) linear
+inhomogeneous quantum group IGL_qr(N) as a projection from
+GL_qr(N+1), or equivalently, as a quotient of GL_qr(N+1) with
+respect to a suitable Hopf algebra ideal.
+      A bicovariant differential calculus on IGL_qr(N) is explicitly
+obtained as a projection from the one on GL_qr(N+1).
+Our procedure unifies in a single structure the quantum
+plane coordinates and the q-group matrix elements T^a_b,
+and allows to deduce without effort the differential
+calculus on the q-plane IGL_qr(N) / GL_qr(N).
+      The general theory is illustrated on the example of IGL_qr(2).
+\\

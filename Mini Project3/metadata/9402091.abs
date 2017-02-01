@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402091
+From: bongo@ihes.fr (Krzysztof Gawedzki)
+Date: Wed, 16 Feb 94 10:21:55 +0100   (48kb)
+
+Title: SU(2) WZW Theory at Higher Genera
+Authors: Krzysztof Gawedzki
+Comments: 44 pages, IHES/P/94/10, Latex file
+Journal-ref: Commun.Math.Phys. 169 (1995) 329-372
+\\
+  We compute, by free field techniques, the scalar product of the SU(2)
+Chern-Simons states on genus > 1 surfaces. The result is a finite-dimensional
+integral over positions of ``screening charges'' and one complex modular
+parameter. It uses an effective description of the CS states closely related to
+the one worked out by Bertram. The scalar product formula allows to express the
+higher genus partition functions of the WZW conformal field theory by
+finite-dimensional integrals. It should provide the hermitian metric preserved
+by the Knizhnik-Zamolodchikov-Bernard connection describing the variations of
+the CS states under the change of the complex structure of the surface.
+\\

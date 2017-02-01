@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304031
+From: Erik Aurell <eaurell@matematik.su.se>
+Date: Thu, 8 Apr 93 17:23:52 +0200   (31kb)
+
+Title: On Functional Determinants of Laplacians in Polygons and Simplices
+Author: Erik Aurell and Per Salomonson
+Comments: 40 pages
+Subj-class: High Energy Physics - Theory; Differential Geometry
+Journal-ref: Commun.Math.Phys. 165 (1994) 233-260
+\\
+  The functional determinant of an elliptic operator with positive, discrete
+spectrum may be defined as $e^{-Z'(0)}$, where $Z(s)$, the zeta function, is
+the sum $\sum_n^{\infty} \lambda_n^{-s}$ analytically continued to $s$ around
+the origin. In this paper $Z'(0)$ is calculated for the Laplace operator with
+Dirichlet boundary conditions inside polygons and simplices with the topology
+of a disc in the Euclidean plane. The domains we consider are hence piece--wise
+flat with corners on the boundary and in the interior. Our results are
+complementary to earlier investigations of the determinants on smooth surfaces
+with smooth boundaries. We have explicit closed integrated expressions for
+triangles and regular polygons.
+\\

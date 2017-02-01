@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212114
+From: MAREK@taunivm.tau.ac.il
+Date: 18 Dec 92 18:04 IST   (97kb)
+
+Title: Ground State of 2D Quantum Gravity and Spectral Density of Random
+  Matrices
+Authors: Marek Karliner, Alexander Migdal and Boris Rusakov
+Comments: 14 pages (LaTeX) + 4 postscript figures encoded through uufiles.
+  PUPT-1354, TAUP-2013-92
+Journal-ref: Nucl. Phys. B399 (1993) 514
+\\
+  We compute the exact spectral density of random matrices in the ground state
+of the quantum hamiltonian corresponding to the matrix model whose double
+scaling limit describes pure gravity in 2D. We show that the non-perturbative
+effects are very large and in certain cases dominate the semi-classical WKB
+contribution studied in the earlier literature. The physical observables in
+this model are the loop averages with respect to the spectral density. We
+compute their exact ground-state expectation values and show that they differ
+significantly from the values obtained in the WKB approximation. Unlike the
+alternative regularizations of the nonperturbative 2D quantum gravity, based on
+analytic continuation of the Painlev\'e transcendent, our solution shows no
+pathologies.
+\\

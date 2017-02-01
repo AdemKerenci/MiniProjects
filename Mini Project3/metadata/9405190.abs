@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405190
+From: trmorris@surya11.cern.ch (Tim Morris)
+Date: Mon, 30 May 94 17:29:50 +0200   (23kb)
+Date (revised): Wed, 13 Jul 94 16:49:09 +0200
+
+Title: On Truncations of the Exact Renormalization Group
+Authors: Tim R. Morris
+Comments: 15 pages (with figures), Plain TeX, uses psfig, 5 postscript figures
+  appended as uuencoded compressed tar file, SHEP 93/94-23, CERN-TH.7281/94.
+  (Corrections of typos, and small additions to improve readability: version to
+  be published in Phys. Lett. B)
+Journal-ref: Phys.Lett. B334 (1994) 355-362
+\\
+  We investigate the Exact Renormalization Group (ERG) description of ($Z_2$
+invariant) one-component scalar field theory, in the approximation in which all
+momentum dependence is discarded in the effective vertices. In this context we
+show how one can perform a systematic search for non-perturbative continuum
+limits without making any assumption about the form of the lagrangian.
+Concentrating on the non-perturbative three dimensional Wilson fixed point, we
+then show that the sequence of truncations $n=2,3,\dots$, obtained by expanding
+about the field $\varphi=0$ and discarding all powers $\varphi^{2n+2}$ and
+higher, yields solutions that at first converge to the answer obtained without
+truncation, but then cease to further converge beyond a certain point. No
+completely reliable method exists to reject the many spurious solutions that
+are also found. These properties are explained in terms of the analytic
+behaviour of the untruncated solutions -- which we describe in some detail.
+\\

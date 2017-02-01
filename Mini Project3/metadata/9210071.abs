@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210071
+From: John Harnad <harnad@neumann.concordia.ca>
+Date: Tue, 13 Oct 92 16:29:44 EDT   (19kb)
+
+Title: Matrix Nonlinear Schr\"odinger Equations and Moment Maps into Loop
+  Algebras${}^\dag$
+Authors: J. Harnad and M.-. Wisse
+Comments: 17 pgs, plus 4 Tables Preprint CRM-1831
+Journal-ref: J.Math.Phys. 33 (1992) 4164-4176
+\\
+  It is shown how Darboux coordinates on a reduced symplectic vector space may
+be used to parametrize the phase space on which the finite gap solutions of
+matrix nonlinear Schr\"odinger equations are realized as isospectral
+Hamiltonian flows. The parametrization follows from a moment map embedding of
+the symplectic vector space, reduced by suitable group actions, into the dual
+$\tilde\grg^{+*}$ of the algebra $\tilde\grg^+$ of positive frequency loops in
+a Lie algebra $\grg$. The resulting phase space is identified with a Poisson
+subspace of $\tilde\grg^{+*}$ consisting of elements that are rational in the
+loop parameter. Reduced coordinates associated to the various Hermitian
+symmetric Lie algebras $(\grg,\grk)$ corresponding to the classical Lie
+algebras are obtained.
+\\

@@ -1,0 +1,42 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412184
+From: Ramzi Khuri <rrk@hep.physics.mcgill.ca>
+Date: Wed, 21 Dec 1994 20:42:57 -0500 (EST)   (119kb)
+
+Title: String Solitons
+Authors: M. J. Duff, Ramzi R. Khuri and J. X. Lu
+Comments: 150 pages, TeX, submitted to Physics Reports, 3 figures available on
+  request
+Report-no: NI-94-017, CTP/TAMU-67/92, McGill/94/53, CERN-TH.7542/94
+Journal-ref: Phys.Rept. 259 (1995) 213-326
+\\
+  We review the status of solitons in superstring theory, with a view to
+understanding the strong coupling regime. These {\it solitonic} solutions are
+non-singular field configurations which solve the empty-space low-energy field
+equations (generalized, whenever possible, to all orders in $\alpha'$), carry a
+non-vanishing topological "magnetic" charge and are stabilized by a topological
+conservation law. They are compared and contrasted with the {\it elementary}
+solutions which are singular solutions of the field equations with a
+$\sigma$-model source term and carry a non-vanishing Noether "electric" charge.
+In both cases, the solutions of most interest are those which preserve half the
+spacetime supersymmetries and saturate a Bogomol'nyi bound. They typically
+arise as the extreme mass=charge limit of more general two-parameter solutions
+with event horizons. We also describe the theory {\it dual} to the fundamental
+string for which the roles of elementary and soliton solutions are
+interchanged. In ten spacetime dimensions, this dual theory is a superfivebrane
+and this gives rise to a string/fivebrane duality conjecture according to which
+the fivebrane may be regarded as fundamental in its own right, with the
+strongly coupled string corresponding to the weakly coupled fivebrane and
+vice-versa. After compactification to four spacetime dimensions, the fivebrane
+appears as a magnetic monopole or a dual string according as it wraps around
+five or four of the compactified dimensions. This gives rise to a
+four-dimensional string/string duality conjecture which subsumes a
+Montonen-Olive type duality in that the magnetic monopoles of the fundamental
+string correspond to the electric winding states of the dual string. This leads
+to a {\it duality of dualities} whereby under string/string duality the the
+strong/weak coupling $S$-duality trades places with the minimum/maximum length
+$T$-duality. Since these magnetic monopoles are extreme black holes, a
+prediction of $S$-duality is that the corresponding electric massive states of
+the fundamental string are also extreme black holes.
+\\

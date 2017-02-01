@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308018
+From: tseytlin@surya11.cern.ch (Arkady Tseytlin)
+Date: Thu, 5 Aug 93 16:28:15 +0200   (36kb)
+
+Title: Chiral gauged WZNW models and heterotic string backgrounds
+Authors: K.Sfetsos and A.A.Tseytlin
+Comments: 41 pages, harvmac, CERN-TH.6962, USC-93/HEP-S2
+Journal-ref: Nucl.Phys. B415 (1994) 116-154
+\\
+  We construct new heterotic string backgrounds which are analogous to
+superstring solutions corresponding to coset models but are not simply the
+`embeddings'of the latter. They are described by the (1,0) supersymmetric
+extension of the $G/H$ chiral gauged WZNW models. The `chiral gauged' WZNW
+action differs from the standard gauged WZNW action by the absence of the
+$A\bar A$-term (and thus is not gauge invariant in the usual sense) but can
+still be expressed as a combination of WZNW actions and is conformal invariant.
+We explain a close relation between gauged and chiral gauged WZNW models and
+prove that in the case of the abelian $H$ the $G/H$ chiral gauged theory is
+equivalent to a particular $(G\times H)/H$ gauged WZNW theory. In contrast to
+the gauged WZNW model, the chiral gauged one admits a (1,0) supersymmetric
+extension which is consistent at the quantum level. Integrating out the $2d$
+gauge field we determine the exact (in $\alpha'$) form of the couplings of the
+corresponding heterotic sigma model. While in the bosonic (superstring) cases
+all the fields depend (do not depend) non-trivially on $\alpha'$ here the
+metric receives only one $O(\alpha')$ correction while the antisymmetric tensor
+and the dilaton remain semiclassical. As a simplest example, we discuss the
+basic $D=3$ solution which is the heterotic string counterpart of the `black
+string' $SL(2,R) \times R/ R $ background.
+\\

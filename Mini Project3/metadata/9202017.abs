@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202017
+From: Sheldon Katz <katz@math.okstate.edu>
+Date: Wed, 5 Feb 92 12:52:58 EST   (11kb)
+
+Title: Rational Curves on Calabi-Yau Threefolds
+Authors: Sheldon Katz
+Comments: 10 pages. This is a survey talk given at the May 1991 Workshop on
+  Mirror Symmetry at MSRI
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+\\
+  By considering mirror symmetry applied to conformal field theories
+corresponding to strings propagating in quintic hypersurfaces in projective
+4-space, Candelas, de la Ossa, Green and Parkes calculated the ``number of
+rational curves on the hypersurface'' by comparing three point functions.
+Actually, the number of curves may be infinite for special examples; what is
+really being calculated is a path integral. The point of this talk is to give
+mathematical techniques and examples for computing the finite number that
+``should'' correspond to an infinite family of curves (which coincides with
+that given by the path integral in every known instance), and to suggest that
+these techniques should provide the answer to the not yet solved problem of how
+to calculate instanton corrections to the three point function in general.
+\\

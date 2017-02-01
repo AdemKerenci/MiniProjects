@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306145
+From: Maximilian Kreuzer <kreuzer@nxth04.cern.ch>
+Date: Mon, 28 Jun 93 14:33:16 +0200   (27kb)
+
+Title: Simple currents versus orbifolds with discrete torsion -- a complete
+  classification
+Authors: M. Kreuzer and A. N. Schellekens
+Comments: 28 pages
+Report-no: CERN-TH.6912/93 & NIKHEF-H/93-13
+Journal-ref: Nucl.Phys. B411 (1994) 97-121
+\\
+  We give a complete classification of all simple current modular invariants,
+extending previous results for $(\Zbf_p)^k$ to arbitrary centers. We obtain a
+simple explicit formula for the most general case. Using orbifold techniques to
+this end, we find a one-to-one correspondence between simple current invariants
+and subgroups of the center with discrete torsions.  As a by-product, we prove
+the conjectured monodromy independence of the total number of such invariants.
+The orbifold approach works in a straightforward way for symmetries of odd
+order, but some modifications are required to deal with symmetries of even
+order. With these modifications the orbifold construction with discrete torsion
+is complete within the class of simple current invariants. Surprisingly, there
+are cases where discrete torsion is a necessity rather than a possibility.
+\\

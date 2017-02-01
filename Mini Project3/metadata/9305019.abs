@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305019
+From: chekhov@lpthe.jussieu.fr
+Date: Thu, 6 May 1993 15:13:36 +0200 (MET DST)   (33kb)
+
+Title: Matrx Models: a Way to Quantum Moduli Spaces
+Authors: L.Chekhov
+Comments: LaTeX, 33 pages, preprint PAR-LPTHE 22-93
+\\
+  We give the description of discretized moduli spaces (d.m.s.) $\Mcdisc$
+introduced in \cite{Ch1} in terms of a discrete de Rham cohomologies for each
+moduli space $\Mgn$ of a genus $g$, $n$ being the number of punctures. We
+demonstrate that intersection indices (cohomological classes) calculated for
+d.m.s. coincide with the ones for the continuum moduli space $\Mc$ compactified
+by Deligne and Mumford procedure. To show it we use a matrix model technique.
+The Kontsevich matrix model is a generating function for these indices in the
+continuum case, and the matrix model with the potential $N\alpha \tr {\bigl(-
+\fr 12 \L X\L X +\log (1-X)+X\bigr)}$ is the one for d.m.s. In the last case
+the effects of reductions become relevant, but we use the stratification
+procedure in order to express integrals over open spaces $\Mdisc$ in terms of
+intersection indices which are to be calculated on compactified spaces. The
+coincidence of the cohomological classes for both continuum and d.m.s. models
+enables us to propose the existence of a quantum group structure on d.m.s. Then
+d.m.s. are nothing but cyclic (exceptional) representations of a quantum group
+related to a moduli space $\Mc$. Considering the explicit expressions for
+integrals of Chern classes over $\Mc$ and $\Mcdisc$ we conjecture that each
+moduli space $\Mc$ in the Kontsevich parametrization can be presented as a
+coset $\Mc ={\bf T}^d/G$, $d=3g-3+n$, where ${\bf T}^d$ is some
+$d$--dimensional complex torus and $G$ is a finite order symmetry group of
+${\bf T}^d$.
+\\

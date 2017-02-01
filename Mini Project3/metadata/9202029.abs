@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202029
+From: avb@viking.lanl.gov (Alexander V. Balatsky)
+Date: Fri, 7 Feb 92 17:17:50 MST   (24kb)
+
+Title: Spin Singlet Quantum Hall Effect and Nonabelian Landau-Ginzburg Theory
+Authors: Alexander Balatsky (Los Alamos National Laboratory,Theoretical
+  Division and Landau Institute for Theoretical Physics, Moscow, USSR)
+\\
+  In this paper we present a theory of Singlet Quantum Hall Effect (SQHE). We
+show that the Halperin-Haldane SQHE wave function can be written in the form of
+a product of a wave function for charged semions in a magnetic field and a wave
+function for the Chiral Spin Liquid of neutral spin-$\12$ semions. We introduce
+field-theoretic model in which the electron operators are factorized in terms
+of charged spinless semions (holons) and neutral spin-$\12$ semions (spinons).
+Broken time reversal symmetry and short ranged spin correlations lead to
+$SU(2)_{k=1}$ Chern-Simons term in Landau-Ginzburg action for SQHE phase. We
+construct appropriate coherent states for SQHE phase and show the existence of
+$SU(2)$ valued gauge potential. This potential appears as a result of ``spin
+rigidity" of the ground state against any displacements of nodes of wave
+function from positions of the particles and reflects the nontrivial monodromy
+in the presence of these displacements.
+\\

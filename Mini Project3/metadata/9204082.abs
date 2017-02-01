@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9204082
+From: Jean Zinn-Justin <zinn@poseidon.saclay.cea.fr>
+Date: 24 Apr 92 17:27:54+0200   (21kb)
+
+Title: The $O(n)$ model on a random surface: critical points and large order
+  behaviour
+Authors: B. Eynard and J. Zinn-Justin
+Comments: 33 pages
+Journal-ref: Nucl.Phys. B386 (1992) 558-591
+\\
+  In this article we report a preliminary investigation of the large $N$ limit
+of a generalized one-matrix model which represents an $O(n)$ symmetric model on
+a random lattice. The model on a regular lattice is known to be critical only
+for $-2\le n\le 2$. This is the situation we shall discuss also here, using
+steepest descent. We first determine the critical and multicritical points,
+recovering in particular results previously obtained by Kostov. We then
+calculate the scaling behaviour in the critical region when the cosmological
+constant is close to its critical value. Like for the multi-matrix models, all
+critical points can be classified in terms of two relatively prime integers
+$p,q$. In the parametrization $p=(2m+1)q \pm l$, $m,l$ integers such that
+$0<l<q$, the string susceptibility exponent is found to be $\gamma_{\rm
+string}=-2l/(p+q-l)$. When $l=1$ we find that all results agree with those of
+the corresponding $(p,q)$ string models, otherwise they are different.\par We
+finally explain how to derive the large order behaviour of the corresponding
+topological expansion in the double scaling limit.
+\\

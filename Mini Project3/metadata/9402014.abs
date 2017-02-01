@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402014
+From: ellinas@evalvx.ific.uv.es
+Date: 3 Feb 94 12:27:00 WET DST   (10kb)
+
+Title: Discretization of the phase space for a q-deformed harmonic oscillator
+  with q a root of unity
+Authors: D. Bonatsos, C. Daskaloyannis , D. Ellinas and A. Faessler
+Comments: 17 pages, Latex file, FTUV/ 93-53, IFIC/ 93-34
+Journal-ref: Phys.Lett. B331 (1994) 150-156
+\\
+  The ``position'' and ``momentum'' operators for the q-deformed oscillator
+with q being a root of unity are proved to have discrete eigenvalues which are
+roots of deformed Hermite polynomials. The Fourier transform connecting the
+``position'' and ``momentum'' representations is also found
+  The phase space of this oscillator has a lattice structure, which is a
+non-uniformly distributed grid. Non-equidistant lattice structures also occur
+in the cases of the truncated harmonic oscillator and of the q-deformed
+parafermionic oscillator, while the parafermionic oscillator corresponds to a
+uniformly distributed grid.
+\\

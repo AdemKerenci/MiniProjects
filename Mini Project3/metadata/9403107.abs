@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403107
+From: KIRILLOV Anatol <kirillov@ker.c.u-tokyo.ac.jp>
+Date: Fri, 18 Mar 94 19:30:14 +0900   (13kb)
+Date (revised): Wed, 23 Mar 94 18:19:59 +0900
+
+Title: Completeness of Bethe's states for generalized $XXZ$ model
+Authors: Anatol N. Kirillov and Nadejda A. Liskova
+Comments: 20 pages, PlainTEX
+Journal-ref: J.Phys. A30 (1997) 1209-1226
+\\
+  We study the Bethe ansatz equations for a generalized $XXZ$ model on a
+one-dimensional lattice. Assuming the string conjecture we propose an integer
+version for vacancy numbers and prove a combinatorial completeness of Bethe's
+states for a generalized $XXZ$ model. We find an exact form for inverse matrix
+related with vacancy numbers and compute its determinant. This inverse matrix
+has a tridiagonal form, generalizing the Cartan matrix of type $A$.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403140
+From: aizawa@yamada.rcnp.osaka-u.ac.jp (RCNP Naruhiko Aizawa)
+Date: Wed, 23 Mar 94 20:29:22 JST   (9kb)
+
+Title: Isomorphisms between Quantum Group Covariant q-Oscillator Systems
+  Defined for q and 1/q
+Authors: N. Aizawa
+Comments: LaTeX 13pages, RCNP-070
+Journal-ref: J.Phys. A28 (1995) 4553-4564
+\\
+  It is shown that there exists an isomorphism between q-oscillator systems
+covariant under $ SU_q(n) $ and $ SU_{q^{-1}}(n) $. By the isomorphism, the
+defining relations of $ SU_{q^{-1}}(n) $ covariant q-oscillator system are
+transmuted into those of $ SU_q(n) $. It is also shown that the similar
+isomorphism exists for the system of q-oscillators covariant under the quantum
+supergroup $ SU_q(n/m) $. Furthermore the cases of q-deformed Lie
+(super)algebras constructed from covariant q-oscillator systems are considered.
+The isomorphisms between q-deformed Lie (super)algebras can not obtained by the
+direct generalization of the one for covariant q-oscillator systems.
+\\

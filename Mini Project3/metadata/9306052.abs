@@ -1,0 +1,38 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306052
+From: JXLU@crnvma.cern.ch
+Date: Thu, 10 Jun 93 22:00:57 SET   (26kb)
+
+Title: Black and super p-branes in diverse dimensions
+Authors: M. J. Duff and J. X. Lu
+Comments: 42 pages, harvmac, CERN-TH.6675/93, CTP/TAMU-54/92
+Journal-ref: Nucl.Phys. B416 (1994) 301-334
+\\
+  We present a generic Lagrangian, in arbitrary spacetime dimension $D$,
+describing the interaction of a dilaton, a graviton and an antisymmetric tensor
+of arbitrary rank $d$. For each $D$~and~$d$, we find ``solitonic'' black
+$\tilde{p}$-brane solutions where $\tilde{p} = \tilde{d} - 1$~and~ $\tilde d =
+D - d - 2$. These solutions display a spacetime singularity surrounded by an
+event horizon, and are characterized by a mass per unit $\tilde p$-volume,
+${\cal M}_{\tilde{d}}$, and topological ``magnetic'' charge $g_{\tilde{d}}$,
+obeying $\kappa {\cal M}_{\tilde{d}} \geq g_{\tilde{d}}/ \sqrt{2}$. In the
+extreme limit $\kappa {\cal M}_{\tilde{d}}=g_{\tilde{d}}/ \sqrt{2}$, the
+singularity and event horizon coalesce. For specific values of $D$~and~$d$,
+these extreme solutions also exhibit supersymmetry and may be identified with
+previously classified heterotic, Type IIA and Type IIB super $\tilde p$-branes.
+The theory also admits elementary $p$-brane solutions with ``electric'' Noether
+charge $e_d$, obeying the Dirac quantization rule $e_d g_{\tilde{d}} = 2\pi n$,
+$n =$~integer. We also present the Lagrangian describing the theory dual to the
+original theory, whose antisymmetric tensor has rank $\tilde{d}$ and for which
+the roles of topological and elementary solutions are interchanged. The super
+$p$-branes and their duals are mutually non-singular. As special cases of our
+general solution we recover the black $p$-branes of Horowitz and Strominger $(D
+= 10)$, Guven $(D = 11)$ and Gibbons et al $(D = 4)$, the $N = 1$, $N =
+2a$~and~$N = 2b$ super-$p$-branes of Dabholkar et al $(4 \leq D \leq 10)$, Duff
+and Stelle $(D = 11)$, Duff and Lu $(D = 10)$ and Callan, Harvey and Strominger
+$(D = 10)$, and the axionic instanton of Rey $(D = 4)$. In particular, the
+electric/magnetic duality of Gibbons and Perry in $D = 4$ is seen to be a
+consequence of particle/sixbrane duality in $D = 10$. Among the new solutions
+is a self-dual superstring in $D = 6$.
+\\

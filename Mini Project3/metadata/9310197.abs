@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310197
+From: SOLOVIEV@v1.ph.qmw.ac.uk
+Date: Sun, 31 OCT 93 13:49:39 GMT   (9kb)
+
+Title: The WZNW model as an integrable perturbation of the Witten conformal
+  point
+Authors: Oleg A. Soloviev
+Comments: 13 pages, LaTex file, QMW-93-28
+Journal-ref: Phys.Lett. B321 (1994) 365-367
+\\
+  We show that the WZNW model with arbitrary $\sigma$-model coupling constant
+may be viewed as a $\sigma$-model perturbation of the WZNW theory around the
+Witten conformal point. In order for the $\sigma$-model perturbation to be
+relevant, the level $k$ of the underlying affine algebra has to be negative. We
+prove that in the large $|k|$ limit the perturbed WZNW system with negative $k$
+flows to the conformal WZNW model with positive level. The flow appears to be
+integrable due to the existence of conserved currents satisfying the Lax
+equation. This fact is in a favorable agreement with the integrability of the
+WZNW model discovered by Polyakov and Wiegmann within the Bethe ansatz
+technique.
+\\

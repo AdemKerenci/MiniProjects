@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202027
+From: NAGAO@physics.utexas.edu
+Date: Fri, 7 Feb 1992 14:17:29 -0600 (CST)   (11kb)
+
+Title: A Conformal Field Theory for the Quantum Hall Effect
+Authors: G. Nagao
+Comments: 15 pgs
+\\
+  The QHE is studied in the context of a CFT. An effective field of $N$
+``spins" associated with the cyclotron motion of particles is taken as an order
+parameter from which an effective Hamiltonian may be defined. This effective
+Hamiltonian describes the COM motion of the $N$ particles (with coupling
+$\kappa_0$) together with a current-current interaction (of strength
+$\kappa_1$). Such a system gives rise to a CFT in the large $N$ limit when
+$\kappa_0 = \kappa_1$. The Laughlin wavefunction is derived from this CFT as an
+$N'$-point correlation function of winding state vertex operators.
+\\

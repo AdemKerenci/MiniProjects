@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407195
+From: fiore@lswes8.ls-wess.physik.uni-muenchen.de
+Date: Fri, 29 Jul 94 17:59:29 +0200   (47kb)
+Date (revised): Thu, 04 May 95 09:37:27 -0500
+
+Title: The Euclidean Hopf algebra $U_q(e^N)$ and its fundamental Hilbert space
+  representations
+Author: Gaetano Fiore
+Comments: 67 pages, 1 figures.  Revised version: Format changed, typos amended,
+  some citations added
+Report-no: Sissa 53/94/EP, LMU-tpw 94-11, hep-th 9407195
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 36 (1995) 4363-4405
+\\
+  We construct the Euclidean Hopf algebra $U_q(e^N)$ dual of
+$Fun(\rn_q^N\lcross SO_{q^{-1}}(N))$ by realizing it as a subalgebra of the
+differential algebra $\DFR$ on the quantum Euclidean space $\rn_q^N$; in fact,
+we extend our previous realization \cite{fio4} of $U_{q^{-1}}(so(N))$ within
+$\DFR$ through the introduction of q-derivatives as generators of
+q-translations. The fundamental Hilbert space representations of $U_q(e^N)$
+turn out to be of highest weight type and rather simple `` lattice-regularized
+'' versions of the classical ones. The vectors of a basis of the singlet (i.e.
+zero-spin) irrep can be realized as normalizable functions on $\rn_q^N$, going
+to distributions in the limit $q\rightarrow 1$.
+\\

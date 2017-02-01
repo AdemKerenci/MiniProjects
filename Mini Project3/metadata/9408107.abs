@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9408107
+From: Toshiaki Kaneko <kaneko@minami.kek.jp>
+Date: Fri, 19 Aug 94 1:06:52 JST   (40kb)
+Date (revised): Sat, 16 Mar 96 1:15:53 JST
+
+Title: A Feynman-graph generator for any order of coupling constants
+Authors: Toshiaki Kaneko
+Comments: 41 pages, Style file epsf.sty, ftp://ftp.kek.jp/kek/minami/grc
+Report-no: KEK-CP-020, KEK Preprint 94-83, MGU-CS/94-01
+Journal-ref: Comput.Phys.Commun. 92 (1995) 127-152
+\\
+  A computer program has been developed which generates Feynman graphs
+automatically for scattering and decay processes in non-Abelian gauge theory of
+high-energy physics. A new acceleration method is presented for both generating
+and eliminating graphs. This method has been shown to work quite efficiently
+for any order of coupling constants in any kind of theoretical model. A utility
+program is also available for drawing generated graphs. These programs consist
+of the most basic parts of the GRACE system, which is now used to automatically
+calculate tree and one-loop processes.
+\\

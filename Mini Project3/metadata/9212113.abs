@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212113
+From: ASEMIKHA@crnvma.cern.ch
+Date: Fri, 18 Dec 92 15:41:12 +0100   (43kb)
+Date (revised): Tue, 26 Jan 93 10:39:34 +0100
+Date (revised): Fri, 02 Apr 93 15:39:11 SET
+
+Title: Singular Vectors and Topological Theories from Virasoro Constraints via
+  the Kontsevich-Miwa Transform
+Authors: B Gato-Rivera and A M Semikhatov
+Comments: 62p. LaTeX, CERN-TH.6752, IMAFF-92/8, revised (minor corrections,
+  typos) easy-fontversion
+Journal-ref: Nucl.Phys. B408 (1993) 133-179
+\\
+  We use the Kontsevich-Miwa transform to relate the different pictures
+describing matter coupled to topological gravity in two dimensions: topological
+theories, Virasoro constraints on integrable hierarchies, and a DDK-type
+formalism. With the help of the Kontsevich-Miwa transform, we solve the
+Virasoro constraints on the KP hierarchy in terms of minimal models dressed
+with a (free) Liouville-like scalar. The dressing prescription originates in a
+topological (twisted N=2) theory. The Virasoro constraints are thus related to
+essentially the N=2 null state decoupling equations. The N=2 generators are
+constructed out of matter, the `Liouville' scalar, and $c=-2$ ghosts. By a
+`dual' construction involving the reparametrization $c=-26$ ghosts, the DDK
+dressing prescription is reproduced from the N=2 symmetry. As a by-product we
+thus observe that there are two ways to dress arbitrary $d\leq1$ or $d\geq25$
+matter theory, that allow its embedding into a topological theory. By th e
+Kontsevich-Miwa transform, which introduces an infinite set of `time' variables
+$t_r$, the equations ensuring the vanishing of correlators that involve
+BRST-exact primary states, factorize through the Virasoro generators expressed
+in terms of the $t_r$. The background charge of these Virasoro generators is
+determined by the topological central charge.
+\\

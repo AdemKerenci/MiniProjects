@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406149
+From: mike@math.binghamton.edu (Mike Weiner)
+Date: Wed, 22 Jun 94 12:56:28 EDT   (55kb)
+Date (revised): Mon, 27 Jun 94 15:26:05 EDT
+
+Title: Bosonic construction of vertex operator para-algebras from symplectic
+  affine Kac-Moody algebras
+Authors: Michael D. Weiner
+Comments: 103
+\\
+  The representation theory of affine Kac-Moody Lie algebras has grown
+tremendously since their independent introduction by Robert V. Moody and Victor
+G. Kac in 1968. Inspired by mathematical structures found by theoretical
+physicists, and by the desire to understand the ``monstrous moonshine'' of the
+Monster group, the theory of vertex operator algebras (VOA's) was introduced by
+Borcherds, Frenkel, Lepowsky and Meurman. An important subject in this young
+field is the study of modules for VOA's and intertwining operators between
+modules. Feingold, Frenkel and Ries defined a structure, called a vertex
+operator para-algebra(VOPA), where a VOA, its modules and their intertwining
+operators are unified. In this work, for each $l\geq 1$, we begin with the
+bosonic construction (from a Weyl algebra) of four level $-\shf$ irreducible
+representations of the symplectic affine Kac-Moody Lie algebra $C_l^{(1)}$. The
+direct sum of two of these is given the structure of a VOA, and the direct sum
+of the other two is given the structure of a twisted VOA-module. In order to
+define intertwining operators so that the whole structure forms a VOPA, it is
+necessary to separate the four irreducible modules, taking one As the VOA and
+the others as modules for it. This work includes the bosonic analog of the
+fermionic construction of a vertex operator superalgebra from the four level 1
+irreducible modules of type $D_l^{(1)}$ given by Feingold, Frenkel and Ries.
+While they only get a VOPA when $l = 4$ using classical triality, the
+techniques in this work apply to any $l\geq 1$.
+\\

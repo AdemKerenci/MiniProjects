@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401042
+From: MATHPHYS@HUHEPL.HARVARD.EDU
+Date: Tue, 11 Jan 1994 13:48:06 -0500 (EST)   (50kb)
+
+Title: Construction of Field Algebras with Quantum Symmetry from Local
+  Observables
+Authors: Volker Schomerus
+Comments: 50 pages, HUTMP 93-B333
+Journal-ref: Commun.Math.Phys. 169 (1995) 193-236
+\\
+  It has been discussed earlier that ( weak quasi-) quantum groups allow for
+conventional interpretation as internal symmetries in local quantum theory.
+From general arguments and explicit examples their consistency with (braid-)
+statistics and locality was established. This work addresses to the
+reconstruction of quantum symmetries and algebras of field operators. For every
+algebra $\A$ of observables satisfying certain standard assumptions, an
+appropriate quantum symmetry is found. Field operators are obtained which act
+on a positive definite Hilbert space of states and transform covariantly under
+the quantum symmetry. As a substitute for Bose/Fermi (anti-) commutation
+relations, these fields are demonstrated to obey local braid relation.
+\\

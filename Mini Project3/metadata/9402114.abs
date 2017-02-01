@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402114
+From: kreuzer@dxcern.cern.ch (Maximilian Kreuzer)
+Date: Sat, 19 Feb 1994 17:04:49 +0100   (14kb)
+
+Title: The Mirror Map for Invertible LG Models
+Authors: Maximilian Kreuzer
+Comments: 10 pages, latex, CERN-TH.7165/94 and TUW-94/01
+Journal-ref: Phys.Lett. B328 (1994) 312-318
+\\
+  Calculating the (a,c) ring of the maximal phase orbifold for `invertible'
+Landau--Ginzburg models, we show that the Berglund--H"ubsch construction works
+for all potentials of the relevant type. The map that sends a monomial in the
+original model to a twisted state in the orbifold representation of the mirror
+is constructed explicitly. Via this map, the OP selection rules of the chiral
+ring exactly correspond to the twist selection rules for the orbifold. This
+shows that we indeed arrive at the correct point in moduli space, and that the
+mirror map can be extended to arbitrary orbifolds, including non-abelian twists
+and discrete torsion, by modding out the appropriate quantum symmetries.
+\\

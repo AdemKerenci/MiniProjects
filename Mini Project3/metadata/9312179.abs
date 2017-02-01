@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312179
+From: CASTELLANI@to.infn.it (LEONARDO CASTELLANI)
+Date: Wed, 22 Dec 1993 20:13:01 +0100 (WET)   (23kb)
+Date (revised): Thu, 6 Jan 1994 14:39:30 +0100 (WET)
+
+Title: Differential Calculus on Iso_q (N), Quantum Poincare' Algebra and q -
+  Gravity
+Authors: Leonardo Castellani
+Comments: 26 pp., LaTeX. (various misprints corrected; the q-\epsilon tensor in
+  the q-gravity lagrangian is given explicitly)
+Report-no: DFTT-70/93
+Journal-ref: Commun.Math.Phys. 171 (1995) 383-404
+\\
+  We present a general method to deform the inhomogeneous algebras of the
+$B_n,C_n,D_n$ type, and find the corresponding bicovariant differential
+calculus. The method is based on a projection from $B_{n+1}, C_{n+1}, D_{n+1}$.
+For example we obtain the (bicovariant) inhomogeneous $q$-algebra $ISO_q(N)$ as
+a consistent projection of the (bicovariant) $q$-algebra $SO_q(N+2)$. This
+projection works for particular multiparametric deformations of $SO(N+2)$, the
+so-called ``minimal" deformations. The case of $ISO_q(4)$ is studied in detail:
+a real form corresponding to a Lorentz signature exists only for one of the
+minimal deformations, depending on one parameter $q$. The quantum Poincar\'e
+Lie algebra is given explicitly: it has 10 generators (no dilatations) and
+contains the {\sl classical} Lorentz algebra. Only the commutation relations
+involving the momenta depend on $q$. Finally, we discuss a $q$-deformation of
+gravity based on the ``gauging" of this $q$-Poincar\'e algebra: the lagrangian
+generalizes the usual Einstein-Cartan lagrangian.
+\\

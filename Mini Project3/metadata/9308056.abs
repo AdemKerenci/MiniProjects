@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308056
+From: Yao-Zhong Zhang <yzz@maths.uq.oz.au>
+Date: Thu, 12 Aug 93 16:34:42 EST   (8kb)
+Date (revised): Fri, 13 Aug 93 10:21:43 EST
+Date (revised): Mon, 16 Aug 93 10:46:05 EST
+
+Title: Once More about Spectral-Dependent Quantum $R$-Matrix for $U_q(A_2)$
+Author: Anthony J. Bracken, Mark D. Gould and Yao-Zhong Zhang
+Comments: 10 pages (The order of authors is changed and some typos corrected)
+Report-no: UQMATH-93-08
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Bull. Austral. Math. Soc. 51 (1995) 177
+\\
+  The recently obtained results in \cite{ZG2} are used to compute the
+explicitly spectral-dependent $R$-matrix (or the intertwiners) on
+$V_{(6)}(x)\otimes V_{(6)}(y)$ and $V_{(3)}(x)\otimes V_{(6)}(y)$, where
+$V_{(6)}$ and $V_{(3)}$ are the 6-dimensional and fundamental representations
+of $U_q(A_2)$, respectively. It appears that the $R$-matrix on
+$V_{(3)}(x)\otimes V_{(6)}(y)$ depends on $q$ in the different way from what
+one might usually think: $q$ occurs in the $R$-matrix in fractional powers. It
+seems to be the first example in literatures of $R$-matrix with the new
+feature.
+\\

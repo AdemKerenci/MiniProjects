@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209079
+From: turbiner@vxcrna.cern.ch
+Date: Tue, 22 Sep 92 16:39:12 +0200   (12kb)
+
+Title: Lie-algebraic approach to the theory of polynomial solutions. I.
+  Ordinary differential equations and finite-difference equations in one
+  variable
+Authors: Alexander Turbiner
+Comments: 19pp
+Report-no: CPT-92/P.2679
+Subj-class: High Energy Physics - Theory; Algebraic Geometry; Functional
+  Analysis
+\\
+  A classification of ordinary differential equations and finite-difference
+equations in one variable having polynomial solutions (the generalized Bochner
+problem) is given. The method used is based on the spectral problem for a
+polynomial element of the universal enveloping algebra of $sl_2({\bf R})$ (for
+differential equations) or $sl_2({\bf R})_q$ (for finite-difference equations)
+in the "projectivized" representation possessing an invariant subspace.
+Connection to the recently-discovered quasi-exactly-solvable problems is
+discussed.
+\\

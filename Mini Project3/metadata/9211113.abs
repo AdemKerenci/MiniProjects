@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211113
+From: CMH%V1.PH.QMW.AC.UK@ib.rl.ac.uk
+Date: Tue, 24 NOV 92 18:29:09 GMT   (32kb)
+
+Title: W-Gravity
+Authors: C.M. Hull
+Comments: 49 pages, QMW-92-6
+Journal-ref: Commun.Math.Phys. 156 (1993) 245-275
+\\
+  The geometric structure of theories with gauge fields of spins two and higher
+should involve a higher spin generalisation of Riemannian geometry. Such
+geometries are discussed and the case of $W_\infty$-gravity is analysed in
+detail. While the gauge group for gravity in $d$ dimensions is the
+diffeomorphism group of the space-time, the gauge group for a certain
+$W$-gravity theory (which is $W_\infty$-gravity in the case $d=2$) is the group
+of symplectic diffeomorphisms of the cotangent bundle of the space-time. Gauge
+transformations for $W$-gravity gauge fields are given by requiring the
+invariance of a generalised line element. Densities exist and can be
+constructed from the line element (generalising $\sqrt { \det g_{\mu \nu}}$)
+only if $d=1$ or $d=2$, so that only for $d=1,2$ can actions be constructed.
+These two cases and the corresponding $W$-gravity actions are considered in
+detail. In $d=2$, the gauge group is effectively only a subgroup of the
+symplectic diffeomorphism group. Some of the constraints that arise for $d=2$
+are similar to equations arising in the study of self-dual four-dimensional
+geometries and can be analysed using twistor methods, allowing contact to be
+made with other formulations of $W$-gravity. While the twistor transform for
+self-dual spaces with one Killing vector reduces to a Legendre transform, that
+for two Killing vectors gives a generalisation of the Legendre transform.
+\\

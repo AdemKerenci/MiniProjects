@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407023
+From: Damiano Anselmi <anselmi@tsmi19.sissa.it>
+Date: Tue, 05 Jul 1994 13:13:13 +0200   (33kb)
+
+Title: More on the Subtraction Algorithm
+Authors: Damiano Anselmi
+Comments: LaTeX file, 37 pages, preprint SISSA/ISAS 90/94/EP
+Journal-ref: Class.Quant.Grav. 12 (1995) 319-350
+\\
+  We go on in the program of investigating the removal of divergences of a
+generical quantum gauge field theory, in the context of the Batalin-Vilkovisky
+formalism. We extend to open gauge-algebrae a recently formulated algorithm,
+based on redefinitions $\delta\lambda$ of the parameters $\lambda$ of the
+classical Lagrangian and canonical transformations, by generalizing a well-
+known conjecture on the form of the divergent terms. We also show that it is
+possible to reach a complete control on the effects of the subtraction
+algorithm on the space ${\cal M}_{gf}$ of the gauge-fixing parameters. A
+principal fiber bundle ${\cal E}\rightarrow {\cal M}_{gf}$ with a connection
+$\omega_1$ is defined, such that the canonical transformations are gauge
+transformations for $\omega_1$. This provides an intuitive geometrical
+description of the fact the on shell physical amplitudes cannot depend on
+${\cal M}_{gf}$. A geometrical description of the effect of the subtraction
+algorithm on the space ${\cal M}_{ph}$ of the physical parameters $\lambda$ is
+also proposed. At the end, the full subtraction algorithm can be described as a
+series of diffeomorphisms on ${\cal M}_{ph}$, orthogonal to ${\cal M}_{gf}$
+(under which the action transforms as a scalar), and gauge transformations on
+${\cal E}$. In this geometrical context, a suitable concept of predictivity is
+formulated. We give some examples of (unphysical) toy models that satisfy this
+requirement, though being neither power counting renormalizable, nor finite.
+\\

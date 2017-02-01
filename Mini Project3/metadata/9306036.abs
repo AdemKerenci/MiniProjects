@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306036
+From: rbz@pell.anu.edu.au (Ruibin Zhang)
+Date: Mon, 7 Jun 93 15:12:34 EST   (17kb)
+
+Title: Finite dimensional representations of $U_q(C(n+1))$ at arbitrary $q$
+Author: R. B. Zhang
+Comments: 21 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Phys. A26 (1993) 7041-7060
+\\
+  A method is developed to construct irreducible representations(irreps) of the
+quantum supergroup $U_q(C(n+1))$ in a systematic fashion. It is shown that
+every finite dimensional irrep of this quantum supergroup at generic $q$ is a
+deformation of a finite dimensional irrep of its underlying Lie superalgebra
+$C(n+1)$, and is essentially uniquely characterized by a highest weight. The
+character of the irrep is given. When $q$ is a root of unity, all irreps of
+$U_q(C(n+1))$ are finite dimensional; multiply atypical highest weight irreps
+and (semi)cyclic irreps also exist. As examples, all the highest weight and
+(semi)cyclic irreps of $U_q(C(2))$ are thoroughly studied.
+\\

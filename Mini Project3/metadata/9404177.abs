@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404177
+From: chalmers@physics.ucla.edu (Chalmers)
+Date: Thu, 28 Apr 94 21:13:42 PDT   (36kb)
+
+Title: Extended BPH Renormalization of Cutoff Scalar Field Theories
+Authors: Gordon Chalmers
+Comments: 24 pages, and 4 pp figures, UCLA/93/TEP/45
+Journal-ref: Phys.Rev. D53 (1996) 7143-7156
+\\
+  We show that general cutoff scalar field theories in four dimensions are
+perturbatively renormalizable through the use of diagrammatic techniques and an
+adapted BPH renormalization method. Weinberg's convergence theorem is used to
+show that operators in the Lagrangian with dimension greater than four, which
+are divided by powers of the cutoff, produce perturbatively only local
+divergences in the two-, three-, and four-point correlation functions. We also
+show that the renormalized Green's functions are the same as in ordinary
+$\Phi^4$ theory up to corrections suppressed by inverse powers of the cutoff.
+These conclusions are consistent with those of existing proofs based on the
+renormalization group.
+\\

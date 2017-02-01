@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403129
+From: mbecker@nxth04.cern.ch
+Date: Tue, 22 Mar 94 15:09:18 +0100   (152kb)
+
+Title: Non-Perturbative Approach to 2D-Supergravity and Super-Virasoro
+  Constraints
+Authors: Melanie Becker
+Comments: PhD. Thesis, 120p, phyzzx, CERN-TH.7173/94, ps figures
+\\
+  The coupling of $N=1$ SCFT of type $(4m,2)$ to two-dimensional supergravity
+can be formulated non-perturbatively in terms of a discrete super-eigenvalue
+model proposed by Alvarez-Gaum\'e, et al. We derive the superloop equations
+that describe, in the double scaling limit, the non-perturbative solution of
+this model. These equations are equivalent to the double scaled super-Virasoro
+constraints satisfied by the partition function. They are formulated in terms
+of a $\widehat c=1$ theory, with a $\IZ_2$-twisted scalar field and a
+Weyl-Majorana fermion in the Ramond sector. We have solved the superloop
+equations to all orders in the genus expansion and obtained the explicit
+expressions for the correlation functions of gravitationally dressed scaling
+operators in the NS- and R-sector. In the double scaling limit, we obtain a
+formulation of the model in terms of a new supersymmetric extension of the KdV
+hierarchy.
+\\

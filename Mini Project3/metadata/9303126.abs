@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303126
+From: ELI%EBUBECM1.BITNET@FRMOP11.CNUSC.FR
+Date: Tue, 23 Mar 93 15:53:45 BCN   (21kb)
+
+Title: Mellin Transform Techniques for Zeta-Function Resummations
+Authors: E. Elizalde, S. Leseduarte and S. Zerbini
+Comments: 26 pages, LaTeX file, UB-ECM-PF 92/7
+\\
+  Making use of inverse Mellin transform techniques for analytical
+continuation, an elegant proof and an extension of the zeta function
+regularization theorem is obtained. No series commutations are involved in the
+procedure; nevertheless the result is naturally split into the same three
+contributions of very different nature, i.e. the series of Riemann zeta
+functions and the power and negative exponentially behaved functions,
+respectively, well known from the original proof. The new theorem deals equally
+well with elliptic differential operators whose spectrum is not explicitly
+known. Rigorous results on the asymptoticity of the outcoming series are given,
+together with some specific examples. Exact analytical formulas, simplifying
+approximations and numerical estimates for the last of the three contributions
+(the most difficult to handle) are obtained. As an application of the method,
+the summation of the series which appear in the analytic computation (for
+different ranges of temperature) of the partition function of the string
+---basic in order to ascertain if QCD is some limit of a string theory--- is
+PERFORMED.
+\\

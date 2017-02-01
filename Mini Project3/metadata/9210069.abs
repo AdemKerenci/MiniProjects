@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210069
+From: mickelss@sun1.ruf.uni-freiburg.de (Jouko Mickelsson)
+Date: Tue, 13 Oct 92 14:24:31 MET   (11kb)
+
+Title: Hilbert space cocycles as representations of $(3+1)-$ D current algebras
+Authors: Jouko Mickelsson
+Comments: This is an AMSTEX file, 10 pages. It was written using
+Journal-ref: Lett. Math. Phys. 28 (1993) 97-106
+\\
+  It is proposed that instead of normal representations one should look at
+cocycles of group extensions valued in certain groups of unitary operators
+acting in a Hilbert space (e.g the Fock space of chiral fermions), when dealing
+with groups associated to current algebras in gauge theories in $3+1$
+space-time dimensions. The appropriate cocycle is evaluated in the case of the
+group of smooth maps from the physical three-space to a compact Lie group. The
+cocyclic representation of a component $X$ of the current is obtained through
+two regularizations, 1) a conjugation by a background potential dependent
+unitary operator $h_A,$ 2) by a subtraction $-h_A^{-1}\Cal L_X h_A,$ where
+$\Cal L_X$ is a derivative along a gauge orbit. It is only the total operator
+$h_A^{-1} Xh_A-h_A^{-1}\Cal L_X h_A$ which is quantizable in the Fock space
+using the usual normal ordering subtraction.
+\\

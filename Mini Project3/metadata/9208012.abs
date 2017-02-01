@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9208012
+From: weiss@physics.ubc.ca
+Date: 4 Aug 92 7:58 +0100   (38kb)
+
+Title: Area Law and Continuum Limit in "Induced QCD"
+Authors: I.I. Kogan, A. Morozov, G.W. Semenoff and N. Weiss
+Comments: 38 pages
+Report-no: UBCTP 92-26, ITEP M6/92
+Journal-ref: Nucl.Phys. B395 (1993) 547-580
+\\
+  We investigate a class of operators with non-vanishing averages in a
+D-dimensional matrix model recently proposed by Kazakov and Migdal. Among the
+operators considered are ``filled Wilson loops" which are the most reasonable
+counterparts of Wilson loops in the conventional Wilson formulation of lattice
+QCD. The averages of interest are represented as partition functions of certain
+2-dimensional statistical systems with nearest neighbor interactions. The
+``string tension" $\alpha'$, which is the exponent in the area law for the
+``filled Wilson loop" is equal to the free energy density of the corresponding
+statistical system. The continuum limit of the Kazakov--Migdal model
+corresponds to the critical point of this statistical system. We argue that in
+the large $N$ limit this critical point occurs at zero temperature. In this
+case we express $\alpha'$ in terms of the distribution density of eigenvalues
+of the matrix-valued master field. We show that the properties of the continuum
+limit and the description of how this limit is approached is very unusual and
+differs drastically from what occurs in both the Wilson theory ($S\propto({\rm
+Tr}\prod U +{\rm c.c.})$) and in the ``adjoint'' theory ($S\propto\vert{\rm
+Tr}\prod U\vert^2$). Instead, the continuum limit of the model appears to be
+intriguingly similar to a $c>1$ string theory.
+\\

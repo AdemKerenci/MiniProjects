@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305037
+From: Philippe Di Francesco <philippe@amoco.saclay.cea.fr>
+Date: Mon, 10 May 1993 05:19:30 +0000   (19kb)
+
+Title: Ramond Sector Characters and N=2 Landau-Ginzburg Models
+Authors: P. Di Francesco and S. Yankielowicz
+Comments: 25p , uses harvmac (b), Saclay preprint SPhT 93/049 and Tel-Aviv
+  University preprint TAUP 2047-93
+Journal-ref: Nucl.Phys. B409 (1993) 186-210
+\\
+  We give a direct proof of the new "product" expression for the Ramond sector
+characters of N=2 minimal models recently suggested by E. Witten. Our
+construction allows us to generalize these expressions to the D and E series of
+N=2 minimal models, as well as to other N=2 Kazama--Suzuki coset models such as
+$SU(N)\times SO(2(N-1))/SU(N-1)\times U(1)$. We verify that these expressions
+indeed coincide with the corresponding Landau--Ginzburg "elliptic genus", a
+certain topologically invariant twisted path integral with the effective
+Landau--Ginzburg action, which we obtain by using Witten's method. We indicate
+how our approach may be used to construct (or rule out) possible
+Landau--Ginzburg potentials for describing other N=2 superconformal theories.
+\\

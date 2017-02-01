@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209063
+From: TEMPLE@vax2.concordia.ca
+Date: Thu, 17 Sep 1992 13:17 EDT   (15kb)
+
+Title: Differential cross-sections and escape plots for low energy $SU(2)$ BPS
+  magnetic monopole dynamics
+Authors: M. Temple-Raston and D. Alexander
+Comments: 21 pages, TeX (3 figs., 1 Table, and 2 colour plates available upon
+  request), Con-92-3
+Journal-ref: Nucl.Phys. B397 (1993) 195-213
+\\
+  We compute the low-energy classical differential scattering cross-section for
+BPS $SU(2)$ magnetic monopoles using the geodesic approximation to the actual
+dynamics and 16K parallel processors on a CM2. Numerical experiments suggest
+that the quantum BPS magnetic monopole differential cross-section is
+well-approximated by the classical BPS magnetic monopole differential
+cross-section. In particular, the expected quantum interference effects for
+bosons at scattering angle $\theta=\pi/2$ (CoM frame) are contradicted
+numerically. We argue that this is due to the topology of the classical
+configuration space for these solitons. We also study the scattering and
+bounded classical motions of BPS dyons and their global structure in phase
+space by constructing `escape plots'. The escape plots contain a surprising
+amount of structure, and suggest that the classical dynamics of two BPS $SU(2)$
+magnetic monopoles is chaotic and that there are closed and bounded two dyon
+motions with isolated energies.
+\\

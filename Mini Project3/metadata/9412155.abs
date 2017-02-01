@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412155
+From: volovich@vax.mat.utovrm.it
+Date: Sun, 18 Dec 1994 16:49:33 +0100   (14kb)
+
+Title: Anisotropic Asymptotics and High Energy Scattering
+Authors: I.Ya.Aref'eva and I.V.Volovich
+Comments: 16 pages, LATEX, 3 figures, Invited talk at the Conference Quarks 94,
+  Vladimir, May, 1994
+Report-no: SMI-15-94
+\\
+  Recently E.Verlinde and H.Verlinde have suggested an effective
+two-dimensional theory describing the high-energy scattering in QCD. In this
+report we attempt to clarify some issues of this suggestion. We consider {\it
+anisotropic asymptotics} of correlation functions for scalar and gauge theories
+in four dimensions. Anisotropic asymptotics describe behaviour of correlation
+functions when some components of coordinates are large as compare with others
+components. It is occurred that (2+2) anisotropic asymptotics for 4-points
+functions are related with the well known Regge regime of scattering
+amplitudes. We study an expansion of correlation functions with respect to the
+rescaling parameter $\lambda$ over a part of variables (anisotropic
+$\lambda$-expansion). An effective theory describing the anisotropic limit of
+free scalar field contains two 2 dim conformal theories. One of them is a
+conformal theory in configuration space and another one is a conformal theory
+in momentum space. In some special cases ,in particular for the Wilson line
+correlators in gauge theories, the leading term of the anisotropic expansion
+involves only one of the conformal theories and it can be described by an
+effective theory with an action being a dimensional reduction of the original
+action.
+\\

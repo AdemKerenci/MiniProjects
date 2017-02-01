@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9402138
+From: dannyb@phys.uva.nl (Danny Birmingham)
+Date: Thu, 24 Feb 1994 15:30:54 +0100   (12kb)
+
+Title: On Dijkgraaf-Witten Type Invariants
+Author: Danny Birmingham and Mark Rakowski
+Comments: 18 pages
+Report-no: ITFA-94-07
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Lett.Math.Phys. 37 (1996) 363-374
+\\
+  We explicitly construct a series of lattice models based upon the gauge group
+$Z_{p}$ which have the property of subdivision invariance, when the coupling
+parameter is quantized and the field configurations are restricted to satisfy a
+type of mod-$p$ flatness condition. The simplest model of this type yields the
+Dijkgraaf-Witten invariant of a $3$-manifold and is based upon a single link,
+or $1$-simplex, field. Depending upon the manifold's dimension, other models
+may have more than one species of field variable, and these may be based on
+higher dimensional simplices.
+\\

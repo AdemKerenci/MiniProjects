@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404129
+From: <ISAR%ROIFA.BITNET@PUCC.PRINCETON.EDU>
+Date: Thu, 21 Apr 1994 09:24 +0200   (8kb)
+
+Title: Wigner distribution function and entropy of the damped harmonic
+  oscillator within the theory of open quantum systems
+Authors: Aurelian Isar
+Comments: 8 pages, Latex (Contribution to the Second Workshop on Harmonic
+  Oscillators, Cocoyoc, Mexico, March 23-25, 1994)
+\\
+  The harmonic oscillator with dissipation is studied within the framework of
+the Lindblad theory for open quantum systems. By using the Wang-Uhlenbeck
+method, the Fokker-Planck equation, obtained from the master equation for the
+density operator, is solved for the Wigner distribution function, subject to
+either the Gaussian type or the $\delta$-function type of initial conditions.
+The obtained Wigner functions are two-dimensional Gaussians with different
+widths. Then a closed expression for the density operator is extracted. The
+entropy of the system is subsequently calculated and its temporal behaviour
+shows that this quantity relaxes to its equilibrium value.
+\\

@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312067
+From: abbas@iopb.ernet.in
+Date: Wed Dec  8 17:09:13 1993   (3kb)
+
+Title: Comment on 'Anyon in External Elecromagnetic Field: Hamiltonian and
+  Lagrangian Formulation'
+Authors: Abbas Ali and Avinash Khare
+Comments: Phys.Rev.Lett71(1993)3405. 3pages, LaTeX, IP/BBSR/93-82
+\\
+  We point out that in a recent paper by Chaichian et al. (Phys.
+Rev.Lett71(1993)3405) Dirac quantization procedure is not properly followed as
+a result of which the resulting quantum theory is different from what one will
+get by a straightforward application of Dirac's formulation. For example at
+quantum level the model in I has noncommutative geometry, i.e., $[x_\mu, x_\nu]
+\neq 0$ while a correct treatment would give $[x_\mu, x_\nu] = 0$. Moreover,
+their assertion about $\alpha$ being an arbitrary constant in $S_\mu = -\alpha
+p_\mu /{\sqrt{p^2}} $ is not correct and consequently one can not say whether
+the model describes anyons.
+\\

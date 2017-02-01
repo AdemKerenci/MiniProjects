@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304078
+From: PARANJ@LPS.UMONTREAL.CA
+Date: Mon, 19 Apr 1993 12:26:34 -0400 (EDT)   (20kb)
+Date (revised): Mon, 26 Apr 1993 17:40:03 -0400 (EDT)
+
+Title: Violations of the String Hypothesis in the Solutions of the Bethe Ansatz
+  Equations in the XXX-Heisenberg
+Authors: K. Isler and M. B. Paranjape
+Comments: 18 pages. revised to amplify credit, in plain tex with macropackage
+  psbox (available from the net)
+Report-no: UdeM-LPS-TH-93-144
+Journal-ref: Phys.Lett. B319 (1993) 209-214
+\\
+  We study the equations for the quasi-momenta which characterize the
+wave-functions in the Bethe ansatz for the XXX-Heisenberg model. We show in a
+simple analytical fashion, that the usual ``string hypothesis" incorrectly
+predicts the number of real solutions and the number of complex solutions for
+$N>21$ in the sector with two spins flipped, confirming the work of Essler et
+al. Two complex pair solutions drop out and form two additional real pair
+solutions. We also introduce a new set of variables which allows the equations
+to be written as a single polynomial equation in one variable. We consider in
+some detail the case of three spins flipped.
+\\

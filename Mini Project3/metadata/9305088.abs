@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305088
+From: Nicholas Landsman <N.P.Landsman@damtp.cambridge.ac.uk>
+Date: Wed, 19 May 93 16:47 BST   (38kb)
+
+Title: Rieffel induction as generalized quantum Marsden-Weinstein reduction
+Author: N. P. Landsman
+Comments: 23 pages
+Subj-class: High Energy Physics - Theory; Mathematical Physics; Operator
+  Algebras
+\\
+  A new approach to the quantization of constrained or otherwise reduced
+classical mechanical systems is proposed. On the classical side, the
+generalized symplectic reduction procedure of Mikami and Weinstein, as further
+extended by Xu in connection with symplectic equivalence bimodules and Morita
+equivalence of Poisson manifolds, is rewritten so as to avoid the use of
+symplectic groupoids, whose quantum analogue is unknown. A theorem on
+symplectic reduction in stages is given. This allows one to discern that the
+`quantization' of the generalized moment map consists of an operator-valued
+inner product on a (pre-) Hilbert space (that is, a structure similar to a
+Hilbert $C^*$-module). Hence Rieffel's far-reaching operator-algebraic
+generalization of the notion of an induced representation is seen to be the
+exact quantum counterpart of the classical idea of symplectic reduction, with
+imprimitivity bimodules and strong Morita equivalence of $C^*$-algebras falling
+in the right place. Various examples involving groups as well as groupoids are
+given, and known difficulties with both Dirac and BRST quantization are seen to
+be absent in our approach.
+\\

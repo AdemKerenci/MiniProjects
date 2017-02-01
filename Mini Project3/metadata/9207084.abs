@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207084
+From: CASTELLANI@torino.infn.it
+Date: Sun, 26 JUL 92 10:59 GMT   (32kb)
+
+Title: An introduction to non-commutative differential geometry on quantum
+  groups
+Author: P. Aschieri and L. Castellani
+Comments: 45 pages
+Report-no: CERN-TH.6565/92; DFTT-22/92
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 1667-1706
+\\
+  We give a pedagogical introduction to the differential calculus on quantum
+groups by stressing at all stages the connection with the classical case ($q
+\rightarrow 1$ limit). The Lie derivative and the contraction operator on forms
+and tensor fields are found. A new, explicit form of the Cartan--Maurer
+equations is presented. The example of a bicovariant differential calculus on
+the quantum group $GL_q(2)$ is given in detail. The softening of a quantum
+group is considered, and we introduce $q$-curvatures satisfying q-Bianchi
+identities, a basic ingredient for the construction of $q$-gravity and
+$q$-gauge theories.
+\\

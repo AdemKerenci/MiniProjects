@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309018
+From: dorey@mcrg.lanl.gov (Nick Dorey)
+Date: Thu, 2 Sep 93 17:32:40 MDT   (25kb)
+
+Title: Soliton quantization and internal symmetry
+Authors: Nicholas Dorey, James Hughes and Michael P. Mattis
+Comments: 23 pages, LA-UR-93-2994
+Journal-ref: Phys.Rev. D49 (1994) 3598-3611
+\\
+  We apply the method of collective coordinate quantization to a model of
+solitons in two spacetime dimensions with a global $U(1)$ symmetry. In
+particular we consider the dynamics of the charged states associated with
+rotational excitations of the soliton in the internal space and their
+interactions with the quanta of the background field (mesons). By solving a
+system of coupled saddle-point equations we effectively sum all tree-graphs
+contributing to the one-point Green's function of the meson field in the
+background of a rotating soliton. We find that the resulting one-point function
+evaluated between soliton states of definite $U(1)$ charge exhibits a pole on
+the meson mass shell and we extract the corresponding S-matrix element for the
+decay of an excited state via the emission of a single meson using the standard
+LSZ reduction formula. This S-matrix element has a natural interpretation in
+terms of an effective Lagrangian for the charged soliton states with an
+explicit Yukawa coupling to the meson field. We calculate the leading-order
+semi-classical decay width of the excited soliton states discuss the
+consequences of these results for the hadronic decay of the $\Delta$ resonance
+in the Skyrme model.
+\\

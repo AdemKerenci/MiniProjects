@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302048
+From: skyang@ph.tsukuba.ac.jp (Sung-Kil Yang)
+Date: Fri, 12 Feb 93 19:13:40 JST   (7kb)
+
+Title: Topological Strings, Flat Coordinates and Gravitational Descendants
+Authors: T. Eguchi, H. Kanno, Y. Yamada and S.-K. Yang
+Comments: 11 pages, phyzzx, UT-630
+Journal-ref: Phys.Lett. B305 (1993) 235-241
+\\
+  We discuss physical spectra and correlation functions of topological minimal
+models coupled to topological gravity. We first study the BRST formalism of
+these theories and show that their BRST operator $Q=Q_s+Q_v$ can be brought to
+$Q_s$ by a certain homotopy operator $U$, $UQU^{-1}=Q_s$ ($Q_s$ and $Q_v$ are
+the $N=2$ and diffeomorphism BRST operators, respectively). The
+reparametrization (anti)-ghost $b$ mixes with the supercharge operator $G$
+under this transformation. Existence of this transformation enables us to use
+matter fields to represent cohomology classes of the operator $Q$. We
+explicitly construct gravitational descendants and show that they generate the
+higher-order KdV flows. We also evaluate genus-zero correlation functions and
+rederive basic recursion relations of two-dimensional topological gravity.
+\\

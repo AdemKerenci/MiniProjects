@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311060
+From: boettche@aeg.phy.bnl.gov (Stefan Boettcher)
+Date: Wed, 10 Nov 93 09:25:05 EST   (13kb)
+
+Title: Dimensional Expansion for the Ising Limit of Quantum Field Theory
+Authors: Carl M. Bender and Stefan Boettcher
+Comments: 8 pages, 2 figures, plain TEX
+Journal-ref: Phys.Rev. D48 (1993) 4919-4923
+\\
+  A recently-proposed technique, called the dimensional expansion, uses the
+space-time dimension $D$ as an expansion parameter to extract nonperturbative
+results in quantum field theory. Here we apply dimensional-expansion methods to
+examine the Ising limit of a self-interacting scalar field theory. We compute
+the first few coefficients in the dimensional expansion for $\gamma_{2n}$, the
+renormalized $2n$-point Green's function at zero momentum, for $n\!=\!2$, 3, 4,
+and 5. Because the exact results for $\gamma_{2n}$ are known at $D\!=\!1$ we
+can compare the predictions of the dimensional expansion at this value of $D$.
+We find typical errors of less than $5\%$. The radius of convergence of the
+dimensional expansion for $\gamma_{2n}$ appears to be ${{2n}\over {n-1}}$. As a
+function of the space-time dimension $D$, $\gamma_{2n}$ appears to rise
+monotonically with increasing $D$ and we conjecture that it becomes infinite at
+$D\!=\!{{2n}\over {n-1}}$. We presume that for values of $D$ greater than this
+critical value, $\gamma_{2n}$ vanishes identically because the corresponding
+$\phi^{2n}$ scalar quantum field theory is free for $D\!>\!{{2n}\over{n-1}}$.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306117
+From: ereidell@marie.mit.edu (Evan Reidell)
+Date: Tue, 22 Jun 1993 14:17:58 -0400   (19kb)
+
+Title: Differential Regularization of a Non-relativistic Anyon Model
+Authors: D. Z. Freedman, G. Lozano and N. Rius
+Comments: 22 pages in ReVTEX (with a plaintext PostScript figure appended at
+  end), MIT CTP #2216
+Journal-ref: Phys.Rev. D49 (1994) 1054-1066
+\\
+  Differential regularization is applied to a field theory of a
+non-relativistic charged boson field $\phi$ with $\lambda (\phi {}^{*} \phi)^2$
+self-interaction and coupling to a statistics-changing $U(1)$ Chern-Simons
+gauge field. Renormalized configuration-space amplitudes for all diagrams
+contributing to the $\phi {}^{*} \phi {}^{*} \phi \phi$ 4-point function, which
+is the only primitively divergent Green's function, are obtained up to 3-loop
+order. The renormalization group equations are explicitly checked, and the
+scheme dependence of the $\beta$-function is investigated. If the
+renormalization scheme is fixed to agree with a previous 1-loop calculation,
+the 2- and 3-loop contributions to $\beta(\lambda,e)$ vanish, and
+$\beta(\lambda,e)$ itself vanishes when the ``self-dual'' condition relating
+$\lambda$ to the gauge coupling $e$ is imposed.
+\\

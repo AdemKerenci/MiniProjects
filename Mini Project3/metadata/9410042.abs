@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410042
+From: Chong Ming Yung <Ming.Yung@maths.anu.edu.au>
+Date: Mon, 10 Oct 94 9:26:39 EST   (35kb)
+Date (revised): Mon, 10 Oct 94 10:06:14 EST
+Date (revised): Fri, 18 Nov 94 14:21:28 EST
+
+Title: Integrable vertex and loop models on the square lattice with open
+  boundaries via reflection matrices
+Authors: C. M. Yung and M. T. Batchelor
+Comments: 35 pages, LaTeX with PostScript figures; minor corrections, version
+  to appear in Nucl. Phys. B
+Report-no: MRR042-94
+Journal-ref: Nucl.Phys. B435 (1995) 430-462
+\\
+  The procedure for obtaining integrable vertex models via reflection matrices
+on the square lattice with open boundaries is reviewed and explicitly carried
+out for a number of two- and three-state vertex models. These models include
+the six-vertex model, the 15-vertex $A_2^{(1)}$ model and the 19-vertex models
+of Izergin-Korepin and Zamolodchikov-Fateev. In each case the eigenspectra is
+determined by application of either the algebraic or the analytic Bethe ansatz
+with inhomeogeneities. With suitable choices of reflection matrices, these
+vertex models can be associated with integrable loop models on the same
+lattice. In general, the required choices {\em do not} coincide with those
+which lead to quantum group-invariant spin chains. The exact solution of the
+integrable loop models -- including an $O(n)$ model on the square lattice with
+open boundaries -- is of relevance to the surface critical behaviour of
+two-dimensional polymers.
+\\

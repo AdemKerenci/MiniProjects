@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307166
+From: fendley@BUCRF17.BU.EDU (Paul Fendley)
+Date: Tue, 27 Jul 93 10:50:17 -0400   (21kb)
+
+Title: Exact N=2 Landau-Ginzburg Flows
+Authors: Paul Fendley and Ken Intriligator
+Comments: 24 pages, BUHEP-93-17, RU-93-29
+Journal-ref: Nucl.Phys. B413 (1994) 653-674
+\\
+  We find exactly solvable N=2-supersymmetric flows whose infrared fixed points
+are the N=2 minimal models. The exact S-matrices and the Casimir energy (a
+c-function) are determined along the entire renormalization group trajectory.
+The c-function runs from c=3 (asymptotically) in the UV to the N=2 minimal
+model values of the central charge in the IR, leading us to interpret these
+theories as the Landau-Ginzburg models with superpotential $X^{k+2}$.
+Consideration of the elliptic genus gives further support for this
+interpretation. We also find an integrable model in this hierarchy which has
+spontaneously-broken supersymmetry and superpotential $X$, and a series of
+integrable models with (0,2) supersymmetry. The flows exhibit interesting
+behavior in the UV, including a relation to the N=2 super sine-Gordon model. We
+speculate about the relation between the kinetic term and the cigar
+target-space metric.
+\\

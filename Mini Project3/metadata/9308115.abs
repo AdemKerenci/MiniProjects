@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308115
+From: edwin langmann <langmann@physics.ubc.ca>
+Date: 24 Aug 93 19:00 -0700   (14kb)
+
+Title: Consistent axial--like gauge fixing on hypertori
+Authors: Edwin Langmann, Manfred Salmhofer and Alex Kovner
+Comments: 12 pages, UBCTP 93-13, LA-UR-93-2991
+Journal-ref: Mod. Phys. Lett. A9 (1994) 2913-2926
+\\
+  We analyze the Gribov problem for $\SU(N)$ and $\U(N)$ Yang-Mills fields on
+$d$-dimensional tori, $d=2,3,\ldots$. We give an improved version of the axial
+gauge condition and find an infinite, discrete group
+$\cG'=\Z^{dr}\rtimes({\Z_2}^{N-1}\rtimes\Z_2)$, where $r=N-1$ for $\GG=\SU(N)$
+and $r=N$ for $\GG=\U(N)$, containing all gauge transformations compatible with
+that condition. This residual gauge group $\cG'$ provides (generically) all
+Gribov copies and allows to explicitly determine the space of gauge orbits
+which is an orbifold. Our results apply to Yang-Mills gauge theories either in
+the Lagrangian approach on $d$-dimensional space-time $T^d$, or in the
+Hamiltonian approach on $(d+1)$-dimensional space-time $T^d\times \R$. Using
+the latter, we argue that our results imply a non-trivial structure of all
+physical states in any Yang-Mills theory, especially if also matter fields are
+present.
+\\

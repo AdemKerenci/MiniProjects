@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412108
+From: Peter Bouwknegt <bouwkneg@physics1.usc.edu>
+Date: Mon, 12 Dec 1994 13:00:19 -0800   (16kb)
+Date (revised): Tue, 28 Mar 1995 12:51:20 -0800
+
+Title: Spinon basis for higher level SU(2) WZW models
+Authors: Peter Bouwknegt, Andreas Ludwig and Kareljan Schoutens
+Comments: 10 pages, plain TeX (with AMS-fonts option). Introduction expanded,
+  evidence for proposed spinon basis further clarified and some references
+  added
+Report-no: USC-94/20, UCSB-TH-94, PUPT-1522
+Journal-ref: Phys.Lett. B359 (1995) 304
+\\
+  We propose a spinon basis for the integrable highest weight modules of
+$\hsltw$ at levels $k\geq1$, and discuss the underlying Yangian symmetry.
+Evaluating the characters in this spinon basis provides new quasi-particle type
+expressions for the characters of these integrable modules, and explicitly
+exhibits the structure of an RSOS times a Yangian part, known \eg from
+$S$-matrix results. We briefly discuss generalizations to other groups and more
+general conformal field theories.
+\\

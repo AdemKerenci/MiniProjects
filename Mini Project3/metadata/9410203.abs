@@ -1,0 +1,36 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410203
+From: Laszlo.Feher@enslapp.ens-lyon.fr (Laszlo FEHER)
+Date: Thu, 27 Oct 94 14:02:58 +0100   (45kb)
+Date (revised): Thu, 8 Jun 95 20:26:54 +0200
+
+Title: Regular Conjugacy Classes in the Weyl Group and Integrable Hierarchies
+Authors: F. Delduc and L. Feher
+Comments: 44 pages, ENSLAPP-L-493/94, substantial revision, SWAT-95-77. (use
+  OLATEX (preferred) or LATEX)
+Journal-ref: J.Phys. A28 (1995) 5843-5882
+\\
+  Generalized KdV hierarchies associated by Drinfeld-Sokolov reduction to grade
+one regular semisimple elements from non-equivalent Heisenberg subalgebras of a
+loop algebra $\G\otimes{\bf C}[\lambda,\lambda^{-1}]$ are studied. The graded
+Heisenberg subalgebras containing such elements are labelled by the regular
+conjugacy classes in the Weyl group ${\bf W}(\G)$ of the simple Lie algebra
+$\G$. A representative $w\in {\bf W}(\G)$ of a regular conjugacy class can be
+lifted to an inner automorphism of $\G$ given by $\hat w=\exp\left(2i\pi {\rm
+ad I_0}/m\right)$, where $I_0$ is the defining vector of an $sl_2$ subalgebra
+of $\G$.The grading is then defined by the operator $d_{m,I_0}=m\lambda {d\over
+d\lambda} + {\rm ad} I_0$ and any grade one regular element $\Lambda$ from the
+Heisenberg subalgebra associated to $[w]$ takes the form $\Lambda = (C_+
++\lambda C_-)$, where $[I_0, C_-]=-(m-1) C_-$ and $C_+$ is included in an
+$sl_2$ subalgebra containing $I_0$. The largest eigenvalue of ${\rm ad}I_0$ is
+$(m-1)$ except for some cases in $F_4$, $E_{6,7,8}$. We explain how these Lie
+algebraic results follow from known results and apply them to construct
+integrable systems.If the largest ${\rm ad} I_0$ eigenvalue is $(m-1)$, then
+using any grade one regular element from the Heisenberg subalgebra associated
+to $[w]$ we can construct a KdV system possessing the standard $\W$-algebra
+defined by $I_0$ as its second Poisson bracket algebra. For $\G$ a classical
+Lie algebra, we derive pseudo-differential Lax operators for those
+non-principal KdV systems that can be obtained as discrete reductions of KdV
+systems related to $gl_n$. Non-abelian Toda systems are also considered.
+\\

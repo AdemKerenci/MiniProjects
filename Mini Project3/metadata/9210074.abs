@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210074
+From: Craig Tracy <tracy@itd.ucdavis.edu>
+Date: Tue, 13 Oct 92 17:52:35 PDT   (5kb)
+
+Title: Level-Spacing Distributions and the Airy Kernel
+Authors: Craig A. Tracy and Harold Widom
+Comments: 9 pages
+Report-no: ITD 92/93--11
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems; Mathematical Physics
+Journal-ref: Phys.Lett. B305 (1993) 115-118
+\\
+  Scaling level-spacing distribution functions in the ``bulk of the spectrum''
+in random matrix models of $N\times N$ hermitian matrices and then going to the
+limit $N\to\infty$, leads to the Fredholm determinant of the sine kernel
+$\sin\pi(x-y)/\pi (x-y)$. Similarly a double scaling limit at the ``edge of the
+spectrum'' leads to the Airy kernel $[{\rm Ai}(x) {\rm Ai}'(y) -{\rm Ai}'(x)
+{\rm Ai}(y)]/(x-y)$. We announce analogies for this Airy kernel of the
+following properties of the sine kernel: the completely integrable system of
+P.D.E.'s found by Jimbo, Miwa, M{\^o}ri and Sato; the expression, in the case
+of a single interval, of the Fredholm determinant in terms of a Painlev{\'e}
+transcendent; the existence of a commuting differential operator; and the fact
+that this operator can be used in the derivation of asymptotics, for general
+$n$, of the probability that an interval contains precisely $n$ eigenvalues.
+\\

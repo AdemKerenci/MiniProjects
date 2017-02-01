@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405140
+From: Per Salomonson <tfeps@fy.chalmers.se>
+Date: Sat, 21 May 94 16:22:46 +0200   (23kb)
+
+Title: Further results on Functional Determinants of Laplacians in Simplicial
+  Complexes
+Author: Erik Aurell (Stockholm University), Per Salomonson (Chalmers University
+  of Technology)
+Subj-class: High Energy Physics - Theory; Differential Geometry
+\\
+  We investigate the functional determinant of the laplacian on piece-wise flat
+two-dimensional surfaces, with conical singularities in the interior and/or
+corners on the boundary. Our results extend earlier investigations of the
+determinants on smooth surfaces with smooth boundaries. The differences to the
+smooth case are: a) different ``interaction energies'' between pairs of conical
+singularities than one would expect from a naive extrapolation of the results
+for a smooth surface; and b) ``self-energies'' of the singularities.
+\\

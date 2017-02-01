@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301076
+From: John Harnad <harnad@neumann.concordia.ca>
+Date: Mon, 18 Jan 93 14:40:39 EST   (20kb)
+Date (revised): Tue, 19 Jan 93 9:40:33 EST
+
+Title: Dual Isomonodromic Deformations and Moment Maps to Loop Algebras
+Authors: J. Harnad
+Comments: preprint CRM-1844 (1993), 28 pgs. (Corrected date and abstract.)
+Journal-ref: Commun.Math.Phys. 166 (1994) 337-366
+\\
+  The Hamiltonian structure of the monodromy preserving deformation equations
+of Jimbo {\it et al } is explained in terms of parameter dependent pairs of
+moment maps from a symplectic vector space to the dual spaces of two different
+loop algebras. The nonautonomous Hamiltonian systems generating the
+deformations are obtained by pulling back spectral invariants on Poisson
+subspaces consisting of elements that are rational in the loop parameter and
+identifying the deformation parameters with those determining the moment maps.
+This construction is shown to lead to ``dual'' pairs of matrix differential
+operators whose monodromy is preserved under the same family of deformations.
+As illustrative examples, involving discrete and continuous reductions, a
+higher rank generalization of the Hamiltonian equations governing the
+correlation functions for an impenetrable Bose gas is obtained, as well as dual
+pairs of isomonodromy representations for the equations of the Painleve
+transcendents $P_{V}$ and $P_{VI}$.
+\\

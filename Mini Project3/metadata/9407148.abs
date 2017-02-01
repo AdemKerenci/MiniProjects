@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407148
+From: Ed Corrigan <Edward.Corrigan@durham.ac.uk>
+Date: Fri, 22 Jul 94 16:47:33 BST   (20kb)
+
+Title: Aspects of affine Toda field theory on a half line
+Authors: E. Corrigan P.E. Dorey and R.H. Rietdijk
+Comments: 27 pages, harvmac, DTP-94/29
+Journal-ref: Prog.Theor.Phys.Suppl. 118 (1995) 143-164
+\\
+  The question of the integrability of real-coupling affine toda field theory
+on a half line is discussed. It is shown, by examining low-spin conserved
+charges, that the boundary conditions preserving integrability are strongly
+constrained. In particular, among the cases treated so far, $e_6^{(1)}$,
+$d_n^{(1)}$ and $a_n^{(1)}, \ n\ge 2$, there can be no free parameters
+introduced by such boundary conditions; indeed the only remaining freedom
+(apart from choosing the simple condition $\partial_1\phi =0$), resides in a
+choice of signs. For a special case of the boundary condition, accessible only
+for $a_n^{(1)}$, it is pointed out that the classical boundary bound state
+spectrum may be related to a set of reflection factors in the quantum field
+theory. Some preliminary calculations are reported for other boundary
+conditions, demonstrating that the classical scattering data satisfies the weak
+coupling limit of the reflection bootstrap equation. (Invited talk at \lq
+Quantum field theory, integrable models and beyond', Yukawa Institute for
+Theoretical Physics, Kyoto University, 14-18 February 1994.)
+\\

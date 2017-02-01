@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9207022
+From: UNP02F@ibm.rhrz.uni-bonn.de
+Date: Wed, 08 Jul 92 18:38:51 MEZ   (19kb)
+
+Title: Phase diagram and two-particle structure of the $Z_3$-chiral Potts model
+Authors: G. von Gehlen
+Comments: 20 pages, (LATEX), preprint BONN-HE-92-18
+\\
+  We calculate the low-lying part of the spectrum of the $Z_3$-symmetrical
+chiral Potts quantum chain in its self-dual and integrable versions, using
+numerical diagonalisation of the hamiltonian for $N \leq 12$ sites and
+extrapolation $N \ra \infty$. From the sequences of levels crossing we show
+that the massive phases have oscillatory correlation functions. We calculate
+the wave vector scaling exponent. In the high-temperature massive phase the
+pattern of the low-lying levels can be explained assuming the existence of two
+particles, with $Z_3$-charge $Q\!=\!1$ and $Q\!=\!2$, and their scattering
+states. In the superintegrable case the $Q\!=\!2$-particle has twice the mass
+of the $Q\!=\!1$-particle. Exponential convergence in $N$ is observed for the
+single particle gaps, while power convergence is seen for the scattering
+levels. In the high temperature limit of the self-dual model the parity
+violation in the particle dispersion relation is equivalent to the presence of
+a macroscopic momentum $P_m = \pm \vph/3$, where $\vph$ is the chiral angle.
+\\

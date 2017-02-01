@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305057
+From: "MICHAEL P. TUITE" <MPHTUITE@bodkin.ucg.ie>
+Date: Thu, 13 May 1993 12:38 GMT   (44kb)
+
+Title: On the Relationship between the Uniqueness of the Moonshine Module and
+  Monstrous Moonshine
+Authors: Michael P.Tuite
+Comments: 53 pages, PlainTex, DIAS-STP-93-09
+Journal-ref: Commun. Math. Phys. 166 (1995) 495-532
+\\
+  We consider the relationship between the conjectured uniqueness of the
+Moonshine Module, ${\cal V}^\natural$, and Monstrous Moonshine, the genus zero
+property of the modular invariance group for each Monster group Thompson
+series. We first discuss a family of possible $Z_n$ meromorphic orbifold
+constructions of ${\cal V}^\natural$ based on automorphisms of the Leech
+lattice compactified bosonic string. We reproduce the Thompson series for all
+51 non-Fricke classes of the Monster group $M$ together with a new relationship
+between the centralisers of these classes and 51 corresponding Conway group
+centralisers (generalising a well-known relationship for 5 such classes).
+Assuming that ${\cal V}^\natural$ is unique, we then consider meromorphic
+orbifoldings of ${\cal V}^\natural$ and show that Monstrous Moonshine holds if
+and only if the only meromorphic orbifoldings of ${\cal V}^\natural$ give
+${\cal V}^\natural$ itself or the Leech theory. This constraint on the
+meromorphic orbifoldings of ${\cal V}^\natural$ therefore relates Monstrous
+Moonshine to the uniqueness of ${\cal V}^\natural$ in a new way.
+\\

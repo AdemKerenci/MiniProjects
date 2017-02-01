@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205100
+From: "Jacques Distler" <distler@puhep1.princeton.edu>
+Date: Wed, 27 May 92 14:47:09 EDT   (37kb)
+Date (revised): Tue, 25 Aug 92 13:55:53 EDT
+
+Title: A note on the 3D Ising model as a string theory
+Author: J. Distler
+Comments: 21 pages, 11 figures. This revised manuscript is identical to the
+  final published version (Nuclear Physics B, to appear). Aside from correcting
+  some scattered typos, the final version corrects and expands some of the
+  comments in the original preprint on the unoriented NSR string
+Report-no: PUPT-1324
+Journal-ref: Nucl.Phys. B388 (1992) 648-670
+\\
+  It has long been argued that the continuum limit of the 3D Ising model is
+equivalent to a string theory. Unfortunately, in the usual starting point for
+this equivalence -- a certain lattice theory of surfaces -- it is not at all
+obvious how to take the continuum limit. In this note, I reformulate the
+lattice theory of surfaces in a fashion such that the continuum limit is
+straightforward. I go on to discuss how this new formulation may overcome some
+fundamental objections to the notion that the Ising model is equivalent to a
+string theory. In an appendix, I also discuss some aspects of fermion doubling,
+and the lattice fermion formulation of the 2D Ising model.
+\\

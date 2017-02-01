@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404101
+From: Petr Horava <horava@rabi.uchicago.edu>
+Date: Sun, 17 Apr 94 03:44:14 CDT   (36kb)
+Date (revised): Tue, 19 Apr 94 15:30:13 CDT
+Date (revised): Tue, 21 Nov 1995 17:26:08 -0600
+
+Title: Chern-Simons Gauge Theory on Orbifolds: Open Strings from Three
+  Dimensions
+Author: Petr Horava
+Comments: 39 pages, 8 uuencoded figures, phyzzx, epsf; changed to a frendlier
+  format
+Journal-ref: J.Geom.Phys. 21 (1996) 1-33
+\\
+  Chern-Simons gauge theory is formulated on three dimensional $Z_2$ orbifolds.
+The locus of singular points on a given orbifold is equivalent to a link of
+Wilson lines. This allows one to reduce any correlation function on orbifolds
+to a sum of more complicated correlation functions in the simpler theory on
+manifolds. Chern-Simons theory on manifolds is known to be related to 2D CFT on
+closed string surfaces; here I show that the theory on orbifolds is related to
+2D CFT of unoriented closed and open string models, i.e. to worldsheet orbifold
+models. In particular, the boundary components of the worldsheet correspond to
+the components of the singular locus in the 3D orbifold. This correspondence
+leads to a simple identification of the open string spectra, including their
+Chan-Paton degeneration, in terms of fusing Wilson lines in the corresponding
+Chern-Simons theory. The correspondence is studied in detail, and some exactly
+solvable examples are presented. Some of these examples indicate that it is
+natural to think of the orbifold group $Z_2$ as a part of the gauge group of
+the Chern-Simons theory, thus generalizing the standard definition of gauge
+theories.
+\\

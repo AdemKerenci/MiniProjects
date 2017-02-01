@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311174
+From: Lothar Schuelke <Schuelke@hrz.uni-siegen.d400.de>
+Date: Mon, 29 Nov 1993 21:07:17 +0100   (12kb)
+
+Title: On the Segregation Phenomenon in Complex Langevin Simulation
+Authors: K. Fujimura, K. Okano, L. Sch\"ulke, K. Yamagishi and B. Zheng
+Comments: (20 pages + 8 figures on request). Siegen Si-93-8, Tokuyama TKYM-93-2
+Journal-ref: Nucl. Phys. B424 (1994) 675
+\\
+  In the numerical simulation of certain field theoretical models, the complex
+Langevin simulation has been believed to fail due to the violation of
+ergodicity. We give a detailed analysis of this problem based on a toy model
+with one degree of freedom ($S=-\beta\cos\theta$). We find that the failure is
+not due to the defect of complex Langevin simulation itself, but rather to the
+way how one treats the singularity appearing in the drift force. An effective
+algorithm is proposed by which one can simulate the ${1/\beta}$ behaviour of
+the expectation value $<\cos\theta>$ in the small $\beta$ limit.
+\\

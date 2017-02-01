@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306152
+From: sasha@malina.Princeton.EDU (Alexander Migdal)
+Date: Mon, 28 Jun 93 22:21:31 GMT-0400   (41kb)
+Date (revised): Tue, 29 Jun 93 16:50:07 GMT-0400
+
+Title: Turbulence as Statistics of Vortex Cells
+Authors: A.A.Migdal
+Comments: 24 pages, 3 figures, LaTeX, PUPT-1409(the figures uuencoded,previous
+  versions corrupted by mailer)
+\\
+  We develop the formulation of turbulence in terms of the functional integral
+over the phase space configurations of the vortex cells. The phase space
+consists of Clebsch coordinates at the surface of the vortex cells plus the
+Lagrange coordinates of this surface plus the conformal metric. Using the
+Hamiltonian dynamics we find an invariant probability distribution which
+satisfies the Liouville equation. The violations of the time reversal
+invariance come from certain topological terms in effective energy of our
+Gibbs-like distribution. We study the topological aspects of the statistics and
+use the string theory methods to estimate intermittency.
+\\

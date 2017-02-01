@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206002
+From: babelon@lpthe.jussieu.fr
+Date: Mon, 1 Jun 92 10:35:43 MET DST   (27kb)
+
+Title: Affine Solitons: A Relation Between Tau Functions, Dressing and
+  B\"acklund Transformations
+Authors: Olivier Babelon, Denis Bernard
+Comments: 33 pages. SPhT-92-055; LPTHE-92-16
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 507-543
+\\
+  We reconsider the construction of solitons by dressing transformations in the
+sine-Gordon model. We show that the $N$-soliton solutions are in the orbit of
+the vacuum, and we identify the elements in the dressing group which allow us
+to built the $N$-soliton solutions from the vacuum solution. The dressed
+$\tau$-functions can be computed in two different ways~: either using adjoint
+actions in the affine Lie algebra $\hat {sl_2}$, and this gives the relation
+with the B\"acklund transformations, or using the level one representations of
+the affine Lie algebra $\widehat{sl_2}$, and this directly gives the formulae
+for the $\tau$-functions in terms of vertex operators.
+\\

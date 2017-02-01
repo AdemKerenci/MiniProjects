@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304088
+From: Enzo Marinari <marinari@npac.syr.edu>
+Date: Tue, 20 Apr 1993 21:57:38 -0400   (40kb)
+Date (revised): Wed, 21 Apr 1993 16:58:37 -0400
+
+Title: Critical and Topological Properties of Cluster Boundaries in the $3d$
+  Ising Model
+Authors: V. Dotsenko, G. Harris, E. Marinari, E. Martinec, M. Picco and P.
+  Windey
+Comments: REVISED NOW NO APS MACROS NEEDED FOR HEPTH USERS 4 p 4 f, EFI 93-24
+Journal-ref: Phys.Rev.Lett. 71 (1993) 811-814
+\\
+  We analyze the behavior of the ensemble of surface boundaries of the critical
+clusters at $T=T_c$ in the $3d$ Ising model. We find that $N_g(A)$, the number
+of surfaces of given genus $g$ and fixed area $A$, behaves as $A^{-x(g)}$
+$e^{-\mu A}$. We show that $\mu$ is a constant independent of $g$ and $x(g)$ is
+approximately a linear function of $g$. The sum of $N_g(A)$ over genus scales
+as a power of $A$. We also observe that the volume of the clusters is
+proportional to its surface area. We argue that this behavior is typical of a
+branching instability for the surfaces, similar to the ones found for
+non-critical string theories with $c > 1$. We discuss similar results for the
+ordinary spin clusters of the $3d$ Ising model at the minority percolation
+point and for $3d$ bond percolation. Finally we check the universality of these
+critical properties on the simple cubic lattice and the body centered cubic
+lattice.
+\\

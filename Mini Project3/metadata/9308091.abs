@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308091
+From: Mark Bowick <bowick@npac.syr.edu>
+Date: Wed, 18 Aug 1993 21:08:41 -0400   (9kb)
+Date (revised): Thu, 19 Aug 1993 10:35:40 -0400
+
+Title: Fluid Random Surfaces with Extrinsic Curvature: II
+Authors: Konstantinos Anagnostopoulos, Mark Bowick, Paul Coddington, Marco
+  Falcioni, Leping Han, Geoffrey Harris and Enzo Marinari
+Comments: LaTeX, 11 pages, two figures, (the original version of this paper had
+  an hep-lat preprint number instead of an hep-th number- this is the only
+  change)
+Report-no: SU-HEP-93-4241-540; SCCS-511
+Journal-ref: Phys.Lett. B317 (1993) 102-106
+\\
+  We present the results of an extension of our previous work on large-scale
+simulations of dynamically triangulated toroidal random surfaces embedded in
+$R^3$ with extrinsic curvature. We find that the extrinsic-curvature specific
+heat peak ceases to grow on lattices with more than 576 nodes and that the
+location of the peak $\lam_c$ also stabilizes. The evidence for a true
+crumpling transition is still weak. If we assume it exists we can say that the
+finite-size scaling exponent $\frac {\alpha} {\nu d}$ is very close to zero or
+negative. On the other hand our new data does rule out the observed peak as
+being a finite-size artifact of the persistence length becoming comparable to
+the extent of the lattice.
+\\

@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403130
+From: viallet@lpthe.jussieu.fr
+Date: Tue, 22 Mar 94 15:49:47 +0100   (462kb)
+
+Title: Baxterization, dynamical systems, and the symmetries of integrability
+Authors: C. Viallet
+Comments: 25 pages, Latex file (epsf style). WARNING: Postscript figures are
+  BIG (600kB compressed, 4.3MB uncompressed). If necessary request hardcopy to
+  viallet@lpthe.jussieu.fr and give your postal mail address
+Report-no: PAR-LPTHE 94-08
+Subj-class: High Energy Physics - Theory; Algebraic Geometry; Chaotic Dynamics;
+  Exactly Solvable and Integrable Systems
+\\
+  We resolve the `baxterization' problem with the help of the automorphism
+group of the Yang-Baxter (resp. star-triangle, tetrahedron, \dots) equations.
+This infinite group of symmetries is realized as a non-linear (birational)
+Coxeter group acting on matrices, and exists as such, {\em beyond the narrow
+context of strict integrability}. It yields among other things an unexpected
+elliptic parametrization of the non-integrable sixteen-vertex model. It
+provides us with a class of discrete dynamical systems, and we address some
+related problems, such as characterizing the complexity of iterations.
+\\

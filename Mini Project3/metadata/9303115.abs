@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303115
+From: Dobrev Vladimir <dobrev@ictp.trieste.it>
+Date: Fri, 19 Mar 93 18:47:00 MET   (11kb)
+
+Title: Positive energy representations of the conformal quantum algebra
+Authors: L. Dabrowski, V.K. Dobrev, R. Floreanini and V. Husain
+Comments: 10 pages, plain-TEX, preprint IC/92/187, SISSA 137/92/FM,
+  UTS-DFT-22-92, (July 1992), Phys. Lett. 302B (1993) 215
+Journal-ref: Phys.Lett. B302 (1993) 215-222
+\\
+  The positive-energy unitary irreducible representations of the $q$-deformed
+conformal algebra ${\cal C}_q = {\cal U}_q(su(2,2))$ are obtained by
+appropriate deformation of the classical ones. When the deformation parameter
+$q$ is $N$-th root of unity, all these unitary representations become
+finite-dimensional. For this case we discuss in some detail the massless
+representations, which are also irreducible representations of the $q$-deformed
+Poincar\'e subalgebra of ${\cal C}_q$. Generically, their dimensions are
+smaller than the corresponding finite-dimensional non-unitary representation of
+$su(2,2)$, except when $N=2$, $h=0$ and $N = 2 \vert h\vert +1$, where $h$ is
+the helicity of the representations. The latter cases include the fundamental
+representations with $h = \pm 1/2$.
+\\

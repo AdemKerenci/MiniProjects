@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302014
+From: KRISTJANSEN@nbivax.nbi.dk
+Date: 03 Feb 1993 16:39:03 +0100   (35kb)
+
+Title: Matrix Model Calculations beyond the Spherical Limit
+Authors: J. Ambj{\o}rn, L. Chekhov, C.F. Kristjansen and Yu. Makeenko
+Comments: 44 pages
+Report-no: NBI-HE-92-89; PAR-LPTHE-92-49; FTUAM 92-44
+Journal-ref: Nucl.Phys. B404 (1993) 127-172; Erratum-ibid. B449 (1995) 681
+\\
+  We propose an improved iterative scheme for calculating higher genus
+contributions to the multi-loop (or multi-point) correlators and the partition
+function of the hermitian one matrix model. We present explicit results up to
+genus two. We develop a version which gives directly the result in the double
+scaling limit and present explicit results up to genus four. Using the latter
+version we prove that the hermitian and the complex matrix model are equivalent
+in the double scaling limit and that in this limit they are both equivalent to
+the Kontsevich model. We discuss how our results away from the double scaling
+limit are related to the structure of moduli space.
+\\

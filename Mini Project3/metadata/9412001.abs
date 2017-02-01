@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412001
+From: slob@ftf.univ.simbirsk.su (\s\L\O\B\O\D\E\N\@\K \w.\a.)
+Date: Thu, 01 Dec 94 10:09:41 +0300 (MSK)   (8kb)
+
+Title: Asymptotics of Expansion of the Evolution Operator Kernel in Powers of
+  Time Interval $\Delta t$
+Author: V. A. Slobodenyuk
+Comments: 12 pp., LaTeX
+Journal-ref: Teor. Mat. Fiz. 105 (1995) 246
+\\
+  The upper bound for asymptotic behavior of the coefficients of expansion of
+the evolution operator kernel in powers of the time interval $\Dt$ was
+obtained. It is found that for the nonpolynomial potentials the coefficients
+may increase as $n!$. But increasing may be more slow if the contributions with
+opposite signs cancel each other. Particularly, it is not excluded that for
+number of the potentials the expansion is convergent. For the polynomial
+potentials $\Dt$-expansion is certainly asymptotic one. The coefficients
+increase in this case as $\Gamma(n \frac{L-2}{L+2})$, where $L$ is the order of
+the polynom. It means that the point $\Dt=0$ is singular point of the kernel.
+\\

@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406011
+From: William Nelson <wnelson@sbphy.physics.ucsb.edu>
+Date: Thu, 2 Jun 94 22:30:29 -0700   (9kb)
+Date (revised): Sat, 11 Jun 94 23:15:42 -0700
+
+Title: A Comment on Black Hole Entropy in String Theory
+Authors: William Nelson
+Comments: 8 pages, uses harvmac and epsf, two postscript figures appended. (A
+  page is added describing how to do the computation rigorously. Also some
+  notation is altered.)
+Journal-ref: Phys.Rev. D50 (1994) 7400-7402
+\\
+  In this note, we extend the string theoretic calculation of the black hole
+entropy, first performed by Susskind and Uglum, away from the infinite mass
+limit. It is shown that the result agrees with that obtained from the classical
+action of string theory, using the Noether charge method developed by Wald.
+Also shown in the process is the equivalence of two general techniques for
+finding black hole entropies-the Noether charge method, and the method of
+conical singularities.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411053
+From: Yutaka MATSUO <yutaka@yisun1.yukawa.kyoto-u.ac.jp>
+Date: Tue, 08 Nov 1994 22:59:27 +0900   (11kb)
+Date (revised): Wed, 09 Nov 1994 18:00:46 +0900
+Date (revised): Tue, 13 Dec 1994 00:34:15 +0900
+
+Title: Collective fields, Calogero-Sutherland model and generalized matrix
+  models
+Authors: H. Awata, Y. Matsuo, S. Odake and J. Shiraishi
+Comments: 13 pages, latex, no figures, a few references added
+Report-no: YITP/U-94-29, SULDP-1994-8, UT-693
+Journal-ref: Phys. Lett. B347 (1995) 49
+\\
+  On the basis of the collective field method, we analyze the
+Calogero--Sutherland model (CSM) and the Selberg--Aomoto integral, which
+defines, in particular case, the partition function of the matrix models.
+Vertex operator realizations for some of the eigenstates (the Jack polynomials)
+of the CSM Hamiltonian are obtained. We derive Virasoro constraint for the
+generalized matrix models and indicate relations with the CSM operators.
+Similar results are presented for the $q$--deformed case (the Macdonald
+operator and polynomials), which gives the generating functional of infinitely
+many conserved charges in the CSM.
+\\

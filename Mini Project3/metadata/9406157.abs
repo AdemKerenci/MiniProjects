@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406157
+From: Shahn Majid <Shahn.Majid@damtp.cambridge.ac.uk>
+Date: Thu, 23 Jun 94 15:57:50 BST   (29kb)
+Date (revised): Tue, 19 Jul 94 15:11:40 BST
+
+Title: q-Epsilon tensor for quantum and braided spaces
+Author: Shahn Majid
+Comments: 24 pages, substantative revision - decided to include material
+  on Hodge * operator previously omitted. Added a figure
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 36 (1995) 1991-2007
+\\
+  The machinery of braided geometry introduced previously is used now to
+construct the $\epsilon$ `totally antisymmetric tensor' on a general braided
+vector space determined by R-matrices. This includes natural $q$-Euclidean and
+$q$-Minkowski spaces. The formalism is completely covariant under the
+corresponding quantum group such as $\widetilde{SO_q(4)}$ or
+$\widetilde{SO_q(1,3)}$. The Hodge $*$ operator and differentials are also
+constructed in this approach.
+\\

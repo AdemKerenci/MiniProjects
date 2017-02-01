@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9202040
+From: "Jose M. Figueroa-O'Farrill" <figueroa@pib1.physik.uni-bonn.de>
+Date: Wed, 12 Feb 1992 17:46:38 MEZ   (21kb)
+
+Title: The Classical Limit of W-Algebras
+Authors: Jose M. Figueroa-O'Farrill and Eduardo Ramos
+Comments: (14 pages)
+Journal-ref: Phys. Lett. B282 (1992) 357-364
+\\
+  We define and compute explicitly the classical limit of the realizations of
+$W_n$ appearing as hamiltonian structures of generalized KdV hierarchies. The
+classical limit is obtained by taking the commutative limit of the ring of
+pseudodifferential operators. These algebras---denoted $w_n$---have free field
+realizations in which the generators are given by the elementary symmetric
+polynomials in the free fields. We compute the algebras explicitly and we show
+that they are all reductions of a new algebra $w_{\rm KP}$, which is proposed
+as the universal classical $W$-algebra for the $w_n$ series. As a deformation
+of this algebra we also obtain $w_{1+\infty}$, the classical limit of
+$W_{1+\infty}$.
+\\

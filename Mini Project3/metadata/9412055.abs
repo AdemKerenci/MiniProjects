@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412055
+From: dhoker@physics.ucla.edu (D'Hoker)
+Date: Tue, 6 Dec 1994 12:33:35 +0800   (8kb)
+
+Title: Casimir Forces between Beads on Strings and Membranes
+Authors: Eric D'Hoker, Pierre Sikivie and Youli Kanev
+Comments: Plain Tex, Tables.tex macro required, 9 pages
+Report-no: UCLA/94/TEP/44 and UFIFT-HEP-94-17
+Journal-ref: Phys.Lett. B347 (1995) 56-62
+\\
+  We develop a general formalism to calculate the force between beads attached
+to a flat $d$-dimensional membrane due to the quantum fluctuations of the
+membrane. The interaction potential is derived as a function of $d$ and the
+membrane energy density, tension, stiffness and temperature. We find that the
+induced interactions turn off when $d$ exceeds a certain critical dimension.
+The potential is attractive in all cases where it is non-zero and at finite
+temperature falls off exponentially for large distances.
+\\

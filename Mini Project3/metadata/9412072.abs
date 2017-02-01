@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412072
+From: Dmitrii Korotkin <I02KOR@DSYIBM.DESY.DE>
+Date: THU, 8 DEC 94 16:12:29 +0100   (9kb)
+
+Title: "Separation of Variables and Hamiltonian Formulation for the Ernst
+  Equation"
+Authors: D. Korotkin and H. Nicolai (Hamburg University)
+Comments: LATEX, 12 pages, submitted to Physical Review Letters
+Report-no: none
+Journal-ref: Phys.Rev.Lett. 74 (1995) 1272-1275
+\\
+  It is shown that the vacuum Einstein equations for an arbitrary stationary
+axisymmetric space-time can be completely separated by re-formulating the Ernst
+equation and its associated linear system in terms of a non-autonomous
+Schlesinger-type dynamical system. The conformal factor of the metric coincides
+(up to some explicitly computable factor) with the $\tau$-function of the Ernst
+equation in the presence of finitely many regular singularities. We also
+present a canonical formulation of these results, which is based on a
+``two-time" Hamiltonian approach, and which opens new avenues for the
+quantization of such systems.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308151
+From: R. W. Gebert <I02GEB@DSYIBM.DESY.DE>
+Date: TUE, 31 AUG 93 09:25:51 +0200   (51kb)
+Date (revised): FRI, 3 SEP 93 09:14:30 +0200
+
+Title: Introduction to Vertex Algebras, Borcherds Algebras, and the Monster Lie
+  Algebra
+Author: R. W. Gebert
+Comments: 55 pages, (two minor changes thanks to comment by R. Borcherds)
+Report-no: DESY 93-120
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Int.J.Mod.Phys. A8 (1993) 5441-5504
+\\
+  The theory of vertex algebras constitutes a mathematically rigorous axiomatic
+formulation of the algebraic origins of conformal field theory. In this context
+Borcherds algebras arise as certain ``physical'' subspaces of vertex algebras.
+The aim of this review is to give a pedagogical introduction into this
+rapidly-developing area of mathemat% ics. Based on the machinery of formal
+calculus we present the axiomatic definition of vertex algebras. We discuss the
+connection with conformal field theory by deriving important implications of
+these axioms. In particular, many explicit calculations are presented to stress
+the eminent role of the Jacobi identity axiom for vertex algebras. As a class
+of concrete examples the vertex algebras associated with even lattices are
+constructed and it is shown in detail how affine Lie algebras and the fake
+Monster Lie algebra naturally appear. This leads us to the abstract definition
+of Borcherds algebras as generalized Kac-Moody algebras and their basic
+properties. Finally, the results about the simplest generic Borcherds algebras
+are analysed from the point of view of symmetry in quantum theory and the
+construction of the Monster Lie algebra is sketched.
+\\

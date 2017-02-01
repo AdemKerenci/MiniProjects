@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211063
+From: Malcolm Perry <M.J.Perry@damtp.cambridge.ac.uk>
+Date: Sat, 14 Nov 92 17:58:35 GMT   (27kb)
+
+Title: Topological Conformal Gravity in Four Dimensions
+Authors: Malcolm J. Perry and Edward Teo
+Comments: 35 pages, harvmac, DAMTP R92/42
+Journal-ref: Nucl.Phys. B401 (1993) 206-238
+\\
+  In this paper, we present a new formulation of topological conformal gravity
+in four dimensions. Such a theory was first considered by Witten as a possible
+gravitational counterpart of topological Yang-Mills theory, but several
+problems left it incomplete. The key in our approach is to realise a theory
+which describes deformations of conformally self-dual gravitational instantons.
+We first identify the appropriate elliptic complex which does precisely this.
+By applying the Atiyah-Singer index theorem, we calculate the number of
+independent deformations of a given gravitational instanton which preserve its
+self-duality. We then quantise topological conformal gravity by BRST
+gauge-fixing, and discover how the quantum theory is naturally described by the
+above complex. Indeed, it is a process which closely parallels that of the
+Yang-Mills theory, and we show how the partition function generates an uncanny
+gravitational analogue of the first Donaldson invariant.
+\\

@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411098
+From: Nguyen Anh Ky <anhky@ictp.trieste.it>
+Date: Mon, 14 Nov 1994 21:22:46 +0100 (MET)   (21kb)
+
+Title: Finite-Dimensional Representations of the Quantum Superalgebra
+  U$_{q}$[gl(2/2)]: II. Nontypical representations at generic $q$
+Author: Nguyen Anh Ky and N. Stoilova
+Report-no: IC/94/352
+Comments: Latex file, 49 pages
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: J.Math.Phys. 36 (1995) 5979-6003
+\\
+  The construction approach proposed in the previous paper Ref. 1 allows us
+there and in the present paper to construct at generic deformation parameter
+$q$ all finite--dimensional representations of the quantum Lie superalgebra
+$U_{q}[gl(2/2)]$. The finite--dimensional $U_{q}[gl(2/2)]$-modules $W^{q}$
+constructed in Ref. 1 are either irreducible or indecomposible. If a module
+$W^{q}$ is indecomposible, i.e. when the condition (4.41) in Ref. 1 does not
+hold, there exists an invariant maximal submodule of $W^{q}$, to say
+$I_{k}^{q}$, such that the factor-representation in the factor-module
+$W^{q}/I_{k}^{q}$ is irreducible and called nontypical. Here, in this paper,
+indecomposible representations and nontypical finite--dimensional
+representations of the quantum Lie superalgebra $U_{q}[gl(2/2)]$ are considered
+and classified as their module structures are analized and the matrix elements
+of all nontypical representations are written down explicitly.
+\\

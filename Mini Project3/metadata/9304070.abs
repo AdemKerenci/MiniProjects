@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304070
+From: Joachim Reinhardt <jr@th.physik.uni-frankfurt.de>
+Date: Mon, 19 Apr 93 14:31:17 CEDT   (8kb)
+
+Title: Dirac and Weyl Equations on a Lattice as Quantum Cellular Automata
+Authors: Iwo Bialynicki-Birula
+Comments: 6, RevTeX
+Journal-ref: Phys.Rev. D49 (1994) 6920-6927
+\\
+  A discretized time evolution of the wave function for a Dirac particle on a
+cubic lattice is represented by a very simple quantum cellular automaton. In
+each evolution step the updated value of the wave function at a given site
+depends only on the values at the nearest sites, the evolution is unitary and
+preserves chiral symmetry. Moreover, it is shown that the relationship between
+Dirac particles and cellular automata operating on two component objects on a
+lattice is indeed very close. Every local and unitary automaton on a cubic
+lattice, under some natural assumptions, leads in the continuum limit to the
+Weyl equation. The sum over histories is evaluated and its connection with path
+integrals and theories of fermions on a lattice is outlined.
+\\

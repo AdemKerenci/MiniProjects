@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307101
+From: fendley@BUCRF17.BU.EDU (Paul Fendley)
+Date: Thu, 15 Jul 93 11:32:09 -0400   (11kb)
+
+Title: Central charges without finite-size effects
+Authors: Paul Fendley and Ken Intriligator
+Comments: 11 pages, RU-93-26, BUHEP-93-16
+Journal-ref: Phys.Lett. B319 (1993) 132-138
+\\
+  We show how to obtain the ultraviolet central charge from the exact S-matrix
+for a wide variety of models with a $U(1)$ symmetry. This is done by coupling
+the $U(1)$ current $J$ to a background field. In an $N$=2 superconformal theory
+with $J$ the fermion number current, the OPE of $J$ with itself and hence the
+free energy are proportional to $c$. By deforming the supersymmetry into affine
+$\widehat SU(2)_q$ quantum-group symmetry, this result can be generalized to
+many $U(1)$-invariant theories, including the N=0 and N=1 sine-Gordon models
+and the $SU(2)_k$ WZW models. This provides a consistency check on a
+conjectured S-matrix completely independent of the finite-size effects
+expressed in terms of dilogarithms resulting from the thermodynamic Bethe
+ansatz.
+\\

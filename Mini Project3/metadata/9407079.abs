@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407079
+From: Annette Holtkamp <holtkamp@x4u2.desy.de>
+Date: Thu, 14 Jul 1994 12:22:16 +0200 (MET DST)   (32kb)
+Date (revised): Tue, 11 Jul 1995 13:07:51 +0200 (MST)
+
+Title: Localized Endomorphisms of the Chiral Ising Model
+Author: Jens B{\"o}ckenhauer
+Comments: 41 pages, latex2e
+Report-no: DESY 94-116
+Journal-ref: Commun.Math.Phys. 177 (1996) 265-304
+\\
+  Based on the treatment of the chiral Ising model by Mack and Schomerus, we
+present examples of localized endomorphisms $\varrho_1^{\rm loc}$ and
+$\varrho_{1/2}^{\rm loc}$. It is shown that they lead to the same
+superselection sectors as the global ones in the sense that unitary equivalence
+$\pi_0\circ\varrho_1^{\rm loc}\cong\pi_1$ and $\pi_0\circ\varrho_{1/2}^{\rm
+loc}\cong\pi_{1/2}$ holds. Araki's formalism of the selfdual CAR algebra is
+used for the proof. We prove local normality and extend representations and
+localized endomorphisms to a global algebra of observables which is generated
+by local von Neumann algebras on the punctured circle. In this framework, we
+manifestly prove fusion rules and derive statistics operators.
+\\

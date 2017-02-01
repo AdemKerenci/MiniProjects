@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212096
+From: ELI%EBUBECM1.BITNET@pucc.Princeton.EDU
+Date: Wed, 16 Dec 92 11:15:38 BCN   (11kb)
+
+Title: Spectral Zeta Functions for Spherical Aharonov-Bohm Quantum Bags
+Authors: E. Elizalde, S. Leseduarte and A. Romeo
+Comments: 15 pages, LaTeX file
+Report-no: UB-ECM-PF 92/33
+\\
+  We study the sum $\ds\zeta_H(s)=\sum_j E_j^{-s}$ over the eigenvalues $E_j$
+of the Schrdinger equation in a spherical domain with Dirichlet walls, threaded
+by a line of magnetic flux. Rather than using Green's function techniques, we
+tackle the mathematically nontrivial problem of finding exact sum rules for the
+zeros of Bessel functions $J_{\nu}$, which are extremely helpful when seeking
+numerical approximations to ground state energies. These results are
+particularly valuable if $\nu$ is neither an integer nor half an odd one.
+\\

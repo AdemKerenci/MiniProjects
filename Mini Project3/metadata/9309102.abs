@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309102
+From: dyetter@math.ksu.edu (David N. Yetter)
+Date: Sat, 18 Sep 93 14:12:44 CDT   (5kb)
+Date (revised): Mon, 27 Sep 93 15:56:07 CDT
+
+Title: On the Classicality of Broda's SU(2) Invariant of 4-manifolds
+Author: Louis Crane, Louis H. Kauffman, David N. Yetter
+Comments: 4 pages (revised to state correctly Lemma 1--the correct lemma was
+  proved, and used throughout, but the original statement jumbled some
+  phrases--and add an explanatory footnote on an abuse of language)
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Recent work of Roberts has shown that the first surgical 4-manifold invariant
+of Broda and (up to an unspecified normalization factor) the state-sum
+invariant arising from the TQFT of Crane-Yetter are equivalent to the signature
+of the 4-manifold. Subsequently Broda defined another surgical invariant in
+which the 1- and 2-handles are treated differently. We use a refinement of
+Roberts' techniques developped by the authors in hep-th/9309063 to show that
+the "improved" surgical invariant of Broda also depends only on the signature
+and Euler character
+\\

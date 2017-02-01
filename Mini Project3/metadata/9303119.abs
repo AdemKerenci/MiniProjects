@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303119
+From: UDAH224@ELM.CC.KCL.AC.UK
+Date: Fri, 19 Mar 93 15:13 GMT   (19kb)
+
+Title: On the relation between integrability and infinite-dimensional algebras
+Authors: M. D. Freeman and P. West
+Comments: (Talk given at the 1992 Johns Hopkins meeting, Goteborg, Sweden), 22
+  pages, KCL-TH-93-1
+\\
+  We review our work on the relation between integrability and
+infinite-dimensional algebras. We first consider the question of what sets of
+commuting charges can be constructed from the current of a \mbox{\sf U}(1)
+Kac-Moody algebra. It emerges that there exists a set $S_n$ of such charges for
+each positive integer $n>1$; the corresponding value of the central charge in
+the Feigin-Fuchs realization of the stress tensor is $c=13-6n-6/n$. The charges
+in each series can be written in terms of the generators of an exceptional
+\W-algebra. We show that the \W-algebras that arise in this way are symmetries
+of Liouville theory for special values of the coupling. We then exhibit a
+relationship between the \nls equation and the KP hierarchy. From this it
+follows that there is a relationship between the \nls equation and the algebra
+\Wi. These examples provide evidence for our conjecture that the phenomenon of
+integrability is intimately linked with properties of infinite dimensional
+algebras.
+\\

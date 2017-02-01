@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405036
+From: muller@phy.duke.edu (Berndt Mueller)
+Date: Thu, 5 May 94 11:26:24 -0400   (16kb)
+Date (revised): Fri, 13 May 94 14:11:17 -0400
+Date (revised): Thu, 1 Sep 94 20:36:57 -0400
+
+Title: Wigner Functional Approach to Quantum Field Dynamics
+Authors: S. Mrowczynski and B. Mueller
+Comments: 13 pages, REVTeX. (Somewhat revised and appended version of the
+  original manuscript) DUKE-TH-94-69
+Journal-ref: Phys.Rev. D50 (1994) 7542-7552
+\\
+  We introduce the Wigner functional representing a quantum field in terms of
+the field amplitudes and their conjugate momenta. The equation of motion for
+the functional of a scalar field point out the relevance of solutions of the
+classical field equations to the time evolution of the quantum field. We
+discuss the field in thermodynamical equilibrium and find the explicit solution
+of the equations of motion for the so-called ``roll-over'' phase transition.
+Finally, we briefly discuss the approximate methods for the evaluation of the
+Wigner functional that may be used to numerically simulate the initial value
+problem..
+\\

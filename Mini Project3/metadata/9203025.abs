@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9203025
+From: <LOPEZ%TAMPHYS.BITNET@ricevm1.rice.edu>
+Date: Mon, 9 Mar 92 17:11 CST   (44kb)
+
+Title: The Search for a realistic flipped SU(5) string model
+Authors: J. Lopez, D. Nanopoulos, and K. Yuan
+Comments: 44 pages
+Journal-ref: Nucl.Phys. B399 (1993) 654-690
+\\
+  We present an extensive search for a general class of flipped $SU(5)$ models
+built within the free fermionic formulation of the heterotic string. We
+describe a set of algorithms which constitute the basis for a computer program
+capable of generating systematically the massless spectrum and the
+superpotential of all possible models within the class we consider. Our search
+through the huge parameter space to be explored is simplified considerably by
+the constraint of $N=1$ spacetime supersymmetry and the need for extra $Q,\bar
+Q$ representations beyond the standard ones in order to possibly achieve string
+gauge coupling unification at scales of ${\cal O}(10^{18}\GeV)$. Our results
+are remarkably simple and evidence the large degree of redundancy in this kind
+of constructions. We find one model with gauge group $SU(5)\times
+U(1)_\ty\times SO(10)_h\times SU(4)_h\times U(1)^5$ and fairly acceptable
+phenomenological properties. We study the $D$- and $F$-flatness constraints and
+the symmetry breaking pattern in this model and conclude that string gauge
+coupling unification is quite possible.
+\\

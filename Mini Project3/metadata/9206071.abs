@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206071
+From: hamada@tkyvax.phys.s.u-tokyo.ac.jp (kenji hamada)
+Date: Thu, 18 Jun 92 18:44:58 +0900   (9kb)
+
+Title: Quantum Theory of Dilaton Gravity in 1+1 Dimensions
+Authors: K. Hamada
+Comments: 15 pages. phyzzx. UT-Komaba 92-7
+Journal-ref: Phys. Lett. B300 (1993) 322-329
+\\
+  We discuss the quantum theory of 1+1 dimensional dilaton gravity, which is an
+interesting model with analogous features to the spherically symmetric
+gravitational systems in 3+1 dimensions. The functional measures over the
+metrics and the dilaton field are explicitly evaluated and the diffeomorphism
+invariance is completely fixed in conformal gauge by using the technique
+developed in the two dimensional quantum gravity. We argue the relations to the
+ADM formalism. The physical state conditions reduce to the usual Wheeler-DeWitt
+equations when the dilaton $\df^2 ~ (=\e^{-2\phi}) $ is large enough compared
+with $\kappa =(N-51/2)/12$, where $N $ is the number of matter fields. This
+corresponds to the large mass limit in the black hole geometry. A singularity
+appears at $\df^2 =\kappa (>0) $. The final stage of the black hole evaporation
+corresponds to the region $\df^2 \sim \kappa $, where the Liouville term
+becomes important, which just comes from the measure of the metrics. If $\kappa
+< 0 $, the singularity disappears.
+\\

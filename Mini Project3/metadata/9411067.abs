@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411067
+From: J.vandeLeur <j.vandeleur@math.utwente.nl>
+Date: Thu, 10 Nov 1994 10:13:51 +0100   (13kb)
+
+Title: The $n$--TH Reduced BKP Hierarchy, the String Equation and
+  $BW_{1+\infty}$--Constraints
+Author: Johan Van De Leur
+Comments: 15 pages of (plain)tex, no figures
+\\
+  We study the BKP hierarchy and its $n$--reduction, for the case that $n$ is
+odd. This is related to the principal realization of the basic module of the
+twisted affine Lie algebra $\hat{sl}_n^{(2)}$. We show that the following two
+statements for a BKP $\tau$ function are equivalent: (1) $\tau$ is is
+$n$--reduced and satisfies the string equation, i.e. $L_{-1}\tau=0$, where
+$L_{-1}$ is an element of some `natural' Virasoro algebra. (2) $\tau$ satisfies
+the vacuum constraints of the $BW_{1+\infty}$ algebra. Here $BW_{1+\infty}$ is
+the natural analog of the $W_{1+\infty}$ algebra, which plays a role in the KP
+case.
+\\

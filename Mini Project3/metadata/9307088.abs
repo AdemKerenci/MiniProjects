@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307088
+From: ZWIEBACH@IRENE.MIT.EDU
+Date: Tue, 13 Jul 1993 12:00:15 -0400 (EDT)   (70kb)
+
+Title: A Proof of Local Background Independence of Classical Closed String
+  Field Theory
+Authors: Ashoke Sen and Barton Zwiebach
+Comments: 69 pages, phyzzx.tex, (uses epsf.tex for figures), MIT-CTP-2222
+Journal-ref: Nucl.Phys. B414 (1994) 649-714
+\\
+  We give a complete proof of local background independence of the classical
+master action for closed strings by constructing explicitly, for any two nearby
+conformal theories in a CFT theory space, a symplectic diffeomorphism between
+their state spaces mapping the corresponding non-polynomial string actions into
+each other. We uncover a new family of string vertices, the lowest of which is
+a three string vertex satisfying exact Jacobi identities with respect to the
+original closed string vertices. The homotopies between the two sets of string
+vertices determine the diffeomorphism establishing background independence. The
+linear part of the diffeomorphism is implemented by a CFT theory-space
+connection determined by the off-shell three closed string vertex, showing how
+string field theory induces a natural interplay between Riemann surface
+geometry and CFT theory space geometry. (Three figures are contained in a
+separate tar compressed uuencoded figures file. See the TeX file for
+instructions for printing the figures.)
+\\

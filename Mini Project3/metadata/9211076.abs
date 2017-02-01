@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211076
+From: rebhana@email.tuwien.ac.at (Anton REBHAN)
+Date: Tue, 17 Nov 92 12:52:33 MET   (11kb)
+Date (revised): Wed, 20 Jan 93 11:09:26 MET
+Date (revised): Fri, 7 May 93 10:14:12 MET DST
+
+Title: Thermal Green's Functions from Quantum Mechanical Path Integrals
+Authors: D.G.C. McKeon and A. Rebhan
+Comments: 13 p., uses REVTEX (updated to REVTEX v3.0; minor corrections and
+  extensions) TUW-92-18
+Journal-ref: Phys.Rev. D47 (1993) 5487-5493
+\\
+  In this paper it is shown how the generating functional for Green's functions
+in relativistic quantum field theory and in thermal field theory can be
+evaluated in terms of a standard quantum mechanical path integral. With this
+calculational approach one avoids the loop-momentum integrals usually
+encountered in Feynman perturbation theory, although with thermal Green's
+functions, a discrete sum (over the winding numbers of paths with respect to
+the circular imaginary time) must be computed. The high-temperature expansion
+of this sum can be performed for all Green's functions at the same time, and is
+particularly simple for the static case. The procedure is illustrated by
+evaluating the two-point function to one-loop order in a $\phi^3_6$ model.
+\\

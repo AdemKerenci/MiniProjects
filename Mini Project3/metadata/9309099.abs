@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309099
+From: Walter=Troost%TF%FYS@cc3.kuleuven.ac.be
+Date: Sat, 18 Sep 93 16:39:43 CET   (19kb)
+
+Title: Chiral Quantization on a Group Manifold
+Authors: Zbigniew Hasiewicz, Przemys\l{aw} Siemion and Walter Troost
+Comments: 25p, LaTeX, KUL-TF-93/41
+Journal-ref: Int.J.Mod.Phys. A9 (1994) 4149-4168
+\\
+  The phase space of a particle on a group manifold can be split in left and
+right sectors, in close analogy with the chiral sectors in Wess Zumino Witten
+models. We perform a classical analysis of the sectors, and the geometric
+quantization in the case of $SU(2)$. The quadratic relation, classically
+identifying $SU(2)$ as the sphere $S^3$, is replaced quantum mechanically by a
+similar condition on non-commutative operators ('quantum sphere'). The
+resulting quantum exchange algebra of the chiral group variables is quartic,
+not quadratic. The fusion of the sectors leads to a Hilbert space that is
+subtly different from the one obtained by a more direct (un--split)
+quantization.
+\\

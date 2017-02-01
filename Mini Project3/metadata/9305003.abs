@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305003
+From: neil@halo.tau.ac.il (Neil Marcus)
+Date: Mon, 3 May 1993 13:15:43 +22320834 (IDT)   (31kb)
+
+Title: The spectrum of the 2D Black Hole, or Does the 2D black hole have
+  tachyonic or W--hair?
+Authors: Neil Marcus and Yaron Oz (U of Tel-Aviv)
+Comments: 32 Pages (LaTeX). TAUP-2046-93
+Journal-ref: Nucl.Phys. B407 (1993) 429-458
+\\
+  We solve the equations of motion of the tachyon and the discrete states in
+the background of Witten's semiclassical black hole and in the exact 2D
+dilaton-graviton background of Dijkgraaf et al. We find the exact solutions for
+weak fields, leading to conclusions in disagreement with previous studies of
+tachyons in the black hole. Demanding that a state in the black hole be well
+behaved at the horizon implies that it must tend asymptotically to a
+combination of a Seiberg and an anti-Seiberg c=1 state. For such a state to be
+well behaved asymptotically, it must satisfy the condition that neither its
+Seiberg nor its anti-Seiberg Liouville momentum is positive. Thus, although the
+free-field BRST cohomologies of the underlying SL(2,R)/U(1) theory is the same
+as that of a c=1 theory, the black hole spectrum is drastically truncated:
+THERE ARE NO W_INFINITY STATES, AND ONLY TACHYONS WITH X-MOMENTA | P_TACH | <=
+| M_TACH | ARE ALLOWED. In the Minkowski case only the static tachyon is
+allowed. The black hole is stable to the back reaction of these remaining
+tachyons, so they are good perturbations of the black hole, or ``hair''.
+However, this leaves only 3 tachyonic hairs in the black hole and 7 in the
+exact solution! Such sparse hair is clearly irrelevant to the maintenance of
+coherence during black hole evaporation.
+\\

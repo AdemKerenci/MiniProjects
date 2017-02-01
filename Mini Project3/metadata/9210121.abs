@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9210121
+From: SEN%tifrvax.bitnet@CUNYVM.CUNY.EDU
+Date: Thu, 22 Oct 92 16:29 IST +0530   (17kb)
+
+Title: Marginal Deformations of WZNW and Coset Models from O(d,d)
+  Transformation
+Authors: S.F. Hassan and Ashoke Sen
+Comments: 26 pages, phyzzx.tex, TIFR-TH-92-61
+Journal-ref: Nucl.Phys. B405 (1993) 143-165
+\\
+  We show that O(2,2) transformation of SU(2) WZNW model gives rise to marginal
+deformation of this model by the operator $\int d^2 z J(z)\bar J(\bar z)$ where
+$J$, $\bar J$ are U(1) currents in the Cartan subalgebra. Generalization of
+this result to other WZNW theories is discussed. We also consider O(3,3)
+transformation of the product of an SU(2) WZNW model and a gauged SU(2) WZNW
+model. The three parameter set of models obtained after the transformation is
+shown to be the result of first deforming the product of two SU(2) WZNW
+theories by marginal operators of the form $\sum_{i,j=1}^2 C_{ij} J_i \bar
+J_j$, and then gauging an appropriate U(1) subgroup of the theory. Our analysis
+leads to a general conjecture that O(d,d) transformation of any WZNW model
+corresponds to marginal deformation of the WZNW theory by combination of
+appropriate left and right moving currents belonging to the Cartan subalgebra;
+and O(d,d) transformation of a gauged WZNW model can be identified to the
+gauged version of such marginally deformed WZNW models.
+\\

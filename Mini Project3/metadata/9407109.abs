@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407109
+From: ANDREI JOHANSEN <AJOHANSEN@nbivax.nbi.dk>
+Date: Mon, 18 Jul 1994 19:32:56 +0200   (44kb)
+
+Title: Infinite Conformal Algebras in Supersymmetric Theories on Four Manifolds
+Authors: Andrei Johansen
+Comments: NBI-HE-94-34, Latex, 57 pages
+Journal-ref: Nucl.Phys. B436 (1995) 291-341
+\\
+  We study a supersymmetric theory twisted on a K\"ahler four manifold
+$M=\Sigma_1 \times \Sigma_2 ,$ where $\Sigma_{1,2}$ are 2D Riemann surfaces. We
+demonstrate that it possesses a "left-moving" conformal stress tensor on
+$\Sigma_1$ ($\Sigma_2$) in a BRST cohomology, which generates the Virasoro
+algebra with the conventional commutation relations. The central charge of the
+Virasoro algebra has a purely geometric origin and is proportional to the Euler
+characteristic $\c$ of the $\Sigma_2$ ($\Sigma_1$) surface. It is shown that
+this construction can be extended to include a realization of a Kac-Moody
+algebra in BRST cohomology with a level proportional to the Euler
+characteristic $\c .$ This structure is shown to be invariant under
+renormalization group. A representation of the algebra $W_{1+\infty}$ in terms
+of a free chiral supermultiplet is also given. We discuss the role of
+instantons and a possible relation between the dynamics of 4D Yang-Mills
+theories and those of 2D sigma models.
+\\

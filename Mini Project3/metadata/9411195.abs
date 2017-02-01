@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411195
+From: cliff@hep.Physics.McGill.CA (Cliff Burgess)
+Date: Sun, 27 Nov 94 00:36:44 +0200   (34kb)
+Date (revised): Fri, 24 Feb 95 08:55:13 -0500
+
+Title: Duality and Four-Dimensional Black Holes
+Authors: C.P. Burgess, R.C. Myers and F. Quevedo
+Comments: plain TeX, 37 pages, no figures. We have made some minor improvements
+  in presentation and have included some additional references
+Report-no: McGill-94/41, NEIP-94-008
+Journal-ref: Nucl.Phys. B442 (1995) 97-125
+\\
+  We consider the effects of abelian duality transformations on static,
+spherically-symmetric, asymptotically flat string spacetimes in four
+dimensions, where the dilaton, axion, metric, and gauge fields are allowed to
+be nonzero. Independent of the alpha' expansion, there is a six-parameter
+family of such configurations, labelled by the charges characterizing the
+asymptotic behaviour of the various fields: ie their mass, dilaton charge,
+axion charge, electric charge, magnetic charge, and Taub-NUT parameter. We show
+that duality, based on time-translation invariance, maps these solutions
+amongst themselves, with the effect of interchanging two pairs of these six
+labels, namely: (1) the mass and dilaton charge, and (2) the axion charge and
+the Taub-NUT parameter. We consider in detail the special case of the purely
+Schwarzschild black hole, for which the mass of the dual configuration vanishes
+to leading order in alpha'. Working to next-to-leading order in alpha' for the
+bosonic and heterotic strings, we find that duality takes a black hole of mass
+M to a (singular) solution having mass - 1/(alpha' M). Finally, we argue that
+two solutions which are related by duality based on a noncompact symmetry are
+{\it not} always physically equivalent.
+\\

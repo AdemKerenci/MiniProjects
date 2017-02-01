@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308137
+From: robertb@BOURBAKI.MIT.EDU
+Date: Fri, 27 Aug 1993 16:02:29 -0400 (EDT)   (38kb)
+Date (revised): Wed, 1 Sep 1993 11:15:31 -0400 (EDT)
+
+Title: The $n$-component KP hierarchy and representation theory
+Authors: V.G. Kac and J.W. van de Leur
+\\
+  Starting from free charged fermions we give equivalent definitions of the
+$n\/$-component KP hierarchy, in terms of $\tau\/$-functions $\tau_\alpha\/$
+(where $\alpha \in M =\/$ root lattice of $sl_n\/$), in terms of $n \times n\/$
+matrix valued wave functions $W_\alpha(\alpha\in M)\/$, and in terms of
+pseudodifferential wave operators $P_\alpha(\alpha\in M)\/$. These imply the
+deformation and the zero curvature equations. We show that the 2-component KP
+hierarchy contains the Davey-Stewartson system and the $n\geq3\/$ component KP
+hierarchy continues the $n\/$-wave interaction equations. This allows us to
+construct theis solutions.
+\\

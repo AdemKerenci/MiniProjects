@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9405045
+From: LYAKHOVSKY@phim.niif.spb.su
+Date: Fri, 6 May 1994 16:36:56 +0400 (MSK-DST)   (9kb)
+
+Title: Group-like Structures in Quantum Lie Algebras and the Process of
+  Quantization
+Authors: V. D. Lyakhovsky
+Comments: 10 pages
+Report-no: SPBU-IP-94-2, St.Petersburg
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  For a certain class of Lie bialgebras $(A,A^*)$ the corresponding quantum
+universal enveloping algebras $U_q(A)$ are prooved to be equivalent to quantum
+groups Fun$_q(F^*)$, $F^*$ being the factor group for the dual group $G^*$.
+This property can be used to simplify the process of quantization. The
+described class appears to be wide enough to contain all the standard
+quantizations of infinite series. The properties of the groups $F^*$ are
+explicitly demonstrated for the standard deformations $U_q(SL(n))$. It is shown
+that for different $A^*$ (remaining in the described class of Lie bialgebras)
+the same algorithm leads to the nonstandard quantizations.
+\\

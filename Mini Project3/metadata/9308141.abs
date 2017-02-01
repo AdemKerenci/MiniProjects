@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9308141
+From: Donald Marolf <marolf@phys.psu.edu>
+Date: Mon, 30 Aug 93 14:14:41 EDT   (18kb)
+Date (revised): Fri, 18 Feb 1994 17:06:40 -0500 (EST)
+
+Title: Poisson Bracket on the Space of Histories
+Authors: Donald Marolf
+Comments: 25 pages REVTEX, CGPG-93/8-4 (minor changes made)
+Journal-ref: Annals Phys. 236 (1994) 374-391
+\\
+  We extend the Poisson bracket from a Lie bracket of phase space functions to
+a Lie bracket of functions on the space of canonical histories and investigate
+the resulting algebras. Typically, such extensions define corresponding Lie
+algebras on the space of Lagrangian histories via pull back to a space of
+partial solutions. These are the same spaces of histories studied with regard
+to path integration and decoherence. Such spaces of histories are familiar from
+path integration and some studies of decoherence. For gauge systems, we extend
+both the canonical and reduced Poisson brackets to the full space of histories.
+We then comment on the use of such algebras in time reparameterization
+invariant systems and systems with a Gribov ambiguity, though our main goal is
+to introduce concepts and techniques for use in a companion paper.
+\\

@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9309016
+From: devega@lpthe.jussieu.fr (Hector DE VEGA)
+Date: Thu, 2 Sep 93 18:42:13 +0200   (101kb)
+
+Title: Strings in Cosmological and Black Hole Backgrounds: Ring Solutions
+Authors: H.J. de Vega and I.L. Egusquiza
+Comments: Paris preprint PAR-LPTHE-93/43. Uses phyzzx. Includes figures. Text
+  and figures compressed using uufiles
+Journal-ref: Phys.Rev. D49 (1994) 763-778
+\\
+  The string equations of motion and constraints are solved for a ring shaped
+Ansatz in cosmological and black hole spacetimes. In FRW universes with
+arbitrary power behavior [$R(X^0) = a\;|X^0|^{\a}\, $], the asymptotic form of
+the solution is found for both $X^0 \to 0$ and $X^0 \to \infty$ and we plot the
+numerical solution for all times. Right after the big bang ($X^0 = 0$), the
+string energy decreasess as $ R(X^0)^{-1} $ and the string size grows as $
+R(X^0) $ for $ 0 < \a < 1 $ and as $ X^0 $ for $ \a < 0 $ and $ \a > 1 $. Very
+soon [ $ X^0 \sim 1 $] , the ring reaches its oscillatory regime with frequency
+equal to the winding and constant size and energy. This picture holds for all
+values of $ \a $ including string vacua (for which, asymptotically, $ \a = 1$).
+In addition, an exact non-oscillatory ring solution is found. For black hole
+spacetimes (Schwarzschild, Reissner-Nordstr\oo m and stringy), we solve for
+ring strings moving towards the center. Depending on their initial conditions
+(essentially the oscillation phase), they are are absorbed or not by
+Schwarzschild black holes. The phenomenon of particle transmutation is
+explicitly observed (for rings not swallowed by the hole). An effective horizon
+is noticed for the rings. Exact and explicit ring solutions inside the
+horizon(s) are found. They may be interpreted as strings propagating between
+the different universes described by the full black hole manifold.
+\\

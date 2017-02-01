@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310037
+From: gao@phyq1.physik.uni-freiburg.de (Gao (3795))
+Date: Thu, 7 Oct 93 10:28:11 +0100   (26kb)
+Date (revised): Tue, 5 Apr 94 18:07:56 +0200
+
+Title: Gauging and symplectic blowing up in nonlinear sigma-models: I. point
+  singularities
+Authors: H.B. Gao and H. R\"omer
+Comments: 32 pages, LaTex, THEP 93/24 (corrected and expanded(about 5 pages)
+  version)
+Journal-ref: Z.Phys. C67 (1995) 351-363
+\\
+  In this paper a two dimensional non-linear sigma model with a general
+symplectic manifold with isometry as target space is used to study symplectic
+blowing up of a point singularity on the zero level set of the moment map
+associated with a quasi-free Hamiltonian action. We discuss in general the
+relation between symplectic reduction and gauging of the symplectic isometries
+of the sigma model action. In the case of singular reduction, gauging has the
+same effect as blowing up the singular point by a small amount. Using the
+exponential mapping of the underlying metric, we are able to construct
+symplectic diffeomorphisms needed to glue the blow-up to the global reduced
+space which is regular, thus providing a transition from one symplectic sigma
+model to another one free of singularities.
+\\

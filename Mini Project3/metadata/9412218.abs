@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412218
+From: s292021@ccs.sogang.ac.kr (Park Mu In)
+Date: Tue, 27 Dec 1994 02:06:14 +0900 (KST)   (12kb)
+
+Title: Operator Ordering Problem of the Nonrelativistic Chern-Simons Theory
+Authors: Mu-In Park and Young-Jai Park
+Comments: 18 pages
+Report-no: SOGANG-HEP 190/94
+Journal-ref: Phys.Rev. D50 (1994) 7584-7591
+\\
+  The operator ordering problem due to the quantization or regularization
+ambiguity in the Chern-Simons theory exists. However, we show that this can be
+avoided if we require Galilei covariance of the nonrelativistic Abelian
+Chern-Simons theory even at the quantum level for the extended sources. The
+covariance can be recovered only by choosing some particular operator orderings
+for the generators of the Galilei group depending on the quantization
+ambiguities of the $gauge-matter$ commutation relation. We show that the
+desired ordering for the unusual prescription is not the same as the well-known
+normal ordering but still satisfies all the necessary conditions. Furthermore,
+we show that the equations of motion can be expressed in a similar form
+regardless of the regularization ambiguity. This suggests that the different
+regularization prescriptions do not change the physics. On the other hand, for
+the case of point sources the regularization prescription is uniquely
+determined, and only the orderings, which are equivalent to the usual one, are
+allowed.
+\\

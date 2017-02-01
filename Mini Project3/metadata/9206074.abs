@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9206074
+From: MOROZ@eldp.epfl.ch
+Date: Fri, 19 Jun 1992 15:14:28 +0200   (55kb)
+
+Title: Quantum Field Theory as a Problem of Resummation (Short guide to using
+  summability methods)
+Author: Alexander Moroz
+Comments: Plain latex, 82 pp, 8 figures (ask author)) PhD Thesis, Prague, July
+  1991
+Subj-class: High Energy Physics - Theory; Functional Analysis
+\\
+  Thesis includes review on the large order behaviour of perturbation theory in
+quantum mechanical and field theory models; generalization of the Borel
+summability and strong asymptotic conditions to various (including horn-shaped)
+regions; discussion of analytic aspects of perturbation theory; examples which
+demonstrate differences between the Borel summability and generalized one;
+application to the Rayleigh-Schr\"{o}dinger perturbation theory and to the
+definition of the operator valued functions. The new summability methods
+converges in the whole Mittag-Leffeler star of an analytical function and as
+such is useful for localization of singularities in the complex plane. Their
+position can be calculated even analytically provided large order behaviour of
+the Taylor series is known. Method can be implemented numerically as well.
+\\

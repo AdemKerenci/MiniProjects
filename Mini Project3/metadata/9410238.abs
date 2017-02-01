@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410238
+From: igor@acds16.physik.rwth-aachen.de (Igor Kanatchikov )
+Date: Mon, 31 Oct 1994 21:15:09 +0100 (MET)   (13kb)
+
+Title: Basic structures of the covariant canonical formalism for fields based
+  on the De Donder--Weyl theory
+Authors: Igor V. Kanatchikov
+Comments: 11 pages, Aachen preprint PITHA 94/47
+\\
+  We discuss a field theoretical extension of the basic structures of classical
+analytical mechanics within the framework of the De Donder--Weyl (DW) covariant
+Hamiltonian formulation. The analogue of the symplectic form is argued to be
+the {\em polysymplectic} form of degree $(n+1)$, where $n$ is the dimension of
+space-time, which defines a map between multivector fields or, more generally,
+graded derivation operators on exterior algebra, and forms of various degrees
+which play a role of dynamical variables. The Schouten-Nijenhuis bracket on
+multivector fields induces the graded analogue of the Poisson bracket on forms,
+which turns the exterior algebra of (horizontal) forms to a Gerstenhaber
+algebra. The equations of motion are written in terms of the Poisson bracket on
+forms and it is argued that the bracket with $H\vol$, where $H$ is the DW
+Hamiltonian function and $\vol$ is the horizontal (i.e. space-time) volume
+form, is related to the operation of exterior differentiation of forms.
+\\

@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9312046
+From: ANGLIN@hep.Physics.McGill.CA
+Date: Tue, 7 Dec 1993 2:18:54 -0500 (EST)   (41kb)
+
+Title: Influence functionals and black body radiation
+Authors: J.R. Anglin
+Comments: 46 pages, TeX
+\\
+  The Feynman-Vernon formalism is used to obtain a microscopic, quantum
+mechanical derivation of black body radiation, for a massless scalar field in
+1+1 dimensions, weakly coupled to an environment of finite size. The model
+exhibits the absorption, thermal equilibrium, and emission properties of a
+canonical black body, but shows that the thermal radiation propagates outwards
+from the body, with the Planckian spectrum applying inside a wavefront region
+of finite thickness. The black body environment used in the derivation can be
+considered to represent a very fine, granular medium, such as lampblack. In the
+course of developing the model for black body radiation, thermalization of a
+single harmonic oscillator by a heat bath with slowly varying spectral density
+is demonstrated. Bargmann-Fock coherent state variables, being convenient for
+problems involving harmonic oscillators and free fields, are reviewed and then
+used throughout the paper. An appendix reviews the justification for using
+baths of independent harmonic oscillators to model generic quantum
+environments.
+\\

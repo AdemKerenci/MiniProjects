@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407076
+From: LABASTIDA@GAES.USC.ES
+Date: Thu, 14 Jul 1994 13:37:43 WST   (36kb)
+
+Title: Numerical knot invariants of finite type from Chern-Simons perturbation
+  theory
+Author: M. Alvarez and J. M. F. Labastida
+Comments: 58 pages
+Report-no: US-FT/8-93
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+Journal-ref: Nucl.Phys. B433 (1995) 555-596; Erratum-ibid. B441 (1995) 403-404
+\\
+  Chern-Simons gauge theory for compact semisimple groups is analyzed from a
+perturbation theory point of view. The general form of the perturbative series
+expansion of a Wilson line is presented in terms of the Casimir operators of
+the gauge group. From this expansion new numerical knot invariants are
+obtained. These knot invariants turn out to be of finite type (Vassiliev
+invariants), and to possess an integral representation. Using known results
+about Jones, HOMFLY, Kauffman and Akutsu-Wadati polynomial invariants these new
+knot invariants are computed up to type six for all prime knots up to six
+crossings. Our results suggest that these knot invariants can be normalized in
+such a way that they are integer-valued.
+\\

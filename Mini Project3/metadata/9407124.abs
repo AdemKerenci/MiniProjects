@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407124
+From: Jean-Yves THIBON <Jean-Yves.Thibon@litp.ibp.fr>
+Date: Wed, 20 Jul 1994 12:45:23 +0200   (85kb)
+
+Title: Noncommutative symmetric functions
+Author: Israel Gelfand, D. Krob, Alain Lascoux, B. Leclerc, V. S. Retakh, J.-Y.
+  Thibon
+Comments: 111 pages
+Report-no: LITP 94.39
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  This paper presents a noncommutative theory of symmetric functions, based on
+the notion of quasi-determinant. We begin with a formal theory, corresponding
+to the case of symmetric functions in an infinite number of independent
+variables. This allows us to endow the resulting algebra with a Hopf structure,
+which leads to a new method for computing in descent algebras. It also gives
+unified reinterpretation of a number of classical constructions. Next, we study
+the noncommutative analogs of symmetric polynomials. One arrives at different
+constructions, according to the particular kind of application under
+consideration. For example, when a polynomial with noncommutative coefficients
+in one central variable is decomposed as a product of linear factors, the roots
+of these factors differ from those of the expanded polynomial. Thus, according
+to whether one is interested in the construction of a polynomial with given
+roots or in the expansion of a product of linear factors, one has to consider
+two distinct specializations of the formal symmetric functions. A third type
+appears when one looks for a noncommutative generalization of applications
+related to the notion of characteristic polynomial of a matrix. This
+construction can be applied, for instance, to the noncommutative matrices
+formed by the generators of the universal enveloping algebra $U(gl_n)$ or of
+\\

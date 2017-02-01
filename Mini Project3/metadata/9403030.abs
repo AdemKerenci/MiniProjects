@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9403030
+From: Daniel R D Scott <D.R.D.Scott@damtp.cambridge.ac.uk>
+Date: Fri, 4 Mar 94 14:10:36 GMT   (12kb)
+
+Title: Classical Functional Bethe Ansatz for $SL(N)$: separation of variables
+  for the magnetic chain
+Authors: D.R.D. Scott
+Comments: 14pp LaTex,DAMTP 94-17
+Journal-ref: J.Math.Phys. 35 (1994) 5831-5843
+\\
+  The Functional Bethe Ansatz (FBA) proposed by Sklyanin is a method which
+gives separation variables for systems for which an $R$-matrix is known.
+Previously the FBA was only known for $SL(2)$ and $SL(3)$ (and associated)
+$R$-matrices. In this paper I advance Sklyanin's program by giving the FBA for
+certain systems with $SL(N)$ $R$-matrices. This is achieved by constructing
+rational functions $\A(u)$ and $\B(u)$ of the matrix elements of $T(u)$, so
+that, in the generic case, the zeros $x_i$ of $\B(u)$ are the separation
+coordinates and the $P_i=\A(x_i)$ provide their conjugate momenta. The method
+is illustrated with the magnetic chain and the Gaudin model, and its wider
+applicability is discussed.
+\\

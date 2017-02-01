@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412054
+From: georgiev@lagrange.rutgers.edu (galin georgiev)
+Date: Tue, 6 Dec 94 15:04:16 EST   (38kb)
+Date (revised): Fri, 27 Jan 95 09:09:37 EST
+
+Title: Combinatorial constructions of modules for infinite-dimensional Lie
+  algebras, I. Principal subspace
+Author: Galin Georgiev (Rutgers)
+Comments: 43 pages, latex, two tables; revised and extended version
+Report-no: part I
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  This is the first of a series of papers studying combinatorial (with no
+``subtractions'') bases and characters of standard modules for affine Lie
+algebras, as well as various subspaces and ``coset spaces'' of these modules.
+In part I we consider certain standard modules for the affine Lie algebra
+$\ga,\;\g := sl(n+1,\C),\;n\geq 1,$ at any positive integral level $k$ and
+construct bases for their principal subspaces (introduced and studied recently
+by Feigin and Stoyanovsky [FS]). The bases are given in terms of partitions: a
+color $i,\;1\leq i \leq n,$ and a charge $s,\; 1\leq s \leq k,$ are assigned to
+each part of a partition, so that the parts of the same color and charge comply
+with certain difference conditions. The parts represent ``Fourier
+coefficients'' of vertex operators and can be interpreted as
+``quasi-particles'' enjoying (two-particle) statistical interaction related to
+the Cartan matrix of $\g.$ In the particular case of vacuum modules, the
+character formula associated with our basis is the one announced in [FS]. New
+combinatorial characters are proposed for the whole standard vacuum
+$\ga$-modules at level one.
+\\

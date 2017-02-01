@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304002
+From: devega@lpthe.jussieu.fr (Hector DE VEGA)
+Date: Thu, 1 Apr 93 17:27:30 +0200   (23kb)
+Date (revised): Fri, 2 Apr 93 12:02:00 +0200
+Date (revised): Tue, 6 Apr 93 15:28:26 +0200
+Date (revised): Sat, 17 Apr 93 16:14:55 +0200
+
+Title: The Two-Dimensional Stringy Black-Hole: A New Approach and a Pathology
+Authors: H.J. de Vega, J. Ram\'irez Mittelbrun, M. Ram\'on Medrano and N.
+  S\'anchez
+Comments: 32 pages, uses phyzzx
+Report-no: LPTHE 93/14
+Journal-ref: Int.J.Mod.Phys. A11 (1996) 1463-1488
+\\
+  The string propagation in the two-dimensional stringy black-hole is
+investigated from a new approach. We completely solve the classical and quantum
+string dynamics in the lorentzian and euclidean regimes. In the lorentzian case
+all the physics reduces to a massless scalar particle described by a
+Klein-Gordon type equation with a singular effective potential. The scattering
+matrix is found and it reproduces the results obtained by coset CFT techniques.
+It factorizes into two pieces : an elastic coulombian amplitude and an
+absorption part. In both parts, an infinite sequence of imaginary poles in the
+energy appear. The generic features of string propagation in curved
+D-dimensional backgrounds (string stretching, fall into spacetime
+singularities) are analyzed in the present case. A new physical phenomenon
+specific to the present black-hole is found : the quantum renormalization of
+the speed of light. We find $c_{quantum} = \sqrt{{k\o{k-2}}}~c_{classical}$,
+where $k$ is the integer in front of the WZW action. This feature is, however,
+a pathology. Only for $ k \to \infty$ the pathology disappears (although the
+conformal anomaly is present). We analyze all the classical euclidean string
+solutions and exactly compute the quantum partition function. No critical
+Hagedorn temperature appears here.
+\\

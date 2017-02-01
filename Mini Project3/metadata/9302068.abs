@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9302068
+From: David McAvity <dmm@damtp.cambridge.ac.uk>
+Date: Mon, 15 Feb 93 14:26:53 GMT   (21kb)
+Date (revised): Tue, 16 Feb 93 11:37:25 GMT
+
+Title: Energy Momentum Tensor in Conformal Field Theories Near a Boundary
+Authors: D.M. McAvity and H. Osborn
+Comments: 22 pages, TeX with epsf.tex, DAMTP/93-1. (original uuencoded file was
+  corrupted enroute - resubmitted version has uuencoded figures pasted to the
+  ended of the Plain TeX file)
+Journal-ref: Nucl.Phys. B406 (1993) 655-680
+\\
+  The requirements of conformal invariance for the two point function of the
+energy momentum tensor in the neighbourhood of a plane boundary are
+investigated, restricting the conformal group to those transformations leaving
+the boundary invariant. It is shown that the general solution may contain an
+arbitrary function of a single conformally invariant variable $v$, except in
+dimension 2. The functional dependence on $v$ is determined for free scalar and
+fermion fields in arbitrary dimension $d$ and also to leading order in the
+$\vep$ expansion about $d=4$ for the non Gaussian fixed point in $\phi^4$
+theory. The two point correlation function of the energy momentum tensor and a
+scalar field is also shown to have a unique expression in terms of $v$ and the
+overall coefficient is determined by the operator product expansion. The energy
+momentum tensor on a general curved manifold is further discussed by
+considering variations of the metric. In the presence of a boundary this
+procedure naturally defines extra boundary operators. By considering
+diffeomorphisms these are related to components of the energy momentum tensor
+on the boundary. The implications of Weyl invariance in this framework are also
+derived.
+\\

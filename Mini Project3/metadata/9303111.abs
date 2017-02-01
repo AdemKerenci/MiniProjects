@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9303111
+From: sah@math.sunysb.edu (Chih-Han sah)
+Date: Fri, 19 Mar 93 10:40:27 EST   (21kb)
+
+Title: Dilogarithm Identities in Conformal Field Theory and Group Homology
+Author: J. L. Dupont (Aarhus) and C. H. Sah (SUNY Stony Brook)
+Comments: 20 pages, 2 figures not included
+Subj-class: High Energy Physics - Theory; Classical Analysis and ODEs
+Journal-ref: Commun.Math.Phys. 161 (1994) 265-282
+\\
+  Recently, Rogers' dilogarithm identities have attracted much attention in the
+setting of conformal field theory as well as lattice model calculations. One of
+the connecting threads is an identity of Richmond-Szekeres that appeared in the
+computation of central charges in conformal field theory. We show that the
+Richmond-Szekeres identity and its extension by Kirillov-Reshetikhin can be
+interpreted as a lift of a generator of the third integral homology of a finite
+cyclic subgroup sitting inside the projective special linear group of all $2
+\times 2$ real matrices viewed as a {\it discrete} group. This connection
+allows us to clarify a few of the assertions and conjectures stated in the work
+of Nahm-Recknagel-Terhoven concerning the role of algebraic $K$-theory and
+Thurston's program on hyperbolic 3-manifolds. Specifically, it is not related
+to hyperbolic 3-manifolds as suggested but is more appropriately related to the
+group manifold of the universal covering group of the projective special linear
+group of all $2 \times 2$ real matrices viewed as a topological group. This
+also resolves the weaker version of the conjecture as formulated by Kirillov.
+We end with the summary of a number of open conjectures on the mathematical
+side.
+\\

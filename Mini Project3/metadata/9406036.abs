@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406036
+From: Alejandro uribe <Alejandro.Uribe@math.lsa.umich.edu>
+Date: Tue, 7 Jun 1994 15:31:27 -0400   (36kb)
+
+Title: Legendrian Distributions with Applications to Poincar\'e Series
+Authors: D. Borthwick, T. Paul and A. Uribe
+Comments: 41 pages, LaTeX
+\\
+  Let $X$ be a compact Kahler manifold and $L\to X$ a quantizing holomorphic
+Hermitian line bundle. To immersed Lagrangian submanifolds $\Lambda$ of $X$
+satisfying a Bohr-Sommerfeld condition we associate sequences $\{ |\Lambda,
+k\rangle \}_{k=1}^\infty$, where $\forall k$ $|\Lambda, k\rangle$ is a
+holomorphic section of $L^{\otimes k}$. The terms in each sequence concentrate
+on $\Lambda$, and a sequence itself has a symbol which is a half-form,
+$\sigma$, on $\Lambda$. We prove estimates, as $k\to\infty$, of the norm
+squares $\langle \Lambda, k|\Lambda, k\rangle$ in terms of $\int_\Lambda
+\sigma\overline{\sigma}$. More generally, we show that if $\Lambda_1$ and
+$\Lambda_2$ are two Bohr-Sommerfeld Lagrangian submanifolds intersecting
+cleanly, the inner products $\langle\Lambda_1, k|\Lambda_2, k\rangle$ have an
+asymptotic expansion as $k\to\infty$, the leading coefficient being an integral
+over the intersection $\Lambda_1\cap\Lambda_2$. Our construction is a
+quantization scheme of Bohr-Sommerfeld Lagrangian submanifolds of $X$. We prove
+that the Poincar\'e series on hyperbolic surfaces are a particular case, and
+therefore obtain estimates of their norms and inner products.
+\\

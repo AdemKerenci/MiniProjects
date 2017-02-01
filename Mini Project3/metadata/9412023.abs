@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412023
+From: palo@nxth04.cern.ch
+Date: Fri, 2 Dec 94 19:12:43 +0100   (14kb)
+Date (revised): Sat, 3 Dec 94 11:12:15 +0100
+Date (revised): Wed, 21 Dec 94 16:06:15 +0100
+Date (revised): Mon, 13 Mar 95 10:53:27 +0100
+
+Title: On the Characterization of Classical Dynamical Systems Using
+  Supersymmetric Nonlinear $\sigma$-models
+Authors: A.J. Niemi and K. Palo
+Comments: essentially revised, 18 pages, latex (run twice)
+Report-no: CERN-TH.7512/94, UU-ITP 18-1994
+\\
+  We construct a two dimensional nonlinear $\sigma$-model that describes the
+Hamiltonian flow in the loop space of a classical dynamical system. This model
+is obtained by equivariantizing the standard N=1 supersymmetric nonlinear
+$\sigma$-model by the Hamiltonian flow. We use localization methods to evaluate
+the corresponding partition function for a general class of integrable systems,
+and find relations that can be viewed as generalizations of standard relations
+in classical Morse theory.
+\\

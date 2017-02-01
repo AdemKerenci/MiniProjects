@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9310007
+From: Roger Brooks <rog@ctpup.mit.edu>
+Date: Fri, 1 Oct 93 11:30:11 -0400   (28kb)
+Date (revised): Mon, 4 Oct 93 10:54:07 -0400
+Date (revised): Thu, 4 Nov 93 10:18:57 -0400
+
+Title: The Cosmological Constant and Volume-Preserving Diffeomorphism
+  Invariants
+Authors: R. Brooks
+Comments: 31 pgs, 3 figs (seperate file), Latex, CTP-2247
+Journal-ref: Nucl. Phys. B423 (1994) 197
+\\
+  Observables in the quantum field theories of $(D-1)$-form fields, $\ca$, on
+$D$-dimensional, compact and orientable manifolds, $M$, are computed.
+Computations of the vacuum value of $T_{ab}$ find it to be the metric times a
+function of the volume of spacetime, $\Omega(M)$. Part of this function of
+$\Omega$ is a finite zero-mode contribution. The correlation functions of
+another set of operators give intersection numbers on $M$. Furthermore, a
+similar computation for products of Wilson area operators results in a function
+of the volumes of the intersections of the submanifolds the operators are
+defined on. In addition, scalar field couplings are introduced and potentials
+are induced after integrating out the $\ca$ field. Lastly, the thermodynamics
+of the pure theories is found to be analogous to the zero-point motion of a
+scalar particle. The coupling of a Gaussian scalar field to the $\ca$ field is
+found to manifest itself on the free energy at high temperatures and/or small
+volumes.
+\\

@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306078
+From: MODANESE@PIERRE.MIT.EDU
+Date: Thu, 17 Jun 1993 5:16:52 -0400 (EDT)   (12kb)
+Date (revised): Mon, 8 Nov 1993 13:15:16 -0500 (EST)
+
+Title: A formula for the static potential energy in quantum gravity
+Authors: Giovanni Modanese (Center for Theoretical Physics, M.I.T., Cambridge,
+  MA U.S.A.)
+Comments: 13 pages, LaTex, report CTP #2217, June 1993. -- REVISED VERSION: the
+  section "Interaction energy versus ADM energy has been rewritten"
+\\
+  We give a general expression for the static potential energy of the
+gravitational interaction of two massive particles, in terms of an invariant
+vacuum expectation value of the quantized gravitational field. This formula
+holds for functional integral formulations of euclidean quantum gravity,
+regularized to avoid conformal instability. It could be regarded as the
+analogue of the Wilson loop for gauge theories and allows in principle, through
+numerical simulations or other approximation techniques, non perturbative
+evaluations of the potential or of the effective coupling constant. The
+geometrical meaning of this expression is quite simple, as it represents the
+``average proper-time delay'', respect to two neighboring lines, of a very long
+geodesic with unit timelike tangent vector.
+\\

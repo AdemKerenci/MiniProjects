@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412146
+From: garrahan@hera.cnea.edu.ar (Juan P. Garrahan)
+Date: Fri, 16 Dec 94 12:14:07-030   (16kb)
+
+Title: Becchi-Rouet-Stora-Tyutin quantization of a soliton model in 2+1
+  dimensions
+Authors: J. P. Garrahan, L. M. Kruczenski, C. L. Schat, D. R. Bes and N. N.
+  Scoccola
+Comments: 24 pages REVTEX, 1 figure, uses FEYNMAN package. To be published in
+  Phys. Rev. D
+Report-no: TAN-FNT-94/10
+Journal-ref: Phys.Rev. D51 (1995) 2950-2958
+\\
+  The Becchi-Rouet-Stora-Tyutin (BRST) method is applied to the quantization of
+the solitons of the non-linear $O(3)$ model in $2+1$ dimensions. We show that
+this method allows for a simple and systematic treatment of zero-modes with a
+non-commuting algebra. We obtain the expression of the BRST hamiltonian and
+show that the residual interaction can be perturbatively treated in an
+IR-divergence-free way. As an application of the formalism we explicitly
+evaluate the two-loop correction to the soliton mass.
+\\

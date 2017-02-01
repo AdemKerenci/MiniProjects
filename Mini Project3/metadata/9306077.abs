@@ -1,0 +1,24 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306077
+From: "Andrei Matytsin" <matytsin@puhep1.Princeton.EDU>
+Date: Wed, 16 Jun 93 21:49:38 EDT   (11kb)
+
+Title: On the Large N Limit of the Itzykson-Zuber Integral
+Authors: A. Matytsin
+Comments: 19 pages
+Journal-ref: Nucl. Phys. B411 (1994) 805
+\\
+  We study the large N limit of the Itzykson -- Zuber integral and show that
+the leading term is given by the exponent of an action functional for the
+complex inviscid Burgers (Hopf) equation evaluated on its particular classical
+solution; the eigenvalue densities that enter in the IZ integral being the
+imaginary parts of the boundary values of this solution. We show how this
+result can be applied to ``induced QCD" with an arbitrary potential $U(x)$. We
+find that for a nonsingular $U(x)$ in one dimension the eigenvalue density
+$\rho(x)$ at the saddle point is the solution of the functional equation
+$G_{+}(G_{-}(x))=G_{-}(G_{+}(x))=x$, where $G_{\pm}(x) \equiv
+{1\over{2}}U^{\prime}(x)\pm i\pi \rho(x)$. As an illustration we present a
+number of new particular solutions of the $c=1$ matrix model on a discrete real
+line.
+\\

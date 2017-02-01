@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401055
+From: bruegman@iws170.MPPMU.MPG.DE (B. Bruegmann)
+Date: Thu, 13 Jan 1994 12:09:57 +0100   (30kb)
+
+Title: On a geometric derivation of Witten's identity for Chern-Simons theory
+Authors: Bernd Bruegmann
+Comments: 19 pages, LaTeX, MPI-Ph/93-107
+\\
+  We present a formal but simple calculational scheme to relate the expectation
+value of Wilson loops in Chern-Simons theory to the Jones polynomial. We
+consider the exponential of the generator of homotopy transformations which
+produces the finite loop deformations that define the crossing change formulas
+of knot polynomials. Applying this operator to the expectation value of Wilson
+loops for an unspecified measure we find a set of conditions on the measure and
+the regularization such that the Jones polynomial is obtained.
+\\

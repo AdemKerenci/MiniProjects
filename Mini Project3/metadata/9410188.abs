@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9410188
+From: chered@math.unc.edu (Ivan Cherednik)
+Date: Tue, 25 Oct 1994 13:20:31 +0500   (28kb)
+
+Title: Difference-elliptic operators and root systems
+Author: Ivan Cherednik
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Recently a new technique in the harmonic analysis on symmetric spaces was
+suggested based on certain remarkable representations of affine and double
+affine Hecke algebras in terms of Dunkl and Demazure operators instead of Lie
+groups and Lie algebras. In the classic case it resulted (among other
+applications) in a new theory of radial part of Laplace operators and their
+deformations including a related concept of the Fourier transform.
+  In the present paper we demonstrate that the new technique works well even in
+the most general difference-elliptic case conjecturally corresponding to the
+$q$-Kac-Moody algebras. We discuss here only the construction of the
+generalized radial (zonal) Laplace operators and connect them with the
+difference-elliptic Ruijsenaars operators generalizing in its turn the
+Olshanetsky-Perelomov differential elliptic operators.
+\\

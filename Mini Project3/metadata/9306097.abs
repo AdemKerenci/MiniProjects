@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306097
+From: C0440%JPNOCHA1.BITNET@Csa3.LBL.Gov (Shin'ichi Nojiri)
+Date: Sun, 20 Jun 93 23:19:45 PDT   (16kb)
+
+Title: Black Hole Physics from Two Dimensional Dilaton Gravity based on
+  $SL(2,R)/U(1)$ Coset Model
+Authors: Shin'ich Nojiri and Ichiro Oda
+Comments: NDA-FP-12/93, OCHA-PP-33, INS-Rep.987
+Journal-ref: Phys.Rev. D49 (1994) 4066-4077
+\\
+  We analyze quantum two dimensional dilaton gravity model, which is described
+by $SL(2,R)/U(1)$ gauged Wess-Zumino-Witten model deformed by $(1,1)$ operator.
+We show that the curvature singularity does not appear when the central charge
+$c_{\rm matter}$ of the matter fields is given by $22<c_{\rm matter}<24$. When
+$22<c_{\rm matter}<24$, the matter shock waves, whose energy momentum tensors
+are given by $T_{\rm matter} \propto \delta(x^+ - x^+_0)$, create a kind of
+wormholes, {\it i.e.,} causally disconnected regions. Most of the quantum
+informations in past null infinity are lost in future null infinity but the
+lost informations would be carried by the wormholes.
+  We also discuss about the problem of defining the mass of quantum black
+holes. On the basis of the argument by Regge and Teitelboim, we show that the
+ADM mass measured by the observer who lives in one of asymptotically flat
+regions is finite and does not vanish in general. On the other hand, the Bondi
+mass is ill-defined in this model. Instead of the Bondi mass, we consider the
+mass measured by observers who live in an asymptotically flat region at first.
+A class of the observers finds the mass of the black hole created by a shock
+wave changes as the observers' proper time goes by, i.e. they observe the
+Hawking radiation. The measured mass vanishes after the infinite proper time
+and the black hole evaporates completely. Therefore the total Hawking radiation
+is positive even when $N<24$.
+\\

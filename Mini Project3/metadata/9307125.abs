@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307125
+From: Desmond Johnston <des@cara.ma.hw.ac.uk>
+Date: Tue, 20 Jul 93 10:28:35 BST   (7kb)
+
+Title: Ising (anti-)ferromagnet on dynamical triangulations and
+  quadrangulations
+Authors: D. Johnston
+Comments: 5 pages, latex
+Journal-ref: Phys. Lett. B314 (1993) 69-73
+\\
+  We write down matrix models for Ising spins with zero external field on the
+vertices of dynamical triangulated random surfaces (DTRS) and dynamically
+quadrangulated random surfaces (DQRS) and compare these with the standard
+matrix model approach which places the spins on the dual $\phi^3$ and $\phi^4$
+graphs. We show that the critical temperatures calculated in the DTRS and DQRS
+models agree with those deduced from duality arguments in the standard
+approach. Using the DQRS model we observe that the Ising antiferromagnet still
+undergoes a phase transition to a Neel (checkerboard) ordered ground state
+which is absent because of frustration in the other cases.
+\\

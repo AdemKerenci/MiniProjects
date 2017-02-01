@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9205097
+From: montag@max.physics.sunysb.edu (Lee Montag)
+Date: Wed, 27 May 92 10:33:59 EDT   (15kb)
+
+Title: The One-Loop Five-Graviton Scattering Amplitude and Its Low-Energy Limit
+Authors: J. Lee Montag
+Comments: 23 pages, ITP-SB-92-63
+Journal-ref: Nucl. Phys. B393 (1993) 337
+\\
+  A covariant path integral calculation of the even spin structure contribution
+to the one-loop N-graviton scattering amplitude in the type-II superstring
+theory is presented. The apparent divergence of the $N=5$ amplitude is resolved
+by separating it into twelve independent terms corresponding to different
+orders of inserting the graviton vertex operators. Each term is well defined in
+an appropriate kinematic region and can be analytically continued to physical
+regions where it develops branch cuts required by unitarity. The zero-slope
+limit of the $N=5$ amplitude is performed, and the Feynman diagram content of
+the low-energy field theory is examined. Both one-particle irreducible (1PI)
+and one-particle redicible (1PR) graphs with massless internal states are
+generated in this limit. One set of 1PI graphs has the same divergent
+dependence on the cut-off as that found in the four-graviton case, and it is
+proved that such graphs exist for all~$N$. The 1PR graphs are contributed by
+the poles in the world-sheet chiral Green functions.
+\\

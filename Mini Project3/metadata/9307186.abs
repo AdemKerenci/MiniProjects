@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9307186
+From: dkhong@hyowon.pusan.ac.kr (Deogki Hong )
+Date: Fri, 30 Jul 1993 16:10:24 +0900   (10kb)
+Date (revised): Tue, 10 May 1994 18:53:29 GMT
+
+Title: Large-N analysis of (2+1)-dimensional Thirring model
+Authors: D. K. Hong and S. H. Park
+Comments: 14 pages Latex. (Revised version: some changes have been made and
+  references added.) To appear in Phys. Rev. D, SNUTP 93-47
+Journal-ref: Phys.Rev. D49 (1994) 5507-5511
+\\
+  We analyze $(2+1)$-dimensional vector-vector type four-Fermi interaction
+(Thirring) model in the framework of the $1/N$ expansion. By solving the
+Dyson-Schwinger equation in the large-$N$ limit, we show that in the
+two-component formalism the fermions acquire parity-violating mass dynamically
+in the range of the dimensionless coupling $\alpha$, $0 \leq \alpha \leq
+\alpha_c \equiv {1\over16} {\rm exp} (- {N \pi^2 \over 16})$. The symmetry
+breaking pattern is, however, in a way to conserve the overall parity of the
+theory such that the Chern-Simons term is not induced at any orders in $1/N$.
+$\alpha_c$ turns out to be a non-perturbative UV-fixed point in $1/N$. The
+$\beta$ function is calculated to be $\beta (\alpha) = -2 (\alpha - \alpha_c)$
+near the fixed point, and the UV-fixed point and the $\beta$ function are shown
+exact in the $1/N$ expansion.
+\\

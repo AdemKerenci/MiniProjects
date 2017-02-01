@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9411080
+From: Tobias Hurth <hurth@sonne.physik.unizh.ch>
+Date: Fri, 11 Nov 94 10:39:19 MET   (66kb)
+Date (revised): Tue, 15 Nov 94 12:35:13 MET
+Date (revised): Sat, 13 May 1995 17:19:28 +0100 (MET DST)
+Date (revised): Thu, 2 May 96 8:01:43 MET DST
+
+Title: Nonabelian Gauge Theories: The Causal Approach
+Author: Tobias Hurth
+Comments: 77 pages, latex, no figures, final version
+Report-no: Zuerich University Preprint ZU-TH-36/94
+Journal-ref: Annals Phys. 244 (1995) 340-425
+\\
+  We present the causal construction of perturbative Yang-Mills theories in
+four(3+1)-dimensional space-time. We work with free quantum fields throughout.
+The inductive causal method by Epstein and Glaser leads directly to a finite
+perturbation series and does not rely on an intermediary regularization of the
+theory. The causal method naturally separates the physical infrared problem of
+massless theories from ultraviolet-sensitive features like normalizability by
+regarding the distributional character of the S-matrix. We prove the
+normalizability of the Yang-Mills theory with fermionic matter fields and study
+the discrete symmetry transformations in the causal formalism. We introduce a
+definition of nonabelian gauge invariance which only involves the free
+asymptotic field operators and give mathematically rigorous and conceptually
+simple proofs of nonabelian gauge invariance and of the physical unitarity of
+the S-matrix in all orders of perturbation theory.
+\\

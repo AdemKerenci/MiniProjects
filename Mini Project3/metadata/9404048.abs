@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9404048
+From: chekhov@qft.mian.su (Leonid O.Chekhov)
+Date: Fri, 8 Apr 94 15:11:23 +0300 (MSD)   (18kb)
+
+Title: $L$-functions in Scattering on $p$-adic Multiloop Surfaces
+Authors: L.Chekhov
+Comments: 18 pp. in LaTeX, [12pt], Steklov Math. Inst. prepr. #10
+Journal-ref: J.Math.Phys. 36 (1995) 414-425
+\\
+  We study scattering processes on $p$-adic multiloop surfaces represented as
+multiloop infinite graphs with total valence in each vertex equal $p+1$. They
+all are spaces of the constant negative curvature since they are quotients of
+the $p$-adic hyperbolic plane over free acting discrete subgroup of $PGL(2,
+{\bf Q}_p)$. Releasing the closed part of this graph containing all loops which
+is called reduced graph $T_{red}$ we can obtain $L$-function corresponding to
+this closed graph. For the total graph we introduce the notion of the spherical
+functions being eigenfunctions of the Laplace operator acting on the graph and
+consider $s$--wave scattering processes therefore defining scattering matrices
+$c_i$. The number of possibilities coincides with $|\T_{red}|$ --- the number
+of vertices of the reduced graph. Taking the product over all $c_i$ we define
+the total scattering matrix which appears to be essentially presented as a
+ratio of $L$--functions: $C\sim L(\alpha_+)/L(\alpha_-)$, where the function
+$L$ itself depends only on the shape of $\Tr$ and not on the initial infinite
+graph, and the only dependence of initial $p$ is contained in arguments
+$\alpha_\pm$ defined by $p$ and eigenvalue $t$ of the Laplacian. We also
+present a proof by H.Bass of the theorem expressing $L$--functions on arbitrary
+finite graphs via determinants of some local operators on these graphs.
+\\

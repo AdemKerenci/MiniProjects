@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9406097
+From: VALENTIN <VALENTIN@shs.no>
+Date: Wed, 15 Jun 1994 14:23:19 MET   (30kb)
+
+Title: Calculus and Quantizations over Hopf algebras
+Authors: Valentin Lychagin
+Comments: 46 pages,AMSTEX 2.1
+\\
+  In this paper we outline an approach to calculus over quasitriangular Hopf
+algebras. We study differential operators in the framework of monoidal
+categories equipped with a braiding or symmetry. To be more concrete, we choose
+as an example the category of modules over quasitriangular Hopf algebra. We
+introduce braided differential operators in a pure algebraic manner.This gives
+us a possibility to develop calculus in an intrinsic way without enforcing any
+type of Leibniz rule. A general notion of quantization in monoidal categories,
+proposed in this paper, is a natural isomorphism of the tensor product
+bifunctor equipped with some natural coherence conditions. The quantization
+"deforms" all algebraic and differential objects in the monoidal category. We
+suggest two ways for calculation of quantizations. One of them reduces the
+calculation to non-linear cohomologies. THe other describes quantizations in
+terms of multiplicative Hochschild cohomologies of the Grothendieck ring of the
+given monoidal category. These constructions are illustrated by some examples.
+\\

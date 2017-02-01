@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412039
+From: mgrabows@phy.ulaval.ca (Marek Grabowski)
+Date: Mon, 5 Dec 1994 15:45:55 +0500   (27kb)
+
+Title: Integrability Test for Spin Chains
+Authors: M. P. Grabowski and P. Mathieu
+Comments: 29 pages in plain TeX plus 1 uuencoded figure, uses macros
+  harvmac.tex and epsf.tex
+Report-no: LAVAL-PHY-22/94
+Journal-ref: J.Phys. A28 (1995) 4777-4798
+\\
+  We examine a simple heuristic test of integrability for quantum chains. This
+test is applied to a variety of systems, including a generic isotropic spin-1
+model with nearest-neighbor interactions and a multiparameter family of
+spin-1/2 models generalizing the XYZ chain, with next-to-nearest neighbor
+interactions and bond alternation. Within the latter family we determine all
+the integrable models with an o(2) symmetry.
+\\

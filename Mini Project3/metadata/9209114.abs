@@ -1,0 +1,20 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9209114
+From: waltonm@hg.uleth.ca
+Date: Mon, 28 Sep 1992 18:23:13 MDT   (5kb)
+
+Title: Crystallising the Depth Rule for WZNW Fusion Coefficients
+Authors: A.N. Kirillov, P. Mathieu, D. S\'en\'echal and M.A. Walton
+Comments: 5 pages, harvmac, LETH-PHY-9/92 (LAVAL-PHY-23/92)
+\\
+  Motivated by a formula (due to Zelobenko) for finite Lie algebra tensor
+products, we propose a reformulation of the Gepner-Witten depth rule.
+Implementation of this rule remains difficult, however, since the basis states
+convenient for calculating tensor product coefficients do not have a
+well-defined depth. To avoid this problem, we present a `crystal depth rule',
+that gives a lower bound for the minimum level at which a WZNW fusion appears.
+The bound seems to be quite accurate for $su(N>3),$ and for $su(3)$ the rule is
+proven to be exact. (Talk presented by M.W. at the XIXth International
+Colloquium on Group Theoretical Methods in Physics.)
+\\

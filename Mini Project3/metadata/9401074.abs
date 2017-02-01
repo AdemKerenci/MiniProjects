@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9401074
+From: BREKKE@UICWS.PHY.UIC.EDU
+Date: Fri, 14 Jan 1994 16:55:05 -0600 (CST)   (31kb)
+
+Title: Spinning Particles, Braid Groups and Solitons
+Authors: Lee Brekke, Michael J. Dugan and Tom D. Imbo
+Comments: harvmac, 34 pages, HUTP-93/A037; UICHEP-TH/93-18; BUHEP-93-29
+Journal-ref: Nucl. Phys. B431 (1994) 349-377
+\\
+  We develop general techniques for computing the fundamental group of the
+configuration space of $n$ identical particles, possessing a generic internal
+structure, moving on a manifold $M$. This group generalizes the $n$-string
+braid group of $M$ which is the relevant object for structureless particles. In
+particular, we compute these generalized braid groups for particles with an
+internal spin degree of freedom on an arbitrary $M$. A study of their unitary
+representations allows us to determine the available spectrum of spin and
+statistics on $M$ in a certain class of quantum theories. One interesting
+result is that half-integral spin quantizations are obtained on certain
+manifolds having an obstruction to an ordinary spin structure. We also compare
+our results to corresponding ones for topological solitons in
+$O(d+1)$-invariant nonlinear sigma models in $(d+1)$-dimensions, generalizing
+recent studies in two spatial dimensions. Finally, we prove that there exists a
+general scalar quantum theory yielding half-integral spin for particles (or
+$O(d+1)$ solitons) on a closed, orientable manifold $M$ if and only if $M$
+possesses a ${\rm spin}_c$ structure.
+\\

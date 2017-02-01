@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9412037
+From: dong@math.UCSC.EDU (Chongying Dong)
+Date: Mon, 5 Dec 94 11:09:46 PST   (20kb)
+
+Title: On quantum Galois theory
+Authors: Chongying Dong and Geoffrey Mason
+Comments: 25 pages, latex, no figures
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  For a simple vertex operator algebra $V$ and a finite automorphism group $G$
+of $V$ then $V$ is a direct sum of $V^{\chi}$ where $\chi$ are irreducible
+character of $G$ and $V^{\chi}$ is the subspace of $V$ which $G$ acts according
+to the character $\chi.$ We prove the following: 1. Each $V^{\chi}$ is nonzero.
+2. $V^{\chi}$ is a tensor product $M_{\chi}\otimes V_{\chi}$ where $M_{\chi}$
+is an irreducible $G$-module affording $\chi$ and $V_{\chi}$ is a $V^G$-module.
+If $G$ is solvable, $V_{\chi}$ is a simple $V^G$-module and $M_{\chi}\mapsto
+$V_{\chi}$ is a bijection from the set of irreducible $G$-modules to the set of
+(inequivalent) simple $V^G$-modules which are contained in $V.$
+\\

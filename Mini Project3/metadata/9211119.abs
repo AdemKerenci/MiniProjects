@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9211119
+From: zaslow@string.harvard.edu (Eric Zaslow)
+Date: Wed, 25 Nov 92 01:09:01 -0500   (34kb)
+
+Title: Topological Orbifold Models and Quantum Cohomology Rings
+Authors: Eric Zaslow
+Comments: 48 pages, harvmac, HUTP-92/A065
+Journal-ref: Commun.Math.Phys. 156 (1993) 301-332
+\\
+  We discuss the toplogical sigma model on an orbifold target space. We
+describe the moduli space of classical minima for computing correlation
+functions involving twisted operators, and show, through a detailed computation
+of an orbifold of ${\bf CP}^1$ by the dihedral group $D_{4},$ how to compute
+the complete ring of observables. Through this procedure, we compute all the
+rings from dihedral ${\bf CP}^1$ orbifolds; we note a similarity with rings
+derived from perturbed $D-$series superpotentials of the $A-D-E$ classification
+of $N = 2$ minimal models. We then consider ${\bf CP}^2/D_4,$ and show how the
+techniques of topological-anti-topological fusion might be used to compute
+twist field correlation functions for nonabelian orbifolds.
+\\

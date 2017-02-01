@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311053
+From: zeluiz@cbpfsu1.cat.cbpf.br (Jose Luiz Matheus Valle)
+Date: Tue, 9 Nov 93 14:09:27 EDT   (10kb)
+
+Title: Anyonic Construction of the $SL_{Q,s}(2)$ Algebra
+Authors: J.L. Matheus-Valle and M.R-Monteiro
+Comments: 15 pages, latex, CBPF-NF-062/93 (save the file eqnus.sty, included
+  AFTER the {\end{document}}, on the directory you are running latex)
+Journal-ref: Mod.Phys.Lett. A9 (1994) 945-954
+\\
+  Considering anyonic oscillators in a two-dimensional lattice, we realize the
+quantum semi-group $sl_{(q,s)}(2)$ by means of a generalized Schwinger
+construction. We find that the parameter $q$ of the algebra is connected to the
+statistical parameter, whereas the $s$ parameter is related to a $s$-deformed
+oscillator introduced at each point of the lattice.
+\\

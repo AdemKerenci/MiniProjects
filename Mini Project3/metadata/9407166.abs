@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407166
+From: Marco Vekic <mvekic@salar.physics.ucsb.edu>
+Date: Mon, 25 Jul 1994 11:44:15 -0700   (411kb)
+Date (revised): Tue, 26 Jul 1994 17:45:46 -0700
+
+Title: Random Ising Spins in Two Dimensions - A Flat Space Realization of the
+  KPZ Exponents
+Authors: Marco Vekic, Shao Liu, and Herbert W. Hamber
+Comments: RevTeX 3.0, 17 pages + 15 postscript figures available upon request,
+  CERN-TH-7355/94
+Journal-ref: Phys.Rev. D51 (1995) 4287-4294
+\\
+  A model describing Ising spins with short range interactions moving randomly
+in a plane is considered. In the presence of a hard core repulsion, which
+prevents the Ising spins from overlapping, the model is analogous to a
+dynamically triangulated Ising model with spins constrained to move on a flat
+surface. As a function of coupling strength and hard core repulsion the model
+exhibits multicritical behavior, with first and second order transition lines
+terminating at a tricritical point. The thermal and magnetic exponents computed
+at the tricritical point are consistent with the KPZ values associated with
+Ising spins, and with the exact two-matrix model solution of the random Ising
+model, introduced previously to describe the effects of fluctuating geometries.
+\\

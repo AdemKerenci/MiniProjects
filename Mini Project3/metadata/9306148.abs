@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306148
+From: Anton K Rebhan <rebhana@HRZ.Uni-Bielefeld.DE>
+Date: Mon, 28 Jun 93 15:51:01 MESZ   (10kb)
+
+Title: Thermal Green's Functions from Quantum Mechanical Path Integrals II:
+  Inclusion of Fermions
+Authors: D G C McKeon and a K Rebhan
+Comments: 12 pp, requires REVTEX 3.0, BI-TP 93/25
+Journal-ref: Phys.Rev. D49 (1994) 1047-1053
+\\
+  In a previous paper we have shown how, for bosonic fields, the generating
+functional in both relativistic quantum field theory and thermal field theory
+can be evaluated by use of a standard quantum mechanical path integral. In this
+paper we extend this method to include fermionic fields. A particular problem
+is posed by Green's functions with external fermionic lines, where the
+different boundary conditions of bosons and fermions in imaginary time have to
+be accommodated within one path integral expression. The general procedure is
+worked out in the example of scalar and spinor self-energies in a simple model
+with a Yukawa coupling of a scalar to a Majorana spinor.
+\\

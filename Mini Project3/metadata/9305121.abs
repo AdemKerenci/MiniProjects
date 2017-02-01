@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9305121
+From: nestr@theor.jinrc.dubna.su ( )
+Date: Mon, 24 May 93 19:54:38 +0300 (MSD)   (11kb)
+
+Title: Classical dynamics of rigid string from Willmore functional
+Authors: A.L. Kholodenko and V.V. Nesterenko
+Comments: 13 pp, LaTeX, JINR preprint E2-93-181
+Journal-ref: J. Geom. Phys. 16 (1995) 15
+\\
+  A new approach for investigating the classical dynamics of the relativistic
+string model with rigidity is proposed. It is based on the embedding of the
+string world surface into the space of a constant curvature. It is shown that
+the rigid string in flat space-time is described by the Euler-Lagrange equation
+for the Willmore functional in a space-time of the constant curvature K=-g/(2
+a), where g and a are constants in front of the Nambu-Goto term and the
+curvature term in the rigid string action respectively. For simplicity the
+Euclidean version of the rigid string in the three-dimensional space-time is
+considered. The Willmore functional (the action for the "Willmore string") is
+obtained by dropping the Nambu-Goto term in the Polyakov-Kleinert action for
+the rigid string. Such "reduction" of the rigid string model would be useful,
+for example, by applying some results about the Numbu-Goto string dynamics in
+the de Sitter universe to the rigid string model in the Minkowski space-time.
+It allows also to use numerous mathematical results about the Willmore surfaces
+in the context of the physical problem.
+\\

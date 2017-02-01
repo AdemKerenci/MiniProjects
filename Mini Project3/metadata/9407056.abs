@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9407056
+From: Robert Perry <perry@pacific.mps.ohio-state.edu>
+Date: Mon, 11 Jul 94 14:27:51 EDT   (71kb)
+Date (revised): Tue, 8 Jul 1997 22:21:02 -0400 (EDT)
+
+Title: Hamiltonian Light-Front Field Theory and Quantum Chromodynamics
+Author: Robert J. Perry (The Ohio State University)
+Comments: corrected version of 1994 lectures, 84 pages, LATEX. Published in
+  "Hadron Physics 94," Proceedings, Gramado, Brazil (World Scientific, 1995)
+\\
+  Light-front coordinates offer a scenario in which a constituent picture of
+hadron structure can emerge from QCD, after several difficulties are addressed.
+Field theoretic difficulties force us to introduce cutoffs that violate Lorentz
+covariance and gauge invariance, and a new renormalization group formalism
+based on a similarity transformation is used with coupling coherence to fix
+cuonterterms that restore these symmetries. The counterterms contain functions
+of longitudinal momentum fractions that severely complicate renormalization,
+but they also offer possible resolutions of apparent contradictions between the
+constituent picture and QCD. The similarity transformation and coupling
+coherence are applied to QED; and it is shown that the resultant Hamiltonian
+leads to standard lowest order bound state results, with the Coulomb
+interaction emerging naturally. The same techniques are applied to QCD and with
+physically motivated assumptions it is shown that a simple confinement
+mechanism appears.
+\\

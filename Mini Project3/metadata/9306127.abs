@@ -1,0 +1,34 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306127
+From: harnad@mathcn.umontreal.ca (Harnad John)
+Date: Thu, 24 Jun 1993 20:34:17 -0400 (EDT)   (36kb)
+
+Title: Isospectral Flow and Liouville-Arnold Integration in Loop Algebras
+Author: John Harnad
+Comments: 42 pages, 2 Figures, 1 Table. Lectures presented at the VIIIth
+  Scheveningen Conference, held at Wassenaar, the Netherlands, Aug. 16-21, 1992
+Subj-class: High Energy Physics - Theory; Exactly Solvable and Integrable
+  Systems
+Journal-ref: Springer Lecture Notes in Physics 424, 1-42 (1993),
+  Springer-Verlag, N.Y., Heidelberg, ed. G. Helminck
+\\
+  A number of examples of Hamiltonian systems that are integrable by classical
+means are cast within the framework of isospectral flows in loop algebras.
+These include: the Neumann oscillator, the cubically nonlinear Schr\"odinger
+systems and the sine-Gordon equation. Each system has an associated invariant
+spectral curve and may be integrated via the Liouville-Arnold technique. The
+linearizing map is the Abel map to the associated Jacobi variety, which is
+deduced through separation of variables in hyperellipsoidal coordinates. More
+generally, a family of moment maps is derived, identifying certain finite
+dimensional symplectic manifolds with rational coadjoint orbits of loop
+algebras. Integrable Hamiltonians are obtained by restriction of elements of
+the ring of spectral invariants to the image of these moment maps. The
+isospectral property follows from the Adler-Kostant-Symes theorem, and gives
+rise to invariant spectral curves. {\it Spectral Darboux coordinates} are
+introduced on rational coadjoint orbits, generalizing the hyperellipsoidal
+coordinates to higher rank cases. Applying the Liouville-Arnold integration
+technique, the Liouville generating function is expressed in completely
+separated form as an abelian integral, implying the Abel map linearization in
+the general case.
+\\

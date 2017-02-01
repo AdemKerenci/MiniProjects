@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9311042
+From: dmrrsn@math.duke.edu (David R. Morrison)
+Date: Sun, 7 Nov 93 23:00:47 EST   (67kb)
+
+Title: Measuring Small Distances in N=2 Sigma Models
+Authors: Paul S. Aspinwall, Brian R. Greene, and David R. Morrison
+Comments: 62 pp. with 6 figs., LaTeX and epsf.tex
+Report-no: IASSNS-HEP-93/49
+Subj-class: High Energy Physics - Theory; Algebraic Geometry
+Journal-ref: Nucl.Phys. B420 (1994) 184-242
+\\
+  We analyze global aspects of the moduli space of K\"ahler forms for $N$=(2,2)
+conformal $\sigma$-models. Using algebraic methods and mirror symmetry we study
+extensions of the mathematical notion of length (as specified by a K\"ahler
+structure) to conformal field theory and calculate the way in which lengths
+change as the moduli fields are varied along distinguished paths in the moduli
+space. We find strong evidence supporting the notion that, in the robust
+setting of quantum Calabi-Yau moduli space, string theory restricts the set of
+possible K\"ahler forms by enforcing ``minimal length'' scales, provided that
+topology change is properly taken into account. Some lengths, however, may
+shrink to zero. We also compare stringy geometry to classical general
+relativity in this context.
+\\

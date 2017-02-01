@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9212024
+From: Alex Kovner <kovner@pion.lanl.gov>
+Date: Thu, 3 Dec 92 12:43:19 -0700   (26kb)
+
+Title: Quarks as topological defects or what is confined inside a hadron?
+Authors: A. Kovner and B. Rosenstein
+Comments: 45 pages, 1 figure available on request
+Report-no: UBCTP 92-009
+Journal-ref: Int. J. Mod. Phys. A8 (1993) 5575
+\\
+  We present a picture of confinement based on representation of quarks as
+pointlike topological defects. The topological charge carried by quarks and
+confined in hadrons is explicitly constructed in terms of Yang - Mills
+variables. In 2+1 dimensions we are able to construct a local complex scalar
+field $V(x)$, in terms of whichthe topological charge is $Q=-\frac{i}{4\pi}\int
+d^2x \epsilon_{ij}\partial_i(V^*\partial_i V -c.c.)$. The VEV of the field $V$
+in the confining phase is nonzero and the charge is the winding number
+corresponding to homotopy group $\pi_1(S^1)$. Qurks carry the charge $Q$ and
+therefore are topological solitons. The effective Lagrangian for $V$ is derived
+in models with adjoint and fundamental quarks. In 3+1 dimensions the explicit
+expression for $V$ and therefore a detailed picture is not available. However,
+assuming the validity of the same mechanism wepoint out several interesting
+qualitative consequences. We argue that in the Georgi - Glashow model or any
+grand unified model the photon (in the Higgs phase) should have a small
+nonperturbative mass and $W^\pm$ should be confined although with small string
+tension.
+\\

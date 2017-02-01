@@ -1,0 +1,28 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9304053
+From: ZWIEBACH@PIERRE.MIT.EDU
+Date: Tue, 13 Apr 1993 13:40:08 -0400 (EDT)   (40kb)
+
+Title: Connections on the State-Space over Conformal Field Theories
+Authors: K. Ranganathan, H. Sonoda, and B. Zwiebach
+Comments: 54pp. MIT-CTP-2193
+Journal-ref: Nucl.Phys. B414 (1994) 405-460
+\\
+  Motivated by the problem of background independence of closed string field
+theory we study geometry on the infinite vector bundle of local fields over the
+space of conformal field theories (CFT's). With any connection we can associate
+an excluded domain $D$ for the integral of marginal operators, and an operator
+one-form $\omega_\mu$. The pair $(D, \omega_\mu)$ determines the covariant
+derivative of any correlator of local fields. We obtain interesting classes of
+connections in which $\omega_\mu$'s can be written in terms of CFT data. For
+these connections we compute their curvatures in terms of four-point
+correlators, $D$, and $\omega_\mu$. Among these connections three are of
+particular interest. A flat, metric compatible connection $\HG$, and
+connections $c$ and $\bar c$ having non-vanishing curvature, with $\bar c$
+being metric compatible. The flat connection cannot be used to do parallel
+transport over a finite distance. Parallel transport with either $c$ or $\bar
+c$, however, allows us to construct a CFT in the state space of another CFT a
+finite distance away. The construction is given in the form of perturbation
+theory manifestly free of divergences.
+\\

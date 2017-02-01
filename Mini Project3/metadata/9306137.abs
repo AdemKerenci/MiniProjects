@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9306137
+From: Fedor Malikov <malikov@kusm.kyoto-u.ac.jp>
+Date: Sat, 26 Jun 93 09:17:08 JST   (42kb)
+
+Title: Integral Intertwining Operators and Complex Powers of Differential
+  ($q-$Difference) Operators
+Author: Boris Feigin and Feodor Malikov
+Comments: 50 pages
+Report-no: RIMS-894
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  We study a family of modules over Kac-Moody algebras realized in multi-valued
+functions on a flag manifold and find integral representations for intertwining
+operators acting on these modules. These intertwiners are related to some
+expressions involving complex powers of Lie algebra generators.
+  When applied to affine Lie algebras, these expressions give integral formulas
+for correlation functions with values in not necessarily highest weight
+modules.
+  We write related formulas out in an explicit form in the case of
+$\hat{\gtsl_{2}}$. The latter formulas admit q-deformation producing an
+integral representation of q-correlation functions. We also discuss a relation
+of complex powers of Lie algebra (quantum group) generators and Casimir
+operators to ($q-$)special functions.
+\\
